@@ -1,0 +1,2003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0" xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd">
+  <metadata>
+    <titolo>Pubblicazione 1 Legge 190/2012</titolo>
+    <abstract>Pubblicazione legge 190 anno 1 rif. 2010 aggiornamento del 2020-01-31 15:06:40</abstract>
+    <dataPubblicazioneDataset>2022-02-14</dataPubblicazioneDataset>
+    <entePubblicatore>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2022-02-14</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2021</annoRiferimento>
+    <urlFile>https://omceo-to.itcloud.it/index.php/s/XyaE65QpMXE4Azr</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>Z7C2FECEAD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>fornitura e installazione valvola termostatica su refrigeratore climaveneta</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>07127560014</codiceFiscale>
+          <ragioneSociale>E.CO. service di Pampinella G</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>07127560014</codiceFiscale>
+          <ragioneSociale>E.CO. service di Pampinella G</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1464.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2020-12-22</dataInizio>
+        <dataUltimazione>2021-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1464.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z923062452</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Ricerca perdite refrigeratore Climaveneta</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>12603080016</codiceFiscale>
+          <ragioneSociale>E.CO.SERVICE PAMPINELLA SRL Unipersonale	</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>12603080016</codiceFiscale>
+          <ragioneSociale>E.CO.SERVICE PAMPINELLA SRL Unipersonale	</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>480.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-01-27</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>585.60</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7B3081CF2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Conferimento incarico di Presidente del Collegio dei Revisori dei Conti quadriennio di mandato 2021-2024</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>05366320017</codiceFiscale>
+          <ragioneSociale>Tonini Maurizio</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>05366320017</codiceFiscale>
+          <ragioneSociale>Tonini Maurizio</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>24000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-02-04</dataInizio>
+        <dataUltimazione>2024-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6412.80</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE83032E11</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>servizio di consulenza del lavoro</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01332241007</codiceFiscale>
+          <ragioneSociale>CONSADIR S.t.p. a r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01332241007</codiceFiscale>
+          <ragioneSociale>CONSADIR S.t.p. a r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>16000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-01-15</dataInizio>
+        <dataUltimazione>2022-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>11554.40</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1C30CA8A6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Abbonamento rassegna stampa quotidiani e periodici edizione locale e nazionale</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>12429940013</codiceFiscale>
+          <ragioneSociale>DUEPUNTI S.A.S. DI SIMONETTA CARBONE E C.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>12429940013</codiceFiscale>
+          <ragioneSociale>DUEPUNTI S.A.S. DI SIMONETTA CARBONE E C.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-02-25</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4650.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB8311E7C7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Rimozione elettropompe sommerse, fornitura e installazione nuova elettropompa rilancio acque reflue</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>10920400016</codiceFiscale>
+          <ragioneSociale>TARASCONI S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>10920400016</codiceFiscale>
+          <ragioneSociale>TARASCONI S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3900.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-03-24</dataInizio>
+        <dataUltimazione>2021-03-24</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3900.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8A317632D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Buoni ricreativi culturali</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>11005760159</codiceFiscale>
+          <ragioneSociale>DECATHLON ITALIA SRL	</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>11005760159</codiceFiscale>
+          <ragioneSociale>DECATHLON ITALIA SRL	</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1270.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-04-22</dataInizio>
+        <dataUltimazione>2021-04-22</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1257.30</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3A3178776</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura carta per stampante ed etichette autoadesive</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>07888140014</codiceFiscale>
+          <ragioneSociale>CARTA &amp; INCHIOSTRO S.A.S.	</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>07888140014</codiceFiscale>
+          <ragioneSociale>CARTA &amp; INCHIOSTRO S.A.S.	</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>560.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-04-22</dataInizio>
+        <dataUltimazione>2021-05-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>560.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z2B33A132B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Abbonamento server cloud per software gestionali, fornitura software questionari e indagini, implementazione accesso con spid</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00317370773</codiceFiscale>
+          <ragioneSociale>Cooperative EDP La Traccia</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00317370773</codiceFiscale>
+          <ragioneSociale>Cooperative EDP La Traccia</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>25000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-10-26</dataInizio>
+        <dataUltimazione>2024-02-28</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6500.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5D3346EB0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA N. 2 ROLLUP, PROGETTAZIONE GRAFICA E STAMPA N. 2 TELI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>05999560013</codiceFiscale>
+          <ragioneSociale>TIPOGRAFIA COMMERCIALE S.R.L. </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>05999560013</codiceFiscale>
+          <ragioneSociale>TIPOGRAFIA COMMERCIALE S.R.L. </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>150.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-10-01</dataInizio>
+        <dataUltimazione>2021-10-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>150.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5232F579F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura UPS, monitor, tastiere e mouse</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01193630520</codiceFiscale>
+          <ragioneSociale>STUDIO DI INFORMATICA DELLA RCR MAINT DI ROSI V. E RAVENNI D. SNC </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01193630520</codiceFiscale>
+          <ragioneSociale>STUDIO DI INFORMATICA DELLA RCR MAINT DI ROSI V. E RAVENNI D. SNC </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1150.78</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-09-07</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1105.10</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9A32EE5AF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Corsi di formazione per il personale</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01784630814</codiceFiscale>
+          <ragioneSociale>FORMEL S.R.L. </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01784630814</codiceFiscale>
+          <ragioneSociale>FORMEL S.R.L. </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1400.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-09-06</dataInizio>
+        <dataUltimazione>2021-09-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1400.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF73206534</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>fornitura e sostituzione neon e starter</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>11285890015</codiceFiscale>
+          <ragioneSociale>TOP SECURITY S.A.S. di Pellegrino Claudio &amp; C. </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>11285890015</codiceFiscale>
+          <ragioneSociale>TOP SECURITY S.A.S. di Pellegrino Claudio &amp; C. </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>235.75</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-06-07</dataInizio>
+        <dataUltimazione>2021-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>235.75</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z183343EAD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura e posa in opera di n. 2 tendoni oscuranti con mantovane e struttura a pacchetto</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>10731500012</codiceFiscale>
+          <ragioneSociale>DE VENEZIA S.N.C. DI CIMA MASSIMO CARLO &amp; C</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>10731500012</codiceFiscale>
+          <ragioneSociale>DE VENEZIA S.N.C. DI CIMA MASSIMO CARLO &amp; C</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1670.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-09-30</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1670.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD2262B170</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Procedura negoziata di affidamento diretto ex art.36 del Codice dei Contratti per l&apos;acquisizione di un sistema integrato dei servizi informatici dell&apos;OMCeO</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00317370773</codiceFiscale>
+          <ragioneSociale>COOPERATIVA E.D.P. LA TRACCIA </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00317370773</codiceFiscale>
+          <ragioneSociale>COOPERATIVA E.D.P. LA TRACCIA </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>62000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2018-04-12</dataInizio>
+        <dataUltimazione>2024-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>42450.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z892D1DB7A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di linea telefonica ISDN</oggetto>
+      <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00488410010</codiceFiscale>
+          <ragioneSociale>TELECOM ITALIA SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00488410010</codiceFiscale>
+          <ragioneSociale>TELECOM ITALIA SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1980.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2020-05-26</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2632.30</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z512E33C75</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Formazione e aggiornamento professionale dipendenti</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>05383391009</codiceFiscale>
+          <ragioneSociale>Legislazione tecnica srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>05383391009</codiceFiscale>
+          <ragioneSociale>Legislazione tecnica srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2020-09-08</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>228.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBF2D320D7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>generazione avvisi Pago PA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00317370773</codiceFiscale>
+          <ragioneSociale>COOPERATIVA E.D.P. LA TRACCIA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00317370773</codiceFiscale>
+          <ragioneSociale>COOPERATIVA E.D.P. LA TRACCIA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>12000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2020-06-03</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>9944.40</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z462BA90D6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>servizi di recapito corrispondenza e notifiche</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01114601006</codiceFiscale>
+          <ragioneSociale>Poste Italiane spa</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01114601006</codiceFiscale>
+          <ragioneSociale>Poste Italiane spa</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2020-01-21</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>548.30</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA22BED171</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Abbonamento servizio di rassegna stampa e monitoraggio audiovisivo</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>08164890017</codiceFiscale>
+          <ragioneSociale>Carbone Simonetta</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>08164890017</codiceFiscale>
+          <ragioneSociale>Carbone Simonetta</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4538.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2020-02-06</dataInizio>
+        <dataUltimazione>2021-02-28</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3538.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z272D3D189</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Consulenza RSPP</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02475860645</codiceFiscale>
+          <ragioneSociale>Michele Buonanno</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02475860645</codiceFiscale>
+          <ragioneSociale>Michele Buonanno</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2020-06-08</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZCE30A2274</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Revisione e riparazione refrigeratori e gruppi ventilatori</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>12603080016</codiceFiscale>
+          <ragioneSociale>E.CO.SERVICE PAMPINELLA SRL Unipersonale</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>12603080016</codiceFiscale>
+          <ragioneSociale>E.CO.SERVICE PAMPINELLA SRL Unipersonale</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>6000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-02-15</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5868.20</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0130DA728</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura plastificatrice</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01916890690</codiceFiscale>
+          <ragioneSociale>DECART S.R.L.	</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01916890690</codiceFiscale>
+          <ragioneSociale>DECART S.R.L.	</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>191.75</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-03-02</dataInizio>
+        <dataUltimazione>2021-03-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>191.75</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0D30E95B4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura classificatori in metallo per archivio</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>07491520156</codiceFiscale>
+          <ragioneSociale>Mondoffice S.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>07491520156</codiceFiscale>
+          <ragioneSociale>Mondoffice S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>636.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-03-08</dataInizio>
+        <dataUltimazione>2021-03-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>636.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA93113340</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Intervento su sistema illuminazione interno ed esterno e ripristino linee alimentazioni</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>07034990015</codiceFiscale>
+          <ragioneSociale>IEBM DI BOSCO MARCO	</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>07034990015</codiceFiscale>
+          <ragioneSociale>IEBM DI BOSCO MARCO	</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>450.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-03-19</dataInizio>
+        <dataUltimazione>2021-03-19</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>450.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC13191C81</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>creazione caselle di posta elettronica certificata</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01181630771</codiceFiscale>
+          <ragioneSociale>GRAMMA SERVIZI E RISCOSSIONI DI DOMENICO TARATUFOLO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01181630771</codiceFiscale>
+          <ragioneSociale>GRAMMA SERVIZI E RISCOSSIONI DI DOMENICO TARATUFOLO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-04-30</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6355.20</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z293191EAD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Stampa, imbustamento e spedizione comunicazioni agli iscritti</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01181630771</codiceFiscale>
+          <ragioneSociale>GRAMMA SERVIZI E RISCOSSIONI DI DOMENICO TARATUFOLO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01181630771</codiceFiscale>
+          <ragioneSociale>GRAMMA SERVIZI E RISCOSSIONI DI DOMENICO TARATUFOLO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-04-30</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>9198.41</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4331B76DE</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura medaglie in oro giallo per premiazione 50 anni laurea</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>08474810010</codiceFiscale>
+          <ragioneSociale>LOMBARDI EVASIO	</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>08474810010</codiceFiscale>
+          <ragioneSociale>LOMBARDI EVASIO	</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2100.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-05-13</dataInizio>
+        <dataUltimazione>2021-05-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2100.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9B31DADC4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>FORMAZIONE E WORKSHOP DI SCRITTURA RIPARATIVA DARE PAROLA AL DOLORE</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>DGNFNC64T49B429V</codiceFiscale>
+          <ragioneSociale>DI GANGI FRANCESCA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>DGNFNC64T49B429V</codiceFiscale>
+          <ragioneSociale>DI GANGI FRANCESCA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3120.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-05-24</dataInizio>
+        <dataUltimazione>2021-05-24</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1248.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA831DDB6E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura estensione licenza webinar video zoom fino a 500 partecipanti per corsi ECM a distanza</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>07785971008</codiceFiscale>
+          <ragioneSociale>SIGMA SERVICE SRL	</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>07785971008</codiceFiscale>
+          <ragioneSociale>SIGMA SERVICE SRL	</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1299.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-05-25</dataInizio>
+        <dataUltimazione>2021-05-25</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1299.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z843221FC6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>fornitura materiale cancelleria</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04864781002</codiceFiscale>
+          <ragioneSociale>CARTO COPY SERVICE SRL	</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04864781002</codiceFiscale>
+          <ragioneSociale>CARTO COPY SERVICE SRL	</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>404.21</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-06-15</dataInizio>
+        <dataUltimazione>2021-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>404.21</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0332BD6C5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA N. 5 TONER PER STAMPANTI MULTIFUNZIONE LASER LEXMARK</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03242680829</codiceFiscale>
+          <ragioneSociale>LINEA DATA SRL	</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03242680829</codiceFiscale>
+          <ragioneSociale>LINEA DATA SRL	</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>772.90</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-08-10</dataInizio>
+        <dataUltimazione>2021-09-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>772.90</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3632BE484</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura Piattaforma Elevatrice Carrellata 150 kg per movimentazione carichi</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02654570981</codiceFiscale>
+          <ragioneSociale>CARRELLI.IT S.r.l. </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02654570981</codiceFiscale>
+          <ragioneSociale>CARRELLI.IT S.r.l. </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>400.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-08-10</dataInizio>
+        <dataUltimazione>2021-08-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>400.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0232CF3D1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>generazione avvisi Pago PA</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti/>
+      <aggiudicatari/>
+      <importoAggiudicazione>12000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-08-23</dataInizio>
+        <dataUltimazione>2022-08-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>8955.60</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB132551D9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Controllo periodico e manutenzione dotazioni antincendio</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>11285890015</codiceFiscale>
+          <ragioneSociale>TOP SECURITY S.A.S. di Pellegrino Claudio &amp; C. </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>11285890015</codiceFiscale>
+          <ragioneSociale>TOP SECURITY S.A.S. di Pellegrino Claudio &amp; C. </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-07-01</dataInizio>
+        <dataUltimazione>2022-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1390.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB8336088A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>fornitura  targhe per porte uffici amministrativi</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>09649270015</codiceFiscale>
+          <ragioneSociale>ATHA OFFICE s.a.s. di Mietta G. &amp; C. </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>09649270015</codiceFiscale>
+          <ragioneSociale>ATHA OFFICE s.a.s. di Mietta G. &amp; C. </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>251.37</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-10-08</dataInizio>
+        <dataUltimazione>2021-10-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>251.37</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZCA3430251</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Noleggio conference system e videoproiettore per evento del 4.12.2021</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>07213970010</codiceFiscale>
+          <ragioneSociale>B.P.C. SRL Battiston Professional Congress </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>07213970010</codiceFiscale>
+          <ragioneSociale>B.P.C. SRL Battiston Professional Congress </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>480.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-12-01</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>480.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD6334C82B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Restyling sito istituzionale omceo-to.it</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>09476090015</codiceFiscale>
+          <ragioneSociale>CREATIWEB SRL </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>09476090015</codiceFiscale>
+          <ragioneSociale>CREATIWEB SRL </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10900.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-10-04</dataInizio>
+        <dataUltimazione>2022-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3270.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA42CE83F1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>servizi di telefonia mobile e servizi connessi in convenzione Consip</oggetto>
+      <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00488410010</codiceFiscale>
+          <ragioneSociale>TELECOM ITALIA SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00488410010</codiceFiscale>
+          <ragioneSociale>TELECOM ITALIA SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>300.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2020-05-07</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>415.07</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z882FE3CE1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura licenze per piattaforma cisco webex meetings</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03038510123</codiceFiscale>
+          <ragioneSociale>ITCore Business Group Srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03038510123</codiceFiscale>
+          <ragioneSociale>ITCore Business Group Srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>700.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2020-12-18</dataInizio>
+        <dataUltimazione>2021-12-18</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>700.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC63057907</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Formazione e aggiornamento professionale dei dipendenti</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>05383391009</codiceFiscale>
+          <ragioneSociale>Legislazione Tecnica srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>05383391009</codiceFiscale>
+          <ragioneSociale>Legislazione Tecnica srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1795.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-01-25</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1795.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8B2ADB55F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>attivazione nuovo servizio di posta elettronica certificata</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01181630771</codiceFiscale>
+          <ragioneSociale>GRAMMA SERVIZI E RISCOSSIONI DI DOMENICO TARATUFOLO </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01181630771</codiceFiscale>
+          <ragioneSociale>GRAMMA SERVIZI E RISCOSSIONI DI DOMENICO TARATUFOLO </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2019-11-27</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8C30783AC</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>fornitura e installazione apparecchiature per webconference in sala conferenze</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>07213970010</codiceFiscale>
+          <ragioneSociale>B.P.C. SRL Battiston Professional Congress	</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>07213970010</codiceFiscale>
+          <ragioneSociale>B.P.C. SRL Battiston Professional Congress	</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-02-02</dataInizio>
+        <dataUltimazione>2021-02-02</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1500.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9430C6110</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura paretina divisoria in plexiglass</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>11285890015</codiceFiscale>
+          <ragioneSociale>TOP SECURITY S.A.S. di Pellegrino Claudio &amp; C.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>11285890015</codiceFiscale>
+          <ragioneSociale>TOP SECURITY S.A.S. di Pellegrino Claudio &amp; C.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>404.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-02-24</dataInizio>
+        <dataUltimazione>2021-03-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>404.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZAA30D5830</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Lavori di aspirazione fosse biologiche e lavaggio tubi di scarico</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>09973780019</codiceFiscale>
+          <ragioneSociale>TUGNOLO A. SERVIZI PER L&apos;AMBIENTE SRL	2</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>09973780019</codiceFiscale>
+          <ragioneSociale>TUGNOLO A. SERVIZI PER L&apos;AMBIENTE SRL	2</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1100.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-03-01</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>550.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9E30D7C2C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura n. 1 licenza zoom pro e webinar video zoom per corsi ECM a distanza</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>07785971008</codiceFiscale>
+          <ragioneSociale>SIGMA SERVICE SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>07785971008</codiceFiscale>
+          <ragioneSociale>SIGMA SERVICE SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>509.88</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-03-02</dataInizio>
+        <dataUltimazione>2022-03-02</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>509.88</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF3317C12B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Buoni ricreativi culturali anno 2020</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02630120166</codiceFiscale>
+          <ragioneSociale>MEDIAMARKET S.P.A. CON SOCIO UNICO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02630120166</codiceFiscale>
+          <ragioneSociale>MEDIAMARKET S.P.A. CON SOCIO UNICO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4636.18</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-04-23</dataInizio>
+        <dataUltimazione>2021-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4636.18</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZAA3296C01</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura cartelline per fascicolo personale iscritti albi professionali</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>05999560013</codiceFiscale>
+          <ragioneSociale>TIPOGRAFIA COMMERCIALE S.R.L.	</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>05999560013</codiceFiscale>
+          <ragioneSociale>TIPOGRAFIA COMMERCIALE S.R.L.	</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-07-26</dataInizio>
+        <dataUltimazione>2021-08-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z08323ACC7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Revisione e controllo impianti refrigeratori e gruppi ventilatori</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>12603080016</codiceFiscale>
+          <ragioneSociale>E.CO.SERVICE PAMPINELLA SRL Unipersonale </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>12603080016</codiceFiscale>
+          <ragioneSociale>E.CO.SERVICE PAMPINELLA SRL Unipersonale </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3100.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-06-23</dataInizio>
+        <dataUltimazione>2022-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1891.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z2A3236B6D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura 1000 penne a sfera con logo e 100 memorie usb 8gb con logo</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>08145290014</codiceFiscale>
+          <ragioneSociale>GDG ARTI GRAFICHE SNC DI PERFETTO G.&amp;.C. </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>08145290014</codiceFiscale>
+          <ragioneSociale>GDG ARTI GRAFICHE SNC DI PERFETTO G.&amp;.C. </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1040.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-06-22</dataInizio>
+        <dataUltimazione>2021-07-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1040.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB430BC302</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Abbonamento annuale alle risorse EBM Dynamed + Dentistry &amp; Oral Sciences Source</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>11164410018</codiceFiscale>
+          <ragioneSociale>EBSCO INFORMATION SERVICES SRL	1</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>11164410018</codiceFiscale>
+          <ragioneSociale>EBSCO INFORMATION SERVICES SRL	1</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>39999.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-02-22</dataInizio>
+        <dataUltimazione>2021-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>41500.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBC2E9E0FF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura sistemi hardware integrati per web conference</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>08369100014</codiceFiscale>
+          <ragioneSociale>Midhgard srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>08369100014</codiceFiscale>
+          <ragioneSociale>Midhgard srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>11000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2020-10-05</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>7815.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z132E9E282</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura stampante multifunzione di rete con accessori finitura e fascicolatori</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03738170012</codiceFiscale>
+          <ragioneSociale>AGGA SRL	</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03738170012</codiceFiscale>
+          <ragioneSociale>AGGA SRL	</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2020-10-05</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>8368.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z162EACEA1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura acqua in boccione</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03792180980</codiceFiscale>
+          <ragioneSociale>Acquaviva S.R.L. Unipersonale</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03792180980</codiceFiscale>
+          <ragioneSociale>Acquaviva S.R.L. Unipersonale</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2020-10-08</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>884.20</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6A30D354A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Attività giornalistica di ufficio stampa e comunicazione istituzionale su sito e social media</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>12417130015</codiceFiscale>
+          <ragioneSociale>GATTA ANDREA SIMONE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>12417130015</codiceFiscale>
+          <ragioneSociale>GATTA ANDREA SIMONE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>25000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-03-01</dataInizio>
+        <dataUltimazione>2022-03-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>21937.13</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z62304D0E3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura n. 2 notebook</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>10209790152</codiceFiscale>
+          <ragioneSociale>Frangi srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>10209790152</codiceFiscale>
+          <ragioneSociale>Frangi srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-01-21</dataInizio>
+        <dataUltimazione>2021-01-21</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1200.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB332BBEA2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Assistenza pc client, gestione server dati e posta elettronica, servizi cloud file sharing</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>08369100014</codiceFiscale>
+          <ragioneSociale>MIDHGARD SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>08369100014</codiceFiscale>
+          <ragioneSociale>MIDHGARD SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>12000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-08-09</dataInizio>
+        <dataUltimazione>2022-07-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>10738.80</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5F339468A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>cablaggio e integrazione componenti computer, audio e video e tavolo riunioni sala Consiglio</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>08369100014</codiceFiscale>
+          <ragioneSociale>MIDHGARD SRL	</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>08369100014</codiceFiscale>
+          <ragioneSociale>MIDHGARD SRL	</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1690.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-10-22</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1690.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA7317BD5A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura licenza adobe acrobat pro</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02048930206</codiceFiscale>
+          <ragioneSociale>KORA SISTEMI INFORMATICI S.R.L. unipersonale </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02048930206</codiceFiscale>
+          <ragioneSociale>KORA SISTEMI INFORMATICI S.R.L. unipersonale </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>566.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-04-23</dataInizio>
+        <dataUltimazione>2021-04-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>566.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z952E14723</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Consulenza professionale per attività di Responsabile della Protezione dei Dati personali (DPO)</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02658410044</codiceFiscale>
+          <ragioneSociale>Bianco Ingegneria s.r.l.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02658410044</codiceFiscale>
+          <ragioneSociale>Bianco Ingegneria s.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4800.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2020-08-27</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2400.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z862E9CD8A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Assistenza, consulenza informatica, gestione server e reti</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>08369100014</codiceFiscale>
+          <ragioneSociale>Midhgard srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>08369100014</codiceFiscale>
+          <ragioneSociale>Midhgard srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>9900.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2020-10-05</dataInizio>
+        <dataUltimazione>2021-10-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>9099.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9A2B806E0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>fornitura cancelleria per uffici</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>07491520156</codiceFiscale>
+          <ragioneSociale>Mondoffice srl</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>07491520156</codiceFiscale>
+          <ragioneSociale>Mondoffice srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2020-01-10</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>409.53</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE130BBC82</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura n. 1 notebook</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02611310307</codiceFiscale>
+          <ragioneSociale>NuvolaPoint di Flajs Alessandro	</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02611310307</codiceFiscale>
+          <ragioneSociale>NuvolaPoint di Flajs Alessandro	</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>928.20</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-02-22</dataInizio>
+        <dataUltimazione>2021-03-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>928.20</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6230C973D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>verifica e ripristino normale funzionamento gruppo elettrogeno di emergenza</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01925900043</codiceFiscale>
+          <ragioneSociale>GEMAP2 SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01925900043</codiceFiscale>
+          <ragioneSociale>GEMAP2 SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-02-25</dataInizio>
+        <dataUltimazione>2021-03-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>362.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5930F9194</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Consulenza in materia di gestione, aggiornamento e implementazioni sito web</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>09476090015</codiceFiscale>
+          <ragioneSociale>CREATIWEB SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>09476090015</codiceFiscale>
+          <ragioneSociale>CREATIWEB SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>5268.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-03-11</dataInizio>
+        <dataUltimazione>2022-03-11</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2268.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZFA314963F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Lavori sistemazione impianto elettrico sede</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>07034990015</codiceFiscale>
+          <ragioneSociale>IEBM DI BOSCO MARCO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>07034990015</codiceFiscale>
+          <ragioneSociale>IEBM DI BOSCO MARCO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4340.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-04-08</dataInizio>
+        <dataUltimazione>2021-04-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4340.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD132B63B1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio 3 linee telefoniche ISDN</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00488410010 </codiceFiscale>
+          <ragioneSociale>TIM S.P.A.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00488410010 </codiceFiscale>
+          <ragioneSociale>TIM S.P.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1980.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-08-05</dataInizio>
+        <dataUltimazione>2022-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>378.83</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3A32BBD65</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura acqua in boccione, assistenza e manutenzione erogatore</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03792180980</codiceFiscale>
+          <ragioneSociale>Acquaviva S.R.L. Unipersonale</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03792180980</codiceFiscale>
+          <ragioneSociale>Acquaviva S.R.L. Unipersonale</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1200.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-08-09</dataInizio>
+        <dataUltimazione>2022-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>733.70</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE433D8E46</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura arredi e postazioni per uffici amministrativi</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>11348220010</codiceFiscale>
+          <ragioneSociale>ARREDAMENTI TRAIANO S.A.S. DI PINARELLI ANDREA &amp; C. </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>11348220010</codiceFiscale>
+          <ragioneSociale>ARREDAMENTI TRAIANO S.A.S. DI PINARELLI ANDREA &amp; C. </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>6566.61</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-11-10</dataInizio>
+        <dataUltimazione>2022-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6566.60</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE73262966</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura lettore scrittore smart card NFC per tesserini e badge</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>12989501007</codiceFiscale>
+          <ragioneSociale>Gcard s.r.l. </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>12989501007</codiceFiscale>
+          <ragioneSociale>Gcard s.r.l. </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>147.40</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-06-22</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>147.40</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1D3264F1E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura n. 2 etichettatrici Dymo LabelWriter 450</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01486330309</codiceFiscale>
+          <ragioneSociale>DPS INFORMATICA SNC DI PRESELLO G.&amp; C. </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01486330309</codiceFiscale>
+          <ragioneSociale>DPS INFORMATICA SNC DI PRESELLO G.&amp; C. </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>225.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-07-07</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>225.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z2D341F38D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura licenze cisco webex per meeting e web conference</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03038510123</codiceFiscale>
+          <ragioneSociale>ITCore Business Gropu S.r.l. </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03038510123</codiceFiscale>
+          <ragioneSociale>ITCore Business Gropu S.r.l. </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>0.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-11-26</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>700.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z33324E55F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura catering light lunch evento consegna diplomi Master MEDPoS del 10.07.2021</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>08389560015</codiceFiscale>
+          <ragioneSociale>COOKIN FACTORY DI FRASCHINI CLAUDIA </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>08389560015</codiceFiscale>
+          <ragioneSociale>COOKIN FACTORY DI FRASCHINI CLAUDIA </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-06-30</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>687.50</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4C32238E1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>01111330013</codiceFiscaleProp>
+        <denominazione>ORDINE DEI MEDICI CHIRURGHI E DEGLI ODONTOIATRI DELLA PROVINCIA DI TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura appendiabili con portaombrelli</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00902270966</codiceFiscale>
+          <ragioneSociale>CENTRUFFICIO LORETO S.P.A. </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00902270966</codiceFiscale>
+          <ragioneSociale>CENTRUFFICIO LORETO S.P.A. </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>400.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-06-16</dataInizio>
+        <dataUltimazione>2021-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>399.75</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>
