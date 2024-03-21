@@ -1,0 +1,3982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0" xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd">
+  <metadata>
+    <titolo>Pubblicazione 1 legge 190</titolo>
+    <abstract>Pubblicazione 1 legge 190 anno 1 rif. 2023. Dal lotto 16751 al lotto 17000.</abstract>
+    <dataPubbicazioneDataset>2024-03-21</dataPubbicazioneDataset>
+    <entePubblicatore>Consiglio Nazionale delle Ricerche</entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2024-03-21</dataUltimoAggiornamentoDataset>
+    <annoRiferimento>2023</annoRiferimento>
+    <urlFile>http://www.cnr.it/trasparenza/bandi-gara-contratti/xml/2023/68/2023-page-68.xml</urlFile>
+    <licenza>IODL</licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig>Z5D392CE6B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Area di Ricerca PISA</denominazione>
+      </strutturaProponente>
+      <oggetto>Affidamento diretto per il Contratto di Noleggio INSPIREAIR 72 per il Covid 19 sito nell’Aula Riunioni dell’AdRPI - CIG_Z5D392CE6B</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03986581001</codiceFiscale>
+          <ragioneSociale>RENTOKIL INITIAL SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03986581001</codiceFiscale>
+          <ragioneSociale>Rentokil Initial Italia S.p.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>480.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>480.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6D39D99C5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>ASR -  Unità Pianificazione, Programmazione e Biblioteca Centrale</denominazione>
+      </strutturaProponente>
+      <oggetto>Stipula trattativa diretta su MEPA  (n. 3457033) per l'ingresso della Biblioteca dell’Istituto di Scienze e Tecnologie per l’Energia e la Mobilità Sostenibili nel Polo Bibliotecario Eve</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>14530051003</codiceFiscale>
+          <ragioneSociale>DM CULTURA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>14530051003</codiceFiscale>
+          <ragioneSociale>DM Cultura S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>500.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z38397A68B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Sistemi e Tecnologie Industriali Intelligenti per il Manifatturiero Avanzato - STIIMA (ex ITIA) Sede Secondaria Biella</denominazione>
+      </strutturaProponente>
+      <oggetto>Carl Zeiss SpA: contratto assistenza tecnica SEM - anno 2023 - CIG Z38397A68B</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00721920155</codiceFiscale>
+          <ragioneSociale>CARL ZEISS SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00721920155</codiceFiscale>
+          <ragioneSociale>CARL ZEISS SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>6648.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6648.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8F3A579F4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>ASR - Unità Editoria</denominazione>
+      </strutturaProponente>
+      <oggetto>ACQUISTO SERVIZIO DI REGISTRAZIONE CODICI DOI ANNO 2023</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03763520966</codiceFiscale>
+          <ragioneSociale>EDISER SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03763520966</codiceFiscale>
+          <ragioneSociale>Ediser s.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4900.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4900.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD43994626</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Area di Ricerca TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>IRMET - manutenzione 2023 presidi antincendio</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>07067740014</codiceFiscale>
+          <ragioneSociale>IRMET</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>07067740014</codiceFiscale>
+          <ragioneSociale>IRMET ANTINCENDI SAS di Bruscaini Roberto &amp; C.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>6517.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6517.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>9755719200</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>ASR -  Unità Pianificazione, Programmazione e Biblioteca Centrale</denominazione>
+      </strutturaProponente>
+      <oggetto>Rinnovo sottoscrizione elettronica centralizzata di un contratto Read &amp; Publish 2023 presso l’Editore ACS - American Chemical Society per l’anno 2023</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>000000</identificativoFiscaleEstero>
+          <ragioneSociale>ACS - AMERICAN CHEMICAL SOCIEY</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>000000000000</identificativoFiscaleEstero>
+          <ragioneSociale>American Chemical Society</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>175025.52</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>175023.44</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB03B8D550</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienza, Tecnologia e Sostenibilità per lo Sviluppo dei Materiali Ceramici - ISSMC (ex ISTEC)</denominazione>
+      </strutturaProponente>
+      <oggetto>Affidamento di un contratto di manutenzione biennale – anni 2023-2024 - per spettrofotometro UV-VIS-NIR Perkin Elmer, Lambda 750</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>10453490962</codiceFiscale>
+          <ragioneSociale>PERKINELMER SCIENTIFICA ITALIA SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>10453490962</codiceFiscale>
+          <ragioneSociale>PERKIN ELMER SCIENTIFICA ITALIA  S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>11600.02</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2024-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>11600.02</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>A00C940478</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>ASR -  Unità Pianificazione, Programmazione e Biblioteca Centrale</denominazione>
+      </strutturaProponente>
+      <oggetto>Sottoscrizione elettronica centralizzata di un contratto trasformativo Read &amp; Publish RSC - Royal Society of Chemistry direttamente con l'editore  per l'anno 2023</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>GB 342176471</identificativoFiscaleEstero>
+          <ragioneSociale>RSC - ROYAL SOCIETY OF CHEMISTRY</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>207890</identificativoFiscaleEstero>
+          <ragioneSociale>Royal Society of Chemistry</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>110785.66</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>108610.38</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZFA3C8683C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Sistemi e Tecnologie Industriali Intelligenti per il Manifatturiero Avanzato - STIIMA (ex ITIA) Sede Secondaria Bari</denominazione>
+      </strutturaProponente>
+      <oggetto>quote ordinarie condominiali 2023 LEMBO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>CRVSLV24P16C343T</codiceFiscale>
+          <ragioneSociale>CERVINI OSLAVIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>CRVSLV24P16C343T</codiceFiscale>
+          <ragioneSociale>CERVINI OSLAVIO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3108.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3108.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA838FBCB0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di informatica e telematica - IIT - Sede Pisa</denominazione>
+      </strutturaProponente>
+      <oggetto>Service Fee per LIR - Year 2023 (it.it-nic)</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>806268220B01</identificativoFiscaleEstero>
+          <ragioneSociale>RIPE NETWORK COORDINATION CENTRE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>806268220B01</identificativoFiscaleEstero>
+          <ragioneSociale>RIPE NETWORK COORDINATION CENTRE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1641.23</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1641.23</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0A38766C3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Area di Ricerca BOLOGNA</denominazione>
+      </strutturaProponente>
+      <oggetto>Manutenzione ordinaria UPS Tecnopolo anno 2023</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02647040233</codiceFiscale>
+          <ragioneSociale>RPS SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02647040233</codiceFiscale>
+          <ragioneSociale>RPS S.P.A. - Riello Power Solutions</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>730.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>730.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000000</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Area di Ricerca BOLOGNA</denominazione>
+      </strutturaProponente>
+      <oggetto>Quota UBO SBN anno 2023</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>80007010376</codiceFiscale>
+          <ragioneSociale>UNIBO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>80007010376</codiceFiscale>
+          <ragioneSociale>Alma Mater Studiorum - Universita' di Bologna, Tesoreria Provinciale dello Stato-Sezione di Bologna</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>500.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZAB3C2BB75</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienza, Tecnologia e Sostenibilità per lo Sviluppo dei Materiali Ceramici - ISSMC (ex ISTEC)</denominazione>
+      </strutturaProponente>
+      <oggetto>Affidamento diretto del rinnovo servizio di manutenzione biennale per n. 2 termoanalizzatori ed un dilatometro – contratto biennale
+su anni 2023 e 2024.</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03339280236</codiceFiscale>
+          <ragioneSociale>NETZSCH-GERÄTEBAU GMBH</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03339280236</codiceFiscale>
+          <ragioneSociale>Netzsch Geraetebau GmbH</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4900.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2024-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4900.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z703BF983D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>ASR -  Unità Pianificazione, Programmazione e Biblioteca Centrale</denominazione>
+      </strutturaProponente>
+      <oggetto>Stipula di un contratto di abbonamento elettronico alle riviste Scientific Net con  l'editore Trans Tech Publications Ltd per gli anni 2023 e 2024</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>CH 107.913.675</identificativoFiscaleEstero>
+          <ragioneSociale>TRANS TECH PUBLICATIONS LTD</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>MWST265430</identificativoFiscaleEstero>
+          <ragioneSociale>TRANS TECH PUBLICATIONS LTD</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10368.75</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2024-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1993.75</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZAD39A1161</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienze e Tecnologie per l'Energia e la Mobilità Sostenibili - STEMS - Sede Secondaria Torino</denominazione>
+      </strutturaProponente>
+      <oggetto>Affidamento diretto per rinnovo contratto connettività internet 
+su infrastruttura wireless</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01220170680</codiceFiscale>
+          <ragioneSociale>MICSO SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01220170680</codiceFiscale>
+          <ragioneSociale>MICSO S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>408.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>408.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC639A4247</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto Superconduttori, materiali innovativi e dispositivi - SPIN - Sede Genova</denominazione>
+      </strutturaProponente>
+      <oggetto>servizio di messa a disposizione bombole, rinnovo anno 2023, per nr. 4 bombole, acquistate dalla ditta Gasmarine Srl con ordine Prot.nr. 0002190 del 19/10/2020</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02548040993</codiceFiscale>
+          <ragioneSociale>GASMARINE SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02548040993</codiceFiscale>
+          <ragioneSociale>GASMARINE SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>230.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>230.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000000</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Area di Ricerca PALERMO</denominazione>
+      </strutturaProponente>
+      <oggetto>Tassa sui Rifiuti TARI anno 2023 _Numero Fascicolo TARI/S/11047192/2023</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>80016350821</codiceFiscale>
+          <ragioneSociale>COMUNE DI PALERMO - AREA DELLE ENTRATE COMUNALI SERVIZIO TARI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>80016350821</codiceFiscale>
+          <ragioneSociale>Comune di Palermo</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>49350.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>49098.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4739E6836</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienze e Tecnologie per l'Energia e la Mobilità Sostenibili - STEMS - Sede Secondaria Torino</denominazione>
+      </strutturaProponente>
+      <oggetto>Canone per la messa a disposizione bombole per Candiolo e Torino 2023</oggetto>
+      <sceltaContraente>AFFIDAMENTO DIRETTO </sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00209070168</codiceFiscale>
+          <ragioneSociale>S.I.A.D. SPA FILIALE DI SAN MAURO TORINESE -TO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00209070168</codiceFiscale>
+          <ragioneSociale>S.I.A.D. SPA Filiale di San Mauro Torinese -TO-</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>640.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE93D78A63</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienze e Tecnologie Chimiche "Giulio Natta" - SCITEC - Sede Milano</denominazione>
+      </strutturaProponente>
+      <oggetto>P238 ORD.117_2023 LGCA Quota associativa Scitec 2023 CIG ZE93D78A63 Iannace Istituto Progetto Gestionale Scitec </oggetto>
+      <sceltaContraente>AFFIDAMENTO DIRETTO </sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>97676070150</codiceFiscale>
+          <ragioneSociale>LGCA </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>97676070150</codiceFiscale>
+          <ragioneSociale>LOMBARDY GREEN CHEMISTRY ASSOCIATION</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>250.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>250.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000000</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Area della Ricerca di ROMA 1 - Montelibretti </denominazione>
+      </strutturaProponente>
+      <oggetto>Canone Attrav./Fianch./Altre O Dal 01.01.2023 al 31.12.2023; ANAS/7000000012911; Fognatura RMNW28132; Contratto Precedente RMNW28132; Tipo Utenza Fognatura; Numero Utenza 0010140</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>80208450587</codiceFiscale>
+          <ragioneSociale>ANAS SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>80208450587</codiceFiscale>
+          <ragioneSociale>ANAS S.p.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>345.71</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>345.71</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6D3D3B1E9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienze e Tecnologie per l'Energia e la Mobilità Sostenibili - STEMS - Sede Secondaria Torino</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di connettività internet su infrastruttura wireless per la sede sperimentaledi Vezzolano (36 mesi)</oggetto>
+      <sceltaContraente>AFFIDAMENTO DIRETTO </sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01220170680</codiceFiscale>
+          <ragioneSociale>MICSO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01220170680</codiceFiscale>
+          <ragioneSociale>MICSO S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1223.94</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2025-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>408.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z293DC91F5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>ASR - Ufficio Servizi Generali</denominazione>
+      </strutturaProponente>
+      <oggetto>Affidamento diretto, ai sensi dell’art. 50 comma 1 lett b) del D.lgs 
+36/2023, alla Soc. Infocamere S.p.A, dell’abbonamento annuale on-line Telemaco” per gli Uffici della Sede Centrale - conferma del servizio svolto per l’anno 2023</oggetto>
+      <sceltaContraente>AFFIDAMENTO DIRETTO </sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02313821007</codiceFiscale>
+          <ragioneSociale>INFOCAMERE S.P.A,</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02313821007</codiceFiscale>
+          <ragioneSociale>Infocamere Societa' Consortile di Informatica delle Camere di Commercio Italiane per azioni</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1100.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000000</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Area della Ricerca di ROMA 1 - Montelibretti </denominazione>
+      </strutturaProponente>
+      <oggetto> TASSA SMALTIMENTO RIFIUTI SOLIDI URBANI - TARI ANNO 2023</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02457650584</codiceFiscale>
+          <ragioneSociale>COMUNE DI MONTELIBRETTI_UFFICIO TRIBUTI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02457650584</codiceFiscale>
+          <ragioneSociale>COMUNE DI MONTELIBRETTI </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>22303.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA83CF78AB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Area della Ricerca di ROMA 1 - Montelibretti </denominazione>
+      </strutturaProponente>
+      <oggetto>Canone pubblicitario per il servizio di installazione di n. 2
+frecce segnaletiche dell’Area della Ricerca di Roma1 per
+il trienni 2023_2024_2025</oggetto>
+      <sceltaContraente>AFFIDAMENTO DIRETTO </sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04044301002</codiceFiscale>
+          <ragioneSociale>PUBBLISTUDIO SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04044301002</codiceFiscale>
+          <ragioneSociale>PUBBLISTUDIO SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1386.24</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2025-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>378.75</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000000</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto per la Sintesi Organica e la Fotoreattivita' - ISOF - Sede Bologna</denominazione>
+      </strutturaProponente>
+      <oggetto>SERVIZIO SPEDIZIONI TRAMITE CORRIERE ANNO 2023</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04209680158</codiceFiscale>
+          <ragioneSociale>DHL ESPREX ITALY DI PESCHIERA BORROMEO (MI)</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04209680158</codiceFiscale>
+          <ragioneSociale>DHL Express (Italy) s.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5679.13</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8B3C575C0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienze Marine - ISMAR - Sede Secondaria Lerici</denominazione>
+      </strutturaProponente>
+      <oggetto>EQUIPAGGIAMENTO dpi</oggetto>
+      <sceltaContraente>AFFIDAMENTO DIRETTO </sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00279510119</codiceFiscale>
+          <ragioneSociale>ME-GEARS &amp; SERVICE S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01203170376</codiceFiscale>
+          <ragioneSociale>ME-GEARS &amp; SERVICE s.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4692.12</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2024-02-06</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3846.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>97797053DF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>ASR -  Unità Pianificazione, Programmazione e Biblioteca Centrale</denominazione>
+      </strutturaProponente>
+      <oggetto>Acquisizione dell'abbonamento elettronico agli Ebooks direttamente con l'Editore Elsevier B.V</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>NL005033019B01</identificativoFiscaleEstero>
+          <ragioneSociale>ELSEVIER BV</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>33158992</identificativoFiscaleEstero>
+          <ragioneSociale>Elsevier B.V.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>43104.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>43104.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA439E67C9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienze e Tecnologie per l'Energia e la Mobilità Sostenibili - STEMS - Sede Secondaria Torino</denominazione>
+      </strutturaProponente>
+      <oggetto>Decisione di contrarre n.8 del 14/02/2023 Canone per manutenzione impianto antintrusione Candiolo (2023)</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>07067740014</codiceFiscale>
+          <ragioneSociale>IRMET ANTINCENDI SAS DI BRUSCAINI ROBERTO &amp; C.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>07067740014</codiceFiscale>
+          <ragioneSociale>IRMET ANTINCENDI SAS di Bruscaini Roberto &amp; C.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>870.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>870.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z633994DEE</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Ricerca per la Protezione Idrogeologica - IRPI - Sede Perugia</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di assistenza On site Basic TC del server virtualizzato che ospita le macchine virtuali del SANF</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>11980230152</codiceFiscale>
+          <ragioneSociale>CONCRETE S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>11980230152</codiceFiscale>
+          <ragioneSociale>Concrete s.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3540.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3540.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF539EEE5F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto per le Risorse Biologiche e le Biotecnologie Marine - IRBIM - Sede Secondaria Ancona</denominazione>
+      </strutturaProponente>
+      <oggetto>Rinnovo licenze software SPS Service program SR9NNLL, SR9PVLL, SR9PTLL, SR9Q8LL, SR9Q7LL e SR9PKLL per l’anno 2023</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04222630370</codiceFiscale>
+          <ragioneSociale>SPS SRL </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04222630370</codiceFiscale>
+          <ragioneSociale>SPS SRL A SOCIO UNICO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1470.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2024-03-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1470.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZEB3B8116F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Ricerca sulla Crescita Economica Sostenibile - IRCrES</denominazione>
+      </strutturaProponente>
+      <oggetto>Rinnovo abbonamento a riviste edite IL MULINO per l'anno 2023 (Economia della Cultura, Il Mulino, Le Regioni, L’Industria, Politica Economica, Rassegna Italiana di Sociologia, Scienze Regionali, Scuola Democratica, Stato e Mercato)</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00311580377</codiceFiscale>
+          <ragioneSociale>SOCIETA' EDITRICE IL MULINO SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00311580377</codiceFiscale>
+          <ragioneSociale>Società Editrice IL MULINO S.p.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1017.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1017.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3C3A27F54</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto dei Sistemi Complessi - ISC - Sede Secondaria Sesto Fiorentino</denominazione>
+      </strutturaProponente>
+      <oggetto>Noleggio per 36 mesi rinnovabili di n. 1 Apparecchio multifunzione in bianco/nero marca Kyocera modello FS-6525MFP con cassetto carta opzionale PF470</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01788380978</codiceFiscale>
+          <ragioneSociale>BIGAZZI SERVIZI S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01788380978</codiceFiscale>
+          <ragioneSociale>BIGAZZI SERVIZI Srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4304.16</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2025-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1176.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000000</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto per le Tecnologie della Costruzione - ITC </denominazione>
+      </strutturaProponente>
+      <oggetto>TARI 2023</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00798940151</codiceFiscale>
+          <ragioneSociale>COMUNE DI SAN GIULIANO MILANESE - SERVIZIO TRIBUTI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00798940151</codiceFiscale>
+          <ragioneSociale>COMUNE DI SAN GIULIANO MILANESE - SERVIZIO TRIBUTI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1914.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1914.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z343A1D488</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Dipartimento di Scienze del Sistema Terra e Tecnologie per l'Ambiente - DSSTTA</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di sosta primo semestre anno 2023 relativo alla Piattaforma Veloce Rosanna F </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02357190814</codiceFiscale>
+          <ragioneSociale>GIACALONE SHIPYARD - S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02357190814</codiceFiscale>
+          <ragioneSociale>Giacalone Shipyard Srl </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>23760.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2024-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>16380.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5D396C33E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>ASR - Ufficio ICT (SOPPRESSO)</denominazione>
+      </strutturaProponente>
+      <oggetto>Ordine Mepa ITI Prot.CNR0A00-0002486/2023 del 10/01/2023. Oggetto: Acquisto servizio di manutenzione licenze software antivirus SentinelOne - Affidamento diretto nel Mepa ai sensi dell’art. 1, comma 2, lettera a) del D.L. 76/2020 convertito, con modi</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>08942951008</codiceFiscale>
+          <ragioneSociale>I.T.I.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>08942951008</codiceFiscale>
+          <ragioneSociale>ITI INNOVAZIONE TECNOLOGICA ITALIANA Srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>38065.27</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>38065.27</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z81397F607</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Sistemi e Tecnologie Industriali Intelligenti per il Manifatturiero Avanzato - STIIMA (ex ITIA) Sede Secondaria Biella</denominazione>
+      </strutturaProponente>
+      <oggetto>DHL: postali e porti anno 2023 - CIG Z81397F607</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04209680158</codiceFiscale>
+          <ragioneSociale>DHL EXPRESS ITALY SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04209680158</codiceFiscale>
+          <ragioneSociale>DHL Express (Italy) s.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>487.27</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z373B0E48B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Sistemi e Tecnologie Industriali Intelligenti per il Manifatturiero Avanzato - STIIMA (ex ITIA) Sede Secondaria Biella</denominazione>
+      </strutturaProponente>
+      <oggetto>CCMI: ROUND TRIAL - ANNO 2023 - CIG Z373B0E48B</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>774-217-1714</identificativoFiscaleEstero>
+          <ragioneSociale>CCMI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>-</identificativoFiscaleEstero>
+          <ragioneSociale>CCMI CASHMERE &amp; CAMEL HAIR MANUFACTURERS INSTITUT</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>449.05</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000000</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto per le Tecnologie della Costruzione - ITC </denominazione>
+      </strutturaProponente>
+      <oggetto>Canone Unico Patrimoniale per esposizioni pubblicitarie 2023 Prot. CNR 162109 del 29.05.2023</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00798940151</codiceFiscale>
+          <ragioneSociale>COMUNE DI SAN GIULIANO MILANESE - SERVIZIO TRIBUTI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00798940151</codiceFiscale>
+          <ragioneSociale>COMUNE DI SAN GIULIANO MILANESE - SERVIZIO TRIBUTI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2550.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2550.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5F3A4A6F6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>ASR -  Unità Pianificazione, Programmazione e Biblioteca Centrale</denominazione>
+      </strutturaProponente>
+      <oggetto>Trattativa diretta su MEPA n. 3480813 (CIG Z5F3A4A6F6) per la fruizione in modalita' SaaS delle componenti applicative della suite SebinaNEXT  anno 2023 - e servizio di assistenza avanzata fino ad un massimo di 60 ore</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>14530051003</codiceFiscale>
+          <ragioneSociale>DM CULTURA S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>14530051003</codiceFiscale>
+          <ragioneSociale>DM Cultura S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>29500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>29500.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3B39ACC51</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto per le Risorse Biologiche e le Biotecnologie Marine - IRBIM - Sede Secondaria Ancona</denominazione>
+      </strutturaProponente>
+      <oggetto>servizio di rinnovo licenza software LSSS dal 01/01/2023 al 31/12/2023</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>919408049</identificativoFiscaleEstero>
+          <ragioneSociale>NORCE NORWEGIAN RESEARCH CENTRE AS</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>919408049</identificativoFiscaleEstero>
+          <ragioneSociale>NORCE Norwegian Research Centre AS</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2880.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2024-07-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2880.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8B395108C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Area di Ricerca BOLOGNA</denominazione>
+      </strutturaProponente>
+      <oggetto>Manutenzione anno 2023  10 gruppi elettrogeni Istituti Area Territoriale di Ricerca di Bologna</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01674190028</codiceFiscale>
+          <ragioneSociale>CGT SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01674190028</codiceFiscale>
+          <ragioneSociale>COMPAGNIA GENERALE TRATTORI (CGT)</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>31350.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>31350.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBA3C90873</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Sistemi e Tecnologie Industriali Intelligenti per il Manifatturiero Avanzato - STIIMA (ex ITIA) Sede Secondaria Biella</denominazione>
+      </strutturaProponente>
+      <oggetto>Città Studi SpA: rinnovo convenzione con il Polo Tessile anno 2023 - CIG ZBA3C90873</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01491490023</codiceFiscale>
+          <ragioneSociale>CITTÀ STUDI SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01491490023</codiceFiscale>
+          <ragioneSociale>CITTA' STUDI S.p.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>500.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF539AEBD2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Sistemi e Tecnologie Industriali Intelligenti per il Manifatturiero Avanzato - STIIMA (ex ITIA) Sede Secondaria Biella</denominazione>
+      </strutturaProponente>
+      <oggetto>Elettrotex Srl: contratto manutenzione Uster Tensorapid 3 - anno 2023 - CIG ZF539AEBD2</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>11710830156</codiceFiscale>
+          <ragioneSociale>ELETTROTEX SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>11710830156</codiceFiscale>
+          <ragioneSociale>ELETTROTEX SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>550.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>550.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZED39113D2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Studi sui Sistemi Regionali Federali e sulle Autonomie - ISSIRFA </denominazione>
+      </strutturaProponente>
+      <oggetto>Rinnovo abbonamenti riviste italiane NON inventariabili per l'Anno 2023 tramite DEGI srl</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>08859971007</codiceFiscale>
+          <ragioneSociale>DEGI SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>08859971007</codiceFiscale>
+          <ragioneSociale>DEGI s.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1661.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-03-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1648.15</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1D3955EC0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Chimica della Materia Condensata e di Tecnologie per l'Energia - ICMATE</denominazione>
+      </strutturaProponente>
+      <oggetto>ORDINE N. 145/2022 - SRVIZIO MANUTENZIONE QUANTA FEG ANNO2023</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>11944100152</codiceFiscale>
+          <ragioneSociale>FEI ITALIA SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>11944100152</codiceFiscale>
+          <ragioneSociale>FEI Italia s.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>25954.32</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>25954.32</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z643932987</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Area di Ricerca PISA</denominazione>
+      </strutturaProponente>
+      <oggetto>pr.17255 del 24/01/2023 stipula TD 3395000 servizio di Abbonamento completo Prezziari 6 sezioni: Recupero Ristrutturazione Manutenzione, Nuove Costruzioni, Impianti Tecnologici, Urbanizzazione Infrastrutture Ambiente, Impianti Elettrici, Architettura</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04083101008</codiceFiscale>
+          <ragioneSociale>DEI SRL TIPOGRAFIA DEL GENIO CIVILE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04083101008</codiceFiscale>
+          <ragioneSociale>DEI srl Tipografia del Genio Civile</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>790.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2025-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>790.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3D39E318D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienza, Tecnologia e Sostenibilità per lo Sviluppo dei Materiali Ceramici - ISSMC (ex ISTEC)</denominazione>
+      </strutturaProponente>
+      <oggetto>Affidamento del servizio di abbonamento a riviste scientifiche in formato cartaceo per l’anno 2023</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>11164410018</codiceFiscale>
+          <ragioneSociale>EBSCO INFORMATION SERVICES SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>11164410018</codiceFiscale>
+          <ragioneSociale>EBSCO INFORMATION SERVICES SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>974.69</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>645.33</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z963AB1644</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Area di Ricerca BOLOGNA</denominazione>
+      </strutturaProponente>
+      <oggetto>Uso Palestra Aldini 90 minuti settimanali per i dipendenti CNR con fondi UARC - anno 2023</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>80066210370</codiceFiscale>
+          <ragioneSociale>POLISPORTIVA PONTEVECCHIO </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>80066210370</codiceFiscale>
+          <ragioneSociale>Associazione Sportiva Dilettantistica - Polisportiva Pontevecchio</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>998.50</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>598.50</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZEB3B52A3D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>ASR - Unità Editoria</denominazione>
+      </strutturaProponente>
+      <oggetto>quota annuale associatura AIE (Associazione Italiana Editori) anno 2023</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01416360152</codiceFiscale>
+          <ragioneSociale>AIE (ASSOCIAZIONE ITALIANA EDITORI) </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01416360152</codiceFiscale>
+          <ragioneSociale>AIE ASSOCIAZIONE ITALIANA EDITORI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>492.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>492.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1F3BF9BE6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Sistemi e Tecnologie Industriali Intelligenti per il Manifatturiero Avanzato - STIIMA (ex ITIA) Sede Secondaria Biella</denominazione>
+      </strutturaProponente>
+      <oggetto>E. Ottino Elettromeccanica: manutenzione anno 2023 della cabina elettrica MT/bt - CIG Z1F3BF9BE6</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00520800020</codiceFiscale>
+          <ragioneSociale>E. OTTINO ELETTROMECCANICA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00520800020</codiceFiscale>
+          <ragioneSociale>E.OTTINO ELETTROMECCANICA SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>450.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>450.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>95444644DB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>ASR - Ufficio ICT (SOPPRESSO)</denominazione>
+      </strutturaProponente>
+      <oggetto>Ordine Mepa ATLANTICA Digital SpA Prot.CNR0A00-0001533 del 09/01/2023. Oggetto: Acquisizione sistema di emulazione di Tape Library per MainFrame: Luminex procedura negoziata senza previa pubblicazione di bando, ai sensi dell’Art. 63, comma 2, lettera</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>14650841001</codiceFiscale>
+          <ragioneSociale>ATLANTICA DIGITAL SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>14650841001</codiceFiscale>
+          <ragioneSociale>ATLANTICA DIGITAL SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>45588.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2026-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>45588.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1A34EC8E2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Neuroscienze - IN - Sede Secondaria Milano</denominazione>
+      </strutturaProponente>
+      <oggetto>SPEDIZIONI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>08948430965</codiceFiscale>
+          <ragioneSociale>FEDEX</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01273040129</codiceFiscale>
+          <ragioneSociale>FEDEX EXPRESS ITALY SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2024-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>544.25</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000000</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto per la Sintesi Organica e la Fotoreattivita' - ISOF - Sede Bologna</denominazione>
+      </strutturaProponente>
+      <oggetto>IMPEGNO DI SPESA ANNO 2023 SPESE TELEFONICHE</oggetto>
+      <sceltaContraente>06-PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA ART. 158 d.lgs. 36/2023</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>93026890017</codiceFiscale>
+          <ragioneSociale>VODAFONE DI IVRE (TO)</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>93026890017</codiceFiscale>
+          <ragioneSociale>VODAFONE ITALIA S.P.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>355.80</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2024-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>360.49</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB83A2D99E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Ricerca Genetica e Biomedica - IRGB - Sede Monserrato (CA)</denominazione>
+      </strutturaProponente>
+      <oggetto>Manutenzione e garanzia aa 2023-2024 contratto rinnovabile fino ad un amx di 3 anni, strumento  Simoa Quanterix.</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>20-8957988</identificativoFiscaleEstero>
+          <ragioneSociale>QUANTERIX CORPORATION</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>825580900</identificativoFiscaleEstero>
+          <ragioneSociale>QUANTERIX CORPORATION</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3112.20</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>31712.20</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z853964B9F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>ASR - Ufficio ICT (SOPPRESSO)</denominazione>
+      </strutturaProponente>
+      <oggetto>Ordine Mepa ALCOR Sistemi Srl Prot.CNR0A00-0001680/2023 del 09/01/2023. Oggetto: Acquisizione servizio di manutenzione software Infolib e del canone annuale per il relativo modulo per la fatturazione elettronica; Procedura negoziata senza previa pubb</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>09732530150</codiceFiscale>
+          <ragioneSociale>ALCOR SISTEMI SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>09732530150</codiceFiscale>
+          <ragioneSociale>ALCOR SISTEMI srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1589.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1589.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZDB38F9387</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Ricerca sugli Ecosistemi Terrestri - IRET - Sede Porano</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di Monitoraggio Allarme e pronto intervento per gli Uffici dell’Istituto di Ricerca sugli Ecosistemi Terrestri, sito in Viale Marconi, 2, Porano (TR) Durata del contratto: 60 mesi. Decorrenza servizio: dal 01 gennaio 2023</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00628090565</codiceFiscale>
+          <ragioneSociale>ISTITUTO DI VIGILANZA PRIVATA DELLA PROVINCIA DI VITERBO S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00628090565</codiceFiscale>
+          <ragioneSociale>Istituto di Vigilanza Privata - Viterbo</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2940.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2027-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>686.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZEC3D07E27</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto per il Rilevamento Elettromagnetico dell'Ambiente - IREA </denominazione>
+      </strutturaProponente>
+      <oggetto>utilizzo di risorse aggiuntive su  risorse di calcolo su piattaforma cloud 2023</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>10119840964</codiceFiscale>
+          <ragioneSociale>AMAZON WEB SERVICES</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>10119840964</codiceFiscale>
+          <ragioneSociale>AMAZON WEB SERVICES EMEA SARL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>139000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>105131.29</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>98715851A6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>ASR -  Unità Pianificazione, Programmazione e Biblioteca Centrale</denominazione>
+      </strutturaProponente>
+      <oggetto>Contratto trasformativo triennale 2023-2025 con l'editore Cambridge University Press (CUP) al fine di garantire l'accesso al Full Collection (quota Read) e la pubblicazione in OA di un numero illimitato di articoli (quota Publish).</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>97476030586</codiceFiscale>
+          <ragioneSociale>CRUI - CONFERENZA RETTORI UNIVERSITA' ITALIANE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>97476030586</codiceFiscale>
+          <ragioneSociale>CONFERENZA DEI RETTORI DELLE UNIVERSITA' ITALIANE - CRUI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>24956.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2025-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>8398.96</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>9876152A72</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienza, Tecnologia e Sostenibilità per lo Sviluppo dei Materiali Ceramici - ISSMC (ex ISTEC)</denominazione>
+      </strutturaProponente>
+      <oggetto>Affidamento di una fornitura di pacchetto Licenza rinnovo Software FortiGate per l’Istituto ISSMC</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02388630390</codiceFiscale>
+          <ragioneSociale>ADIT SOCIETA' COOPETATIVA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02388630390</codiceFiscale>
+          <ragioneSociale>Adit Società Cooperativa</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>6890.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2025-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6890.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000000</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di iNgegneria del Mare - INM (ex INSEAN) -Sede Roma</denominazione>
+      </strutturaProponente>
+      <oggetto>TIM SPA - Adesione alla convenzione CONSIP Telefonia Mobile 8 per 18 mesi - PROVV INM_384_2022 - CIG 92202349CA</oggetto>
+      <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00488410010</codiceFiscale>
+          <ragioneSociale>TIM SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00488410010</codiceFiscale>
+          <ragioneSociale>TIM S.p.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>678.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2024-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>615.29</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4A3A234AA</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>ASR - Ufficio ICT (SOPPRESSO)</denominazione>
+      </strutturaProponente>
+      <oggetto>Ordine CLARIVATE ANALYTICS Prot.CNR0A00-0058343/2023 del 28/02/2023. Oggetto: Acquisizione del servizio di Accesso a banche dati Web Of Science ed Incites; Procedura negoziata senza previa pubblicazione di bando, ai sensi dell’Art. 63, comma 2, lette</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>GB2508880</identificativoFiscaleEstero>
+          <ragioneSociale>CLARIVATE ANALYTICS</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>250888089</identificativoFiscaleEstero>
+          <ragioneSociale>CLARIVATE ANALYTICS</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>33269.60</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>32781.10</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZCE3C63B3C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>ASR - Unità Valorizzazione della Ricerca</denominazione>
+      </strutturaProponente>
+      <oggetto>utilizzo software RISE-IMT annualità 2023</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>556464687401</identificativoFiscaleEstero>
+          <ragioneSociale>RISE </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>556053152601</identificativoFiscaleEstero>
+          <ragioneSociale>RISE IVF AB</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1700.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1700.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD13B0D339</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Area della Ricerca di ROMA 2 - Tor Vergata</denominazione>
+      </strutturaProponente>
+      <oggetto>SERVIZIO DI MANUTENZIONE ORDINARIA N. 2 BARRIERE AUTOMATICHE ANNO 2023</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04319641009</codiceFiscale>
+          <ragioneSociale>CEBI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04319641009</codiceFiscale>
+          <ragioneSociale>CEBI SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>454.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>454.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF23A6CD68</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Ricerca per la Protezione Idrogeologica - IRPI - Sede Perugia</denominazione>
+      </strutturaProponente>
+      <oggetto>Rinnovo delle licenze DROPBOX ADVANCED per gli anni 2023, 2024 e 2025</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>05185750014</codiceFiscale>
+          <ragioneSociale>REKORDATA S.R.L. </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>05185750014</codiceFiscale>
+          <ragioneSociale>REKORDATA S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1710.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2025-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1710.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000000</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Area della Ricerca di MILANO 1 - Bassini</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura acqua potabile sede AdRMi1 anno 2023</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01742310152</codiceFiscale>
+          <ragioneSociale>MM S.P.A  SOCIO UNICO È IL COMUNE DI MILANO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01742310152</codiceFiscale>
+          <ragioneSociale>MM S.P.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>9809.20</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>9867.88</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>95688110A4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>ASR - Ufficio ICT (SOPPRESSO)</denominazione>
+      </strutturaProponente>
+      <oggetto>Ordine Mepa DATA MANAGEMENT Srl Prot.CNR0A00-0057195/2023 del 27/02/2023. Oggetto: Acquisizione servizio di manutenzione annuale dei prodotti software GEPE ECO, GE 770 Web, DMA INPDAP
+procedura negoziata senza previa pubblicazione di bando, ai sensi </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>15035211000</codiceFiscale>
+          <ragioneSociale>DATA MANAGEMENT SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>15035211000</codiceFiscale>
+          <ragioneSociale>Data Management S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>28928.60</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>28298.60</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>9749956E35</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienze e Tecnologie per l'Energia e la Mobilità Sostenibili - STEMS - Sede Secondaria Napoli</denominazione>
+      </strutturaProponente>
+      <oggetto>Contratto di manutenzione anno 2023 - Sistema di monitoraggio centraline e sensori gas ns. laboratori di P.le Tecchio, 80</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>05755260634</codiceFiscale>
+          <ragioneSociale>SPF SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>05755260634</codiceFiscale>
+          <ragioneSociale>SPF Impianti Speciali S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>13298.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>9440.70</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1B3A92A41</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Sistemi e Tecnologie Industriali Intelligenti per il Manifatturiero Avanzato - STIIMA (ex ITIA) Sede Secondaria Biella</denominazione>
+      </strutturaProponente>
+      <oggetto>Eurocert: Verifica impianti elevatori anno 2023/2024 - CIG Z1B3A92A41</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01358390431</codiceFiscale>
+          <ragioneSociale>EUROCERT SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01358390431</codiceFiscale>
+          <ragioneSociale>EUROCERT S.p.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>130.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2024-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB039B1508</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Tecnologie Biomediche - ITB - Sede Segrate</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di smaltimento rifiuti tossico nocivi esercizio 2023 </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03033240106</codiceFiscale>
+          <ragioneSociale>ECO ERIDANIA S.P.A. </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03033240106</codiceFiscale>
+          <ragioneSociale>Eco Eridania S.p.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1302.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1046.50</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z633A53B1C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Area della Ricerca di ROMA 2 - Tor Vergata</denominazione>
+      </strutturaProponente>
+      <oggetto>Rinnovo iscrizione Associazione Italiana Biblioteche</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02903570584</codiceFiscale>
+          <ragioneSociale>AIB</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02903570584</codiceFiscale>
+          <ragioneSociale>AIB  ASSOCIAZIONE ITALIANA BIBLIOTECHE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>130.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>130.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB3B397139</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienze delle Produzioni Alimentari - ISPA </denominazione>
+      </strutturaProponente>
+      <oggetto>971 - materiale video phenolexa cup B95F21001110006  cig ZBB3B397139</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02676280742</codiceFiscale>
+          <ragioneSociale>AR PRODUCTION STUDIO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>RZZLRD89P11I119K</codiceFiscale>
+          <ragioneSociale>AR production Studio</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>300.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>300.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z37397F99D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Sistemi e Tecnologie Industriali Intelligenti per il Manifatturiero Avanzato - STIIMA (ex ITIA) Sede Secondaria Biella</denominazione>
+      </strutturaProponente>
+      <oggetto>SIAD SPA: fornitura azoto liquido - anno 2023 - CIG Z37397F99D</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00209070168</codiceFiscale>
+          <ragioneSociale>SIAD SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00209070168</codiceFiscale>
+          <ragioneSociale>Società Italiana Acetilene e Derivati - Siad Spa</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>460.50</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3739B6B0E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Sistemi e Tecnologie Industriali Intelligenti per il Manifatturiero Avanzato - STIIMA (ex ITIA) Sede Secondaria Bari</denominazione>
+      </strutturaProponente>
+      <oggetto>Rinovo quota associativa UNINFO 2023</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>80082520018</codiceFiscale>
+          <ragioneSociale>UNINFO ENTE FEDERATO ALL'UNI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>80082520018</codiceFiscale>
+          <ragioneSociale>UNINFO</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1189.50</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1189.50</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z033A9C881</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienze e Tecnologie per l'Energia e la Mobilità Sostenibili - STEMS - Sede Secondaria Napoli</denominazione>
+      </strutturaProponente>
+      <oggetto>Contratto di manutenzione annuale sistema di condizionamento sede di Via Diocleziano, 328</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00230510281</codiceFiscale>
+          <ragioneSociale>VERTIV SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00230510281</codiceFiscale>
+          <ragioneSociale>Vertiv S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3995.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3995.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>A00F0ABBD1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>ASR -  Unità Pianificazione, Programmazione e Biblioteca Centrale</denominazione>
+      </strutturaProponente>
+      <oggetto>Attività di migrazione dei cataloghi delle biblioteche dell’area della Ricerca del CNR di Pisa, IRPS, IGSG nel Polo delle Scienze (trattativa diretta n. 3737819/2023)</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>14530051003</codiceFiscale>
+          <ragioneSociale>DM CULTURA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>14530051003</codiceFiscale>
+          <ragioneSociale>DM Cultura S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>45400.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2024-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1F39C29A9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>ASR -  Unità Pianificazione, Programmazione e Biblioteca Centrale</denominazione>
+      </strutturaProponente>
+      <oggetto>Sottoscrizione elettronica centralizzata periodici AMS direttamente con l'editore American Meteorological Society per l'anno 2023</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>000000</identificativoFiscaleEstero>
+          <ragioneSociale>AMERICAN METEOROLOGICAL SOCIETY</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>04-2103657</identificativoFiscaleEstero>
+          <ragioneSociale>American Meteorological Society - Accounting Department</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>7897.20</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>7897.37</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZEA3B19E0E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Area di Ricerca PISA</denominazione>
+      </strutturaProponente>
+      <oggetto>Affidamento diretto al servizio per il contratto per il Contratto di manutenzione per le apparecchiature cucina-mensa dell'Area della Ricerca del CNR di Pisa - Anno 2023 - CIG ZEA3B19E0E</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00981140494</codiceFiscale>
+          <ragioneSociale>NEW CHEF SERVICE S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00981140494</codiceFiscale>
+          <ragioneSociale>New Chef Service S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>19258.35</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7039DBBEA</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienza, Tecnologia e Sostenibilità per lo Sviluppo dei Materiali Ceramici - ISSMC (ex ISTEC)</denominazione>
+      </strutturaProponente>
+      <oggetto>Affidamento del servizio di verifica periodica biennale in ottemperanza al DPR 162/99 – Impianto Matricola Fabbrica FA011-PFN01210 Ascensore in uso ai piani dell’Istituto ISSMC</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01358950390</codiceFiscale>
+          <ragioneSociale>ECO CERTIFICAZIONI SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01358950390</codiceFiscale>
+          <ragioneSociale>ECO Certificazioni S.p.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>220.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2024-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>220.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z723C0DE4B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>ASR -  Unità Pianificazione, Programmazione e Biblioteca Centrale</denominazione>
+      </strutturaProponente>
+      <oggetto>Sottoscrizione di un abbonamento elettronico alla riviste SIAM direttamente con l’editore Society for Industrial and Applied Mathematics per l'anno 2023</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>231496014</identificativoFiscaleEstero>
+          <ragioneSociale>SIAM (SOCIETY FOR INDUSTRIAL AND APPLIED MATHEMATICS)</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>11101010101</identificativoFiscaleEstero>
+          <ragioneSociale>SIAM The Society for Industrial and Applied Mathematics</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10861.94</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>10763.77</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD139FA8C3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>ASR - Ufficio ICT (SOPPRESSO)</denominazione>
+      </strutturaProponente>
+      <oggetto>Ordine Mepa ARUBA PEC Prot.CNR0A00-0046665/2023 del  17/02/2023. Oggetto: Acquisizione del servizio di gestione e manutenzione annuale della piattaforma di riconoscimento De Visu Online (DVO) Server Periodo 1/1/2023-31/12/2023 - ai sensi dell’art. 51</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01879020517</codiceFiscale>
+          <ragioneSociale>ARUBA PEC</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01879020517</codiceFiscale>
+          <ragioneSociale>Aruba PEC s.p.a.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>300.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>300.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>990837380F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Fisiologia Clinica - IFC</denominazione>
+      </strutturaProponente>
+      <oggetto>attività di esperto qualificato della radioprotezione e dosimetria personale/ambientale</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01310860505</codiceFiscale>
+          <ragioneSociale>AZIENDA OSPEDALIERO-UNIVERSITARIA PISANA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01310860505</codiceFiscale>
+          <ragioneSociale>AZIENDA OSPEDALIERO-UNIVERSITARIA PISANA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>20000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z0339D98A7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Genetica Molecolare "Luigi Luca Cavalli Sforza"</denominazione>
+      </strutturaProponente>
+      <oggetto>Prodotti Chimici - Supply Centre 2023</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>12317560154</codiceFiscale>
+          <ragioneSociale>PROMEGA ITALIA SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>12317560154</codiceFiscale>
+          <ragioneSociale>PROMEGA ITALIA S.R.L. a socio unico</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6541.53</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000000</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Area di Ricerca TORINO</denominazione>
+      </strutturaProponente>
+      <oggetto>tributo comunale rifiuti anno 2023</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>09000640012</codiceFiscale>
+          <ragioneSociale>SORIS SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>09000640012</codiceFiscale>
+          <ragioneSociale>SORIS - Società Riscossioni Spa</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>18620.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>22170.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z75396A27E</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>ASR - Ufficio ICT (SOPPRESSO)</denominazione>
+      </strutturaProponente>
+      <oggetto>Ordine Mepa OMNICONNECT Prot.CNR0A00-0001484/2023 del 09/01/2023. Oggetto: Acquisto servizio di manutenzione centrali voip e acquisto posto operatore personale non vedente Affidamento diretto nel Mepa ai sensi dell’art. 1, comma 2, lettera a) del D.L</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01586840504</codiceFiscale>
+          <ragioneSociale>OMNICONNECT SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01586840504</codiceFiscale>
+          <ragioneSociale>OMNICONNECT Srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>35230.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>35230.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD13933B24</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Ricerca sulla Crescita Economica Sostenibile - IRCrES - Sede Secondaria Roma</denominazione>
+      </strutturaProponente>
+      <oggetto>Contratto per la realizzazione ed il mantenimento del nuovo sito web del progetto RISIS2 – HORIZON 2020 – Call INFRAIA Grant Agreement n. 824091 (Validita': 01/01/2023-31/12/2023)</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>RSLGLM77T21Z110P</codiceFiscale>
+          <ragioneSociale>GUILLAUME ORSAL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>RSLGLM77T21Z110P</identificativoFiscaleEstero>
+          <ragioneSociale>ORSAL Guillaume</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>8400.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>8400.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7C393EC3F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Ricerca per la Protezione Idrogeologica - IRPI - Sede Perugia</denominazione>
+      </strutturaProponente>
+      <oggetto>Rinnovo per l’anno 2023 della licenza software ESRI “Academic Departmental Agreement”</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02146760364</codiceFiscale>
+          <ragioneSociale>SEMENDA SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02146760364</codiceFiscale>
+          <ragioneSociale>SEMENDA S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3000.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC0399E289</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Sistemi e Tecnologie Industriali Intelligenti per il Manifatturiero Avanzato - STIIMA (ex ITIA) Sede Secondaria Biella</denominazione>
+      </strutturaProponente>
+      <oggetto>Interwoollabs: sottoscrizione per membership anno 2023 - CIG ZC0399E289</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>LU26503077</identificativoFiscaleEstero>
+          <ragioneSociale>INTERWOOLLABS</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>. . . . .</identificativoFiscaleEstero>
+          <ragioneSociale>INTERWOOLLABS</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1705.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1705.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4638FDC1F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di informatica e telematica - IIT - Sede Pisa</denominazione>
+      </strutturaProponente>
+      <oggetto>Service Fee per LIR - Year 2023(it.cnr)</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>806268220B01</identificativoFiscaleEstero>
+          <ragioneSociale>RIPE NETWORK COORDINATION CENTRE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>806268220B01</identificativoFiscaleEstero>
+          <ragioneSociale>RIPE NETWORK COORDINATION CENTRE</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1690.94</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1690.94</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>9870101901</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>ASR -  Unità Pianificazione, Programmazione e Biblioteca Centrale</denominazione>
+      </strutturaProponente>
+      <oggetto>Stipula di un contratto centralizzato di abbonamento elettronico agli ebooks direttamente con l'editore SpringerNature per gli anni 2023, 2010 e 2011</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>DE209719094</identificativoFiscaleEstero>
+          <ragioneSociale>SPRINGERNATURE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>DE209719094</identificativoFiscaleEstero>
+          <ragioneSociale>Springer Nature Customer Service Center GmbH</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>160469.79</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z2339A126C</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienze e Tecnologie per l'Energia e la Mobilità Sostenibili - STEMS - Sede Secondaria Torino</denominazione>
+      </strutturaProponente>
+      <oggetto>Rinnovo canone annuo sim 2023 </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02026760351</codiceFiscale>
+          <ragioneSociale>REWEB SRL </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02026760351</codiceFiscale>
+          <ragioneSociale>REWEB SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>60.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>60.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA63999BCC</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Sistemi e Tecnologie Industriali Intelligenti per il Manifatturiero Avanzato - STIIMA (ex ITIA) Sede Secondaria Biella</denominazione>
+      </strutturaProponente>
+      <oggetto>Sottoscrizione Associate Membership - anno 2023 - CIG ZA63999BCC </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>BE0524876007</identificativoFiscaleEstero>
+          <ragioneSociale>ETP</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>0524876007</identificativoFiscaleEstero>
+          <ragioneSociale>The European Technology Platform for the Future of Textiles and Clothing, a.i.s.b.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>500.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZD0396A282</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>ASR - Ufficio ICT (SOPPRESSO)</denominazione>
+      </strutturaProponente>
+      <oggetto>Ordine Mepa BG &amp; PARTNERS Srl Prot.CNR0A00-0001553/2023 del 09/01/2023. Oggetto: Acquisto licenze Adobe Acrobat PRO e Adobe Creative Cloud - Affidamento diretto nel Mepa ai sensi dell’art. 1, comma 2, lettera a) del D.L. 76/2020 convertito, con modif</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>06272481000</codiceFiscale>
+          <ragioneSociale>BG &amp; PARTNERS SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>06272481000</codiceFiscale>
+          <ragioneSociale>BG &amp; PARTNERS SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>16806.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>16806.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4B3A6A065</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Area di Ricerca BOLOGNA</denominazione>
+      </strutturaProponente>
+      <oggetto>Manutenzione ordinaria autorespiratore AREA anno 2023</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02228671208</codiceFiscale>
+          <ragioneSociale>AUTOPROTEZIONE ZANOLI SNC</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02228671208</codiceFiscale>
+          <ragioneSociale>AUTOPROTEZIONE ZANOLI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>110.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>110.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>0000000000</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Area della ricerca di Firenze</denominazione>
+      </strutturaProponente>
+      <oggetto>Erogazione del servizio acqua 2023</oggetto>
+      <sceltaContraente>AFFIDAMENTO DIRETTO </sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>05040110487</codiceFiscale>
+          <ragioneSociale>PUBLIACQUA S.P.A.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>05040110487</codiceFiscale>
+          <ragioneSociale>PUBLIACQUA SPA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>38000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2023-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>36036.36</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z89398C033</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Chimica Biomolecolare - ICB - Sede Pozzuoli</denominazione>
+      </strutturaProponente>
+      <oggetto>Pubblicazione Avviso ed esito Bando di gara Europea per acquisto spettrometro di massa MALDI-DESI/ESI QTOF CON IM PER 
+ANALISI DI MASSA E MASS IMAGING, su GUCE, GURI, quotidiani nazionali e regionali</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02362600344</codiceFiscale>
+          <ragioneSociale>NET4MARKET - CSAMED S.R.L</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>07841320729</codiceFiscale>
+          <ragioneSociale>STC MANAGING SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1052.22</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-12-30</dataInizio>
+        <dataUltimazione>2023-12-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1109.54</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZEA390A729</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Fisiologia Clinica - IFC</denominazione>
+      </strutturaProponente>
+      <oggetto>Pubblicazione articolo scientifico open access </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>61-1774270</identificativoFiscaleEstero>
+          <ragioneSociale>SCIRES LITERATURE LLC.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>10020010020</identificativoFiscaleEstero>
+          <ragioneSociale>SciRes Literature LLC.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>737.70</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-12-29</dataInizio>
+        <dataUltimazione>2023-01-05</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>659.16</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z2738D40E4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Fisiologia Clinica - IFC</denominazione>
+      </strutturaProponente>
+      <oggetto>Pubblicazione articolo</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>13-559-3032</identificativoFiscaleEstero>
+          <ragioneSociale>JOHN WILEY &amp; SONS, INC.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>13-559-3032</identificativoFiscaleEstero>
+          <ragioneSociale>John Wiley &amp; Sons, Inc.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>163.93</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-12-29</dataInizio>
+        <dataUltimazione>2023-02-15</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>125.42</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB63933EA6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto per lo studio degli impatti Antropici e Sostenibilità in ambiente marino - IAS - Sede Secondaria Capo Granitola</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di catering e banqueting in occasione visita partner tunisini</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02667810812</codiceFiscale>
+          <ragioneSociale>SICILY SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02667810812</codiceFiscale>
+          <ragioneSociale>Sicily S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2100.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-12-27</dataInizio>
+        <dataUltimazione>2023-01-27</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2100.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZE439355D5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto per lo studio degli impatti Antropici e Sostenibilità in ambiente marino - IAS - Sede Secondaria Capo Granitola</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di video-making in occasione visita partner tunisini</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02707410847</codiceFiscale>
+          <ragioneSociale>ANDREA VANADIA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>VNDNDR88H24D969R</codiceFiscale>
+          <ragioneSociale>Homo Faber di Vanadia Andrea</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2008.20</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-12-27</dataInizio>
+        <dataUltimazione>2023-02-28</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2450.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z2A39359A0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di iNgegneria del Mare - INM (ex INSEAN) - Sede Secondaria Palermo</denominazione>
+      </strutturaProponente>
+      <oggetto>ACQUISTO SCHEDE PCB</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>06235520829</codiceFiscale>
+          <ragioneSociale>MICROCHIP SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>06235520829</codiceFiscale>
+          <ragioneSociale>Microchip srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1799.50</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-12-21</dataInizio>
+        <dataUltimazione>2050-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>185.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z36391FED5</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di iNgegneria del Mare - INM (ex INSEAN) - Sede Secondaria Palermo</denominazione>
+      </strutturaProponente>
+      <oggetto>Kit di propulsori, batterie e accessori Blue robotics</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02271360220</codiceFiscale>
+          <ragioneSociale>WITTED SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02271360220</codiceFiscale>
+          <ragioneSociale>Witted Srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2165.50</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-12-16</dataInizio>
+        <dataUltimazione>2050-12-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z6039FD3D7</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di fotonica e nanotecnologie - IFN - Sede Secondaria Padova</denominazione>
+      </strutturaProponente>
+      <oggetto>MSC Nastran Software
+</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>DE129406670</identificativoFiscaleEstero>
+          <ragioneSociale>MSC SOFTWARE GMBH</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>DE129406670</identificativoFiscaleEstero>
+          <ragioneSociale>MSC SOFTWARE GMBH</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4127.55</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-12-16</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4127.55</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZA23921BF1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di iNgegneria del Mare - INM (ex INSEAN) - Sede Secondaria Palermo</denominazione>
+      </strutturaProponente>
+      <oggetto>acquisto serbatoio in acciaio inox da 500L</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>MGRMNL73T23C351C</codiceFiscale>
+          <ragioneSociale>EDILKOM</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>MGRMNL73T23C351C</codiceFiscale>
+          <ragioneSociale>EDILKOM DEL DOTTOR EMANUELE MAUGERI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1455.66</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-12-16</dataInizio>
+        <dataUltimazione>2050-12-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>929.10</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5A38E5953</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienze Marine - ISMAR - Sede Secondaria Bologna</denominazione>
+      </strutturaProponente>
+      <oggetto>Rinnovo di 3 assicurazioni strumentazioni fino al 06/08/2023 (polizze n. 90/178427209/1 per box corer oceanico, n. 90/178458530/2 per Carotiere CP 20, n. 90/178458563/2 per Sonda SBE19 e sensori accessori), - Trattativa MEPA 3401088 prot. 47958 del 1</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00818570012</codiceFiscale>
+          <ragioneSociale>UNIPOLSAI ASSICURAZIONI SPA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00818570012</codiceFiscale>
+          <ragioneSociale>UnipolSai Assicurazioni S.p.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2906.09</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-12-11</dataInizio>
+        <dataUltimazione>2024-08-06</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2906.09</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z3C39ED40A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienze delle Produzioni Alimentari - ISPA - Sede Secondaria di Lecce</denominazione>
+      </strutturaProponente>
+      <oggetto>PUBBLICAZIONE ARTICOLO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>CHE-115.694.943</identificativoFiscaleEstero>
+          <ragioneSociale>MDPI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>115694943</identificativoFiscaleEstero>
+          <ragioneSociale>MDPI AG </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2226.45</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-12-05</dataInizio>
+        <dataUltimazione>2023-02-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2226.45</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>9647599A8B</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Area della Ricerca di ROMA 2 - Tor Vergata</denominazione>
+      </strutturaProponente>
+      <oggetto>RINNOVO LICENZE ANTIVIRUS E ANTISPAM PROOF POINT</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02556430987</codiceFiscale>
+          <ragioneSociale>INNOVERY</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02556430987</codiceFiscale>
+          <ragioneSociale>INNOVERY S.P.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>15950.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-12-04</dataInizio>
+        <dataUltimazione>2023-12-04</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>15950.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>9705460EF2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto per la BioEconomia - IBE - Sede Secondaria Roma</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura di beni e strumenti di consumo tecnico-specialistici non sanitari_CIG 9705460EF2 CUP B54I19003000001</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01919800605</codiceFiscale>
+          <ragioneSociale>ECOSEARCH S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01919800605</codiceFiscale>
+          <ragioneSociale>Ecosearch s.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>11228.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-11-30</dataInizio>
+        <dataUltimazione>2023-07-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>11228.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z683A52EBB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto per la BioEconomia - IBE - Sede Secondaria Roma</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di manutenzione attrezzatura, nello specifico dell’analizzatore portatile di fotosintesi mod. Licor 6400-CIG Z683A52EBB - CUP B54I19003000001</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01919800605</codiceFiscale>
+          <ragioneSociale>ECOSEARCH S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01919800605</codiceFiscale>
+          <ragioneSociale>Ecosearch s.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2459.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-11-30</dataInizio>
+        <dataUltimazione>2023-07-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2459.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z603D5DE41</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienze e Tecnologie Chimiche "Giulio Natta" - SCITEC - Sede Milano</denominazione>
+      </strutturaProponente>
+      <oggetto>P184 ORD.110_2023 PERKIN ELMER Acquisto Capsule per laboratorio CIG Z603D5DE41  CUP C86J20001430008 Rendiconto Progetto LAMPO</oggetto>
+      <sceltaContraente>AFFIDAMENTO DIRETTO </sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>10453490962</codiceFiscale>
+          <ragioneSociale>PERKIN ELMER SCIENTIFICA ITALIA  S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>10453490962</codiceFiscale>
+          <ragioneSociale>PERKIN ELMER SCIENTIFICA ITALIA  S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1919.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-11-29</dataInizio>
+        <dataUltimazione>2024-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1969.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z683882CA9</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Neuroscienze - IN - Sede Secondaria Milano</denominazione>
+      </strutturaProponente>
+      <oggetto>Acquisto Freezer -80 </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>10767630154</codiceFiscale>
+          <ragioneSociale>EPPENDORF SRL - SOCIETA' UNIPERSONALE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>10767630154</codiceFiscale>
+          <ragioneSociale>Eppendorf s.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>9521.73</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-11-18</dataInizio>
+        <dataUltimazione>2023-12-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>9521.73</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC038A87D6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienze delle Produzioni Alimentari - ISPA - Sede Secondaria di Lecce</denominazione>
+      </strutturaProponente>
+      <oggetto>SMALTIMENTO RIFIUTI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04770380758</codiceFiscale>
+          <ragioneSociale>EXA GROUP</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04770380758</codiceFiscale>
+          <ragioneSociale>EXA GROUP SRLS </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3278.69</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-11-18</dataInizio>
+        <dataUltimazione>2023-02-28</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3278.69</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z7E389FC78</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Geologia Ambientale e Geoingegneria  - IGAG -  Sede Secondaria Milano</denominazione>
+      </strutturaProponente>
+      <oggetto>DTA.AD003.861 MAECI KOREA - Pubblicazione Open Access su Journal of Maps, editore Taylor &amp; Francis dal titolo " Geology of El Hierro Southern Rift, Canary Islands, Spain " autori: Gianluca Groppelli, ISSN 1744‐5647; DOI: in preparazione  CIG_Z7E389FC</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>GB365462636</identificativoFiscaleEstero>
+          <ragioneSociale>TAYLOR &amp; FRANCIS GROUP (INFORMA UK LTD)
+5 HOWICK PLACE
+LONDON, SW1P 1WG</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>GB365462636</identificativoFiscaleEstero>
+          <ragioneSociale>Taylor &amp; Francis Group A Trading Division of Informa UK Ltd</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>965.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-11-15</dataInizio>
+        <dataUltimazione>2023-09-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>965.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>9707085BF1</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto per la BioEconomia - IBE - Sede Secondaria Roma</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura di beni e materiali di consumo per misura di flussi di inquinanti in ecosistemi forestali di ambiente urbano_CIG 9707085BF1 CUP B54I19003000001</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03767370988</codiceFiscale>
+          <ragioneSociale>NORDIVAL S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03767370988</codiceFiscale>
+          <ragioneSociale>Nordival s.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>6258.35</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-11-08</dataInizio>
+        <dataUltimazione>2023-07-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6418.10</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZC33D141FB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienze dell'Atmosfera e del Clima - ISAC - Sede Bologna</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura di telefonia mobile </oggetto>
+      <sceltaContraente>AFFIDAMENTO DIRETTO </sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>02383590375</codiceFiscale>
+          <ragioneSociale>EDP  SISTEMI BOLOGNA SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>02383590375</codiceFiscale>
+          <ragioneSociale>EDP SISTEMI SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>929.51</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-11-08</dataInizio>
+        <dataUltimazione>2023-11-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>929.51</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>9707135536</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto per la BioEconomia - IBE - Sede Secondaria Roma</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura di materiali e prodotti chimici di consumo per misura di flussi di inquinanti in ecosistemi forestali di ambiente urbano_CIG 9707135536 CUP B54I19003000001</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03455620132</codiceFiscale>
+          <ragioneSociale>QUANTANALITICA S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03455620132</codiceFiscale>
+          <ragioneSociale>QUANTANALITICA  S.r.l. </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4490.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-10-26</dataInizio>
+        <dataUltimazione>2023-07-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4490.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z313D1AEAE</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienze delle Produzioni Alimentari - ISPA - Sede Secondaria di Lecce</denominazione>
+      </strutturaProponente>
+      <oggetto>Allestimento di campi sperimentali per la moltiplicazione di materiale genetico</oggetto>
+      <sceltaContraente>AFFIDAMENTO DIRETTO </sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03959970751</codiceFiscale>
+          <ragioneSociale>CO.VI.SER</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03959970751</codiceFiscale>
+          <ragioneSociale>Vivai Co.Vi.SER srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-10-26</dataInizio>
+        <dataUltimazione>2025-10-25</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB83D1AECA</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienze delle Produzioni Alimentari - ISPA - Sede Secondaria di Lecce</denominazione>
+      </strutturaProponente>
+      <oggetto>Allestimento di campi sperimentali per la moltiplicazione di materiale genetico</oggetto>
+      <sceltaContraente>AFFIDAMENTO DIRETTO </sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>03959970751</codiceFiscale>
+          <ragioneSociale>CO.VI.SER</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03959970751</codiceFiscale>
+          <ragioneSociale>Vivai Co.Vi.SER srl</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-10-26</dataInizio>
+        <dataUltimazione>2025-10-25</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZEE3A54038</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto per la BioEconomia - IBE - Sede Secondaria Roma</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura di beni di consumo per misura di flussi di inquinanti in ecosistemi forestali di ambiente urbano_CIG ZEE3A54038 CUP B54I19003000001.</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01627080169</codiceFiscale>
+          <ragioneSociale>MAGRIS SERVIZI SRL UNIPERSONALE </ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>09316920017</codiceFiscale>
+          <ragioneSociale>VIP CLEAN - DIRECT S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02755960305</codiceFiscale>
+          <ragioneSociale>INDORS SNC </ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>09316920017</codiceFiscale>
+          <ragioneSociale>DIRECT SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2143.65</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-10-26</dataInizio>
+        <dataUltimazione>2023-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2143.65</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB43A53773</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto per la BioEconomia - IBE - Sede Secondaria Roma</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura stampati specialisti_ immagini satellitari RDO MEPA N. 3477597 CIG ZB43A53773 CUP B54I19003000001</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04555490723</codiceFiscale>
+          <ragioneSociale>PLANETEK ITALIA S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04555490723</codiceFiscale>
+          <ragioneSociale>PLANETEK ITALIA S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2700.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-10-26</dataInizio>
+        <dataUltimazione>2023-05-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2700.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z22399C4B2</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto per la BioEconomia - IBE - Sede Sesto Fiorentino (FI)</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di rinnovo di n. 17 licenze Dropbox business nell’ambito del progetto autofinanziato Smartcities Airqino</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>IE9852817J</identificativoFiscaleEstero>
+          <ragioneSociale>DROPBOX INTERNATIONAL UNLIMITED
+</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>9852817J</identificativoFiscaleEstero>
+          <ragioneSociale>DROPBOX INTERNATIONAL UNLIMITED COMPANY</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1856.20</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-10-15</dataInizio>
+        <dataUltimazione>2023-10-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1856.20</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>9448989066</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto per lo studio degli impatti Antropici e Sostenibilità in ambiente marino - IAS - Sede Secondaria Torregrande</denominazione>
+      </strutturaProponente>
+      <oggetto>Contratto per l’affidamento di una fornitura ed installazione di un “Ecoscadaglio multifascio (Multibeam echosounder), completo di accessori, CPV 38114000-7”, nell’ambito del progetto n. 54 “Aumento capacità di storage e aggiornamenti software per la</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>06818790823</codiceFiscale>
+          <ragioneSociale>GEO BIO TEAM GROUP SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03824051209</codiceFiscale>
+          <ragioneSociale>MACARTNEY ITALY SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>03824051209</codiceFiscale>
+          <ragioneSociale>MACARTNEY ITALY SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>139388.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-10-13</dataInizio>
+        <dataUltimazione>2023-03-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>139388.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZF43B9A9C6</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Area di Ricerca PISA</denominazione>
+      </strutturaProponente>
+      <oggetto>Affidamento diretto al servizio per il contratto del Noleggio macchina Multifit. D-color mf 554 per il servizio Tecnografico dal 06/10/2022 al 05/10/2024 - CIG ZF43B9A9C6</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00950040477</codiceFiscale>
+          <ragioneSociale>2B SYSTEM</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00950040477</codiceFiscale>
+          <ragioneSociale>2B SYSTEM</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>8160.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-10-06</dataInizio>
+        <dataUltimazione>2024-10-05</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5062.50</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z9E3BAE0EF</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Neuroscienze - IN - Sede Secondaria Padova</denominazione>
+      </strutturaProponente>
+      <oggetto>Preventivo n. 3/2023 spese stabulario Pendin/Zonta periodo ottobre  dicembre 2022 gennaio - giugno 2023 e conguaglio anno precedente Progetto CARIPARO CIG Z9E3BAE0EF CUP B91G18000110007</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00742430283</codiceFiscale>
+          <ragioneSociale>DIPARTIMENTO DI SCIENZE BIOMEDICHE DSB DELL'UNIVERSITÀ DEGLI STUDI DI PADOVA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>80006480281</codiceFiscale>
+          <ragioneSociale>UNIVERSITA' DEGLI STUDI PADOVA - DIPARTIMENTO DI SCIENZE BIOMEDICHE </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>23141.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-10-01</dataInizio>
+        <dataUltimazione>2023-06-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>23141.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z003A04727</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienza, Tecnologia e Sostenibilità per lo Sviluppo dei Materiali Ceramici - ISSMC (ex ISTEC)</denominazione>
+      </strutturaProponente>
+      <oggetto>Manutenzione ed assistenza per spettrofotometro FTIR - biennio 2023-2024</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>07817950152</codiceFiscale>
+          <ragioneSociale>THERMO FISHER SCIENTIFIC S.P.A.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>07817950152</codiceFiscale>
+          <ragioneSociale>THERMO FISHER SCIENTIFIC SpA</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>7780.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-09-01</dataInizio>
+        <dataUltimazione>2024-08-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>7780.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z833756CB3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Fisiologia Clinica - IFC</denominazione>
+      </strutturaProponente>
+      <oggetto>prodotto chimico prodotti gianni P0001974 Grant Agreement n. 801126 — EDIT -Dr. Menichetti -CUP B56C18001820006 cig Z833756CB3</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>08860270969</codiceFiscale>
+          <ragioneSociale>PRODOTTI GIANNI S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>08860270969</codiceFiscale>
+          <ragioneSociale>PRODOTTI GIANNI S.R.L.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>300.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-08-01</dataInizio>
+        <dataUltimazione>2023-01-10</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>300.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z1E3755B48</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Fisiologia Clinica - IFC</denominazione>
+      </strutturaProponente>
+      <oggetto>Spese pubblicazione articolo open access</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>CHE-115.694.943</identificativoFiscaleEstero>
+          <ragioneSociale>MDPI AG</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>CHE-115694943</identificativoFiscaleEstero>
+          <ragioneSociale>MDPI AG</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2456.88</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-08-01</dataInizio>
+        <dataUltimazione>2023-01-16</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2456.88</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>94805079DD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto per la BioEconomia - IBE - Sede Secondaria Roma</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura di beni e materiali informatici CIG 94805079DD
+CUP B83C22001580005 - B85F21006360005 - B55J19000360001 - B81G18000640005</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01486330309</codiceFiscale>
+          <ragioneSociale>DPS INFORMATICA S.N.C. DI PRESELLO GIANNI &amp; C.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>01647390812</codiceFiscale>
+          <ragioneSociale>POSDATA S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>02160230781</codiceFiscale>
+          <ragioneSociale>MULTIDATA DI CAVA LUCA &amp; C. S.A.S.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>PCNPTR78T11D423C</codiceFiscale>
+          <ragioneSociale>COMPUTER TECHNOLOGIES DI PIACENTINO PIETRO</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>04641681004</codiceFiscale>
+          <ragioneSociale>A.G. INFORMATICA S.R.L.</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>07252620963</codiceFiscale>
+          <ragioneSociale>GA SERVICE SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>08687680960</codiceFiscale>
+          <ragioneSociale>SOLPA SRL</ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale>03471940373</codiceFiscale>
+          <ragioneSociale>DATA SPEED S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04641681004</codiceFiscale>
+          <ragioneSociale>A.G. Informatica S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>13188.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-07-27</dataInizio>
+        <dataUltimazione>2023-07-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>13188.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z853BE6DF4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Geoscienze e Georisorse - IGG - Sede Secondaria Firenze</denominazione>
+      </strutturaProponente>
+      <oggetto>Acquisto di preparazione di un nuovo preparato di standard per analisi alla microsonda elettronica.</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>GB359844601</identificativoFiscaleEstero>
+          <ragioneSociale>MICRO-ANALYSIS CONSULTANTS LTD.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>GB359844601</identificativoFiscaleEstero>
+          <ragioneSociale>Micro-Analysis Consultants Ltd.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1540.44</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-07-11</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1540.44</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>A01D3D62DA</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Biochimica e Biologia Cellulare - IBBC</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di sorveglianza fisica per sorgente Cs.137 di 23 TBq.236 e della dosimetria film-bedge e TLD TD N. 3801675 AIRC IG 2021 ID 25965 OH/2023 NutrAge FOE 2021 DM MUR n. 844/2021 IBBC OH/2021 P0000191-P0000227/13115 RESP. PISANI-MOLES CIG A01D3D62</oggetto>
+      <sceltaContraente>AFFIDAMENTO DIRETTO </sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>07504040630</codiceFiscale>
+          <ragioneSociale>S.P.E.S.L. S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>07504040630</codiceFiscale>
+          <ragioneSociale>S.P.E.S.L. s.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>11400.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-07-09</dataInizio>
+        <dataUltimazione>2024-07-08</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z223AB1E38</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Fisiologia Clinica - IFC - Sede Secondaria di Siena</denominazione>
+      </strutturaProponente>
+      <oggetto>Pubblicazione articolo scientifico open access</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>DE209719094</identificativoFiscaleEstero>
+          <ragioneSociale>SPRINGER NATURE CUSTOMER SERVICE CENTER GMBH</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>DE209719094</identificativoFiscaleEstero>
+          <ragioneSociale>Springer Nature Customer Service Center GmbH</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2145.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-07-05</dataInizio>
+        <dataUltimazione>2023-06-26</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2145.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z873B297DD</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienze Applicate e Sistemi Intelligenti "Eduardo Caianiello" - ISASI - Sede Secondaria Napoli </denominazione>
+      </strutturaProponente>
+      <oggetto>Acquisto di due licenze software parallel per MacOS.</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>16271241008</codiceFiscale>
+          <ragioneSociale>TRUSTEDT LICENSE ITALIA SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>16271241008</codiceFiscale>
+          <ragioneSociale>TRUSTED LICENSE ITALIA SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>190.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-06-12</dataInizio>
+        <dataUltimazione>2023-07-12</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>190.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z233716EAB</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Fisiologia Clinica - IFC</denominazione>
+      </strutturaProponente>
+      <oggetto>perossido  per officina farmaceutica </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>06718400960</codiceFiscale>
+          <ragioneSociale>PROCLEA S.R.L.</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>06718400960</codiceFiscale>
+          <ragioneSociale>PROCLEA S.r.l.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>775.86</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-05-11</dataInizio>
+        <dataUltimazione>2023-03-14</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>775.86</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>9599241843</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>ASR -  Unità Pianificazione, Programmazione e Biblioteca Centrale</denominazione>
+      </strutturaProponente>
+      <oggetto>Adesione del CNR al contratto sottoscritto da CRUI e Association for Computing Machinery (ACM) dal 1 maggio 2022 al 31 dicembre 2025 per l’accesso on line a ACM Open</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>97476030586</codiceFiscale>
+          <ragioneSociale>CRUI - CONFERENZA RETTORI UNIVERSITA' ITALIANE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>97476030586</codiceFiscale>
+          <ragioneSociale>CONFERENZA DEI RETTORI DELLE UNIVERSITA' ITALIANE - CRUI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>151352.02</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-05-01</dataInizio>
+        <dataUltimazione>2025-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>68541.34</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZEE3A9808A</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di genetica e biofisica "Adriano Buzzati Traverso"- IGB - Sede Napoli</denominazione>
+      </strutturaProponente>
+      <oggetto>FORNITURA DI REAGENTI</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>08126390155</codiceFiscale>
+          <ragioneSociale>EUROCLONE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>08126390155</codiceFiscale>
+          <ragioneSociale>EUROCLONE S.p.A. </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>876.26</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-04-04</dataInizio>
+        <dataUltimazione>2023-05-04</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>876.26</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZB73A8DFA0</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto per la Ricerca e l'Innovazione Biomedica - IRIB - Sede Secondaria Messina</denominazione>
+      </strutturaProponente>
+      <oggetto>MANUTENZIONE DELL’IMPIANTO IDRAULICO E DI IRRIGAZIONE RELATIVO AGLI ARBUSTI, RAMPICANTI E SARMENTOSE, SIEPI E SPALLIERE CON POTATURA, CON RELATIVA SARCHIATURA DEL TERRENO PER RENDERE ACCESSIBILE L’IMPIANTO, E SOSTITUZIONE DI VALVOLE E RACCORDI AMMALO</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>FRNDND69E30F158M</codiceFiscale>
+          <ragioneSociale>FIORENTINO EDMONDO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>FRNDND69E30F158M</codiceFiscale>
+          <ragioneSociale>Fiorentino Edmondo</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4750.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-03-30</dataInizio>
+        <dataUltimazione>2023-05-12</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4750.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z4439C7C30</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Ricerca sugli Ecosistemi Terrestri - IRET - Sede Secondaria Firenze</denominazione>
+      </strutturaProponente>
+      <oggetto>Quote iscrizione annuale IUFRO Paoletti-Hoshika</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00000000000</codiceFiscale>
+          <ragioneSociale>IUFRO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>IUFRO</identificativoFiscaleEstero>
+          <ragioneSociale>INTERNATIONAL UNION OF FOREST RESEARCH ORGANIZATIONS (IUFRO)</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>468.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>468.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>96067859C4</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>ASR -  Unità Pianificazione, Programmazione e Biblioteca Centrale</denominazione>
+      </strutturaProponente>
+      <oggetto>Adesione con la quale il CNR intende aderire al contratto sottoscritto da CRUI e APS - American Physical Society per l’accesso on line alle riviste APS, anno 2022,</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>97476030586</codiceFiscale>
+          <ragioneSociale>CRUI - CONFERENZA RETTORI UNIVERSITA' ITALIANE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>97476030586</codiceFiscale>
+          <ragioneSociale>CONFERENZA DEI RETTORI DELLE UNIVERSITA' ITALIANE - CRUI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>149173.24</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z8B39DA9B3</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Ricerca Genetica e Biomedica - IRGB - Sede Monserrato (CA)</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di trasporto locale e conferimento del materiale biologico nella sede secondaria IRGB-CNR di Lanusei</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>00880890918</codiceFiscale>
+          <ragioneSociale>COOPERATIVA SOCIALE GERIATRICA SERENA</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>00880890918</codiceFiscale>
+          <ragioneSociale>SOCIETA' COOPERATIVA SOCIALE GERIATRICA SERENA </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2475.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-01-01</dataInizio>
+        <dataUltimazione>2024-05-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2829.40</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z5139E1B7D</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienza, Tecnologia e Sostenibilità per lo Sviluppo dei Materiali Ceramici - ISSMC (ex ISTEC)</denominazione>
+      </strutturaProponente>
+      <oggetto>Affidamento del servizio di prelievo e smaltimento rifiuti pericolosi e non prodotti dall’Istituito – Anno 2022-23</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>01731300404</codiceFiscale>
+          <ragioneSociale>LA CART SRL RIMINI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>01731300404</codiceFiscale>
+          <ragioneSociale>LA CART SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2334.95</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>0.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>9626935E11</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Dipartimento di Scienze del Sistema Terra e Tecnologie per l'Ambiente - DSSTTA</denominazione>
+      </strutturaProponente>
+      <oggetto>Servizio di sosta per l’anno 2022 e i mesi di gennaio e febbraio 2023 della Piattaforma Laura G</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>08004751213</codiceFiscale>
+          <ragioneSociale>COMPAGNI CANTIERI NAPOLETANI</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>08004751213</codiceFiscale>
+          <ragioneSociale>Compagnia Cantieri Napoletani S.P.A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>243100.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-01-01</dataInizio>
+        <dataUltimazione>2023-11-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>230928.56</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>9822839F29</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>ASR -  Unità Pianificazione, Programmazione e Biblioteca Centrale</denominazione>
+      </strutturaProponente>
+      <oggetto>Adesione del CNR al contratto sottoscritto da CRUI e American Institute of Physics (AIP) 2022-2026 per l’accesso on line al contratto AIP R&amp;P 2022-2026</oggetto>
+      <sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>97476030586</codiceFiscale>
+          <ragioneSociale>CRUI -CONFERENZA RETTORI UNIVERSITA' ITALIANE</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>97476030586</codiceFiscale>
+          <ragioneSociale>CONFERENZA DEI RETTORI DELLE UNIVERSITA' ITALIANE - CRUI</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>832846.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2022-01-01</dataInizio>
+        <dataUltimazione>2026-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>326922.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z733A0227F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto per le Risorse Biologiche e le Biotecnologie Marine - IRBIM - Sede Secondaria Ancona</denominazione>
+      </strutturaProponente>
+      <oggetto>servizio di elaborazione dati alfanumerici AIS dal 01/01/2021 al 31/12/2022</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>119063656</identificativoFiscaleEstero>
+          <ragioneSociale>ASTRA PAGING LTD</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>BG119063656</identificativoFiscaleEstero>
+          <ragioneSociale>ASTRA PAGING LTD</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>12350.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2021-01-01</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>12350.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>9190000571</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienze e Tecnologie per l'Energia e la Mobilità Sostenibili - STEMS - Sede Napoli</denominazione>
+      </strutturaProponente>
+      <oggetto>Fornitura di una scheda madre, alimentatore, ram e SSD</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04449200619</codiceFiscale>
+          <ragioneSociale>MPCOMPUTER SRL</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04449200619</codiceFiscale>
+          <ragioneSociale>MPCOMPUTER SRL</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>352.46</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2020-06-14</dataInizio>
+        <dataUltimazione>2023-09-01</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>352.46</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>Z293A78968</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto per le applicazioni del calcolo - IAC - Sede Secondaria Bari</denominazione>
+      </strutturaProponente>
+      <oggetto>Personal Computer HP Pavilion 27-cb1014nl  Desktop All-in-One PC</oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale>04383940725</codiceFiscale>
+          <ragioneSociale>PIXEL S.A.S. DI TRIGGIANI E PATERNUOSTO</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale>04383940725</codiceFiscale>
+          <ragioneSociale>PIXEL SAS di Triggiani e Paternuosto A.</ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1068.72</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2019-01-31</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>876.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig>ZBF39E2D5F</cig>
+      <strutturaProponente>
+        <codiceFiscaleProp>80054330586</codiceFiscaleProp>
+        <denominazione>Istituto di Scienze Marine - ISMAR - Sede Secondaria Roma</denominazione>
+      </strutturaProponente>
+      <oggetto>fornitura di materiale ottico indispensabile per lo sviluppo del sistema lidar nell’ambito del progetto CONCERNING </oggetto>
+      <sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <identificativoFiscaleEstero>LT100002802516</identificativoFiscaleEstero>
+          <ragioneSociale>EKSMA OPTICS, UAB</ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <identificativoFiscaleEstero>100002802516</identificativoFiscaleEstero>
+          <ragioneSociale>EKSMA OPTICS UAB </ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3708.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2002-02-09</dataInizio>
+        <dataUltimazione>2023-05-09</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3707.00</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>

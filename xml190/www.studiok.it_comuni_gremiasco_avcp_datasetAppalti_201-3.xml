@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<titolo>Pubblicazione legge 190</titolo>
+<abstract>Pubblicazione legge 190 Anno 2019</abstract>
+<dataPubblicazioneDataset>2019-12-31</dataPubblicazioneDataset>
+<entePubblicatore>COMUNE DI GREMIASCO</entePubblicatore>
+<dataUltimoAggiornamentoDataset>2019-12-31</dataUltimoAggiornamentoDataset>
+<annoRiferimento>2019</annoRiferimento>
+<urlFile>https://www.studiok.it/comuni/gremiasco/avcp/datasetAppalti_2019.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<cig/>
+<codiceFiscaleProp>00437910060</codiceFiscaleProp>
+<denominazione>COMUNE DI GREMIASCO</denominazione>
+</strutturaProponente>
+<oggetto>ADESIONE ALL'UNIONE NAZIONALE COMUNI COMUNITA' ENTI
+MONTANI (UNCEM)</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<codiceFiscale>80100090010</codiceFiscale>
+<ragioneSociale>UNCEM Piemonte</ragioneSociale>
+</partecipante>
+</partecipanti>
+<codiceFiscale>80100090010</codiceFiscale>
+<ragioneSociale>UNCEM Piemonte</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>100.00</importoAggiudicazione>
+<dataInizio>2019-01-01</dataInizio>
+<dataUltimazione>2019-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<cig>Z6026F4010</cig>
+<codiceFiscaleProp>00437910060</codiceFiscaleProp>
+<denominazione>COMUNE DI GREMIASCO</denominazione>
+</strutturaProponente>
+<oggetto>AFFIDAMENTO DIRETTO PER LA GESTIONE
+DELL'INFORMATIZZAZIONE COMUNALE ALLA DITTA APK SMART
+THECNOLOGIES - PERFEZIONAMENTO DELLA PROCEDURA MEPA N.
+951402</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<legge190:pubblicazione xmlns:legge190="legge190_1_0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="legge190_1_0
+datasetAppaltiL190.xsd">
+<metadata>
+<data>
+<lotto>
+<strutturaProponente>
+<partecipanti>
+<partecipante>
+<aggiudicatari>
+<aggiudicatario>
+<tempiCompletamento>
+<lotto>
+<strutturaProponente>
+Pagina 1 di 40
+29/01/2020https://www.studiok.it/comuni/gremiasco/avcp/datasetAppalti_2019.xml
+<codiceFiscale>08543640158</codiceFiscale>
+<ragioneSociale>APKAPPA SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<codiceFiscale>08543640158</codiceFiscale>
+<ragioneSociale>APKAPPA SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5500.00</importoAggiudicazione>
+<dataInizio>2019-01-01</dataInizio>
+<dataUltimazione>2024-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<cig>ZE828DA86</cig>
+<codiceFiscaleProp>00437910060</codiceFiscaleProp>
+<denominazione>COMUNE DI GREMIASCO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO MATERIALE DI CONSUMO PER GLI UFFICI
+COMUNALI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<codiceFiscale>03222970406</codiceFiscale>
+<ragioneSociale>MYO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<codiceFiscale>03222970406</codiceFiscale>
+<ragioneSociale>MYO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>232.39</importoAggiudicazione>
+<dataInizio>2019-07-04</dataInizio>
+<dataUltimazione>2019-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>232.39</importoSommeLiquidate>
+</lotto>
+<cig>ZF128FC225</cig>
+<codiceFiscaleProp>00437910060</codiceFiscaleProp>
+<denominazione>COMUNE DI GREMIASCO</denominazione>
+</strutturaProponente>
+<partecipanti>
+<partecipante>
+<aggiudicatari>
+<aggiudicatario>
+<tempiCompletamento>
+<lotto>
+<strutturaProponente>
+<partecipanti>
+<partecipante>
+<aggiudicatari>
+<aggiudicatario>
+<tempiCompletamento>
+<lotto>
+<strutturaProponente>
+Pagina 2 di 40
+29/01/2020https://www.studiok.it/comuni/gremiasco/avcp/datasetAppalti_2019.xml
+<oggetto>AFFIDAMENTO DELL'INCARICO DEL RESPONSABILE DELLA
+PROTEZIONE DEI DATI PERSONALI (RDP) AI SENSI DELL'ART. 37 DEL
+REGOLAMENTO UE 2016/679</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<codiceFiscale>10835430967</codiceFiscale>
+<ragioneSociale>Capital Security Srls</ragioneSociale>
+</partecipante>
+</partecipanti>
+<codiceFiscale>10835430967</codiceFiscale>
+<ragioneSociale>Capital Security Srls</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>950.00</importoAggiudicazione>
+<dataInizio>2019-07-05</dataInizio>
+<dataUltimazione>2019-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<cig>ZA026AFF5</cig>
+<codiceFiscaleProp>00437910060</codiceFiscaleProp>
+<denominazione>COMUNE DI GREMIASCO</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO SPARTINEVE ANNO 2019 IMPLEMENTAZIONE CIG
+ZA026AFF58 E SUCCESSIVA LIQUIDAZIONE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<codiceFiscale>00000000000</codiceFiscale>
+<ragioneSociale>Creditori Diversi</ragioneSociale>
+</partecipante>
+</partecipanti>
+<ragioneSociale>Creditori Diversi</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4964.00</importoAggiudicazione>
+<dataInizio>2019-07-12</dataInizio>
+<dataUltimazione>2019-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3068.00</importoSommeLiquidate>
+</lotto>
+<cig>Z75292D65B</cig>
+<codiceFiscaleProp>00437910060</codiceFiscaleProp>
+<partecipanti>
+<partecipante>
+<aggiudicatari>
+<aggiudicatario>
+<tempiCompletamento>
+<lotto>
+<strutturaProponente>
+<partecipanti>
+<partecipante>
+<aggiudicatari>
+<aggiudicatario>
+<tempiCompletamento>
+<lotto>
+<strutturaProponente>
+Pagina 3 di 40
+29/01/2020https://www.studiok.it/comuni/gremiasco/avcp/datasetAppalti_2019.xml
+<ragioneSociale>F.E.P. di Cisi & C. s.a.s.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<codiceFiscale>01337080186</codiceFiscale>
+<ragioneSociale>F.E.P. di Cisi & C. s.a.s.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>170.00</importoAggiudicazione>
+<dataInizio>2019-07-02</dataInizio>
+<dataUltimazione>2019-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>170.00</importoSommeLiquidate>
+</lotto>
+<cig>Z97287330D</cig>
+<codiceFiscaleProp>00437910060</codiceFiscaleProp>
+<denominazione>COMUNE DI GREMIASCO</denominazione>
+</strutturaProponente>
+<oggetto>STAMPATI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<codiceFiscale>01337080186</codiceFiscale>
+<ragioneSociale>F.E.P. di Cisi & C. s.a.s.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<codiceFiscale>01337080186</codiceFiscale>
+<ragioneSociale>F.E.P. di Cisi & C. s.a.s.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>946.47</importoAggiudicazione>
+<dataInizio>2019-07-02</dataInizio>
+<dataUltimazione>2019-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>946.47</importoSommeLiquidate>
+</lotto>
+<cig>ZB026E7FE2</cig>
+<codiceFiscaleProp>00437910060</codiceFiscaleProp>
+<denominazione>COMUNE DI GREMIASCO</denominazione>
+</strutturaProponente>
+<oggetto>assistenza software</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<codiceFiscale>00384350435</codiceFiscale>
+<aggiudicatari>
+<aggiudicatario>
+<tempiCompletamento>
+<lotto>
+<strutturaProponente>
+<partecipanti>
+<partecipante>
+<aggiudicatari>
+<aggiudicatario>
+<tempiCompletamento>
+<lotto>
+<strutturaProponente>
+<partecipanti>
+<partecipante>
+Pagina 31 di 40
+29/01/2020https://www.studiok.it/comuni/gremiasco/avcp/datasetAppalti_2019.xml
+<ragioneSociale>HALLEY INFORMATICA S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<codiceFiscale>00384350435</codiceFiscale>
+<ragioneSociale>HALLEY INFORMATICA S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>280.00</importoAggiudicazione>
+<dataInizio>2019-01-01</dataInizio>
+<dataUltimazione>2019-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>280.00</importoSommeLiquidate>
+</lotto>
+<cig>Z5120A7BCF</cig>
+<codiceFiscaleProp>00437910060</codiceFiscaleProp>
+<denominazione>COMUNE DI GREMIASCO</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO TESORERIA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<codiceFiscale>02113530345</codiceFiscale>
+<ragioneSociale>CREDIT AGRICOLE CARIPARMA
+SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<codiceFiscale>02113530345</codiceFiscale>
+<ragioneSociale>CREDIT AGRICOLE CARIPARMA
+SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2500.00</importoAggiudicazione>
+<dataInizio>2019-07-02</dataInizio>
+<dataUltimazione>2019-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2500.00</importoSommeLiquidate>
+</lotto>
+<cig>Z5727F44E6</cig>
+<codiceFiscaleProp>00437910060</codiceFiscaleProp>
+<denominazione>COMUNE DI GREMIASCO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO DOMINIO PEC</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<aggiudicatari>
+<aggiudicatario>
+<tempiCompletamento>
+<lotto>
+<strutturaProponente>
+<partecipanti>
+<partecipante>
+<aggiudicatari>
+<aggiudicatario>
+<tempiCompletamento>
+<lotto>
+<strutturaProponente>
+<partecipanti>
+Pagina 32 di 40
+29/01/2020https://www.studiok.it/comuni/gremiasco/avcp/datasetAppalti_2019.xml
+<codiceFiscale>06481890157</codiceFiscale>
+<ragioneSociale>SI.RE. Informatica S.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<codiceFiscale>06481890157</codiceFiscale>
+<ragioneSociale>SI.RE. Informatica S.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>236.00</importoAggiudicazione>
+<dataInizio>2019-07-02</dataInizio>
+<dataUltimazione>2019-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>236.00</importoSommeLiquidate>
+</lotto>
+<cig>ZA427D5201</cig>
+<codiceFiscaleProp>00437910060</codiceFiscaleProp>
+<denominazione>COMUNE DI GREMIASCO</denominazione>
+</strutturaProponente>
+<oggetto>ASSISTENZA SOFTWARE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<codiceFiscale>11543670019</codiceFiscale>
+<ragioneSociale>SINTECOP GHI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<codiceFiscale>11543670019</codiceFiscale>
+<ragioneSociale>SINTECOP GHI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1767.50</importoAggiudicazione>
+<dataInizio>2019-07-02</dataInizio>
+<dataUltimazione>2019-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1767.50</importoSommeLiquidate>
+</lotto>
+<cig>Z8228452F1</cig>
+<codiceFiscaleProp>00437910060</codiceFiscaleProp>
+<denominazione>COMUNE DI GREMIASCO</denominazione>
+</strutturaProponente>
+<oggetto>SOSTITUZIONE LINEA ELETTRICA CIMITERO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipante>
+<aggiudicatari>
+<aggiudicatario>
+<tempiCompletamento>
+<lotto>
+<strutturaProponente>
+<partecipanti>
+<partecipante>
+<aggiudicatari>
+<aggiudicatario>
+<tempiCompletamento>
+<lotto>
+<strutturaProponente>
+<partecipanti>
+Pagina 33 di 40
+29/01/2020https://www.studiok.it/comuni/gremiasco/avcp/datasetAppalti_2019.xml
+<codiceFiscale>02011300064</codiceFiscale>
+<ragioneSociale>T & C DI TOSO OSCAR E CAPODURI EZIO
+S.N.C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<codiceFiscale>02011300064</codiceFiscale>
+<ragioneSociale>T & C DI TOSO OSCAR E CAPODURI EZIO
+S.N.C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>120.00</importoAggiudicazione>
+<dataInizio>2019-07-02</dataInizio>
+<dataUltimazione>2019-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>120.00</importoSommeLiquidate>
+</lotto>
+<cig>Z8029C02A</cig>
+<codiceFiscaleProp>00437910060</codiceFiscaleProp>
+<denominazione>COMUNE DI GREMIASCO</denominazione>
+</strutturaProponente>
+<oggetto>ASSISTENZA FISCALE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<codiceFiscale>GCBLCU58B56D447X</codiceFiscale>
+<ragioneSociale>GIACOBONE LUCIA - COMMERCIALISTA REVISORE
+DEI CONTI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<codiceFiscale>GCBLCU58B56D447X</codiceFiscale>
+<ragioneSociale>GIACOBONE LUCIA - COMMERCIALISTA REVISORE
+DEI CONTI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>235.56</importoAggiudicazione>
+<dataInizio>2019-01-01</dataInizio>
+<dataUltimazione>2019-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>235.56</importoSommeLiquidate>
+</lotto>
+<cig>Z6B2779B78</cig>
+<codiceFiscaleProp>00437910060</codiceFiscaleProp>
+<denominazione>COMUNE DI GREMIASCO</denominazione>
+<partecipante>
+<aggiudicatari>
+<aggiudicatario>
+<tempiCompletamento>
+<lotto>
+<strutturaProponente>
+<partecipanti>
+<partecipante>
+<aggiudicatari>
+<aggiudicatario>
+<tempiCompletamento>
+<lotto>
+<strutturaProponente>
+Pagina 34 di 40
+29/01/2020https://www.studiok.it/comuni/gremiasco/avcp/datasetAppalti_2019.xml
+</strutturaProponente>
+<oggetto>ASSISTENZA PROGETTAZIONE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<codiceFiscale>ZNTNRC67C07L304O</codiceFiscale>
+<ragioneSociale>DOMUS STUDIO DI PROGETTAZIONE DI ZANOTTI
+GEOM. ENRICO -</ragioneSociale>
+</partecipante>
+</partecipanti>
+<codiceFiscale>ZNTNRC67C07L304O</codiceFiscale>
+<ragioneSociale>DOMUS STUDIO DI PROGETTAZIONE DI ZANOTTI
+GEOM. ENRICO -</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1241.58</importoAggiudicazione>
+<dataInizio>2019-01-01</dataInizio>
+<dataUltimazione>2209-11-03</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1241.58</importoSommeLiquidate>
+</lotto>
+<cig>79795905FA</cig>
+<codiceFiscaleProp>00437910060</codiceFiscaleProp>
+<denominazione>COMUNE DI GREMIASCO</denominazione>
+</strutturaProponente>
+<oggetto>PROGETTAZIONE DIREZIONE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<codiceFiscale>ZNTNRC67C07L304O</codiceFiscale>
+<ragioneSociale>DOMUS STUDIO DI PROGETTAZIONE DI ZANOTTI
+GEOM. ENRICO -</ragioneSociale>
+</partecipante>
+</partecipanti>
+<codiceFiscale>ZNTNRC67C07L304O</codiceFiscale>
+<ragioneSociale>DOMUS STUDIO DI PROGETTAZIONE DI ZANOTTI
+GEOM. ENRICO -</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1979.00</importoAggiudicazione>
+<dataInizio>2019-01-01</dataInizio>
+<dataUltimazione>2019-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1979.00</importoSommeLiquidate>
+</lotto>
+<partecipanti>
+<partecipante>
+<aggiudicatari>
+<aggiudicatario>
+<tempiCompletamento>
+<lotto>
+<strutturaProponente>
+<partecipanti>
+<partecipante>
+<aggiudicatari>
+<aggiudicatario>
+<tempiCompletamento>
+<lotto>
+Pagina 35 di 40
+29/01/2020https://www.studiok.it/comuni/gremiasco/avcp/datasetAppalti_2019.xml
+<cig>802144951E</cig>
+<codiceFiscaleProp>00437910060</codiceFiscaleProp>
+<denominazione>COMUNE DI GREMIASCO</denominazione>
+</strutturaProponente>
+<oggetto>PROGETTAIONI E DIREZIONE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<codiceFiscale>ZNTNRC67C07L304O</codiceFiscale>
+<ragioneSociale>DOMUS STUDIO DI PROGETTAZIONE DI ZANOTTI
+GEOM. ENRICO -</ragioneSociale>
+</partecipante>
+</partecipanti>
+<codiceFiscale>ZNTNRC67C07L304O</codiceFiscale>
+<ragioneSociale>DOMUS STUDIO DI PROGETTAZIONE DI ZANOTTI
+GEOM. ENRICO -</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3395.00</importoAggiudicazione>
+<dataInizio>2019-01-01</dataInizio>
+<dataUltimazione>2019-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3395.00</importoSommeLiquidate>
+</lotto>
+<cig>ZB52835CDD</cig>
+<codiceFiscaleProp>00437910060</codiceFiscaleProp>
+<denominazione>COMUNE DI GREMIASCO</denominazione>
+</strutturaProponente>
+<oggetto>RESPONSABILE SICUREZZA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<codiceFiscale>PZZCST55E30M109S</codiceFiscale>
+<ragioneSociale>CELESTINO Pizzi</ragioneSociale>
+</partecipante>
+</partecipanti>
+<codiceFiscale>PZZCST55E30M109S</codiceFiscale>
+<ragioneSociale>CELESTINO Pizzi</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>864.80</importoAggiudicazione>
+<dataInizio>2019-01-01</dataInizio>
+<dataUltimazione>2019-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>864.80</importoSommeLiquidate>
+<strutturaProponente>
+<partecipanti>
+<partecipante>
+<aggiudicatari>
+<aggiudicatario>
+<tempiCompletamento>
+<lotto>
+<strutturaProponente>
+<partecipanti>
+<partecipante>
+<aggiudicatari>
+<aggiudicatario>
+<tempiCompletamento>
+Pagina 36 di 40
+29/01/2020https://www.studiok.it/comuni/gremiasco/avcp/datasetAppalti_2019.xml
+</lotto>
+<cig>ZF1276E8DD</cig>
+<codiceFiscaleProp>00437910060</codiceFiscaleProp>
+<denominazione>COMUNE DI GREMIASCO</denominazione>
+</strutturaProponente>
+<oggetto>SPESE DI PROGETTAZIONE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<codiceFiscale>SMNSNT53R66L304R</codiceFiscale>
+<ragioneSociale>SIMONINI SIMONETTA ANGIOLA
+EMMA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<codiceFiscale>SMNSNT53R66L304R</codiceFiscale>
+<ragioneSociale>SIMONINI SIMONETTA ANGIOLA
+EMMA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3224.00</importoAggiudicazione>
+<dataInizio>2019-01-01</dataInizio>
+<dataUltimazione>2019-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3224.00</importoSommeLiquidate>
+</lotto>
+<cig>ZA026AFF58</cig>
+<codiceFiscaleProp>00437910060</codiceFiscaleProp>
+<denominazione>COMUNE DI GREMIASCO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE AREE VERDI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<codiceFiscale>MNDGTN70L28L304K</codiceFiscale>
+<ragioneSociale>MANDIROLA AGOSTINO - Impresa
+Edile</ragioneSociale>
+</partecipante>
+</partecipanti>
+<codiceFiscale>MNDGTN70L28L304K</codiceFiscale>
+<ragioneSociale>MANDIROLA AGOSTINO - Impresa
+Edile</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1375.00</importoAggiudicazione>
+<lotto>
+<strutturaProponente>
+<partecipanti>
+<partecipante>
+<aggiudicatari>
+<aggiudicatario>
+<tempiCompletamento>
+<lotto>
+<strutturaProponente>
+<partecipanti>
+<partecipante>
+<aggiudicatari>
+<aggiudicatario>
+<tempiCompletamento>
+
+
