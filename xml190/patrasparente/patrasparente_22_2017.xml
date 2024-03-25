@@ -1,0 +1,1910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+  <titolo>Pubblicazione 1 legge 190</titolo>
+  <abstract>Pubblicazione 1 legge 190 rif. 2017</abstract>
+  <dataPubblicazioneDataset>2018-01-01</dataPubblicazioneDataset>
+  <entePubblicatore>Consorzio Università Rovigo</entePubblicatore>
+  <dataUltimoAggiornamentoDataset>2023-01-26</dataUltimoAggiornamentoDataset>
+  <annoRiferimento>2017</annoRiferimento>
+  <urlFile>http://www.patrasparente.it/public/22/datasets/dataset_2017.xml</urlFile>
+ 	<licenza>IODL</licenza>
+</metadata>
+<data>
+  <lotto>
+		<cig>Z601CE45FB</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>Materiale bibliografico - periodici</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01137991004</codiceFiscale>
+					<ragioneSociale>Celdes srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01137991004</codiceFiscale>
+					<ragioneSociale>Celdes srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1220.06</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-02-01</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1220.06</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z711CE46A4</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>ABBONAMENTO SOFTWARE PATRASPARENTE - ANNO 2017</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>07189200723</codiceFiscale>
+					<ragioneSociale>MEDIACONSULT SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>07189200723</codiceFiscale>
+					<ragioneSociale>MEDIACONSULT SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-01-01</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>500.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z951D1D274</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO DI MANUTENZIONE INFISSI E MANIGLIONI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01318300298</codiceFiscale>
+					<ragioneSociale>MARCOLIN ALESSIO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01318300298</codiceFiscale>
+					<ragioneSociale>MARCOLIN ALESSIO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>950.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-01-01</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>875.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZBB1CE8F88</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>CANONI ANNUALI SU PACCHETTI APPLICATIVI INF.OR. - ANNO 2017</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00904980513</codiceFiscale>
+					<ragioneSociale>INF.OR. SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00904980513</codiceFiscale>
+					<ragioneSociale>INF.OR. SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2003.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-01-01</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2003.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z211CED7C2</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>RINNOVO ADESIONE CATALOGO ACNP - ANNO 2017</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>80007010376</codiceFiscale>
+					<ragioneSociale>ALMA MATER STUDIORUM - UNIBO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>80007010376</codiceFiscale>
+					<ragioneSociale>ALMA MATER STUDIORUM - UNIBO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-01-01</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>500.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2C1CF39D4</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>SVUOTAMENTO FOSSE SETTICHE ANNO 2017</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01447600295</codiceFiscale>
+					<ragioneSociale>BIANCHI G. PULIZIA RETI FOGNARIE DI BIANCHI GIANLUCA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01447600295</codiceFiscale>
+					<ragioneSociale>BIANCHI G. PULIZIA RETI FOGNARIE DI BIANCHI GIANLUCA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>900.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-01-01</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>890.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z691CF4F2C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>SOMMINISTRAZIONE DI LAVORO A TEMPO DETERMINATO. PERIODO 01/02/2017 - 31/12/2017</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03171510278</codiceFiscale>
+					<ragioneSociale>UMANA SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03171510278</codiceFiscale>
+					<ragioneSociale>UMANA SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>27000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-02-01</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>28450.54</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3E1CFD6A7</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>CARTA IGIENICA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03787130289</codiceFiscale>
+					<ragioneSociale>BIANCHI SNC DI BIANCHI IGINIO E LUCIANO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03787130289</codiceFiscale>
+					<ragioneSociale>BIANCHI SNC DI BIANCHI IGINIO E LUCIANO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>517.20</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-01-20</dataInizio>
+				<dataUltimazione>2017-01-27</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>517.20</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z571CFD58C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>CARTA ASCIUGAMANI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00587470295</codiceFiscale>
+					<ragioneSociale>PULIVENETA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00587470295</codiceFiscale>
+					<ragioneSociale>PULIVENETA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>557.10</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-01-23</dataInizio>
+				<dataUltimazione>2017-01-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>557.10</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7B1CFD66D</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>CANONE SOFTWARE SELE-WIN TRIENNIO 2017 - 2019</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>06294880965</codiceFiscale>
+					<ragioneSociale>SELESTA INGEGNERIA SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>06294880965</codiceFiscale>
+					<ragioneSociale>SELESTA INGEGNERIA SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1248.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-01-01</dataInizio>
+				<dataUltimazione>2019-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1248.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z731D06852</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>BUONI PASTO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03543000370</codiceFiscale>
+					<ragioneSociale>DAY RISTOSERVICE SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03543000370</codiceFiscale>
+					<ragioneSociale>DAY RISTOSERVICE SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>8120.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-01-30</dataInizio>
+				<dataUltimazione>2017-10-23</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>8120.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZC51D2FEAB</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO DI RSPP ANNO 2017</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01301420293</codiceFiscale>
+					<ragioneSociale>SICUR 3000 SAS</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01301420293</codiceFiscale>
+					<ragioneSociale>SICUR 3000 SAS</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>550.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-01-01</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>550.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZCC1D2FE98</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO ORDINATIVO INFORMATICO PERIODO 2016 - 2018</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02089931204</codiceFiscale>
+					<ragioneSociale>CASSA DI RISPARMIO DEL VENETO SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02089931204</codiceFiscale>
+					<ragioneSociale>CASSA DI RISPARMIO DEL VENETO SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1440.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2018-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1440.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA91D3D7A6</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>ORGANIZZAZIONE E GESTIONE UNIVERSITY DAY 2017</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01220500290</codiceFiscale>
+					<ragioneSociale>INDALO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01220500290</codiceFiscale>
+					<ragioneSociale>INDALO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-02-09</dataInizio>
+				<dataUltimazione>2017-03-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4600.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z471D4892C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>ELABORAZIONE E TRASMISSIONE DICHIARAZIONI PERIODO D&apos;IMPOSTA 2016</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00748350295</codiceFiscale>
+					<ragioneSociale>BOVETTO ORAZIO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00748350295</codiceFiscale>
+					<ragioneSociale>BOVETTO ORAZIO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>208.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-02-08</dataInizio>
+				<dataUltimazione>2017-11-09</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>208.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z461D39AA6</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>RITIRO E SMALTIMENTO RAEE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01452670290</codiceFiscale>
+					<ragioneSociale>ECOAMBIENTE SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01452670290</codiceFiscale>
+					<ragioneSociale>ECOAMBIENTE SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-02-03</dataInizio>
+				<dataUltimazione>2017-11-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>200.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZDE1D72173</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>MANTENIMENTO TRIENNALE DOMINIO E SERVIZI COLLEGATI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02616950248</codiceFiscale>
+					<ragioneSociale>ABITAT SISTEMI INFORMATIVI TERRITORIALI SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02616950248</codiceFiscale>
+					<ragioneSociale>ABITAT SISTEMI INFORMATIVI TERRITORIALI SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-01-01</dataInizio>
+				<dataUltimazione>2019-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1500.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7E1D7220C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>MANUTENZIONE DEGLI IMPIANTI ANTINCENDIO ANNO 2017</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01162080293</codiceFiscale>
+					<ragioneSociale>ASMO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01162080293</codiceFiscale>
+					<ragioneSociale>ASMO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>360.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-01-01</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>360.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3E1D746B9</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>MANUTENZIONE ORDINARIA E ASSISTENZA ASCENSORI E MONTACARICHI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01316460292</codiceFiscale>
+					<ragioneSociale>BOCCATO ASCENSORI SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01316460292</codiceFiscale>
+					<ragioneSociale>BOCCATO ASCENSORI SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3450.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-01-01</dataInizio>
+				<dataUltimazione>2019-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3545.84</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z951D8EC3E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>MANUTENZIONE E ASSISTENZA IMPIANTI ELETTRICI. PERIODO 01/03/2017 - 29/02/2020</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01476760283</codiceFiscale>
+					<ragioneSociale>RUBELLO IMPIANTI DI RUBELLO LINO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01476760283</codiceFiscale>
+					<ragioneSociale>RUBELLO IMPIANTI DI RUBELLO LINO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>13050.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-03-01</dataInizio>
+				<dataUltimazione>2020-02-29</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>13050.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z591DC47A1</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>MATERIALE BIBLIOGRAFICO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01258940293</codiceFiscale>
+					<ragioneSociale>BOOKSHOP &amp; CARTOLERIA DI A. ZELANTE &amp; C. SNC</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01258940293</codiceFiscale>
+					<ragioneSociale>BOOKSHOP &amp; CARTOLERIA DI A. ZELANTE &amp; C. SNC</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3366.14</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-03-10</dataInizio>
+				<dataUltimazione>2017-12-20</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3146.43</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z461DC7097</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>CARTA IGIENICA MAXI JUMBO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03787130289</codiceFiscale>
+					<ragioneSociale>BIANCHI SNC DI BIANCHI IGINIO E LUCIANO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03787130289</codiceFiscale>
+					<ragioneSociale>BIANCHI SNC DI BIANCHI IGINIO E LUCIANO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>280.80</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-03-13</dataInizio>
+				<dataUltimazione>2017-03-22</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>280.80</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7C1DE9099</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>MATERIALE DI CANCELLERIA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00964680292</codiceFiscale>
+					<ragioneSociale>CAVALLARO PINO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00964680292</codiceFiscale>
+					<ragioneSociale>CAVALLARO PINO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>636.55</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-03-21</dataInizio>
+				<dataUltimazione>2017-05-16</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>636.55</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE21DFE7CD</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>POLIZZA ASSICURATIVA ALL RISKS</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01195110299</codiceFiscale>
+					<ragioneSociale>MODENA ANGELO E VALENTINI PIETRO SNC</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01195110299</codiceFiscale>
+					<ragioneSociale>MODENA ANGELO E VALENTINI PIETRO SNC</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5571.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-03-27</dataInizio>
+				<dataUltimazione>2018-03-27</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>5571.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZC21E0638A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA E POSA NR. 2 CASSETTE WC</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01538700293</codiceFiscale>
+					<ragioneSociale>TERMOIDRAULICA STOPPA LUCA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01538700293</codiceFiscale>
+					<ragioneSociale>TERMOIDRAULICA STOPPA LUCA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>350.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-03-29</dataInizio>
+				<dataUltimazione>2017-04-11</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>350.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z6E1E4FA0D</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>PREDISPOSIZIONE E TRASMISSIONE DATI E LIQUIDAZIONI PERIODICHE IVA ANNO 2017</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00748350295</codiceFiscale>
+					<ragioneSociale>BOVETTO ORAZIO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00748350295</codiceFiscale>
+					<ragioneSociale>BOVETTO ORAZIO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>208.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-04-20</dataInizio>
+				<dataUltimazione>2018-01-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>208.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z8E1E532B8</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>TINTEGGIATURA INTERNA SEDE VGM</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>BLSGTN56B23I303C</codiceFiscale>
+					<ragioneSociale>BALAUSTRA AGOSTINO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>BLSGTN56B23I303C</codiceFiscale>
+					<ragioneSociale>BALAUSTRA AGOSTINO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>240.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-04-28</dataInizio>
+				<dataUltimazione>2017-11-14</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>240.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z461E8019B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>MANUTENZIONE IMPIANTI TECNOLOGICI DI CLIMATIZZAZIONE E RETE IDRICA ANTINCENDIO - ANNI TRE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01480840295</codiceFiscale>
+					<ragioneSociale>EXSUS SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01480840295</codiceFiscale>
+					<ragioneSociale>EXSUS SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>13590.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-05-01</dataInizio>
+				<dataUltimazione>2020-04-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>12835.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0D1E81394</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>CARTA IGIENICA ROTOLI E CARTA IGIENICA MAXI JUMBO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03787130289</codiceFiscale>
+					<ragioneSociale>BIANCHI SNC DI BIANCHI IGINIO E LUCIANO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03787130289</codiceFiscale>
+					<ragioneSociale>BIANCHI SNC DI BIANCHI IGINIO E LUCIANO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>486.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-05-10</dataInizio>
+				<dataUltimazione>2017-05-18</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>486.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA11E81345</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>CARTA ASCIUGAMANI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00587470295</codiceFiscale>
+					<ragioneSociale>PULIVENETA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00587470295</codiceFiscale>
+					<ragioneSociale>PULIVENETA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>557.10</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-05-10</dataInizio>
+				<dataUltimazione>2017-05-19</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>557.10</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZDC1E893ED</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA E MONTAGGIO ANTE PER ARMADIO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00718830292</codiceFiscale>
+					<ragioneSociale>INGROS&apos;S FORNITURE SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00718830292</codiceFiscale>
+					<ragioneSociale>INGROS&apos;S FORNITURE SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>430.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-05-12</dataInizio>
+				<dataUltimazione>2017-06-20</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>430.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z8E1EAA00B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>RIPARAZIONE VIDEOPROIETTORE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02203330283</codiceFiscale>
+					<ragioneSociale>RC SISTEMI AUDIOVISIVI SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02203330283</codiceFiscale>
+					<ragioneSociale>RC SISTEMI AUDIOVISIVI SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>260.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-05-18</dataInizio>
+				<dataUltimazione>2017-05-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>260.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z921EE458C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>REVISIONE E RIPARAZIONE IMPIANTO DI CLIMATIZZAZIONE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01480840295</codiceFiscale>
+					<ragioneSociale>EXSUS SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01480840295</codiceFiscale>
+					<ragioneSociale>EXSUS SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>9844.89</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-06-07</dataInizio>
+				<dataUltimazione>2017-10-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>9844.89</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2E1F078D6</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>SOSTITUZIONE COLLEGAMENTO MEDIA TENSIONE FORNITORE/UTENTE SEDE VPA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01476760283</codiceFiscale>
+					<ragioneSociale>IMPIANTI ELETTRICI DI RUBELLO LINO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01476760283</codiceFiscale>
+					<ragioneSociale>IMPIANTI ELETTRICI DI RUBELLO LINO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1050.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-06-16</dataInizio>
+				<dataUltimazione>2017-06-28</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1050.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z401F0943D</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>REGOLAZIONE POLIZZA ALL RISKS N. 360190881</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01195110299</codiceFiscale>
+					<ragioneSociale>MODENA ANGELO E VALENTINI PIETRO SNC</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01195110299</codiceFiscale>
+					<ragioneSociale>MODENA ANGELO E VALENTINI PIETRO SNC</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>22.80</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-03-02</dataInizio>
+				<dataUltimazione>2017-03-02</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>22.80</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z201F09470</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>REGOLAZIONE PREMIO POLIZZA ALL RISKS N. 370248708</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01195110299</codiceFiscale>
+					<ragioneSociale>MODENA ANGELO E VALENTINI PIETRO SNC</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01195110299</codiceFiscale>
+					<ragioneSociale>MODENA ANGELO E VALENTINI PIETRO SNC</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>45.40</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-03-02</dataInizio>
+				<dataUltimazione>2018-03-02</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>45.40</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z451F213F8</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>LICENZE SERVER</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04066840283</codiceFiscale>
+					<ragioneSociale>ITS DI VOLPATO LUCA E C. SNC</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04066840283</codiceFiscale>
+					<ragioneSociale>ITS DI VOLPATO LUCA E C. SNC</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>222.99</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-06-28</dataInizio>
+				<dataUltimazione>2017-07-05</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>222.99</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z561F23BD9</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>VERIFICA PERIODICA IMPIANTI AI SENSI DEL DPR 462/01</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>08427870012</codiceFiscale>
+					<ragioneSociale>ELISSE SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>08427870012</codiceFiscale>
+					<ragioneSociale>ELISSE SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>360.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-06-27</dataInizio>
+				<dataUltimazione>2017-07-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>360.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z911F24AC5</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO DI MANUTENZIONE GRUPPO ELETTROGENO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00225520287</codiceFiscale>
+					<ragioneSociale>TESSARI ENERGIA SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00225520287</codiceFiscale>
+					<ragioneSociale>TESSARI ENERGIA SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2447.50</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-06-27</dataInizio>
+				<dataUltimazione>2017-07-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2031.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZEF1F26611</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>MANUTENZIONE PAVIMENTAZIONE SEDE VPA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01337680290</codiceFiscale>
+					<ragioneSociale>POZZATO PAVIMENTI DI FEDINI LUCA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01337680290</codiceFiscale>
+					<ragioneSociale>POZZATO PAVIMENTI DI FEDINI LUCA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>11076.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-06-27</dataInizio>
+				<dataUltimazione>2017-10-13</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>11076.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZB81F2EF37</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO DI VIGILANZA SEDI CUR</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>07897711003</codiceFiscale>
+					<ragioneSociale>SICURITALIA SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>07897711003</codiceFiscale>
+					<ragioneSociale>SICURITALIA SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>7200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-07-01</dataInizio>
+				<dataUltimazione>2020-06-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>7148.23</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z601F53C4A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>RINNOVO POLIZZA ASSICURATIVA RCT/O</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01195110299</codiceFiscale>
+					<ragioneSociale>MODENA ANGELO E VALENTINI PIETRO SNC</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01195110299</codiceFiscale>
+					<ragioneSociale>MODENA ANGELO E VALENTINI PIETRO SNC</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2900.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-06-23</dataInizio>
+				<dataUltimazione>2018-06-23</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2700.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0B1F5847C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA N. 2 BATTERIE 12V-160AH</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01243350293</codiceFiscale>
+					<ragioneSociale>EMPORIO DELL&apos;AUTO DI CEZZA TIZIANO &amp; C. SNC</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01243350293</codiceFiscale>
+					<ragioneSociale>EMPORIO DELL&apos;AUTO DI CEZZA TIZIANO &amp; C. SNC</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>348.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-07-13</dataInizio>
+				<dataUltimazione>2017-08-08</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>348.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZEF1F74248</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>REDAZIONE SCHEMI DEI QUADRI ELETTRICI SEDE VGM</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01476760283</codiceFiscale>
+					<ragioneSociale>IMPIANTI ELETTRICI DI RUBELLO LINO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01476760283</codiceFiscale>
+					<ragioneSociale>IMPIANTI ELETTRICI DI RUBELLO LINO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-07-24</dataInizio>
+				<dataUltimazione>2017-09-01</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3D1F7DD43</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>ATTIVITA&apos; DI ORIENTAMENTO E PROMOZIONE CORSI UNIVERSITARI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01220500290</codiceFiscale>
+					<ragioneSociale>INDALO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01220500290</codiceFiscale>
+					<ragioneSociale>INDALO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>12290.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-07-27</dataInizio>
+				<dataUltimazione>2018-05-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>12290.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD01F88C30</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>MANUTENZIONE IMPIANTO ELETTRICO SEDE VPA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00056510290</codiceFiscale>
+					<ragioneSociale>BOZZA &amp; CERVELLIN SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00056510290</codiceFiscale>
+					<ragioneSociale>BOZZA &amp; CERVELLIN SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>8030.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-08-01</dataInizio>
+				<dataUltimazione>2017-10-27</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>8030.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z8B1FBD576</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO DI PULIZIA SEDI CUR PERIODO 01/09/2017 - 31/12/2017</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00950760298</codiceFiscale>
+					<ragioneSociale>GIOLO SERVIZI SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00950760298</codiceFiscale>
+					<ragioneSociale>GIOLO SERVIZI SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>26000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-09-01</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>26000.50</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7E1FCB668</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>RINNOVO LICENZE SOFTWARE FIREWALL - ANNI 1</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04066840283</codiceFiscale>
+					<ragioneSociale>ITS DI VOLPATO LUCA &amp; C. SNC</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04066840283</codiceFiscale>
+					<ragioneSociale>ITS DI VOLPATO LUCA &amp; C. SNC</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1126.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-10-01</dataInizio>
+				<dataUltimazione>2018-09-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1126.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z951FCEBAB</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>PREDISPOSIZIONE E TRASMISSIONE TELEMATICA DELLE COMUNICAZIONI DEI DATI DELLE FATTURE EMESSE E RICEVUTE PERIODO 2017</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00748350295</codiceFiscale>
+					<ragioneSociale>BOVETTO ORAZIO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00748350295</codiceFiscale>
+					<ragioneSociale>BOVETTO ORAZIO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>156.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-09-07</dataInizio>
+				<dataUltimazione>2018-03-29</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>156.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z561FD1584</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>SOSTITUZIONE CONTATTO ELETTRICO ASCENSORE SEDE VPA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01316460292</codiceFiscale>
+					<ragioneSociale>BOCCATO ASCENSORI SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01316460292</codiceFiscale>
+					<ragioneSociale>BOCCATO ASCENSORI SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>183.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-09-07</dataInizio>
+				<dataUltimazione>2017-09-22</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>183.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5F1FD8C9E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>REGOLAZIONE PREMIO POLIZZA ELETTRONICA N. 764487878 PERIODO 16/05/2016 - 16/05/2017</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01195110299</codiceFiscale>
+					<ragioneSociale>MODENA ANGELO E VALENTINI PIETRO SNC</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01195110299</codiceFiscale>
+					<ragioneSociale>MODENA ANGELO E VALENTINI PIETRO SNC</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>51.70</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-05-16</dataInizio>
+				<dataUltimazione>2017-05-16</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>51.70</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZB71FD8CCE</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>REGOLAZIONE PREMIO POLIZZA ELETTRONICA N. 764487878 PERIODO 16/05/2017 - 16/05/2018</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01195110299</codiceFiscale>
+					<ragioneSociale>MODENA ANGELO E VALENTINI PIETRO SNC</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01195110299</codiceFiscale>
+					<ragioneSociale>MODENA ANGELO E VALENTINI PIETRO SNC</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>103.40</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-05-16</dataInizio>
+				<dataUltimazione>2018-05-16</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>103.40</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z8E1FE1CAB</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>CARTA IGIENICA MAXI JUMBO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03787130289</codiceFiscale>
+					<ragioneSociale>BIANCHI SNC DI BIANCHI IGINIO E LUCIANO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03787130289</codiceFiscale>
+					<ragioneSociale>BIANCHI SNC DI BIANCHI IGINIO E LUCIANO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>140.40</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-09-20</dataInizio>
+				<dataUltimazione>2017-09-29</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>140.40</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZB620046A1</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>ETICHETTE RFID</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03301500249</codiceFiscale>
+					<ragioneSociale>ISNG SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03301500249</codiceFiscale>
+					<ragioneSociale>ISNG SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>702.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-09-25</dataInizio>
+				<dataUltimazione>2017-09-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>702.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA6203FE46</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>CARTA ASCIUGAMANI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00587470295</codiceFiscale>
+					<ragioneSociale>PULIVENETA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00587470295</codiceFiscale>
+					<ragioneSociale>PULIVENETA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>278.55</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-10-12</dataInizio>
+				<dataUltimazione>2017-10-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>278.55</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2F204704A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>MATERIALE BIBLIOGRAFICO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01258940293</codiceFiscale>
+					<ragioneSociale>BOOKSHOP &amp; CARTOLERIA DI ZELANTE A. &amp; C. SNC</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01258940293</codiceFiscale>
+					<ragioneSociale>BOOKSHOP &amp; CARTOLERIA DI ZELANTE A. &amp; C. SNC</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3311.67</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-10-12</dataInizio>
+				<dataUltimazione>2017-12-06</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2926.90</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7A206FFD9</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>BADGES PER TIMBRATURE DIPENDENTI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>06294880965</codiceFiscale>
+					<ragioneSociale>SELESTA INGEGNERIA SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>06294880965</codiceFiscale>
+					<ragioneSociale>SELESTA INGEGNERIA SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>91.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-10-24</dataInizio>
+				<dataUltimazione>2017-11-24</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>91.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z782077EC5</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>CARTA IGIENICA MAXI JUMBO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03787130289</codiceFiscale>
+					<ragioneSociale>BIANCHI SNC DI BIANCHI IGINIO E LUCIANO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03787130289</codiceFiscale>
+					<ragioneSociale>BIANCHI SNC DI BIANCHI IGINIO E LUCIANO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>140.40</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-10-25</dataInizio>
+				<dataUltimazione>2017-10-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>140.40</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZC7208C111</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>MANUTENZIONE IMPIANTO ELETTRICO SEDE VPA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01476760283</codiceFiscale>
+					<ragioneSociale>IMPIANTI ELETTRICI DI RUBELLO LINO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01476760283</codiceFiscale>
+					<ragioneSociale>IMPIANTI ELETTRICI DI RUBELLO LINO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>615.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-11-02</dataInizio>
+				<dataUltimazione>2017-11-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>615.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD520A1815</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>MATERIALE IGIENICO - CARTA ASCIUGAMANI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00587470295</codiceFiscale>
+					<ragioneSociale>PULIVENETA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00587470295</codiceFiscale>
+					<ragioneSociale>PULIVENETA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>278.55</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-11-07</dataInizio>
+				<dataUltimazione>2017-11-10</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>278.55</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD820A19DF</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>VERIFICA PERIODICA IMPIANTI AI SENSI DEL DPR 462/01 SEDE VPA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>08427870012</codiceFiscale>
+					<ragioneSociale>ELLISSE SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>08427870012</codiceFiscale>
+					<ragioneSociale>ELLISSE SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>590.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-11-07</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>590.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZCE20BC0B3</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>LAMPADE PER VIDEOPROIETTORE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02203330283</codiceFiscale>
+					<ragioneSociale>RC SISTEMI AUDIOVISIVI SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02203330283</codiceFiscale>
+					<ragioneSociale>RC SISTEMI AUDIOVISIVI SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>250.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-11-14</dataInizio>
+				<dataUltimazione>2017-11-20</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>250.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3A20F17FA</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>CARTA IGIENICA MAXI JUMBO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03787130289</codiceFiscale>
+					<ragioneSociale>BIANCHI SNC DI BIANCHI IGINIO E LUCIANO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03787130289</codiceFiscale>
+					<ragioneSociale>BIANCHI SNC DI BIANCHI IGINIO E LUCIANO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>140.40</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-11-28</dataInizio>
+				<dataUltimazione>2017-11-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>140.40</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZC8210C961</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>ORGANIZZAZIONE E GESTIONE DELL&apos;EVENTO UNIVERSITY DAY 2018</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01220500290</codiceFiscale>
+					<ragioneSociale>INDALO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01220500290</codiceFiscale>
+					<ragioneSociale>INDALO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>15580.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-11-30</dataInizio>
+				<dataUltimazione>2018-02-16</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>15580.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z79212094A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA E POSA TERMOSIFONE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01538700293</codiceFiscale>
+					<ragioneSociale>TERMOIDRAULICA STOPPA LUCA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01538700293</codiceFiscale>
+					<ragioneSociale>TERMOIDRAULICA STOPPA LUCA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>945.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-12-05</dataInizio>
+				<dataUltimazione>2018-01-08</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>945.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5A21209C2</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>SVUOTAMENTO FOSSA SETTICA CENTRALE SEDE VPA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01447600295</codiceFiscale>
+					<ragioneSociale>BIANCHI G. PULIZIA RETI FOGNARIE DI BIANCHI GIANLUCA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01447600295</codiceFiscale>
+					<ragioneSociale>BIANCHI G. PULIZIA RETI FOGNARIE DI BIANCHI GIANLUCA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>420.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-12-05</dataInizio>
+				<dataUltimazione>2018-01-10</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>414.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7221456A0</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA E POSA SCALDACQUA E ACCESSORIO WC</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01480840295</codiceFiscale>
+					<ragioneSociale>EXSUS SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01480840295</codiceFiscale>
+					<ragioneSociale>EXSUS SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>660.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-12-13</dataInizio>
+				<dataUltimazione>2017-12-15</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>660.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3B214EF76</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>RIPARAZIONE AVVOLGIBILI E SERRATURE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01318300298</codiceFiscale>
+					<ragioneSociale>MARCOLIN ALESSIO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01318300298</codiceFiscale>
+					<ragioneSociale>MARCOLIN ALESSIO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>390.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-12-14</dataInizio>
+				<dataUltimazione>2018-01-17</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>390.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z522170A0E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>VERIFICA PERIODICA ASCENSORI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>05838941002</codiceFiscale>
+					<ragioneSociale>INCSA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>05838941002</codiceFiscale>
+					<ragioneSociale>INCSA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>392.58</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-12-21</dataInizio>
+				<dataUltimazione>2018-01-16</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>392.58</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>7194145C40</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO DI PULIZIA A RIDOTTO IMPATTO AMBIENTALE NELLE SEDI DEL CUR - PERIODO ANNI 2</oggetto>
+			<sceltaContraente>08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00357380294</codiceFiscale>
+					<ragioneSociale>SPZ DI PREGNOLATO SIMONETTA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>01070500283</codiceFiscale>
+					<ragioneSociale>COOPERATIVA SOLIDARIETA&apos; SOCIETA&apos; COOPERATIVA SOCIALE</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00357380294</codiceFiscale>
+					<ragioneSociale>SPZ DI PREGNOLATO SIMONETTA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>182703.46</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2018-01-04</dataInizio>
+				<dataUltimazione>2020-01-03</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>153341.37</importoSommeLiquidate>
+  </lotto>
+</data>
+</legge190:pubblicazione>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+  <titolo>Pubblicazione 1 legge 190</titolo>
+  <abstract>Pubblicazione 1 legge 190 rif. 2023</abstract>
+  <dataPubblicazioneDataset>2024-01-01</dataPubblicazioneDataset>
+  <entePubblicatore>Ente di Esempio</entePubblicatore>
+  <dataUltimoAggiornamentoDataset>2024-02-02</dataUltimoAggiornamentoDataset>
+  <annoRiferimento>2023</annoRiferimento>
+  <urlFile>http://www.patrasparente.it/public/11/datasets/dataset_2023.xml</urlFile>
+ 	<licenza>IODL</licenza>
+</metadata>
+<data>
+</data>
+</legge190:pubblicazione>

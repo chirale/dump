@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+  <titolo>Pubblicazione 1 legge 190</titolo>
+  <abstract>Pubblicazione 1 legge 190 anno 1 rif. 2010</abstract>
+  <dataPubbicazioneDataset>2018-01-01</dataPubbicazioneDataset>
+  <entePubblicatore>Amgas S.p.A.</entePubblicatore>
+  <dataUltimoAggiornamentoDataset>2018-01-19</dataUltimoAggiornamentoDataset>
+  <annoRiferimento>2017</annoRiferimento>
+  <urlFile>http://www.patrasparente.it/public/45/datasets/dataset_2017.xml</urlFile>
+ 	<licenza>IODL</licenza>
+</metadata>
+<data>
+  <lotto>
+		<cig>Z0C1EFFDF0</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di vigilanza armata degli immobili aziendali e vigilanza saltuaria alle cabine di decompressione.
+</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03146450717</codiceFiscale>
+					<ragioneSociale>Istituto di vigilanza Casalino srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>04049030713</codiceFiscale>
+					<ragioneSociale>Istituto di vigilanza Security Agency</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03146450717</codiceFiscale>
+					<ragioneSociale>Istituto di vigilanza Casalino srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>21414.60</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-07-10</dataInizio>
+				<dataUltimazione>2018-01-09</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>6949171D4F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Copertura assicurativa RCTO anno 2017</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>05032630963</codiceFiscale>
+					<ragioneSociale>ALLIANZ - Gerenza Roma</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>09758101001</codiceFiscale>
+					<ragioneSociale>Cattolica AIM underwriting Agency srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02339590719</codiceFiscale>
+					<ragioneSociale>Unipolsai assicurazioni di colucci gaetano</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02406060596</codiceFiscale>
+					<ragioneSociale>Assi(B) Underwriting srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03635450715</codiceFiscale>
+					<ragioneSociale>Generali Agenzia Affatato</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03635450715</codiceFiscale>
+					<ragioneSociale>Generali Agenzia Affatato</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>40900.50</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-01-01</dataInizio>
+				<dataUltimazione>2017-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>40900.50</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZCD1EB86C4</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Prestazioni specialistiche di manutenzione ordinaria e straordinaria degli impianti termici.</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03044170714</codiceFiscale>
+					<ragioneSociale>Antonacci termoidraulica</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>01528130717</codiceFiscale>
+					<ragioneSociale>Luigi Ficelo</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03279500718</codiceFiscale>
+					<ragioneSociale>Termo Edil Gallo</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01528130717</codiceFiscale>
+					<ragioneSociale>Luigi Ficelo</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>8500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-05-25</dataInizio>
+				<dataUltimazione>2018-05-24</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z041F3B2D6</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di centralino di pronto intervento/reperibilità per la rete di distribuzione del gas naturale del Comune di Foggia e Borgo Incoronata.</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03116040241</codiceFiscale>
+					<ragioneSociale>Telekottage Plus srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03467031211</codiceFiscale>
+					<ragioneSociale>Mediacom srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03467031211</codiceFiscale>
+					<ragioneSociale>Mediacom srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>19200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2018-01-01</dataInizio>
+				<dataUltimazione>2019-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2B1F57594</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di pulizia dei locali della sede AMGAS spa</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00123510711</codiceFiscale>
+					<ragioneSociale>Soc. Coop. di prod. e Lav. Tre Fiammelle</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00123510711</codiceFiscale>
+					<ragioneSociale>Soc. Coop. di prod. e Lav. Tre Fiammelle</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>34320.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-09-01</dataInizio>
+				<dataUltimazione>2018-08-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5D1DABB9E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori di adeguamento impiantistico Cabina MT/BT</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03495690715</codiceFiscale>
+					<ragioneSociale>Impresa Elettrica D.G. di per. comm. Giuseppina D&apos;Atri</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03977520711</codiceFiscale>
+					<ragioneSociale>Ingegneria Futura Energia</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03977520711</codiceFiscale>
+					<ragioneSociale>Ingegneria Futura Energia</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>19000.00</importoAggiudicazione>
+			<tempiCompletamento>
+			</tempiCompletamento>
+			<importoSommeLiquidate>19000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z611D35B55</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>lAVORI EDILI PER DIVISIONE UFFICI AZIENDALI E VARIE</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>07352050723</codiceFiscale>
+					<ragioneSociale>Globel di Baylon Michele</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03936690712</codiceFiscale>
+					<ragioneSociale>Home Infissi di Di Francesco Roberto</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03279500718</codiceFiscale>
+					<ragioneSociale>Termo Edil Gallo</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>07352050723</codiceFiscale>
+					<ragioneSociale>Globel di Baylon Michele</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>7000.00</importoAggiudicazione>
+			<tempiCompletamento>
+			</tempiCompletamento>
+			<importoSommeLiquidate>7000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZB21EC291C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>RIPARAZIONE E MANUTENZIONE UNITà FUJITSU</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02256040714</codiceFiscale>
+					<ragioneSociale>Porcelli Michele</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00588340711</codiceFiscale>
+					<ragioneSociale>Santoro Savino</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02092570718</codiceFiscale>
+					<ragioneSociale>Anzano Rocco</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00588340711</codiceFiscale>
+					<ragioneSociale>Santoro Savino</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>450.00</importoAggiudicazione>
+			<tempiCompletamento>
+			</tempiCompletamento>
+			<importoSommeLiquidate>450.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZB81D9A91A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori edili presso la cabina di decompressione e misura gas metano di via San severo</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03733630713</codiceFiscale>
+					<ragioneSociale>Diamante Costruzioni srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03625870714</codiceFiscale>
+					<ragioneSociale>Martino Michele</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03796410714</codiceFiscale>
+					<ragioneSociale>Italia Costruzioni srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03733630713</codiceFiscale>
+					<ragioneSociale>Diamante Costruzioni srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>14250.00</importoAggiudicazione>
+			<tempiCompletamento>
+			</tempiCompletamento>
+			<importoSommeLiquidate>14250.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z6F1DE5535</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura n. 300 misuratori gas metano classe G4</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00860920156</codiceFiscale>
+					<ragioneSociale>Meter Italia spa</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>08620190150</codiceFiscale>
+					<ragioneSociale>Pietro Fiorentini spa</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>04485940284</codiceFiscale>
+					<ragioneSociale>Metrix Italia srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02035310511</codiceFiscale>
+					<ragioneSociale>Qgas srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02285180655</codiceFiscale>
+					<ragioneSociale>Honeywell</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04485940284</codiceFiscale>
+					<ragioneSociale>Metrix Italia srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5130.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-03-20</dataInizio>
+				<dataUltimazione>2017-04-05</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>5130.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z701E0610C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura vestiario estivo ai dipendenti aventi diritto</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04068610718</codiceFiscale>
+					<ragioneSociale>C.R. Service srls</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02949200725</codiceFiscale>
+					<ragioneSociale>Artec srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02949200725</codiceFiscale>
+					<ragioneSociale>Artec srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1369.50</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-04-11</dataInizio>
+				<dataUltimazione>2017-05-15</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1369.50</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z921E2ADAB</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori edili urgenti di ripristino cabina di Via San Severo</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03733630713</codiceFiscale>
+					<ragioneSociale>Diamante Costruzioni srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03771870718</codiceFiscale>
+					<ragioneSociale>Vale.Ma impresa edile</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00357227071</codiceFiscale>
+					<ragioneSociale>C.R.A. Restauri </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03733630713</codiceFiscale>
+					<ragioneSociale>Diamante Costruzioni srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>15050.00</importoAggiudicazione>
+			<tempiCompletamento>
+			</tempiCompletamento>
+			<importoSommeLiquidate>15050.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z811EFDEB9</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura gruppo di riduzione a servizio forno crematorio/cimitero comunale di Foggia</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00519501209</codiceFiscale>
+					<ragioneSociale>O.M.T. Officina Meccanica Tartarini srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>08620190150</codiceFiscale>
+					<ragioneSociale>Pietro Fiorentini spa</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00519501209</codiceFiscale>
+					<ragioneSociale>O.M.T. Officina Meccanica Tartarini srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>6200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-06-14</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>6200.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z091E993D3</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori urgenti di ripristino muro di recinzione cabina di decompressione e misura di Via San Severo</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03541420711</codiceFiscale>
+					<ragioneSociale>Impresa Edile SC. Stefano di Chirea Stefan</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03733630713</codiceFiscale>
+					<ragioneSociale>Diamante Costruzioni srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03796410714</codiceFiscale>
+					<ragioneSociale>Italia Costruzioni srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03733630713</codiceFiscale>
+					<ragioneSociale>Diamante Costruzioni srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>18400.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-05-15</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>18400.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZC11F0D080</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>lAVORI DI RIPRISTINO MURO RECINTO ESTERNO, MASSETTO DI CEMENTO E PITTURAZIONE RECINZIONE CABINA bORGO INCORONATA</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03733630713</codiceFiscale>
+					<ragioneSociale>Diamante Costruzioni srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03917770715</codiceFiscale>
+					<ragioneSociale>RESTAURI E MANUTENZIONE SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03826870714</codiceFiscale>
+					<ragioneSociale>Martino Michele</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03733630713</codiceFiscale>
+					<ragioneSociale>Diamante Costruzioni srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>16100.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-06-21</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>16100.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZCC1F68D44</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura e posa in opera di linee elettriche preferenziali, gruppo di continuità e collegamenti elettrici vari</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02080840719</codiceFiscale>
+					<ragioneSociale>E.F.B. di Bellacosa Csimo</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03220560712</codiceFiscale>
+					<ragioneSociale>2T Elettrica snc</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02429250711</codiceFiscale>
+					<ragioneSociale>F.E.I. di Umberto D&apos;Agnone</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02080840719</codiceFiscale>
+					<ragioneSociale>E.F.B. di Bellacosa Csimo</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>17500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-07-19</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>17500.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z921F76ED4</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Sostituzione apparecchiature di videosorveglianza</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03806570713</codiceFiscale>
+					<ragioneSociale>N.C. Informatica di Nicola Cisternino</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>04072470711</codiceFiscale>
+					<ragioneSociale>S.F. Impiantistica</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02080840719</codiceFiscale>
+					<ragioneSociale>E.F.B. di Bellacosa Cosimo</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04072470711</codiceFiscale>
+					<ragioneSociale>S.F. Impiantistica</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>13500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-07-25</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>13500.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z071F77190</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori edili di messa in sicurezza locali cabina di Via San severo</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03733630713</codiceFiscale>
+					<ragioneSociale>Diamante Costruzioni srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>04146560711</codiceFiscale>
+					<ragioneSociale>Infiniti Costruzioni</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03796410714</codiceFiscale>
+					<ragioneSociale>Italia Costruzioni srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04146560711</codiceFiscale>
+					<ragioneSociale>Infiniti Costruzioni</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>18600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-07-25</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>18600.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE71F83A25</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori edili c/o uffici e zona ex CED 3° piano sede AMGAS spa</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03613650716</codiceFiscale>
+					<ragioneSociale>Pegaso Costruzioni e immobiliare</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>01874920711</codiceFiscale>
+					<ragioneSociale>Lady Casa di Antonio D&apos;Alessio</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03320370715</codiceFiscale>
+					<ragioneSociale>geom. Alessandro Iannice</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03320370715</codiceFiscale>
+					<ragioneSociale>geom. Alessandro Iannice</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>15000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-07-28</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>15000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z951FA6780</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura 300 misuratori gas metano classe G4</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04485940284</codiceFiscale>
+					<ragioneSociale>Metrix Italia srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00860920156</codiceFiscale>
+					<ragioneSociale>Meter Italia spa</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04485940284</codiceFiscale>
+					<ragioneSociale>Metrix Italia srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5130.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-08-16</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>5130.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZF81FCC4A9</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>SOTITUZIONE CORDE PER AVVOLGIBILI, KIT AVVOLGITORI E FORNITURA TENDAGGI</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03250520719</codiceFiscale>
+					<ragioneSociale>Aquilino Pompeo</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02264150711</codiceFiscale>
+					<ragioneSociale>Buonfino Michele</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03265570717</codiceFiscale>
+					<ragioneSociale>AT srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03265570717</codiceFiscale>
+					<ragioneSociale>AT srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>8550.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-09-06</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>8550.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZDD1FCB58A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>opere edili presso cabina di decompressione e misura gas metano di Borgo Incoronata</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04146560711</codiceFiscale>
+					<ragioneSociale>Infiniti Costruzioni</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03733630713</codiceFiscale>
+					<ragioneSociale>Diamante Costruzioni srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03796410714</codiceFiscale>
+					<ragioneSociale>Italia Costruzioni srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04146560711</codiceFiscale>
+					<ragioneSociale>Infiniti Costruzioni</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>21000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-09-06</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>21000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZB71FD3D63</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura n. 10 misuratori gas metano classe G6</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02285180655</codiceFiscale>
+					<ragioneSociale>Honeywell</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>08620190150</codiceFiscale>
+					<ragioneSociale>Pietro Fiorentini spa</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>04485940284</codiceFiscale>
+					<ragioneSociale>Metrix Italia srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00860920156</codiceFiscale>
+					<ragioneSociale>Meter Italia spa</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04485940284</codiceFiscale>
+					<ragioneSociale>Metrix Italia srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>415.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-09-08</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>415.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZAE200C1F9</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>SOSTTUZIONE GRUPPO ELETTROGENO</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03117060719</codiceFiscale>
+					<ragioneSociale>CMC ELETTROMECCANICA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>04132280712</codiceFiscale>
+					<ragioneSociale>TECNOELETTRA SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03676940715</codiceFiscale>
+					<ragioneSociale>DIIOR ENERGY SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03117060719</codiceFiscale>
+					<ragioneSociale>CMC ELETTROMECCANICA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>37000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-09-26</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0D200C4A9</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA E POSA IN OPERA DI IMPIANTISTICA AUSILIARIA AL GRUPPO ELETTROGENO</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03676940715</codiceFiscale>
+					<ragioneSociale>DIIOR ENERGY SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03117060719</codiceFiscale>
+					<ragioneSociale>CMC ELETTROMECCANICA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>04132280712</codiceFiscale>
+					<ragioneSociale>TECNOELETTRA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03117060719</codiceFiscale>
+					<ragioneSociale>CMC ELETTROMECCANICA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>13000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-09-26</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z192034E06</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura e posa in opera di tapparelle al 3° piano della sede AMGAS spa</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03936690712</codiceFiscale>
+					<ragioneSociale>Home Infissi di Di Francesco Roberto</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02364010716</codiceFiscale>
+					<ragioneSociale>Tecnoinfissi</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03248910717</codiceFiscale>
+					<ragioneSociale>AM Tapparelle srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03936690712</codiceFiscale>
+					<ragioneSociale>Home Infissi di Di Francesco Roberto</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>11500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-10-09</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z40207572A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>fornitura vestiario invernale 2017</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02949200725</codiceFiscale>
+					<ragioneSociale>Artec srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>04068610718</codiceFiscale>
+					<ragioneSociale>C.R. Service srls</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02949200725</codiceFiscale>
+					<ragioneSociale>Artec srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2282.68</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-10-25</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z1E20A3E05</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>fornitura e posa in opera di tende ignifughe</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03265570717</codiceFiscale>
+					<ragioneSociale>AT srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03936690712</codiceFiscale>
+					<ragioneSociale>Home Infissi di Di Francesco Roberto</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03802640718</codiceFiscale>
+					<ragioneSociale>Tappezzeria dell&apos;angolo</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03265570717</codiceFiscale>
+					<ragioneSociale>AT srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>12500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-11-07</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>6849920CCB</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori di costruzione e manutenzione ordinaria e straordinaria rete gas, servizio di reperibilità e prestazioni accessorie</oggetto>
+			<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+ 			<partecipanti>
+ 			 	<raggruppamento>
+					<membro>
+						<codiceFiscale>03971330711</codiceFiscale>
+						<ragioneSociale>Florio Group</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>04018220717</codiceFiscale>
+						<ragioneSociale>Impianti Generali Gas srl</ragioneSociale>
+						<ruolo>02-MANDATARIA</ruolo>
+					</membro>
+ 		 		</raggruppamento>
+ 			 	<raggruppamento>
+					<membro>
+						<codiceFiscale>03530851207</codiceFiscale>
+						<ragioneSociale>Consorzio Integra</ragioneSociale>
+						<ruolo>05-CONSORZIATA</ruolo>
+					</membro>
+ 		 		</raggruppamento>
+  			</partecipanti>
+ 		    <aggiudicatari>
+ 			 	<aggiudicatarioRaggruppamento>
+					<membro>
+						<codiceFiscale>03971330711</codiceFiscale>
+						<ragioneSociale>Florio Group</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>04018220717</codiceFiscale>
+						<ragioneSociale>Impianti Generali Gas srl</ragioneSociale>
+						<ruolo>02-MANDATARIA</ruolo>
+					</membro>
+ 			 	</aggiudicatarioRaggruppamento>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>678776.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-08-03</dataInizio>
+				<dataUltimazione>2019-02-02</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>722353165A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di lettura misuratori gas metano.</oggetto>
+			<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01078890504</codiceFiscale>
+					<ragioneSociale>G.P.S. di Botti Roberto</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01078890504</codiceFiscale>
+					<ragioneSociale>G.P.S. di Botti Roberto</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>133000.00</importoAggiudicazione>
+			<tempiCompletamento>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+</data>
+</legge190:pubblicazione>

@@ -1,0 +1,4293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+  <titolo>Pubblicazione 1 legge 190</titolo>
+  <abstract>Pubblicazione 1 legge 190 rif. 2022</abstract>
+  <dataPubblicazioneDataset>2023-01-01</dataPubblicazioneDataset>
+  <entePubblicatore>Comune di Brienza</entePubblicatore>
+  <dataUltimoAggiornamentoDataset>2023-01-31</dataUltimoAggiornamentoDataset>
+  <annoRiferimento>2022</annoRiferimento>
+  <urlFile>http://www.patrasparente.it/public/38/datasets/dataset_2022.xml</urlFile>
+ 	<licenza>IODL</licenza>
+</metadata>
+<data>
+  <lotto>
+		<cig>ZB63837237</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>POLIZZA INFORTUNI POLIZIA LOCALE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01992070761</codiceFiscale>
+					<ragioneSociale>TI ASSICURIAMO SRL -POTENZA-</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01992070761</codiceFiscale>
+					<ragioneSociale>TI ASSICURIAMO SRL -POTENZA-</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>100.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-10-19</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>100.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z8F3193A2B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>CESSIONE CONTRATTO ENEL  ENERGIA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>15844561009</codiceFiscale>
+					<ragioneSociale>ENEL EN ERGIA SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>15844561009</codiceFiscale>
+					<ragioneSociale>ENEL EN ERGIA SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>724.97</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-05-03</dataInizio>
+				<dataUltimazione>2021-05-04</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>724.97</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0D3514891</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>CANONE LOCAZION E FOTOCOPIATORE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01907090763</codiceFiscale>
+					<ragioneSociale>S.G. SISTEMI di Scorcia Damiana</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01907090763</codiceFiscale>
+					<ragioneSociale>S.G. SISTEMI di Scorcia Damiana</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>984.95</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-02-17</dataInizio>
+				<dataUltimazione>2022-02-17</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>984.95</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7239416A7</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>servizio rigenerazione toner</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01437000761</codiceFiscale>
+					<ragioneSociale>Lo Ponte Michele con sede in SantArcangelo</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01437000761</codiceFiscale>
+					<ragioneSociale>Lo Ponte Michele con sede in SantArcangelo</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1995.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-22</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE536B2706</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>ACQUISTO SOFFIATORE STIHL</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01757600760</codiceFiscale>
+					<ragioneSociale>TORRICELLI MOTORS GIUSEPPE -BRIENZA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01757600760</codiceFiscale>
+					<ragioneSociale>TORRICELLI MOTORS GIUSEPPE -BRIENZA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>258.20</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-07</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2C34F36A5</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>SPESE POSTALI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01114601006</codiceFiscale>
+					<ragioneSociale>POSTE ITALIANE</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01114601006</codiceFiscale>
+					<ragioneSociale>POSTE ITALIANE</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-26</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>76.94</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9A368967C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>buoni carburante</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00905811006</codiceFiscale>
+					<ragioneSociale>eni spa -Roma</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00905811006</codiceFiscale>
+					<ragioneSociale>eni spa -Roma</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>9300.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-05-24</dataInizio>
+				<dataUltimazione>2022-09-15</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>9208.01</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z41355572C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>INCARICO COSULENZA PSICOLOGICA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01658640766</codiceFiscale>
+					<ragioneSociale>FABIANI FRANCESCA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01658640766</codiceFiscale>
+					<ragioneSociale>FABIANI FRANCESCA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>645.46</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-02-23</dataInizio>
+				<dataUltimazione>2022-04-01</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>645.46</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9E36723F7</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>ACQUISTO CARTA PER FOTOCOPIE E CANCELLERIA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01451190761</codiceFiscale>
+					<ragioneSociale>SANTORUFO ANTONINO -BRIENZA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01451190761</codiceFiscale>
+					<ragioneSociale>SANTORUFO ANTONINO -BRIENZA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>125.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-05-17</dataInizio>
+				<dataUltimazione>2022-06-14</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>121.50</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2836007C9</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>SOSTITUZIONE SPAZZOLE TERGICRISTALLO NACETTA DUCATO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01659750762</codiceFiscale>
+					<ragioneSociale>TONY MOTOR SYSTEM -BRIENZA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01659750762</codiceFiscale>
+					<ragioneSociale>TONY MOTOR SYSTEM -BRIENZA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>35.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-04-13</dataInizio>
+				<dataUltimazione>2022-07-17</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>35.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZC3360066C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>ACQUISTO TONER MEGACOM</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01104500762</codiceFiscale>
+					<ragioneSociale>MEGACOM DI ROBERTO CARDONE -BRIENZA-</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01104500762</codiceFiscale>
+					<ragioneSociale>MEGACOM DI ROBERTO CARDONE -BRIENZA-</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>148.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-04-13</dataInizio>
+				<dataUltimazione>2022-05-13</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>148.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0235D3AA0</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>ACQUISTO PRODOTTI IGIENICO SANITARI </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01560060764</codiceFiscale>
+					<ragioneSociale>TECLA MARKET -PERGOLA DI MARSICONUOVO-</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01560060764</codiceFiscale>
+					<ragioneSociale>TECLA MARKET -PERGOLA DI MARSICONUOVO-</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>424.56</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-04-15</dataInizio>
+				<dataUltimazione>2022-04-22</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>373.10</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3B3536475</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>RIPARAZIONE CAPPA DI ASPIRAZIONE MENSA SCOLASTICA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01167110658</codiceFiscale>
+					<ragioneSociale>PASSARELLI NICOLA -CAGGIANO-</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01167110658</codiceFiscale>
+					<ragioneSociale>PASSARELLI NICOLA -CAGGIANO-</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>120.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>0022-02-18</dataInizio>
+				<dataUltimazione>2022-04-29</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>98.36</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5435BEEC7</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>ACQUISTO BUONI COVID 19</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01652400761</codiceFiscale>
+					<ragioneSociale>Edizioni Le Penseur con sede in Brienza </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01652400761</codiceFiscale>
+					<ragioneSociale>Edizioni Le Penseur con sede in Brienza </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>195.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-03-24</dataInizio>
+				<dataUltimazione>2022-04-22</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>195.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3636EACF3</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>fornitura piante ornamentali</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01807330764</codiceFiscale>
+					<ragioneSociale>SIAMO AL VERDE di Battista Rosamaria e Grano Rosanna con sede in Brienza </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01807330764</codiceFiscale>
+					<ragioneSociale>SIAMO AL VERDE di Battista Rosamaria e Grano Rosanna con sede in Brienza </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>830.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-23</dataInizio>
+				<dataUltimazione>2022-07-08</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>801.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z963639BC7</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>ACQUISTO POLIZZA RCT</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>05131840653</codiceFiscale>
+					<ragioneSociale>MARF BROKER SNC di Matta Marco e Squillante Francesco </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>05131840653</codiceFiscale>
+					<ragioneSociale>MARF BROKER SNC di Matta Marco e Squillante Francesco </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3324.50</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-05-03</dataInizio>
+				<dataUltimazione>2022-05-08</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3324.50</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z6635F5B44</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>progetto diversi da chi 3 Polizza infortuni</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>05131840653</codiceFiscale>
+					<ragioneSociale>marf broker</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>05131840653</codiceFiscale>
+					<ragioneSociale>marf broker</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>150.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-04-11</dataInizio>
+				<dataUltimazione>2022-05-11</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>150.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0735E9228</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>AFFIDAMENTO INCARICO PSICOLOGO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01658640766</codiceFiscale>
+					<ragioneSociale>FABIANI FRANCESCA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01658640766</codiceFiscale>
+					<ragioneSociale>FABIANI FRANCESCA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3160.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-04-07</dataInizio>
+				<dataUltimazione>2022-09-27</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3159.92</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z8D36CDF11</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Polizza anno 202.2023 autocarro fiat fiorino</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>05131840653</codiceFiscale>
+					<ragioneSociale>marf broker di Marco Matta -Salerno-</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>05131840653</codiceFiscale>
+					<ragioneSociale>marf broker di Marco Matta -Salerno-</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>280.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-15</dataInizio>
+				<dataUltimazione>2022-06-16</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>280.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZCB36D761A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Mantenimento cani randagi presso canile Aprile - Dicembre 2022</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01502810763</codiceFiscale>
+					<ragioneSociale>MPL - RICOVERO CANI PIPPO di Notarfrancesco Antonio con sede in Paterno (PZ) </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01502810763</codiceFiscale>
+					<ragioneSociale>MPL - RICOVERO CANI PIPPO di Notarfrancesco Antonio con sede in Paterno (PZ) </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>15300.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-17</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>10963.98</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z8036E5701</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>SERATA  DEL 25.06.2022 MANIFESTAZIONI &quot;Diritto allarte Festiva-Tracce di passato, Sentieri per il futuro 2022&quot; </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>LSOVCN95H12E977O</codiceFiscale>
+					<ragioneSociale>MAESTRO LIOSI VINCENZO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>LSOVCN95H12E977O</codiceFiscale>
+					<ragioneSociale>MAESTRO LIOSI VINCENZO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>100.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-22</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7136E57DD</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>&quot;Diritto allarte Festiva-Tracce di passato, Sentieri per il futuro 2022&quot; MANIFESTAZIONE DL 25.06.2022 NOLEGGIO PIANOFORTE </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>05729300656</codiceFiscale>
+					<ragioneSociale>WILLIAMSON COMPANY SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>05729300656</codiceFiscale>
+					<ragioneSociale>WILLIAMSON COMPANY SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>400.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-22</dataInizio>
+				<dataUltimazione>2022-07-06</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>400.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3736F4EFF</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>acquisto bouquet di fiori</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00925080764</codiceFiscale>
+					<ragioneSociale>Il Giardino di Vietri Rosa Anna -Brienza-</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00925080764</codiceFiscale>
+					<ragioneSociale>Il Giardino di Vietri Rosa Anna -Brienza-</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>480.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-27</dataInizio>
+				<dataUltimazione>2022-11-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>480.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZC836F1BE0</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>manutenzione ordinaria scuolabus comunali</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>LPRRFL71A13B173G</codiceFiscale>
+					<ragioneSociale>Autofficina Lopardo Raffaele - Brienza-</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>LPRRFL71A13B173G</codiceFiscale>
+					<ragioneSociale>Autofficina Lopardo Raffaele - Brienza-</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>728.69</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-27</dataInizio>
+				<dataUltimazione>2022-07-07</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>728.99</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3D36FEC82</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>ACQUISTO TONER E DRUM</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01437000761</codiceFiscale>
+					<ragioneSociale>M. &amp; P. RECYCLING di Lo Ponte  Michele </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01437000761</codiceFiscale>
+					<ragioneSociale>M. &amp; P. RECYCLING di Lo Ponte  Michele </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2896.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-30</dataInizio>
+				<dataUltimazione>2022-07-08</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2896.60</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZF93702124</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>SEGNALETICA STARDALE POSTO DISABILE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01741350761</codiceFiscale>
+					<ragioneSociale>CGA s.r.l. Unipersonale   Brienza  (PZ) (85050) in viale Stazione, 126 </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01741350761</codiceFiscale>
+					<ragioneSociale>CGA s.r.l. Unipersonale   Brienza  (PZ) (85050) in viale Stazione, 126 </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>192.49</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-30</dataInizio>
+				<dataUltimazione>2022-08-19</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>192.46</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z653745215</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura carta fotocopiatrice e cancelleria varia</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>SNTNNN77P28G942N</codiceFiscale>
+					<ragioneSociale>cartolidea di Santorufo Antonino</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>SNTNNN77P28G942N</codiceFiscale>
+					<ragioneSociale>cartolidea di Santorufo Antonino</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>518.93</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-07-25</dataInizio>
+				<dataUltimazione>2022-08-10</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>518.93</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z80377D0AF</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Quota adesione anno 2022 fondazione  Osservatorio Regionale Ambientale </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>10478971004</codiceFiscale>
+					<ragioneSociale>Paesaggio Culturale Italiano srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>10478971004</codiceFiscale>
+					<ragioneSociale>Paesaggio Culturale Italiano srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-08-17</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA7372F52D</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Acquisto colla pubbliche affissioni</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01817300765</codiceFiscale>
+					<ragioneSociale>Edilcasa srl Brienza</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01817300765</codiceFiscale>
+					<ragioneSociale>Edilcasa srl Brienza</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>165.60</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-07-18</dataInizio>
+				<dataUltimazione>2022-08-19</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>165.60</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5D3792C24</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>ACQUISTO BUNI BENZINA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00905811006</codiceFiscale>
+					<ragioneSociale>ENI SPA -ROMA-</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00905811006</codiceFiscale>
+					<ragioneSociale>ENI SPA -ROMA-</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-08-30</dataInizio>
+				<dataUltimazione>2022-09-27</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1485.40</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZC03792F4B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>ACQUISTO BUONI CARBURANTE GASOLIO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00905811006</codiceFiscale>
+					<ragioneSociale>ENI SPA -ROMA-</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00905811006</codiceFiscale>
+					<ragioneSociale>ENI SPA -ROMA-</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-08-30</dataInizio>
+				<dataUltimazione>2022-09-27</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3564.39</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZBE37ABCD3</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>sostituzione batteria scuolabus iveco daily</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01152230767</codiceFiscale>
+					<ragioneSociale>Officina Lopardo Raffaele -Brienza-</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01152230767</codiceFiscale>
+					<ragioneSociale>Officina Lopardo Raffaele -Brienza-</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>159.83</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-09-07</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0337AC24F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Taratura e controllo tachigrafo scuolabus IVECO e MERCEDES BENZ</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04592650651</codiceFiscale>
+					<ragioneSociale>Casale srl Sala Consilina</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04592650651</codiceFiscale>
+					<ragioneSociale>Casale srl Sala Consilina</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>166.65</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-09-07</dataInizio>
+				<dataUltimazione>2022-10-14</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>166.65</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZF637BA2A4</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>revisione scuolabus</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00549090769</codiceFiscale>
+					<ragioneSociale>Agenzia pratiche auto-assicurazioni di Sabbatella Antonio </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00549090769</codiceFiscale>
+					<ragioneSociale>Agenzia pratiche auto-assicurazioni di Sabbatella Antonio </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>245.91</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-09-13</dataInizio>
+				<dataUltimazione>2022-12-07</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>169.22</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE937CD301</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Acquisto computer e monitor ufficio protocollo e monitor per stampanti</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01104500762</codiceFiscale>
+					<ragioneSociale>MEGACOM di roberto Cardone</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01104500762</codiceFiscale>
+					<ragioneSociale>MEGACOM di roberto Cardone</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1168.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-09-19</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5437E35F9</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>sanificazione locali sede elezioni politiche del 25.09.2022</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01902860764</codiceFiscale>
+					<ragioneSociale>pls industries srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01902860764</codiceFiscale>
+					<ragioneSociale>pls industries srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>286.88</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-09-25</dataInizio>
+				<dataUltimazione>2022-10-24</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>286.88</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5737E8633</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Affidamento incarico Psicologo</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01658640766</codiceFiscale>
+					<ragioneSociale>Dott.ssa Fabiani Francesca</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01658640766</codiceFiscale>
+					<ragioneSociale>Dott.ssa Fabiani Francesca</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4400.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-09-27</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2999.42</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2A380A5FF</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Revisione scuolabus MERCEDES BENZ SPRINTER targato CT478JT</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00549090769</codiceFiscale>
+					<ragioneSociale>Agenzia pratiche auto-assicurazioni di Sabbatella </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00549090769</codiceFiscale>
+					<ragioneSociale>Agenzia pratiche auto-assicurazioni di Sabbatella </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>125.91</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-10-06</dataInizio>
+				<dataUltimazione>2022-12-15</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>120.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z67380D8C1</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura cassetta di pronto soccorso</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01817300765</codiceFiscale>
+					<ragioneSociale>EDILCASA srl con sede in Brienza Via Sasso n. 101 </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01817300765</codiceFiscale>
+					<ragioneSociale>EDILCASA srl con sede in Brienza Via Sasso n. 101 </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>36.07</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-10-06</dataInizio>
+				<dataUltimazione>2022-11-29</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>36.07</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z39384A7B0</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Acquisto e rilegatura registri di stato civile</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00089070403</codiceFiscale>
+					<ragioneSociale>Grafiche e Gaspari srl Via Minghetti n. 18  40057- Cadriano </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00089070403</codiceFiscale>
+					<ragioneSociale>Grafiche e Gaspari srl Via Minghetti n. 18  40057- Cadriano </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>660.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-10-25</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z863851996</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori di riparazione scuolabus Mercedes e Iveco Daily</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01152230767</codiceFiscale>
+					<ragioneSociale>Autofficina Lopardo Raffaele con sede in Brienza alla C.da Mancosa</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01152230767</codiceFiscale>
+					<ragioneSociale>Autofficina Lopardo Raffaele con sede in Brienza alla C.da Mancosa</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>164.75</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-10-26</dataInizio>
+				<dataUltimazione>2022-11-23</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>109.84</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z8D3872FDE</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>	Acquisto libri per biblioteca comunale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01773790769</codiceFiscale>
+					<ragioneSociale>Libreria KIRIA di Fabrizia Gioiosa con sede in Potenza in Viale Dante n. 88/90 </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01773790769</codiceFiscale>
+					<ragioneSociale>Libreria KIRIA di Fabrizia Gioiosa con sede in Potenza in Viale Dante n. 88/90 </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>561.30</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-11-05</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD83874FD9</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Acquisti Polizza RCT periodo 11.11.2022 - 11.05.2023</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>05131840653</codiceFiscale>
+					<ragioneSociale>MARF BROKER SNC di Matta Marco e Squillante Francesco, con sede in Salerno alla Via Trento n. 39 84129 Salerno </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>05131840653</codiceFiscale>
+					<ragioneSociale>MARF BROKER SNC di Matta Marco e Squillante Francesco, con sede in Salerno alla Via Trento n. 39 84129 Salerno </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3324.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-11-07</dataInizio>
+				<dataUltimazione>2022-12-02</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3324.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z4F38BE7C3</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>istallazione luminaria natalizie</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01642610768</codiceFiscale>
+					<ragioneSociale>ILLUMINAZIONE GATTA SNC - TITO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01642610768</codiceFiscale>
+					<ragioneSociale>ILLUMINAZIONE GATTA SNC - TITO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-11-24</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZCE392F1C7</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Acquisto libri di testo anno 2022/2023</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01591480767</codiceFiscale>
+					<ragioneSociale>Edicola Cartolibreria EVERY DAY di Loisi Rossella</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01591480767</codiceFiscale>
+					<ragioneSociale>Edicola Cartolibreria EVERY DAY di Loisi Rossella</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>116.20</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-19</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z243950479</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>ACQUISTO BLOCCHETTI MENSA SCOLASTICA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01652400761</codiceFiscale>
+					<ragioneSociale>Edizioni Le Penseur BRIENZA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01652400761</codiceFiscale>
+					<ragioneSociale>Edizioni Le Penseur BRIENZA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>408.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-28</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5F395221A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Acquisto cancelleria</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00825000763</codiceFiscale>
+					<ragioneSociale>Vemar srl con sede in Paterno </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00825000763</codiceFiscale>
+					<ragioneSociale>Vemar srl con sede in Paterno </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>397.80</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-28</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9D395503A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>RIPARAZIONE SCUOLABUS FRENO DI STAZIONAMENTO ETC</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01152230767</codiceFiscale>
+					<ragioneSociale>Autofficina Lopardo Raffaele con sede in Brienza alla C.da Mancosa, </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01152230767</codiceFiscale>
+					<ragioneSociale>Autofficina Lopardo Raffaele con sede in Brienza alla C.da Mancosa, </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>227.05</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-29</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z423955422</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Riparazione scuolabus ritocchi verniciatura e riparazione barra stabilizzatrice Giallorenzo</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00766190763</codiceFiscale>
+					<ragioneSociale>AUTOCARROZZERIA GIALLORENZO Pasquale con sede in Brienza </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00766190763</codiceFiscale>
+					<ragioneSociale>AUTOCARROZZERIA GIALLORENZO Pasquale con sede in Brienza </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>250.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-29</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2135B1322</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>acquisto cancelleria</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01451190761</codiceFiscale>
+					<ragioneSociale>Cartolidea di Santorufo Antonino Brienza</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01451190761</codiceFiscale>
+					<ragioneSociale>Cartolidea di Santorufo Antonino Brienza</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>324.77</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-03-22</dataInizio>
+				<dataUltimazione>2022-04-01</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>324.77</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z693555B17</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Acquisto blocchetti buoni mensa scolastica</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01652400761</codiceFiscale>
+					<ragioneSociale>ESIZIONI LE PENSEUR BRIENZA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01652400761</codiceFiscale>
+					<ragioneSociale>ESIZIONI LE PENSEUR BRIENZA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>456.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-02-23</dataInizio>
+				<dataUltimazione>2022-03-23</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>456.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z15353D2D0</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>realizzazione audio guide comune di Brienza</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02052080765</codiceFiscale>
+					<ragioneSociale>Flico srl con sede in Potenza Piazza Vittorio Emanuele</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02052080765</codiceFiscale>
+					<ragioneSociale>Flico srl con sede in Potenza Piazza Vittorio Emanuele</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2900.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-02-16</dataInizio>
+				<dataUltimazione>2022-03-24</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2900.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0636CE6CD</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>fornitura polizza RCA scuolabus comunali</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>05131840653</codiceFiscale>
+					<ragioneSociale>società-Marf Broker snc di Matta Marco e Squillante Francesco</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>05131840653</codiceFiscale>
+					<ragioneSociale>società-Marf Broker snc di Matta Marco e Squillante Francesco</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1960.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-15</dataInizio>
+				<dataUltimazione>2022-06-20</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1960.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z92366CB6E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>acquisto gabine elettorali</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>05113710650</codiceFiscale>
+					<ragioneSociale>Sorem Forniture srl con sede nel comune di San Pietro al Tanagro (SA) </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>05113710650</codiceFiscale>
+					<ragioneSociale>Sorem Forniture srl con sede nel comune di San Pietro al Tanagro (SA) </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2920.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-05-16</dataInizio>
+				<dataUltimazione>2022-06-07</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2920.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z4936C9FA3</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>REALIZZAZIONE PERCORSI ESCURSIONISTICI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>96008140764</codiceFiscale>
+					<ragioneSociale>Pro-loco Brienza</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>96008140764</codiceFiscale>
+					<ragioneSociale>Pro-loco Brienza</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>31475.41</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-14</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD6379C073</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Supporto ai servizi comunali di trasporto e mobilità</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01741950768</codiceFiscale>
+					<ragioneSociale>SCELZO ADRIANO -BRIENZA-</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01741950768</codiceFiscale>
+					<ragioneSociale>SCELZO ADRIANO -BRIENZA-</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>12783.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-09-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4309.99</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZC6379C00F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>TRASPORTO SCOLASTICO 2022/2023 LOTTO N. 3</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01687890762</codiceFiscale>
+					<ragioneSociale>DIVITO ROSALBA -BRIENZA-</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01687890762</codiceFiscale>
+					<ragioneSociale>DIVITO ROSALBA -BRIENZA-</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>13850.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-09-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3387.27</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2334BFF91</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di smaltimento in discarica rifiuti umidi indifferenziati </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01929410767</codiceFiscale>
+					<ragioneSociale>NEW ECOLOGY SYSTEM S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01929410767</codiceFiscale>
+					<ragioneSociale>NEW ECOLOGY SYSTEM S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>39000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2022-06-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>37439.95</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z673941992</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>fornitura carta</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00825000763</codiceFiscale>
+					<ragioneSociale>vemar sas</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00825000763</codiceFiscale>
+					<ragioneSociale>vemar sas</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>812.15</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-22</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3A394C0DE</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>SUPPORTO SERVIZI UFFICI COMUNALI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01101030763</codiceFiscale>
+					<ragioneSociale>Office Information sas di Marsicovetere </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01101030763</codiceFiscale>
+					<ragioneSociale>Office Information sas di Marsicovetere </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3836.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-27</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2A395BA7F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Acquisto asfalto XPA </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02235870348</codiceFiscale>
+					<ragioneSociale>Sabbie di Parma srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02235870348</codiceFiscale>
+					<ragioneSociale>Sabbie di Parma srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4785.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-30</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA8370FD7C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Smaltimento in discarica rifiuti umidi e indifferenziati </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01929410767</codiceFiscale>
+					<ragioneSociale>NEW ECOLOGY SYSTEM S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01929410767</codiceFiscale>
+					<ragioneSociale>NEW ECOLOGY SYSTEM S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>39000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-01</dataInizio>
+				<dataUltimazione>2022-10-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>35834.71</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3735C1410</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Incarico di svolgimento del servizio legale per la procedura monitoria di recupero crediti per rimozione della gru a torre allocata in via Santa Maria </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>LMSRND83P11H223L</codiceFiscale>
+					<ragioneSociale>LO MASTRO Orlando</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>LMSRND83P11H223L</codiceFiscale>
+					<ragioneSociale>LO MASTRO Orlando</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1301.73</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-03-28</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z173907FF0</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Sistemazione e ripristino funzionalità reti perimetrali del campo di calcetto in località Monte </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>05134010650</codiceFiscale>
+					<ragioneSociale>SOFOR COSTRUZIONI DI STEFANO SOFFIENTINI</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>05134010650</codiceFiscale>
+					<ragioneSociale>SOFOR COSTRUZIONI DI STEFANO SOFFIENTINI</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1246.29</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-21</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9A35CE131</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>servizi tecnici di redazione del collaudo strutturale, dei lavori di realizzazione di un campo bocce </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>SSSGPP63M03B173U</codiceFiscale>
+					<ragioneSociale>Arch. Giuseppe Antonio Sassano</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>SSSGPP63M03B173U</codiceFiscale>
+					<ragioneSociale>Arch. Giuseppe Antonio Sassano</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2829.23</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-03-30</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5D395CE20</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di rifacimento delle strisce pedonali e segnaletica orizzontale </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01741350761</codiceFiscale>
+					<ragioneSociale>CGA S.r.l. Unipersonale</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01741350761</codiceFiscale>
+					<ragioneSociale>CGA S.r.l. Unipersonale</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4960.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-30</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE83950D2E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>fornitura di materiale vari di consumo</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00896610763</codiceFiscale>
+					<ragioneSociale>SCELZO Cataldo &amp; Figli snc di Scelzo Angelo &amp; Rosa</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00896610763</codiceFiscale>
+					<ragioneSociale>SCELZO Cataldo &amp; Figli snc di Scelzo Angelo &amp; Rosa</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>149.54</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-30</dataInizio>
+				<dataUltimazione>2023-01-17</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>149.54</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9F39162CE</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Affidamento della fornitura di disinfettante e igienizzante per la bonifica dei terreni post-esumazione e di tutte le attrezzature cimiteriali</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01483910558</codiceFiscale>
+					<ragioneSociale>FEDA S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01483910558</codiceFiscale>
+					<ragioneSociale>FEDA S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>646.50</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-15</dataInizio>
+				<dataUltimazione>2023-01-19</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>646.50</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZBE394D0D6</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Affidamento manutenzione e ricarica estintori situati negli uffici comunali, nelle scuole ed autobus, secondo
+semestre 2022</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02428560656</codiceFiscale>
+					<ragioneSociale>Antincendi Valdiano SAS di Calicchio Antonio e Cavella Luca &amp; C</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02428560656</codiceFiscale>
+					<ragioneSociale>Antincendi Valdiano SAS di Calicchio Antonio e Cavella Luca &amp; C</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>479.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-30</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z1A37DE3AB</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>INCARICO LEGALE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>MRLFNC78M05H501M</codiceFiscale>
+					<ragioneSociale>Studio Legale Morlino Franco</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>MRLFNC78M05H501M</codiceFiscale>
+					<ragioneSociale>Studio Legale Morlino Franco</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>667.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-09-22</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZBC3947FE6</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Affidamento fornitura di Sale marino industriale granulare antigelo, in sacchi da Kg. 25 per disgelo ghiaccio sulle strade comunali inerente la stagione invernale 2022/2023</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00896610763</codiceFiscale>
+					<ragioneSociale>Scelzo Cataldo &amp; Figli snc</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00896610763</codiceFiscale>
+					<ragioneSociale>Scelzo Cataldo &amp; Figli snc</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1639.34</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-27</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA738DFD53</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>lavori di  ripristino di porzioni di pavimentazione presso listituto
+comprensivo di Brienza scuola secondaria di primo grado</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01792910760</codiceFiscale>
+					<ragioneSociale>LM Arte Casa di LOPARDO Maurizio</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01792910760</codiceFiscale>
+					<ragioneSociale>LM Arte Casa di LOPARDO Maurizio</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-15</dataInizio>
+				<dataUltimazione>2023-01-17</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>600.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z14373FF76</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>manifestazioni Pro-Loco</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02146650763</codiceFiscale>
+					<ragioneSociale>Pro-Loco Brienza Città d&apos;Arte</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02146650763</codiceFiscale>
+					<ragioneSociale>Pro-Loco Brienza Città d&apos;Arte</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>37629.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-07-22</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>29336.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7A390CE96</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Incarico professionale per redazione della SCIA antincendio (edificio scuola media e edificio Scuola Elementare) - Variazione catastale - Certificato di Agibilità edificio Scuola Media ed Elementare</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+ 			 	<raggruppamento>
+					<membro>
+						<codiceFiscale>01124350768</codiceFiscale>
+						<ragioneSociale>Gildo Testigrosso</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>01703170769</codiceFiscale>
+						<ragioneSociale>Dario Doti</ragioneSociale>
+						<ruolo>04-CAPOGRUPPO</ruolo>
+					</membro>
+ 		 		</raggruppamento>
+  			</partecipanti>
+ 		    <aggiudicatari>
+ 			 	<aggiudicatarioRaggruppamento>
+					<membro>
+						<codiceFiscale>01124350768</codiceFiscale>
+						<ragioneSociale>Gildo Testigrosso</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>01703170769</codiceFiscale>
+						<ragioneSociale>Dario Doti</ragioneSociale>
+						<ruolo>04-CAPOGRUPPO</ruolo>
+					</membro>
+ 			 	</aggiudicatarioRaggruppamento>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4945.50</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-15</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2F38DFC5B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori di riparazione centrale termica a servizio della mensa/scuola Media </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01520080761</codiceFiscale>
+					<ragioneSociale>Rocco Pietrafesa</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01520080761</codiceFiscale>
+					<ragioneSociale>Rocco Pietrafesa</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2524.50</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-11</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3738BAD54</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori di ripristino orologio da torre sul municipio </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01967470764</codiceFiscale>
+					<ragioneSociale>Canonico Michelangelo di Michele Canonico</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01967470764</codiceFiscale>
+					<ragioneSociale>Canonico Michelangelo di Michele Canonico</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-05</dataInizio>
+				<dataUltimazione>2023-01-20</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>600.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZCE38538C2</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura materiali per manutenzione patrimonio pubblico impianti e scuole </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01817300765</codiceFiscale>
+					<ragioneSociale>Edilcasa srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01817300765</codiceFiscale>
+					<ragioneSociale>Edilcasa srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1227.45</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-10-27</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1227.45</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z043875A5C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>ACQUISTO BLOCCHETTI MENSA SCOLASTICA 2022.2023</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01652400761</codiceFiscale>
+					<ragioneSociale>ANDRIUOLI ANTONIETTA -BRIENZA-</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01652400761</codiceFiscale>
+					<ragioneSociale>ANDRIUOLI ANTONIETTA -BRIENZA-</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>408.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-11-07</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z8D381421A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Collaborazione operazioni cimiteriali di  tumulazione, estumulazione con relativa raccolta dei resti anatomici e risagomatura dei tumuli di terra sulle sepolture delle dei defunti</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01456080769</codiceFiscale>
+					<ragioneSociale>Lopardo Giuseppe</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01456080769</codiceFiscale>
+					<ragioneSociale>Lopardo Giuseppe</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4800.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-10-12</dataInizio>
+				<dataUltimazione>2022-11-25</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4800.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZBE37C7CE6</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Nolo automezzo dotato di cestello con operatore per la manutenzione dellimpianto di pubblica </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00004380762</codiceFiscale>
+					<ragioneSociale>F.lli Lopardo &amp; C. srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00004380762</codiceFiscale>
+					<ragioneSociale>F.lli Lopardo &amp; C. srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2028.69</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-09-21</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z983907E6E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di collaborazione operazioni cimiteriali di; tumulazione, estumulazione con relativa raccolta dei resti anatomici e risagomatura dei tumuli di terra sulle sepolture delle dei defunti per anni uno </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>LPRGPP66A24G942Q</codiceFiscale>
+					<ragioneSociale>Lopardo Giuseppe</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>LPRGPP66A24G942Q</codiceFiscale>
+					<ragioneSociale>Lopardo Giuseppe</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>8250.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-15</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7D37CFB82</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di smaltimento in discarica rifiuti indifferenziati Periodo set-dic 2022 </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01630150769</codiceFiscale>
+					<ragioneSociale>AGECO srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01630150769</codiceFiscale>
+					<ragioneSociale>AGECO srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>15526.95</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-10-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>15526.95</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z1F38A48D5</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Smaltimento in discarica rifiuti umidi </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01929410767</codiceFiscale>
+					<ragioneSociale>NEW ECOLOGY SYSTEM S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01929410767</codiceFiscale>
+					<ragioneSociale>NEW ECOLOGY SYSTEM S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>8000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-10-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>6191.89</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE1384C548</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>lavori di manutenzione fabbricato Caserma C.C. per riqualificazione portone di ingresso e chiusura porta interna </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01925900761</codiceFiscale>
+					<ragioneSociale>Amaranto srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01925900761</codiceFiscale>
+					<ragioneSociale>Amaranto srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>538.09</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-10-26</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7E37C7C51</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di materiale legnoso per la manutenzione del patrimonio pubblico </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01962480768</codiceFiscale>
+					<ragioneSociale>LEGNO Sud Ambiente e Foreste Srls</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01962480768</codiceFiscale>
+					<ragioneSociale>LEGNO Sud Ambiente e Foreste Srls</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1490.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-09-19</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0938EF5F0</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Smaltimento rifiuti cimiteriali </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01630150769</codiceFiscale>
+					<ragioneSociale>AGECO srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01630150769</codiceFiscale>
+					<ragioneSociale>AGECO srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z92395AF4F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Interventi di manutenzione ordinaria su tratti delle arterie stradali comunali, tramite accordo quadro</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+  			</partecipanti>
+ 		    <aggiudicatari>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>39700.00</importoAggiudicazione>
+			<tempiCompletamento>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE83875FED</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>ACQUISTO LIBRI BIBLIOTECA COMUNALE </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01899430761</codiceFiscale>
+					<ragioneSociale>Libreria Marcella Stigliano con sede in Marsicovetere</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01899430761</codiceFiscale>
+					<ragioneSociale>Libreria Marcella Stigliano con sede in Marsicovetere</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>687.65</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-11-07</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5E3823556</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>fornitura di materiale di consumo stampante dellufficio tecnico (Toner HP LaserJet M234sdwe) </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01104500762</codiceFiscale>
+					<ragioneSociale>Roberto Cardone</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01104500762</codiceFiscale>
+					<ragioneSociale>Roberto Cardone</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>112.20</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-10-14</dataInizio>
+				<dataUltimazione>2022-11-10</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>112.20</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z723875E84</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>ACQUISTO LIBRI BIBLIOTECA COMUNALE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01293140768</codiceFiscale>
+					<ragioneSociale>Libreria DIFFUSIONE EDITORIALE ERMES SRL VIA ANGILLA VECCHIA 141  85100 - POTENZA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01293140768</codiceFiscale>
+					<ragioneSociale>Libreria DIFFUSIONE EDITORIALE ERMES SRL VIA ANGILLA VECCHIA 141  85100 - POTENZA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>594.84</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-11-07</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZF3377375A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di terreno vegetale da consegnare presso il cimitero Comunale sito in Brienza (PZ) alla contrada Piano di Casola </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01779240769</codiceFiscale>
+					<ragioneSociale>GM EDIL Costruzioni Generali di Mino Giancristiano</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01779240769</codiceFiscale>
+					<ragioneSociale>GM EDIL Costruzioni Generali di Mino Giancristiano</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>243.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-08-11</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9B372F3E7</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori per la riparazione di n. 16 cestini per la raccolta dei rifiuti posti lungo le strade del centro urbano </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01915900763</codiceFiscale>
+					<ragioneSociale>MACCHIA Francesco</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01915900763</codiceFiscale>
+					<ragioneSociale>MACCHIA Francesco</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>960.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-08-11</dataInizio>
+				<dataUltimazione>2022-09-29</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>960.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3737C7BCF</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di sfalcio erba ivi compreso la pulizia dellarea da effettuarsi presso le arterie di: Crocifisso-Monte, Pezzafarina-Monte, Monte e strada Pozzi Braide </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>LPRDNL91H18E977N</codiceFiscale>
+					<ragioneSociale>Lopardo Daniele</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>05046470653</codiceFiscale>
+					<ragioneSociale>Scaffa Donato</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>LPRDNL91H18E977N</codiceFiscale>
+					<ragioneSociale>Lopardo Daniele</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2459.02</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-09-20</dataInizio>
+				<dataUltimazione>2022-10-17</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2459.02</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZB93555729</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>gestione rifiuti covid19 affidamento ritiro trasporto e smaltimento </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01630150769</codiceFiscale>
+					<ragioneSociale>Ageco srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01630150769</codiceFiscale>
+					<ragioneSociale>Ageco srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>15985.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-03-01</dataInizio>
+				<dataUltimazione>2022-05-01</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>15985.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZCD35557A6</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>smaltimento scarti di attività rifiuti Conai </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01630150769</codiceFiscale>
+					<ragioneSociale>Ageco srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01630150769</codiceFiscale>
+					<ragioneSociale>Ageco srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4363.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4105.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3136C924E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura gas metano edifici pubblici </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03916040656</codiceFiscale>
+					<ragioneSociale> Salerno Energia Vendite SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03916040656</codiceFiscale>
+					<ragioneSociale> Salerno Energia Vendite SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>20000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-14</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>19944.45</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5335247BA</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>LIQUIDAZIONE FATTURE FORNITURA GAS EDIFICI C.LI </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03916040656</codiceFiscale>
+					<ragioneSociale>SALERNO ENERGIA VENDITE SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03916040656</codiceFiscale>
+					<ragioneSociale>SALERNO ENERGIA VENDITE SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>36000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-02-09</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>35909.08</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>8525705256</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA ENERGIA ELETTRICA MESI 6 ANNO 2022</oggetto>
+			<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02616630022</codiceFiscale>
+					<ragioneSociale>NOVA AEG SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02616630022</codiceFiscale>
+					<ragioneSociale>NOVA AEG SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>67539.76</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2022-07-22</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>67539.76</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>9246231732</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA ENERGIA ELETTRICA </oggetto>
+			<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02616630022</codiceFiscale>
+					<ragioneSociale>NOVA AEG SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02616630022</codiceFiscale>
+					<ragioneSociale>NOVA AEG SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>354742.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-07-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>101572.99</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z603565891</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>spese telefoniche</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00488410010</codiceFiscale>
+					<ragioneSociale>TIM SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00488410010</codiceFiscale>
+					<ragioneSociale>TIM SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>6800.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-02-28</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3799.06</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>0152008076</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO TECNICO PROGETTAZIONE DEF. ESECUTIVA DI RIQUALIFICAZIONE AREA EX FERROVIA IN VIALE STAZIONE E CREAZIONE TERMINAL BUS</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+ 			 	<raggruppamento>
+					<membro>
+						<codiceFiscale>BRNSVT59S28D876B</codiceFiscale>
+						<ragioneSociale>BRUNO SALVATORE</ragioneSociale>
+						<ruolo>02-MANDATARIA</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>FRRPQL98D09G942H</codiceFiscale>
+						<ragioneSociale>FERRARESE PASQUALE</ragioneSociale>
+						<ruolo>02-MANDATARIA</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>PLLCML71C61G942K</codiceFiscale>
+						<ragioneSociale>PALLADINO CARMELA</ragioneSociale>
+						<ruolo>02-MANDATARIA</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>DSTNGL66A20B173O</codiceFiscale>
+						<ragioneSociale>RTP DISTEFANO</ragioneSociale>
+						<ruolo>04-CAPOGRUPPO</ruolo>
+					</membro>
+ 		 		</raggruppamento>
+  			</partecipanti>
+ 		    <aggiudicatari>
+ 			 	<aggiudicatarioRaggruppamento>
+					<membro>
+						<codiceFiscale>BRNSVT59S28D876B</codiceFiscale>
+						<ragioneSociale>BRUNO SALVATORE</ragioneSociale>
+						<ruolo>02-MANDATARIA</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>FRRPQL98D09G942H</codiceFiscale>
+						<ragioneSociale>FERRARESE PASQUALE</ragioneSociale>
+						<ruolo>02-MANDATARIA</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>PLLCML71C61G942K</codiceFiscale>
+						<ragioneSociale>PALLADINO CARMELA</ragioneSociale>
+						<ruolo>02-MANDATARIA</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>DSTNGL66A20B173O</codiceFiscale>
+						<ragioneSociale>RTP DISTEFANO</ragioneSociale>
+						<ruolo>04-CAPOGRUPPO</ruolo>
+					</membro>
+ 			 	</aggiudicatarioRaggruppamento>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>27225.44</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-24</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z103670298</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>fornitura di materiale di consumo per stampante OKI C810 </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01104500762</codiceFiscale>
+					<ragioneSociale>Megacom di Cardone Roberto</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01104500762</codiceFiscale>
+					<ragioneSociale>Megacom di Cardone Roberto</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>220.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-05-17</dataInizio>
+				<dataUltimazione>2022-05-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>220.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z6F36E5753</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO RICARICA ESTINTORI EDIFICI COMUNALI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02428560656</codiceFiscale>
+					<ragioneSociale>ANTINCENDIO VALDIANO  SAS</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02428560656</codiceFiscale>
+					<ragioneSociale>ANTINCENDIO VALDIANO  SAS</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>664.50</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-26</dataInizio>
+				<dataUltimazione>2022-07-06</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>664.50</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5A37F83F8</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>RINNOVO OMOLOGAZIONE DEL MANTO IN ERBA SINTETICA ALLO STADIO COMUNALE S. GIULIANO </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>09807131009</codiceFiscale>
+					<ragioneSociale>LND SERVIZI SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>09807131009</codiceFiscale>
+					<ragioneSociale>LND SERVIZI SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-10-03</dataInizio>
+				<dataUltimazione>2022-11-04</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3E36C67BA</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>fornitura di materiali e minuteria varia per la manutenzione del patrimonio pubblico </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00896610763</codiceFiscale>
+					<ragioneSociale>Scelzo Cataldo &amp; Figli</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00896610763</codiceFiscale>
+					<ragioneSociale>Scelzo Cataldo &amp; Figli</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>158.41</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-14</dataInizio>
+				<dataUltimazione>2022-06-23</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>158.41</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9538187E9</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori in economia ultimazione spazi interni scuola media corso Umberto I </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01910840766</codiceFiscale>
+					<ragioneSociale>E.G.D. Costruzioni di Macrì Enrico &amp; C. snc,</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01910840766</codiceFiscale>
+					<ragioneSociale>E.G.D. Costruzioni di Macrì Enrico &amp; C. snc,</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5210.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-10-14</dataInizio>
+				<dataUltimazione>2022-12-11</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>5210.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA437FC409</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di sacchi per immondizia nero da lt. 90/120 e bitume a freddo in sacchi pronti alluso </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01402430761</codiceFiscale>
+					<ragioneSociale>Autotrasporti Ciniglio</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00896610763</codiceFiscale>
+					<ragioneSociale>Scelzo Cataldo &amp; Figli</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01402430761</codiceFiscale>
+					<ragioneSociale>Autotrasporti Ciniglio</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>729.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-10-04</dataInizio>
+				<dataUltimazione>2022-11-16</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>729.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z6D37A4BCF</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>INCARICO tecnico per perizia sulle caratteristiche dei fabbricati rurali non dichiarati nellanno 2017, a seguito del quale è stata emessa la cartella di PAGAMENTO N. 092 2021 00056186 63 000 dallAgenzia delle entrate-Riscossione. </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>MGLBDT86D07E977X</codiceFiscale>
+					<ragioneSociale>MIGLIONICO BENEDETTO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>MGLBDT86D07E977X</codiceFiscale>
+					<ragioneSociale>MIGLIONICO BENEDETTO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>150.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-09-07</dataInizio>
+				<dataUltimazione>2023-01-20</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>150.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7B37A4BA9</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>INCARICO Legale per costituzione in giudizio impugnazione della cartella di PAGAMENTO N. 092 2021 00056186 63 000 emessa dallAgenzia delle entrate-Riscossione, Agente della riscossione - di Potenza </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01683380768</codiceFiscale>
+					<ragioneSociale>Maria Michela Cuda</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01683380768</codiceFiscale>
+					<ragioneSociale>Maria Michela Cuda</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>680.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-09-07</dataInizio>
+				<dataUltimazione>2022-10-05</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>680.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZF63777BD0</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>lavori di realizzazione indagini geofisiche e geognostiche relative al progetto di &quot;Messa in sicurezza strade comunali (strada Santa Lucia-Pezzafarina) </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00924480767</codiceFiscale>
+					<ragioneSociale>PASCALE CAVE E COSTRUZIONI SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00924480767</codiceFiscale>
+					<ragioneSociale>PASCALE CAVE E COSTRUZIONI SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>7146.66</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-10-06</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z08372ACE8</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori di esecuzione delle indagini geofisiche e geognostiche relative al progetto di RECUPERO E RIQUALIFICAZIONE ZONA PRATO - VIA CALATA PRATO </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01701820621</codiceFiscale>
+					<ragioneSociale>Geo-tecnica srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01701820621</codiceFiscale>
+					<ragioneSociale>Geo-tecnica srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>23058.93</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-09-14</dataInizio>
+				<dataUltimazione>2023-01-17</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>22586.01</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7D38A2852</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Affidamento del servizio di spalamento neve e spargimento
+sale strade comunali</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01925900761</codiceFiscale>
+					<ragioneSociale>AMARANTO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01925900761</codiceFiscale>
+					<ragioneSociale>AMARANTO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>450.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-11-17</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZAF38A2812</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Affidamento del servizio di spalamento neve e spargimento
+sale strade comunali </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>LPRDNL91H18E977N</codiceFiscale>
+					<ragioneSociale>Lopardo Daniele</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>LPRDNL91H18E977N</codiceFiscale>
+					<ragioneSociale>Lopardo Daniele</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-11-17</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZC838A27F2</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Affidamento del servizio di spalamento neve e spargimento sale strade comunali</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>CLLCLD54A21B173M</codiceFiscale>
+					<ragioneSociale>Collazzo Cataldo</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>CLLCLD54A21B173M</codiceFiscale>
+					<ragioneSociale>Collazzo Cataldo</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-11-17</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z8D38A27BB</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Affidamento del servizio di spalamento neve e spargimento
+sale strade comunali</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01940320763</codiceFiscale>
+					<ragioneSociale>Antonio Monaco</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01940320763</codiceFiscale>
+					<ragioneSociale>Antonio Monaco</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-11-17</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE038A278D</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Affidamento del servizio di spalamento neve e spargimento sale strade comunali</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>MSTGPP68B27B173B</codiceFiscale>
+					<ragioneSociale>Mastroberti Giuseppe</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>MSTGPP68B27B173B</codiceFiscale>
+					<ragioneSociale>Mastroberti Giuseppe</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-11-17</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z6237042F5</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di Due PC, Due Monitor, due licenze Microsoft office 2019, una stampante multifunzione e trasferimento dati</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01104500762</codiceFiscale>
+					<ragioneSociale> Megacom di Cardone Roberto</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01104500762</codiceFiscale>
+					<ragioneSociale> Megacom di Cardone Roberto</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2035.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-07-04</dataInizio>
+				<dataUltimazione>2022-07-20</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2035.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z6B38A2764</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Affidamento del servizio di spalamento neve e spargimento sale strade comunali</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>DLCGPP81R11G942I</codiceFiscale>
+					<ragioneSociale>De Luca Giuseppe</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>DLCGPP81R11G942I</codiceFiscale>
+					<ragioneSociale>De Luca Giuseppe</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-11-17</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3E38A2707</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Affidamento del servizio di spalamento neve e spargimento sale strade comunali </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>CLLPQL69T20G942Z</codiceFiscale>
+					<ragioneSociale>Pasquale Collazzo</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>CLLPQL69T20G942Z</codiceFiscale>
+					<ragioneSociale>Pasquale Collazzo</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-11-17</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZF1371F4A1</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di materiali e minuteria varia per la manutenzione del patrimonio pubblico Cimitero e impianti </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01817300765</codiceFiscale>
+					<ragioneSociale>Edilcasa srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01817300765</codiceFiscale>
+					<ragioneSociale>Edilcasa srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1046.19</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-07-14</dataInizio>
+				<dataUltimazione>2022-08-11</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1046.19</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z973955E4C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>CANONE NOLO FOTOCOPIATORE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01590220768</codiceFiscale>
+					<ragioneSociale>S.G. SISTEMI </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01590220768</codiceFiscale>
+					<ragioneSociale>S.G. SISTEMI </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1097.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-29</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZB9395E300</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>CANONE CENTRALINO TELEFONICO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01617640766</codiceFiscale>
+					<ragioneSociale>COET SERVICE SRL con sede in Potenza</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01617640766</codiceFiscale>
+					<ragioneSociale>COET SERVICE SRL con sede in Potenza</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-30</dataInizio>
+				<dataUltimazione>2022-12-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD436BD9CA</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Affidamento del servizio di supporto per le procedure gestite dall&apos;ufficio tecnico</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01509120760</codiceFiscale>
+					<ragioneSociale>Giuseppe PALLADINO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01509120760</codiceFiscale>
+					<ragioneSociale>Giuseppe PALLADINO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>24831.74</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-21</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4139.64</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7D34E14B0</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>quota associativa ASMEL</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03357090129</codiceFiscale>
+					<ragioneSociale>ASMEL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03357090129</codiceFiscale>
+					<ragioneSociale>ASMEL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>980.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-20</dataInizio>
+				<dataUltimazione>2022-01-20</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>980.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZF034D5CF6</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Polizze Rca auto anno 2022</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00000000000</codiceFiscale>
+					<ragioneSociale>Marf Broker snc di Matta Marco e Squillante Francesco</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00000000000</codiceFiscale>
+					<ragioneSociale>Marf Broker snc di Matta Marco e Squillante Francesco</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-19</dataInizio>
+				<dataUltimazione>2022-01-19</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3236BDA3F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Affidamento del servizio di supporto per le procedure gestite dall&apos;ufficio tecnico </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01728240761</codiceFiscale>
+					<ragioneSociale>Alessandro M. FISCELLA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01728240761</codiceFiscale>
+					<ragioneSociale>Alessandro M. FISCELLA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>24570.35</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-21</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4095.04</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z4F3948CAE</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>DIRITTO UTILIZZO MARCHI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>10478971004</codiceFiscale>
+					<ragioneSociale>PAESAGGIO CULTURALE ITALIANO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>10478971004</codiceFiscale>
+					<ragioneSociale>PAESAGGIO CULTURALE ITALIANO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-23</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z8738A4B5F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>AFFIDAMENTO SERVIZIO POSTALIZZAZIONE AVVISI TARI E IMU</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01502750977</codiceFiscale>
+					<ragioneSociale>MEDIA SERVIZI SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01502750977</codiceFiscale>
+					<ragioneSociale>MEDIA SERVIZI SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>8313.88</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-11-17</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z203906202</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Affidamento del servizio tecnico di redazione di una perizia in relazione alla natura dei materiali sequestrati nell&apos;ambito delle indagini preliminari in area comunale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01822640767</codiceFiscale>
+					<ragioneSociale>F4 INGIEGNERIA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01822640767</codiceFiscale>
+					<ragioneSociale>F4 INGIEGNERIA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-12</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z76381D9C2</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>RINNOVO E MANUTENZIONE SOFWARE GESTIONALE CALCOLO STRUTTURALE DITTA STACEC </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00936250802</codiceFiscale>
+					<ragioneSociale>STACEC SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00936250802</codiceFiscale>
+					<ragioneSociale>STACEC SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-10-12</dataInizio>
+				<dataUltimazione>2022-10-17</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>500.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE839068DA</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA LIBRI DI TESTO SCUOLA PRIMARIA ANNO 2022/2023</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00946750767</codiceFiscale>
+					<ragioneSociale>Lopardo Giuseppe con sede in Brienza alla via Roma </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00946750767</codiceFiscale>
+					<ragioneSociale>Lopardo Giuseppe con sede in Brienza alla via Roma </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4796.67</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-12</dataInizio>
+				<dataUltimazione>2022-12-28</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4796.67</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z33390A4E6</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>acquisto batteria scuolabus Mercedes Sprinter</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01152230767</codiceFiscale>
+					<ragioneSociale>AUTOFFICINA /AUTOLAVAGGIO di Lopardo Raffaele</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01152230767</codiceFiscale>
+					<ragioneSociale>AUTOFFICINA /AUTOLAVAGGIO di Lopardo Raffaele</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>106.56</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-12</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z72393F165</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>fornitura materiali ufficio</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01104500762</codiceFiscale>
+					<ragioneSociale>MEGACOM di Roberto Cardone con sede in Brienza </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01104500762</codiceFiscale>
+					<ragioneSociale>MEGACOM di Roberto Cardone con sede in Brienza </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>211.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-22</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZEB37FE6DC</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori di fornitura e posa in opera di segnaletica verticale e orizzontale nel centro abitato.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01741350761</codiceFiscale>
+					<ragioneSociale>CGA s.r.l. Unipersonale  con sede in Brienza  </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01741350761</codiceFiscale>
+					<ragioneSociale>CGA s.r.l. Unipersonale  con sede in Brienza  </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2660.60</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-10-03</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2C392621B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>manifestazione il Medioevo</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>96052630769</codiceFiscale>
+					<ragioneSociale>MUSICA VITA MIA -BRIENZA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>96052630769</codiceFiscale>
+					<ragioneSociale>MUSICA VITA MIA -BRIENZA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>20000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-16</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z253818E00</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Acquisto pneumatici scuolabus Iveco e Mercedes</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01152230767</codiceFiscale>
+					<ragioneSociale>Autofficina Lopardo Raffaele con sede in Brienza alla C.da Mancosa</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01152230767</codiceFiscale>
+					<ragioneSociale>Autofficina Lopardo Raffaele con sede in Brienza alla C.da Mancosa</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>852.46</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-10-11</dataInizio>
+				<dataUltimazione>2022-12-02</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>852.46</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5A356BBF0</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>BOLLI AUTOMEZZI 2022</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00549090769</codiceFiscale>
+					<ragioneSociale>AGENZIA PRATICHE AUTO Sabbatella</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00549090769</codiceFiscale>
+					<ragioneSociale>AGENZIA PRATICHE AUTO Sabbatella</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1829.34</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-03-03</dataInizio>
+				<dataUltimazione>2022-03-03</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1829.34</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5335342BA</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>COLLABORAZIONE OPERAZIONI CIMITERIALI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>LPRGPP66A24G942Q</codiceFiscale>
+					<ragioneSociale>a Lopardo Giuseppe</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>LPRGPP66A24G942Q</codiceFiscale>
+					<ragioneSociale>a Lopardo Giuseppe</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1952.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-02-15</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA0379BF9F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>TRASPORTO SCOLASTICO 2022/2023 LOTTO 1</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00927230763</codiceFiscale>
+					<ragioneSociale>COLLAZZO PIETRO -BRIENZA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00927230763</codiceFiscale>
+					<ragioneSociale>COLLAZZO PIETRO -BRIENZA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>14300.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-09-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3862.67</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z8F379BFF1</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Trasporto scolastico anno 2022/2023 - Lotto n. 2</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00840970768</codiceFiscale>
+					<ragioneSociale>FERRIGNO GIUSEPPE ANTONIO -BRIENZA -</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00840970768</codiceFiscale>
+					<ragioneSociale>FERRIGNO GIUSEPPE ANTONIO -BRIENZA -</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>13850.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-09-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3724.84</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z8E36D29DA</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di manutenzione Fiat Fiorino </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01152230767</codiceFiscale>
+					<ragioneSociale>Autofficina Lopardo Raffaele</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01152230767</codiceFiscale>
+					<ragioneSociale>Autofficina Lopardo Raffaele</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>401.64</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-19</dataInizio>
+				<dataUltimazione>2022-07-01</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>401.64</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9936C6CA5</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di nolo a caldo autogru per trasloco magazzini comunali </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00896610763</codiceFiscale>
+					<ragioneSociale>Scelzo Cataldo &amp; Figli</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00896610763</codiceFiscale>
+					<ragioneSociale>Scelzo Cataldo &amp; Figli</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>250.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-14</dataInizio>
+				<dataUltimazione>2022-06-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>250.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9D35DF292</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>RILASCIO PARERE LEGALE &quot;PRO VERITATE&quot; sui Lavori di restauro conservativo del palazzo
+Paternoster - Lavori di completamento. Contratto rep. n. 928 del 08/05/2012 e atto aggiuntivo n. 994 03/03/2015. Procedimento di risoluzione contratto d&apos;appalto</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>GRRBNR76B07G942Y</codiceFiscale>
+					<ragioneSociale>avvocato Bernardo GARRAMONE</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>GRRBNR76B07G942Y</codiceFiscale>
+					<ragioneSociale>avvocato Bernardo GARRAMONE</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>800.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-04-21</dataInizio>
+				<dataUltimazione>2022-06-01</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>800.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZCC35BF3AB</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio aggiornamento software in datazione
+allufficio tecnico</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01883740647</codiceFiscale>
+					<ragioneSociale>ACCA software S.p.A.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01883740647</codiceFiscale>
+					<ragioneSociale>ACCA software S.p.A.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>462.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-03-25</dataInizio>
+				<dataUltimazione>2022-04-01</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>462.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z51358498B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto> LIQUIDAZIONE CANONI ATTRAVERSAMENTI STRADALI ANAS SPA ANNO 2021</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02133681003</codiceFiscale>
+					<ragioneSociale>ANAS SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02133681003</codiceFiscale>
+					<ragioneSociale>ANAS SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1236.12</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-03-17</dataInizio>
+				<dataUltimazione>2022-03-17</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1236.12</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA7357FDB2</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>liquidazione fatture fornitura acqua potabile edifici c.li e fontane pubbliche </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01522200763</codiceFiscale>
+					<ragioneSociale>Acquedotto Lucano</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01522200763</codiceFiscale>
+					<ragioneSociale>Acquedotto Lucano</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3697.54</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-03-08</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2560.52</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7C357C9E8</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>bollini invalidi </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00089070403</codiceFiscale>
+					<ragioneSociale>C.Gaspari</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00089070403</codiceFiscale>
+					<ragioneSociale>C.Gaspari</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>100.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-03-09</dataInizio>
+				<dataUltimazione>2022-04-01</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>95.47</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z853717F47</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di sanificazione Caserma Carabinieri </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01925900761</codiceFiscale>
+					<ragioneSociale>Amaranto srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01925900761</codiceFiscale>
+					<ragioneSociale>Amaranto srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>400.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-07-08</dataInizio>
+				<dataUltimazione>2022-07-29</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>400.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>9427442B3D</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio mensa Scolastica</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01995520762</codiceFiscale>
+					<ragioneSociale>MELANDRO SERVICE SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01995520762</codiceFiscale>
+					<ragioneSociale>MELANDRO SERVICE SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>100000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-09-30</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>14758.63</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5736F325D</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Manutenzione straordinaria Terna Benati Targa
+AAG916 </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+  			</partecipanti>
+ 		    <aggiudicatari>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>8811.48</importoAggiudicazione>
+			<tempiCompletamento>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z6336D523A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Liquidazione compensi e spese come da sentenze del Tar Basilicata n. 356/2021 e n. 225/2022</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>BRNDNL82M56G942K</codiceFiscale>
+					<ragioneSociale>Avv. DANIELA BRIENZA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>BRNDNL82M56G942K</codiceFiscale>
+					<ragioneSociale>Avv. DANIELA BRIENZA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1924.99</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-08-11</dataInizio>
+				<dataUltimazione>2022-09-12</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1924.99</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE537F5131</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>CANONE GESTIONE IMPIANTO DI DEPURAZIONE - SALDO 2018 E DAL 19-06-2020 AL 18-08-2021</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02068870761</codiceFiscale>
+					<ragioneSociale>FUTURA AMBIENTE srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02068870761</codiceFiscale>
+					<ragioneSociale>FUTURA AMBIENTE srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>30694.58</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-10-03</dataInizio>
+				<dataUltimazione>2022-10-03</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>30694.58</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD837F519C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>CANONE GESTIONE IMPIANTO DI DEPURAZIONE -DAL 19-08-2021 AL 26-02-2022 E MANUTENZIONE IMPIANTO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02068870761</codiceFiscale>
+					<ragioneSociale>FUTURA AMBIENTE srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02068870761</codiceFiscale>
+					<ragioneSociale>FUTURA AMBIENTE srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>17087.65</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-10-03</dataInizio>
+				<dataUltimazione>2022-10-03</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>17087.65</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZEF37F51ED</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>MANUTENZIONE IMPIANTO DI DEPURAZIONE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02068870761</codiceFiscale>
+					<ragioneSociale>FUTURA AMBIENTE srl </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02068870761</codiceFiscale>
+					<ragioneSociale>FUTURA AMBIENTE srl </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>10556.79</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-10-03</dataInizio>
+				<dataUltimazione>2022-10-03</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>10556.79</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3B356DDBE</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>ELABORAZIONE PEF ANNUALITA&apos; 2022-2025</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00975860768</codiceFiscale>
+					<ragioneSociale>PUBLISYS SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00975860768</codiceFiscale>
+					<ragioneSociale>PUBLISYS SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-03-02</dataInizio>
+				<dataUltimazione>2022-06-09</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1500.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7E362ABF5</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>INTERESSI PER RITARDO PAGAMENTO SERVIZIO DI SMALTIMENTO DEI RIFIUTI ATTO PRECETTO DEL 17-02-2022 PROT. 1436 DELLS B&amp;B ECO </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01610810762</codiceFiscale>
+					<ragioneSociale> B &amp; B ECO S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01610810762</codiceFiscale>
+					<ragioneSociale> B &amp; B ECO S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5166.90</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-04-28</dataInizio>
+				<dataUltimazione>2022-05-20</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>5166.91</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZF9354B4FC</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio tecnico di progettazione preliminare definitiva, esecutiva, coordinamento della sicurezza in fase di progettazione ed esecuzione, direzione lavori, misura e  dell&apos;area ex ferrovia in viale Stazione e creazione terminal bus </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+ 			 	<raggruppamento>
+					<membro>
+						<codiceFiscale>01224220762</codiceFiscale>
+						<ragioneSociale>BRUNO SALVATORE</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>02068370762</codiceFiscale>
+						<ragioneSociale>FERRARESE PASQUALE</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>01509720767</codiceFiscale>
+						<ragioneSociale>PALLADINO CARMELA</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>01526210768</codiceFiscale>
+						<ragioneSociale>DISTEFANO ANGELO</ragioneSociale>
+						<ruolo>02-MANDATARIA</ruolo>
+					</membro>
+ 		 		</raggruppamento>
+  			</partecipanti>
+ 		    <aggiudicatari>
+ 			 	<aggiudicatarioRaggruppamento>
+					<membro>
+						<codiceFiscale>01224220762</codiceFiscale>
+						<ragioneSociale>BRUNO SALVATORE</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>02068370762</codiceFiscale>
+						<ragioneSociale>FERRARESE PASQUALE</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>01509720767</codiceFiscale>
+						<ragioneSociale>PALLADINO CARMELA</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>01526210768</codiceFiscale>
+						<ragioneSociale>DISTEFANO ANGELO</ragioneSociale>
+						<ruolo>02-MANDATARIA</ruolo>
+					</membro>
+ 			 	</aggiudicatarioRaggruppamento>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>23141.62</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-24</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z8C3623FF5</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80003110766</codiceFiscaleProp>
+					<denominazione>Comune di Brienza</denominazione>
+			</strutturaProponente>
+			<oggetto>SPESE LEGALI RELATIVE AD ATTO DI PRECETTO DEL 17/02/2022 PROT. 1436 DELLA B&amp;B ECO                               </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>STGCDD73A56G942F</codiceFiscale>
+					<ragioneSociale>AVV.Candida Stigliani</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>STGCDD73A56G942F</codiceFiscale>
+					<ragioneSociale>AVV.Candida Stigliani</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1069.15</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-04-27</dataInizio>
+				<dataUltimazione>2022-05-20</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1067.15</importoSommeLiquidate>
+  </lotto>
+</data>
+</legge190:pubblicazione>

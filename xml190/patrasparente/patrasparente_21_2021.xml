@@ -1,0 +1,3660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+  <titolo>Pubblicazione 1 legge 190</titolo>
+  <abstract>Pubblicazione 1 legge 190 rif. 2021</abstract>
+  <dataPubblicazioneDataset>2022-01-01</dataPubblicazioneDataset>
+  <entePubblicatore>MTF Srl</entePubblicatore>
+  <dataUltimoAggiornamentoDataset>2024-01-17</dataUltimoAggiornamentoDataset>
+  <annoRiferimento>2021</annoRiferimento>
+  <urlFile>http://www.patrasparente.it/public/21/datasets/dataset_2021.xml</urlFile>
+ 	<licenza>IODL</licenza>
+</metadata>
+<data>
+  <lotto>
+		<cig>ZD43195A7E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio pratiche motorizzazione</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01505280303</codiceFiscale>
+					<ragioneSociale>ALFA Autoconsulenza friulana di Bertossi Dario e Saltarini Lucio snc</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01505280303</codiceFiscale>
+					<ragioneSociale>ALFA Autoconsulenza friulana di Bertossi Dario e Saltarini Lucio snc</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-05-03</dataInizio>
+				<dataUltimazione>2021-10-28</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>500.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZF9309A5C2</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Manutenzione allestimenti compattatori stradali anno 2021</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02773500307</codiceFiscale>
+					<ragioneSociale>ALL CRANE SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02773500307</codiceFiscale>
+					<ragioneSociale>ALL CRANE SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>39500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-01-01</dataInizio>
+				<dataUltimazione>2021-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>25973.65</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z213118731</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura prodotti igienizzanti</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01379010935</codiceFiscale>
+					<ragioneSociale>ALTUR SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01379010935</codiceFiscale>
+					<ragioneSociale>ALTUR SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-03-22</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>316.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Y3D30A4DBB</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Canone di manutenzione e assistenza anno 2021</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02224150272</codiceFiscale>
+					<ragioneSociale>AMBIENTE.IT SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02224150272</codiceFiscale>
+					<ragioneSociale>AMBIENTE.IT SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>100.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-01-01</dataInizio>
+				<dataUltimazione>2021-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>100.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE732002C4</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di carico e trasporto ad impianto CER 200301 - 150106</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01434200935</codiceFiscale>
+					<ragioneSociale>AMBIENTE SERVIZI SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01434200935</codiceFiscale>
+					<ragioneSociale>AMBIENTE SERVIZI SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-06-04</dataInizio>
+				<dataUltimazione>2021-09-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>8540.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z39318DE5B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura adesivi magnetici</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01779500303</codiceFiscale>
+					<ragioneSociale>ART&amp; GRAFICA SNC di Ganis Luigi e Lian Paolino</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01779500303</codiceFiscale>
+					<ragioneSociale>ART&amp; GRAFICA SNC di Ganis Luigi e Lian Paolino</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-04-29</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>459.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD931A047B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di assistenza tecnica su presenze web</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01934580307</codiceFiscale>
+					<ragioneSociale>ASIA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01934580307</codiceFiscale>
+					<ragioneSociale>ASIA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-05-07</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1332.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZEC316D107</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Timbratore rilevazione presenze GPRS e relativi accessori</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01934580307</codiceFiscale>
+					<ragioneSociale>ASIA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01934580307</codiceFiscale>
+					<ragioneSociale>ASIA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-04-28</dataInizio>
+				<dataUltimazione>2021-05-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>740.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZCF3124B1F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura badge rilevazione presenze</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01934580307</codiceFiscale>
+					<ragioneSociale>ASIA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01934580307</codiceFiscale>
+					<ragioneSociale>ASIA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-03-25</dataInizio>
+				<dataUltimazione>2021-03-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>145.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z37309E916</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Locazione uffici e magazzino anno 2021</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01305890301</codiceFiscale>
+					<ragioneSociale>BETTY SAS di Luigi Daneluzzo</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01305890301</codiceFiscale>
+					<ragioneSociale>BETTY SAS di Luigi Daneluzzo</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>30000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-01-01</dataInizio>
+				<dataUltimazione>2021-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>30000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>86085586CA</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di raccolta e trasporto rifiuti grandi utenze e Giornata della Raccolta nel Comune di Lignano Sabbiadoro</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01075550309</codiceFiscale>
+					<ragioneSociale>ARTCO SERVIZI COOP.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01075550309</codiceFiscale>
+					<ragioneSociale>ARTCO SERVIZI COOP.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>73000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-01-16</dataInizio>
+				<dataUltimazione>2021-04-10</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>71667.98</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z333167AE3</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Contratto di messa a disposizione servizi vari presso Via Crosere n. 36 a Latisana (UD)</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04327040277</codiceFiscale>
+					<ragioneSociale>B.S.A. SRL Unipersonale</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04327040277</codiceFiscale>
+					<ragioneSociale>B.S.A. SRL Unipersonale</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>15000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-04-19</dataInizio>
+				<dataUltimazione>2021-10-19</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>15000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>8660709329</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura press-containers</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00677650988</codiceFiscale>
+					<ragioneSociale>CARNOVALI SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00677650988</codiceFiscale>
+					<ragioneSociale>CARNOVALI SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>43000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-03-05</dataInizio>
+				<dataUltimazione>2021-04-26</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>42910.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z1F31536D8</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura n. 6 containers scarrabili 2 battenti e trasporto</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00677650988</codiceFiscale>
+					<ragioneSociale>CARNOVALI SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00677650988</codiceFiscale>
+					<ragioneSociale>CARNOVALI SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>31000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-04-12</dataInizio>
+				<dataUltimazione>2021-05-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>30840.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE1301B990</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura urea AD BLUE anno 2021</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01274390309</codiceFiscale>
+					<ragioneSociale>CHIURLO SRL a Socio Unico</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01274390309</codiceFiscale>
+					<ragioneSociale>CHIURLO SRL a Socio Unico</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-01-01</dataInizio>
+				<dataUltimazione>2021-11-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1501.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2D318DF0B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Ricorso R.G. 241/2020 TAR FVG/sent. 87/2021</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01056600321</codiceFiscale>
+					<ragioneSociale>AVV. PROF. ANDREA CRISMANI</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01056600321</codiceFiscale>
+					<ragioneSociale>AVV. PROF. ANDREA CRISMANI</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1100.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-04-29</dataInizio>
+				<dataUltimazione>2021-06-29</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1068.79</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZBD3039C0E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Adempimenti contabili, fiscali, civilistici riferiti all&apos;anno 2020</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>CDCGRG63D22L483W</codiceFiscale>
+					<ragioneSociale>CUDICIO DOTT. GIORGIO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>CDCGRG63D22L483W</codiceFiscale>
+					<ragioneSociale>CUDICIO DOTT. GIORGIO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-01-18</dataInizio>
+				<dataUltimazione>2021-09-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4809.60</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA631AD161</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di acqua di fonte e bevande calde</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00435470307</codiceFiscale>
+					<ragioneSociale>C.D.A. DI CATTELAN SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00435470307</codiceFiscale>
+					<ragioneSociale>C.D.A. DI CATTELAN SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-05-11</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2354.02</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z32311E5FA</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura buoni pasto elettronici
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03543000370</codiceFiscale>
+					<ragioneSociale>DAY RISTOSERVICE SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03543000370</codiceFiscale>
+					<ragioneSociale>DAY RISTOSERVICE SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>15000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-03-24</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>14217.39</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z10311E69E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Consulenza in materia di lavoro: materia stragiudiziale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01376410302</codiceFiscale>
+					<ragioneSociale>STUDIO ASSOCIATO DE TINA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01376410302</codiceFiscale>
+					<ragioneSociale>STUDIO ASSOCIATO DE TINA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-03-24</dataInizio>
+				<dataUltimazione>2021-03-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>5176.41</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5531A634E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di n. 02 soffiatori elettrici con batterie ed accessori</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00570810309</codiceFiscale>
+					<ragioneSociale>DOSE GIARDINAGGIO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00570810309</codiceFiscale>
+					<ragioneSociale>DOSE GIARDINAGGIO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-05-10</dataInizio>
+				<dataUltimazione>2021-05-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4470.37</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z883129CF9</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Noleggio di n. 1 spazzatrice stradale modello DULEVO 6000 T E6</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01037180534</codiceFiscale>
+					<ragioneSociale>ECOPOLIS SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01037180534</codiceFiscale>
+					<ragioneSociale>ECOPOLIS SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>39500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-05-01</dataInizio>
+				<dataUltimazione>2021-10-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>35000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z13323E0C4</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Allacciamento elettrico timbracartellini presso Latisana</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01837970936</codiceFiscale>
+					<ragioneSociale>ELETTROSANVITESE SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01837970936</codiceFiscale>
+					<ragioneSociale>ELETTROSANVITESE SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-06-24</dataInizio>
+				<dataUltimazione>2021-06-29</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>189.90</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z043053DE0</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura materiale vario cancelleria</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02044501001</codiceFiscale>
+					<ragioneSociale>ERREBIAN SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02044501001</codiceFiscale>
+					<ragioneSociale>ERREBIAN SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-01-22</dataInizio>
+				<dataUltimazione>2022-04-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2476.16</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z24302E4A6</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Forniture di materiale vario di consumo e minuterie</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01614400305</codiceFiscale>
+					<ragioneSociale>FERRAMENTA PASCHETTO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01614400305</codiceFiscale>
+					<ragioneSociale>FERRAMENTA PASCHETTO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-01-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>250.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>87333826D0</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di lavaggio contenitori stradali stagione estiva 2021</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02908760248</codiceFiscale>
+					<ragioneSociale>FIORESE 2G</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02908760248</codiceFiscale>
+					<ragioneSociale>FIORESE 2G</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>55000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-05-01</dataInizio>
+				<dataUltimazione>2021-09-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>40541.04</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7C320316C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di lavaggio cassonetti stradali</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02908760248</codiceFiscale>
+					<ragioneSociale>FIORESE 2G</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02908760248</codiceFiscale>
+					<ragioneSociale>FIORESE 2G</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>20000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-06-07</dataInizio>
+				<dataUltimazione>2021-09-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>19997.30</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z78319525D</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di carico e trasporto CER 200201</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01788930301</codiceFiscale>
+					<ragioneSociale>GALLICI SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01788930301</codiceFiscale>
+					<ragioneSociale>GALLICI SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>25000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-05-03</dataInizio>
+				<dataUltimazione>2022-03-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>26800.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z41302E695</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Incarico DPO anno 2021</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02761610274</codiceFiscale>
+					<ragioneSociale>PAVAN &amp; GIROTTO STUDIO LEGALE ASSOCIATO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02761610274</codiceFiscale>
+					<ragioneSociale>PAVAN &amp; GIROTTO STUDIO LEGALE ASSOCIATO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-01-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z1B3129D02</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Noleggio di n. 1 spazzatrice modello SCHMIDT SK</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04461320287</codiceFiscale>
+					<ragioneSociale>GLOBAL ECO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04461320287</codiceFiscale>
+					<ragioneSociale>GLOBAL ECO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>39500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-05-05</dataInizio>
+				<dataUltimazione>2021-10-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>32300.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9B3124AD5</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di aspirazione e trasporto rifiuti CER 16.10.02</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02896730302</codiceFiscale>
+					<ragioneSociale>IDROSPURGHI PLAINO GIANNI SNC di Plaino Alessandro &amp; C.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02896730302</codiceFiscale>
+					<ragioneSociale>IDROSPURGHI PLAINO GIANNI SNC di Plaino Alessandro &amp; C.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-03-25</dataInizio>
+				<dataUltimazione>2021-07-22</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1499.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3E302E5C6</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di pulizia ordinaria uffici e spogliatoi anno 2021</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02889510307</codiceFiscale>
+					<ragioneSociale>INCOGEST SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02889510307</codiceFiscale>
+					<ragioneSociale>INCOGEST SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-01-01</dataInizio>
+				<dataUltimazione>2021-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2640.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD431B284B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di pulizia ordinaria box spogliatoio Latisana</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02889510307</codiceFiscale>
+					<ragioneSociale>INCOGEST SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02889510307</codiceFiscale>
+					<ragioneSociale>INCOGEST SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-05-12</dataInizio>
+				<dataUltimazione>2021-10-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1261.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZF031BC7D0</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di pulizia ordinaria box spogliatoio Lignano Strada del Pantanel</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02889510307</codiceFiscale>
+					<ragioneSociale>INCOGEST SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02889510307</codiceFiscale>
+					<ragioneSociale>INCOGEST SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-05-14</dataInizio>
+				<dataUltimazione>2021-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>554.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>8600444EE5</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di trasbordo e trasporto ad impianto rifiuti solidi urbani secco residuon2021-2022</oggetto>
+			<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00847160967</codiceFiscale>
+					<ragioneSociale>IMPRESA SANGALLI GIANCARLO &amp; C. SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00847160967</codiceFiscale>
+					<ragioneSociale>IMPRESA SANGALLI GIANCARLO &amp; C. SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>155000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-04-01</dataInizio>
+				<dataUltimazione>2022-03-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>126848.53</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5A3023ECC</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di trasporto rifiuto CER 20.01.01</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00847160967</codiceFiscale>
+					<ragioneSociale>IMPRESA SANGALLI GIANCARLO &amp; C. SRL </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00847160967</codiceFiscale>
+					<ragioneSociale>IMPRESA SANGALLI GIANCARLO &amp; C. SRL </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>39000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-01-12</dataInizio>
+				<dataUltimazione>2021-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>29441.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7B321254A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di caricamento e trasporto ad impianto rifiuti solidi urbani</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00847160967</codiceFiscale>
+					<ragioneSociale>IMPRESA SANGALLI GIANCARLO &amp; C. SRL </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00847160967</codiceFiscale>
+					<ragioneSociale>IMPRESA SANGALLI GIANCARLO &amp; C. SRL </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>25000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-06-10</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4875.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>880352744D</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di raccolta rifiuti CER 200108 e CER 200101</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00847160967</codiceFiscale>
+					<ragioneSociale>IMPRESA SANGALLI GIANCARLO &amp; C. SRL </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00847160967</codiceFiscale>
+					<ragioneSociale>IMPRESA SANGALLI GIANCARLO &amp; C. SRL </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>90000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-06-23</dataInizio>
+				<dataUltimazione>2021-09-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>76773.97</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Y9430A390F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Polizza Incendio Rischi Ordinari periodo 28/02/2021-28/02/2022</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01628540229</codiceFiscale>
+					<ragioneSociale>INSER SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01628540229</codiceFiscale>
+					<ragioneSociale>INSER SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1652.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-02-28</dataInizio>
+				<dataUltimazione>2022-02-28</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1651.33</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZF5313505D</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Rinnovo polizza libro matricola RC/ARD periodo 31/03/2021-30/09/2021</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01628540229</codiceFiscale>
+					<ragioneSociale>INSER SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01628540229</codiceFiscale>
+					<ragioneSociale>INSER SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>17500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-03-31</dataInizio>
+				<dataUltimazione>2021-09-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>17399.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z863144DCD</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Polizza RCT/RCO periodo 31/03/2021 - 31/03/2022</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01628540229</codiceFiscale>
+					<ragioneSociale>INSER SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01628540229</codiceFiscale>
+					<ragioneSociale>INSER SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>6112.50</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-03-31</dataInizio>
+				<dataUltimazione>2022-03-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>6112.50</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0E321264E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Regolazione premio RCT/RCO periodo 31.02.20-31.03.21</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01628540229</codiceFiscale>
+					<ragioneSociale>INSER SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01628540229</codiceFiscale>
+					<ragioneSociale>INSER SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1353.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-06-10</dataInizio>
+				<dataUltimazione>2021-06-24</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1353.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z8D3200305</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Realizzazione impianto elettrico ed idraulico in box uso ufficio</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01477630931</codiceFiscale>
+					<ragioneSociale>ISPEF Servizi Ecologici Srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01477630931</codiceFiscale>
+					<ragioneSociale>ISPEF Servizi Ecologici Srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-06-04</dataInizio>
+				<dataUltimazione>2021-09-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9231FD162</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di carico, trasporto e smaltimento CER 16.01.03</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01477630931</codiceFiscale>
+					<ragioneSociale>ISPEF Servizi Ecologici Srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01477630931</codiceFiscale>
+					<ragioneSociale>ISPEF Servizi Ecologici Srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>12000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-06-04</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>820.20</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3C31F99D9</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura e posa copertura a una falda per deposito materiali</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01477630931</codiceFiscale>
+					<ragioneSociale>ISPEF Servizi Ecologici Srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01477630931</codiceFiscale>
+					<ragioneSociale>ISPEF Servizi Ecologici Srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>17000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-06-03</dataInizio>
+				<dataUltimazione>2021-07-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>15250.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7831E723B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Raccolta e trasporto ad impianto autorizzato rifiuto EER 20.01.27*</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01477630931</codiceFiscale>
+					<ragioneSociale>ISPEF Servizi Ecologici Srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01477630931</codiceFiscale>
+					<ragioneSociale>ISPEF Servizi Ecologici Srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-05-27</dataInizio>
+				<dataUltimazione>2021-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2638.90</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9B31D839B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Noleggio semestrale allacciamenti elettrici box prefabbricato</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01477630931</codiceFiscale>
+					<ragioneSociale>ISPEF Servizi Ecologici Srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01477630931</codiceFiscale>
+					<ragioneSociale>ISPEF Servizi Ecologici Srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-05-24</dataInizio>
+				<dataUltimazione>2021-10-15</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1904.52</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z74318593A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Noleggio semestrale arredo per box prefabbricato uso spogliatoio</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01477630931</codiceFiscale>
+					<ragioneSociale>ISPEF Servizi Ecologici Srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01477630931</codiceFiscale>
+					<ragioneSociale>ISPEF Servizi Ecologici Srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>6000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-04-27</dataInizio>
+				<dataUltimazione>2021-10-15</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4800.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7531297DA</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Noleggio n. 1 box prefabbricato ad uso spogliatoio con servizi igienici</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01477630931</codiceFiscale>
+					<ragioneSociale>ISPEF Servizi Ecologici Srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01477630931</codiceFiscale>
+					<ragioneSociale>ISPEF Servizi Ecologici Srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>13000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-03-26</dataInizio>
+				<dataUltimazione>2021-10-15</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>9566.01</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZCA3135280</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura ufficio con spogliatoio e servizi, box prefabbricato completo di elettroconvettori e condizionatore + trasporto</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01477630931</codiceFiscale>
+					<ragioneSociale>ISPEF Servizi Ecologici Srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01477630931</codiceFiscale>
+					<ragioneSociale>ISPEF Servizi Ecologici Srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>12000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-04-02</dataInizio>
+				<dataUltimazione>2021-05-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>10540.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD631B2EB7</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura cassonetti stradali</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>12549920150</codiceFiscale>
+					<ragioneSociale>JCOPLASTIC SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>12549920150</codiceFiscale>
+					<ragioneSociale>JCOPLASTIC SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>15000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-05-12</dataInizio>
+				<dataUltimazione>2021-06-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>14417.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z8A303BD5F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio pubblicazioni di legge</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>09147251004</codiceFiscale>
+					<ragioneSociale>LEXMEDIA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>09147251004</codiceFiscale>
+					<ragioneSociale>LEXMEDIA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>400.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-01-19</dataInizio>
+				<dataUltimazione>2021-03-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>395.84</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>86459385BE</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura containers</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02521560165</codiceFiscale>
+					<ragioneSociale>LOCATELLI EUROCONTAINERS SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02521560165</codiceFiscale>
+					<ragioneSociale>LOCATELLI EUROCONTAINERS SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>66000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-02-24</dataInizio>
+				<dataUltimazione>2021-05-28</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>65250.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD1323E0FE</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura e installazione gruppo di continuità EATON</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01374610937</codiceFiscale>
+					<ragioneSociale>MACH2 INFORMATICA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01374610937</codiceFiscale>
+					<ragioneSociale>MACH2 INFORMATICA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-06-24</dataInizio>
+				<dataUltimazione>2021-07-08</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>670.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZC43229021</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Software antivirus</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01374610937</codiceFiscale>
+					<ragioneSociale>MACH2 INFORMATICA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01374610937</codiceFiscale>
+					<ragioneSociale>MACH2 INFORMATICA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>150.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-06-17</dataInizio>
+				<dataUltimazione>2023-05-13</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>105.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0030D691E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di assistenza informatica</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01374610937</codiceFiscale>
+					<ragioneSociale>MACH2 INFORMATICA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01374610937</codiceFiscale>
+					<ragioneSociale>MACH2 INFORMATICA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-03-02</dataInizio>
+				<dataUltimazione>2021-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>885.15</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z82319F3E5</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Integrazione piattaforma Appalti&amp;Contratti e software SAGE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02066400405</codiceFiscale>
+					<ragioneSociale>MAGGIOLI SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02066400405</codiceFiscale>
+					<ragioneSociale>MAGGIOLI SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2300.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-05-07</dataInizio>
+				<dataUltimazione>2021-11-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2100.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z6731531BD</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Noleggio di n. 1 spazzatrice stradale SCHMIDT Compact System mod. Cleango Elite C400</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01488540939</codiceFiscale>
+					<ragioneSociale>MT ECOSERVICE SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01488540939</codiceFiscale>
+					<ragioneSociale>MT ECOSERVICE SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>17000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-04-12</dataInizio>
+				<dataUltimazione>2021-09-15</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>12800.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZDD3017BB2</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori di manutenzione straordinaria sul mezzo targato FK590BC</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01208480937</codiceFiscale>
+					<ragioneSociale>MUZZIN MARCO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01208480937</codiceFiscale>
+					<ragioneSociale>MUZZIN MARCO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2150.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataUltimazione>2021-01-11</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2150.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7D3102D5F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura sacchi rifiuti varie dimensioni anno 2021</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>09410170964</codiceFiscale>
+					<ragioneSociale>NATUR-WORLD SPA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03861090276</codiceFiscale>
+					<ragioneSociale>DAISYPLAST SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00947480190</codiceFiscale>
+					<ragioneSociale>GIANT SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03668030285</codiceFiscale>
+					<ragioneSociale>VEDOVATO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>09410170964</codiceFiscale>
+					<ragioneSociale>NATUR-WORLD SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>22000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-03-15</dataInizio>
+				<dataUltimazione>2021-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>20703.64</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA130C6F5A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Assistenza pratica ambientale nel Comune di Lignano Sabbiadoro</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02844600300</codiceFiscale>
+					<ragioneSociale>NORMAQ SRLS</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02844600300</codiceFiscale>
+					<ragioneSociale>NORMAQ SRLS</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-02-24</dataInizio>
+				<dataUltimazione>2021-03-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2100.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0E31AEA1A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Incarico annuale Responsabile Tecnico Cat. 1+4 e CDR</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02844600300</codiceFiscale>
+					<ragioneSociale>NORMAQ SRLS</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02844600300</codiceFiscale>
+					<ragioneSociale>NORMAQ SRLS</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>15000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-05-01</dataInizio>
+				<dataUltimazione>2022-04-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>13920.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZAB31DE8FC</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Spese anticipate per nome e conto di MTF Srl</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02844600300</codiceFiscale>
+					<ragioneSociale>NORMAQ SRLS</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02844600300</codiceFiscale>
+					<ragioneSociale>NORMAQ SRLS</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-05-25</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>796.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0B311E73B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Spese notarili: redazione verbale assemblea e procura speciale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00270680937</codiceFiscale>
+					<ragioneSociale>STUDIO NOTARILE PASCATTI DOTT. GIOVANNI</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00270680937</codiceFiscale>
+					<ragioneSociale>STUDIO NOTARILE PASCATTI DOTT. GIOVANNI</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-03-24</dataInizio>
+				<dataUltimazione>2021-03-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1387.43</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZBD314A142</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Estratto libri contabili</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00270680937</codiceFiscale>
+					<ragioneSociale>STUDIO NOTARILE PASCATTI DOTT. GIOVANNI</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00270680937</codiceFiscale>
+					<ragioneSociale>STUDIO NOTARILE PASCATTI DOTT. GIOVANNI</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>50.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-04-09</dataInizio>
+				<dataUltimazione>2021-04-29</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>50.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA0309A648</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Manutenzione spazzatrici stradali anno 2021</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04117300279</codiceFiscale>
+					<ragioneSociale>OFFICINE BOZZA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04117300279</codiceFiscale>
+					<ragioneSociale>OFFICINE BOZZA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>30000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-01-01</dataInizio>
+				<dataUltimazione>2021-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>10843.35</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZDF321DB28</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio manutenzione automezzi</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04117300279</codiceFiscale>
+					<ragioneSociale>OFFICINE BOZZA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04117300279</codiceFiscale>
+					<ragioneSociale>OFFICINE BOZZA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>37000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-06-10</dataInizio>
+				<dataUltimazione>2021-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>17853.10</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3530141AB</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Manodopera ordinaria porter Piaggio Maxxi targato FP643BX</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01788600300</codiceFiscale>
+					<ragioneSociale>PALMINO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01788600300</codiceFiscale>
+					<ragioneSociale>PALMINO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>250.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-01-04</dataInizio>
+				<dataUltimazione>2021-01-11</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>250.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2030141E4</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Manodopera ordinaria porter Piaggio Chassis tg. FM537ZM</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01788600300</codiceFiscale>
+					<ragioneSociale>PALMINO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01788600300</codiceFiscale>
+					<ragioneSociale>PALMINO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>650.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-01-04</dataInizio>
+				<dataUltimazione>2021-01-11</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>645.90</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA1304B1D3</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Consulenza legale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02874730308</codiceFiscale>
+					<ragioneSociale>PONTI &amp; PARTNERS</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02874730308</codiceFiscale>
+					<ragioneSociale>PONTI &amp; PARTNERS</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-01-28</dataInizio>
+				<dataUltimazione>2021-01-28</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>598.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z89303D793</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura vestiario e DPI anno 2021</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03359340548</codiceFiscale>
+					<ragioneSociale>SIR SAFETY SYSTEM SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03359340548</codiceFiscale>
+					<ragioneSociale>SIR SAFETY SYSTEM SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>6500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-01-01</dataInizio>
+				<dataUltimazione>2021-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>5649.31</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z4331D75B1</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura vestiario e DPI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03359340548</codiceFiscale>
+					<ragioneSociale>SIR SAFETY SYSTEM SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03359340548</codiceFiscale>
+					<ragioneSociale>SIR SAFETY SYSTEM SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>10000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-05-24</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>5582.63</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZC230C4F11</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di n. 15 contenitori per la raccolta di pile esuste</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02532270283</codiceFiscale>
+					<ragioneSociale>SPAZIO VERDE INTERNATIONAL SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02532270283</codiceFiscale>
+					<ragioneSociale>SPAZIO VERDE INTERNATIONAL SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>8000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-02-24</dataInizio>
+				<dataUltimazione>2021-05-05</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>7800.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z98302E876</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Incarico di R.S.P.P. anno 2021</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>PLLMHL70H25L483M</codiceFiscale>
+					<ragioneSociale>STUDIO STYMA DI PELLARINI MICHELE</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>PLLMHL70H25L483M</codiceFiscale>
+					<ragioneSociale>STUDIO STYMA DI PELLARINI MICHELE</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3300.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-01-01</dataInizio>
+				<dataUltimazione>2021-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3300.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7F31674E6</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Locazione stagionale piazzale ad uso deposito mezzi presso Via Crosere nr. 36 a Latisana (UD)</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01146040934</codiceFiscale>
+					<ragioneSociale>TAGLIAMENTO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01146040934</codiceFiscale>
+					<ragioneSociale>TAGLIAMENTO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-04-19</dataInizio>
+				<dataUltimazione>2021-10-19</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3506.47</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z45311A386</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura prodotti igienizzanti/sanificanti</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01328520935</codiceFiscale>
+					<ragioneSociale>TECNO CLEAN SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01328520935</codiceFiscale>
+					<ragioneSociale>TECNO CLEAN SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-03-23</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>176.50</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z123212762</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Somministrazione pasti operai</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02279210302</codiceFiscale>
+					<ragioneSociale>THE OLD STABLE SNC di Battagello Sara &amp; C.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02279210302</codiceFiscale>
+					<ragioneSociale>THE OLD STABLE SNC di Battagello Sara &amp; C.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-06-01</dataInizio>
+				<dataUltimazione>2022-05-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1518.19</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7831B6CA4</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Ristampa blocchetti &quot;Rapportino Giornaliero&quot;</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01788340303</codiceFiscale>
+					<ragioneSociale>TIPOGRAFIA LIGNANESE SNC</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01788340303</codiceFiscale>
+					<ragioneSociale>TIPOGRAFIA LIGNANESE SNC</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-05-13</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>357.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>8733253C5A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura gasolio</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02456480306</codiceFiscale>
+					<ragioneSociale>TORRESAN MASSIMO Stazione di Servizio ENI </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02456480306</codiceFiscale>
+					<ragioneSociale>TORRESAN MASSIMO Stazione di Servizio ENI </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>74900.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-04-28</dataInizio>
+				<dataUltimazione>2021-10-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>72382.03</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z903135484</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Somministrazione pasti operai</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02176770309</codiceFiscale>
+					<ragioneSociale>TRATTORIA GINEVRA di Morettin Bruno</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02176770309</codiceFiscale>
+					<ragioneSociale>TRATTORIA GINEVRA di Morettin Bruno</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-04-02</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>736.33</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z6B3250136</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Spettanze agenzia per somministrazione lavoro interinale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03171510278</codiceFiscale>
+					<ragioneSociale>UMANA SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03171510278</codiceFiscale>
+					<ragioneSociale>UMANA SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-06-30</dataInizio>
+				<dataUltimazione>2021-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1620.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>87252017A3</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Spettanze agenzia relative a somministrazione di lavoro interinale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02939590309</codiceFiscale>
+					<ragioneSociale>WORK ON TIME SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02939590309</codiceFiscale>
+					<ragioneSociale>WORK ON TIME SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>56000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-04-22</dataInizio>
+				<dataUltimazione>2021-10-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>41198.90</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9E328DA9A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Elettrodi defibrillatore Primedic HeartSave</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04886810268</codiceFiscale>
+					<ragioneSociale>MEDICASL SAS</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04886810268</codiceFiscale>
+					<ragioneSociale>MEDICASL SAS</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>100.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-07-22</dataInizio>
+				<dataUltimazione>2021-07-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>79.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z26328D8A7</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Canone annuale di assistenza al funzionamento del sito internet (anno 2021)</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02555040308</codiceFiscale>
+					<ragioneSociale>INTERLACED SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02555040308</codiceFiscale>
+					<ragioneSociale>INTERLACED SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-01-01</dataInizio>
+				<dataUltimazione>2021-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>600.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z6632C8486</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Certificazione in conformità alla norma ISO 9001:2015</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>11370520154</codiceFiscale>
+					<ragioneSociale>SGS ITALIA SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>11370520154</codiceFiscale>
+					<ragioneSociale>SGS ITALIA SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-08-17</dataInizio>
+				<dataUltimazione>2023-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1139.24</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9E32CA835</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di spazzamento stradale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01434200935</codiceFiscale>
+					<ragioneSociale>AMBIENTE SERVIZI SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01434200935</codiceFiscale>
+					<ragioneSociale>AMBIENTE SERVIZI SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>15000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-08-18</dataInizio>
+				<dataUltimazione>2021-10-26</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>12168.43</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZDB32CDEE3</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di sanificazione antibatterica ventilconvettori</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02251590309</codiceFiscale>
+					<ragioneSociale>MASSARUTTO TERMOCLIMA di Diego Massarutto </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02251590309</codiceFiscale>
+					<ragioneSociale>MASSARUTTO TERMOCLIMA di Diego Massarutto </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>365.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-08-20</dataInizio>
+				<dataUltimazione>2021-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3650.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZBE32DA3FD</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di riparazione cancello danneggiato presso lo Stadio Comunale di Lignano Sabbiadoro</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01746540309</codiceFiscale>
+					<ragioneSociale>ZOCCARATO GIANNI</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01746540309</codiceFiscale>
+					<ragioneSociale>ZOCCARATO GIANNI</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-08-27</dataInizio>
+				<dataUltimazione>2021-10-28</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>500.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z1C32E453E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura sistema di controllo rifornimenti carburante</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01274390309</codiceFiscale>
+					<ragioneSociale>CHIURLO SRL a Socio Unico</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01274390309</codiceFiscale>
+					<ragioneSociale>CHIURLO SRL a Socio Unico</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-09-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3365.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0932EC286</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Manutenzione ordinaria (più tagliando) Piaggio Porter Chassis targato FM537ZM</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01788600300</codiceFiscale>
+					<ragioneSociale>PALMINO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01788600300</codiceFiscale>
+					<ragioneSociale>PALMINO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-09-03</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>563.11</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD732F3EAE</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Intervento tecnico ripristino e riprogrammazione centralino telefonico Alcatel</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01201380266</codiceFiscale>
+					<ragioneSociale>TELEGAMMA SAS di Gamma Dividino &amp; C.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01201380266</codiceFiscale>
+					<ragioneSociale>TELEGAMMA SAS di Gamma Dividino &amp; C.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-09-07</dataInizio>
+				<dataUltimazione>2021-12-10</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>272.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z8B342DEB5</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Campionamento e analisi di monitoraggio acque di prima pioggia CDR</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02214410306</codiceFiscale>
+					<ragioneSociale>FRIULAB SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02214410306</codiceFiscale>
+					<ragioneSociale>FRIULAB SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-12-01</dataInizio>
+				<dataUltimazione>2022-03-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>154.85</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z8433B1B5F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Consulenza per il Sistema di Gestione Qualità ISO 9001:2015</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02127210306</codiceFiscale>
+					<ragioneSociale>Pi. O. Consult di Orecchia Paolo &amp; C. sas</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02127210306</codiceFiscale>
+					<ragioneSociale>Pi. O. Consult di Orecchia Paolo &amp; C. sas</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-10-01</dataInizio>
+				<dataUltimazione>2022-09-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>5243.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z053374BE4</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura lettori RFID e apparati di bordo per piattaforma SATfinder</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01991710300</codiceFiscale>
+					<ragioneSociale>TELLUS SRL a socio unico</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01991710300</codiceFiscale>
+					<ragioneSociale>TELLUS SRL a socio unico</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>18000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-10-14</dataInizio>
+				<dataUltimazione>2022-03-08</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>17397.50</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2133B1C24</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavaggio manuale cassonetti stradali</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04327040277</codiceFiscale>
+					<ragioneSociale>BSA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04327040277</codiceFiscale>
+					<ragioneSociale>BSA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>14000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-10-29</dataInizio>
+				<dataUltimazione>2022-04-19</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>14143.25</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9633A798B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Definizione stragiudiziale contenzioso PEF 2020</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>ZCCRRT68H56F770I</codiceFiscale>
+					<ragioneSociale>Avv.to Roberta Zuccolin</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>ZCCRRT68H56F770I</codiceFiscale>
+					<ragioneSociale>Avv.to Roberta Zuccolin</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-10-01</dataInizio>
+				<dataUltimazione>2021-10-28</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>5168.72</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9E338FF47</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura pneumatici autocarro e servizi tecnici correlati</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00242160273</codiceFiscale>
+					<ragioneSociale>SACCON GOMME SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00242160273</codiceFiscale>
+					<ragioneSociale>SACCON GOMME SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>14000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-10-21</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>7973.98</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZBE3374EB1</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura IR1-U Metal-Tag UHF Fissabile per cassonetti stradali</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>12549920150</codiceFiscale>
+					<ragioneSociale>JCOPLASTIC SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>12549920150</codiceFiscale>
+					<ragioneSociale>JCOPLASTIC SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>8000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-10-14</dataInizio>
+				<dataUltimazione>2022-02-25</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>6815.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE733016C6</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Consulenza legale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02771571201</codiceFiscale>
+					<ragioneSociale>Avv. Prof. MASSIMO CALCAGNILE</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02771571201</codiceFiscale>
+					<ragioneSociale>Avv. Prof. MASSIMO CALCAGNILE</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-09-10</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>534.40</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZEB333F816</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Rinnovo polizza libro matricola RC/ARD periodo30/09/2021-31/03/2022</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01628540229</codiceFiscale>
+					<ragioneSociale>INSER SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01628540229</codiceFiscale>
+					<ragioneSociale>INSER SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>17700.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-10-01</dataInizio>
+				<dataUltimazione>2022-03-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>17638.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7733CEE7E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Noleggio recinzione mobile e accessori</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02717210302</codiceFiscale>
+					<ragioneSociale>ZANUTTA SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02717210302</codiceFiscale>
+					<ragioneSociale>ZANUTTA SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-11-09</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>334.50</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z8D33E1D81</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Verifica periodica ai sensi del DPR 462/01 su impianti di messa a terra sede amm-operativa</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04441361005</codiceFiscale>
+					<ragioneSociale>OCE Organismo di Certificazione Europea Srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04441361005</codiceFiscale>
+					<ragioneSociale>OCE Organismo di Certificazione Europea Srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-11-12</dataInizio>
+				<dataUltimazione>2022-05-26</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>150.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZC033E2B40</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Formazione aggiornamento annuale RLS</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03993810278</codiceFiscale>
+					<ragioneSociale>FORMLAB SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03993810278</codiceFiscale>
+					<ragioneSociale>FORMLAB SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>100.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-11-12</dataInizio>
+				<dataUltimazione>2021-11-15</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>80.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2833E22A3</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Spese legali D.I. 454/21, attività stragiudiziale, transazione - Comune di Lignano Sabbiadoro</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>BSVMSM68B08L483L</codiceFiscale>
+					<ragioneSociale>BASEVI AVV. MASSIMILIANO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>BSVMSM68B08L483L</codiceFiscale>
+					<ragioneSociale>BASEVI AVV. MASSIMILIANO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>25000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-09-29</dataInizio>
+				<dataUltimazione>2021-11-12</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>24665.62</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA533E33A9</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Assistenza e manutenzione software, servizio IX-FE, servizio IX-CE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04552190268</codiceFiscale>
+					<ragioneSociale>MARKA SERVICE SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04552190268</codiceFiscale>
+					<ragioneSociale>MARKA SERVICE SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>320.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>318.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZB433E7A60</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura gasolio per autotrazione e servizi accessori</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02456480306</codiceFiscale>
+					<ragioneSociale>TORRESAN MASSIMO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02456480306</codiceFiscale>
+					<ragioneSociale>TORRESAN MASSIMO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>39000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-11-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>15601.75</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z1D33E79E0</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Spettanze relative alla somministrazione di lavoro interinale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02939590309</codiceFiscale>
+					<ragioneSociale>WORK ON TIME</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02939590309</codiceFiscale>
+					<ragioneSociale>WORK ON TIME</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>7000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-11-01</dataInizio>
+				<dataUltimazione>2022-03-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>7859.76</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD93407863</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Sopralluogo sanitario e relativa relazione sanitaria annuale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02486160308</codiceFiscale>
+					<ragioneSociale>GRUPPO SCUDO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02486160308</codiceFiscale>
+					<ragioneSociale>GRUPPO SCUDO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-11-22</dataInizio>
+				<dataUltimazione>2021-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>290.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD034077EC</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Pol.A119C379923-LB- R.C. Amministratori-D&amp;O- 30/11/21-30/11/22</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01628540229</codiceFiscale>
+					<ragioneSociale>INSER SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01628540229</codiceFiscale>
+					<ragioneSociale>INSER SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2559.06</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-11-30</dataInizio>
+				<dataUltimazione>2022-11-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2559.06</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5734077AA</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Pol.A1201947861-LB- R.C. Patrimoniale- Colpa Lieve, 30/11/21-30/11/22</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01628540229</codiceFiscale>
+					<ragioneSociale>INSER SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01628540229</codiceFiscale>
+					<ragioneSociale>INSER SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2952.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-11-30</dataInizio>
+				<dataUltimazione>2022-11-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2952.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9A3407718</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Pol.820.004.775- Tutela Giudiziaria-penale, 30/11/21-30/11/22</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01628540229</codiceFiscale>
+					<ragioneSociale>INSER SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01628540229</codiceFiscale>
+					<ragioneSociale>INSER SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2698.83</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-11-30</dataInizio>
+				<dataUltimazione>2022-11-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2698.83</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2B3407697</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Pol.820.004.776-Tutela Giudiziaria-danni patrimoniali, 30/11/21-30/11/22</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01628540229</codiceFiscale>
+					<ragioneSociale>INSER SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01628540229</codiceFiscale>
+					<ragioneSociale>INSER SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1146.41</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-11-30</dataInizio>
+				<dataUltimazione>2022-11-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1146.41</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE6342DFB4</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura pieghevole &quot;Vademecum&quot;</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00568370266</codiceFiscale>
+					<ragioneSociale>GRAFICHE SCARPIS SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00568370266</codiceFiscale>
+					<ragioneSociale>GRAFICHE SCARPIS SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-12-01</dataInizio>
+				<dataUltimazione>2021-12-20</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>420.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z23344BE8F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura adesivi rifrangenti per contenitori stradali</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01281780302</codiceFiscale>
+					<ragioneSociale>MATTIUSSI ECOLOGIA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01281780302</codiceFiscale>
+					<ragioneSociale>MATTIUSSI ECOLOGIA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-12-07</dataInizio>
+				<dataUltimazione>2021-12-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2700.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z913451127</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura n.01 Notebook LENOVO e pacchetto Office</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01374610937</codiceFiscale>
+					<ragioneSociale>MACH2 INFORMATICA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01374610937</codiceFiscale>
+					<ragioneSociale>MACH2 INFORMATICA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-12-09</dataInizio>
+				<dataUltimazione>2021-12-16</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1035.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZEE34513AB</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di n. 01 stampante multifunzione XEROX B225</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01004210306</codiceFiscale>
+					<ragioneSociale>SOSTERO SAS DI SOSTERO MIRKO  C.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01004210306</codiceFiscale>
+					<ragioneSociale>SOSTERO SAS DI SOSTERO MIRKO  C.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>250.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-12-09</dataInizio>
+				<dataUltimazione>2021-12-21</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>190.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE034512D6</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Inserzione pubblicitaria sul giornalino comunale &quot;IL COMUNE INFORMA LIGNANO SABBIADORO 2021&quot;</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>LPRGMN56E20I040F</codiceFiscale>
+					<ragioneSociale>LEPORE COMUNICAZIONE</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>LPRGMN56E20I040F</codiceFiscale>
+					<ragioneSociale>LEPORE COMUNICAZIONE</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-12-09</dataInizio>
+				<dataUltimazione>2021-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>800.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZBA3455126</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di disotturazione e lavaggio tubazioni di scarico lavandini presso uffici Lignano Sabbiadoro</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02891940302</codiceFiscale>
+					<ragioneSociale>JET SPURGO di Rossi Massimo &amp; C. snc</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02891940302</codiceFiscale>
+					<ragioneSociale>JET SPURGO di Rossi Massimo &amp; C. snc</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>180.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-12-10</dataInizio>
+				<dataUltimazione>2021-12-10</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>180.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA63460CE9</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura urea AD BLUE </oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01274390309</codiceFiscale>
+					<ragioneSociale>CHIURLO SRL a Socio Unico</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03645040282</codiceFiscale>
+					<ragioneSociale>A.F. PETROLI SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01274390309</codiceFiscale>
+					<ragioneSociale>CHIURLO SRL a Socio Unico</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>6500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-12-13</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4065.66</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD1346A4B5</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura adesivi per cassonetti stradali</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02582070302</codiceFiscale>
+					<ragioneSociale>LITOGRAFIA PONTE di Ponte Marina</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02582070302</codiceFiscale>
+					<ragioneSociale>LITOGRAFIA PONTE di Ponte Marina</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4960.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-12-15</dataInizio>
+				<dataUltimazione>2022-01-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4960.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z14345F24E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio annuale derattizzazione Centro Di Raccolta</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03986581001</codiceFiscale>
+					<ragioneSociale>RENTOKIL INITIAL ITALIA SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03986581001</codiceFiscale>
+					<ragioneSociale>RENTOKIL INITIAL ITALIA SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>352.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZDB345F00E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Locazione uffici e magazzino anno 2022</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01305890301</codiceFiscale>
+					<ragioneSociale>BETTY SAS di Luigi Daneluzzo &amp; C.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01305890301</codiceFiscale>
+					<ragioneSociale>BETTY SAS di Luigi Daneluzzo &amp; C.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>30000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>30765.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z803483189</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio pubblicazioni di legge</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>07841320729</codiceFiscale>
+					<ragioneSociale>STC MANAGING SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>09147251004</codiceFiscale>
+					<ragioneSociale>LEXMEDIA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>07841320729</codiceFiscale>
+					<ragioneSociale>STC MANAGING SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-12-20</dataInizio>
+				<dataUltimazione>2022-01-13</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>930.95</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z6F349A188</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Manutenzione allestimenti compattatori stradali anno 2022</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02773500307</codiceFiscale>
+					<ragioneSociale>ALL CRANE SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02773500307</codiceFiscale>
+					<ragioneSociale>ALL CRANE SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>39500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>22372.78</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z88349AF22</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Manutenzione spazzatrici stradali anno 2022</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04117300279</codiceFiscale>
+					<ragioneSociale>OFFICINE BOZZA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04117300279</codiceFiscale>
+					<ragioneSociale>OFFICINE BOZZA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>30000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>16791.56</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>YA0349FF23</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio manutenzione mezzi</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04117300279</codiceFiscale>
+					<ragioneSociale>OFFICINE BOZZA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04117300279</codiceFiscale>
+					<ragioneSociale>OFFICINE BOZZA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>39000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>20744.87</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Y8B34A0348</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di trasporto rifiuto CER 20.01.01</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00847160967</codiceFiscale>
+					<ragioneSociale>IMPRESA SANGALLI GIANCARLO &amp; C. SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00847160967</codiceFiscale>
+					<ragioneSociale>IMPRESA SANGALLI GIANCARLO &amp; C. SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>39000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2023-01-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>29998.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Y8434A51CB</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Manutenzioni ordinarie presidi antincendio anno 2022</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02368240301</codiceFiscale>
+					<ragioneSociale>FRIULI ANTINCENDI SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02368240301</codiceFiscale>
+					<ragioneSociale>FRIULI ANTINCENDI SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1464.42</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD8349A166</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura buoni pasto elettronici anno 2022</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03543000370</codiceFiscale>
+					<ragioneSociale>DAY RISTOSERVICE SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03543000370</codiceFiscale>
+					<ragioneSociale>DAY RISTOSERVICE SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>10000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>YE634A7312</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura n.1 rimorchio scarrabile 2 assi MEC mod. RBG2A</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03320090172</codiceFiscale>
+					<ragioneSociale>B.T.E. SPA UNIPERSONALE</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03320090172</codiceFiscale>
+					<ragioneSociale>B.T.E. SPA UNIPERSONALE</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>29800.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-12-29</dataInizio>
+				<dataUltimazione>2022-03-04</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>29800.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>YD734B0605</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Smaltimento pile esauste e farmaci scaduti e forniture annesse anno 2022</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01119570313</codiceFiscale>
+					<ragioneSociale>FENICE ECOLOGIA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01119570313</codiceFiscale>
+					<ragioneSociale>FENICE ECOLOGIA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1800.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1464.40</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>YDD34B0A94</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di sorveglianza sanitaria</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02486160308</codiceFiscale>
+					<ragioneSociale>GRUPPO SCUDO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02486160308</codiceFiscale>
+					<ragioneSociale>GRUPPO SCUDO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3011.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Y1534B04B7</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Rinnovo domini</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02327610305</codiceFiscale>
+					<ragioneSociale>IOSYSTEMS SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02327610305</codiceFiscale>
+					<ragioneSociale>IOSYSTEMS SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>210.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>210.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Y2D34B0A34</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di assistenza informatica</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01374610937</codiceFiscale>
+					<ragioneSociale>MACH2 INFORMATICA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01374610937</codiceFiscale>
+					<ragioneSociale>MACH2 INFORMATICA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>155.02</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Y0734B09C4</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01286500309</codiceFiscaleProp>
+					<denominazione>MTF Srl</denominazione>
+			</strutturaProponente>
+			<oggetto>Incarico di R.S.P.P. anno 2022</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02431920301</codiceFiscale>
+					<ragioneSociale>STUDIO STYMA di Pellarini Michele</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02431920301</codiceFiscale>
+					<ragioneSociale>STUDIO STYMA di Pellarini Michele</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3465.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+</data>
+</legge190:pubblicazione>

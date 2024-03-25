@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+  <titolo>Pubblicazione 1 legge 190</titolo>
+  <abstract>Pubblicazione 1 legge 190 rif. 2022</abstract>
+  <dataPubblicazioneDataset>2023-01-01</dataPubblicazioneDataset>
+  <entePubblicatore>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</entePubblicatore>
+  <dataUltimoAggiornamentoDataset>2024-02-06</dataUltimoAggiornamentoDataset>
+  <annoRiferimento>2022</annoRiferimento>
+  <urlFile>http://www.patrasparente.it/public/36/datasets/dataset_2022.xml</urlFile>
+ 	<licenza>IODL</licenza>
+</metadata>
+<data>
+  <lotto>
+		<cig>ZD734C7D8A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Caratterizzazione, rimozione, trasporto, noleggio cassone e smaltimento di materiale eterogeneo
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03886050610</codiceFiscale>
+					<ragioneSociale>ECO GLOBO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03886050610</codiceFiscale>
+					<ragioneSociale>ECO GLOBO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>20000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-02-01</dataInizio>
+				<dataUltimazione>2024-02-01</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7B34F5F8C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>incarico professionale per impugnativa atti della Regione Campania
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>MRTCLD69D10H501H</codiceFiscale>
+					<ragioneSociale>AVV.CLAUDIO MARTINO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>MRTCLD69D10H501H</codiceFiscale>
+					<ragioneSociale>AVV.CLAUDIO MARTINO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-26</dataInizio>
+				<dataUltimazione>2023-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0F3501442</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Ricambi e riparazione per decespugliatori consortilie
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02360580647</codiceFiscale>
+					<ragioneSociale>F.LLI CASTALDO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02360580647</codiceFiscale>
+					<ragioneSociale>F.LLI CASTALDO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1048.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-31</dataInizio>
+				<dataUltimazione>2022-01-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1048.25</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z90351BE3C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Rinnovo caselle pec
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01573850516</codiceFiscale>
+					<ragioneSociale>ARUBA SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01573850516</codiceFiscale>
+					<ragioneSociale>ARUBA SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>15.80</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-02-14</dataInizio>
+				<dataUltimazione>2023-02-14</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>15.80</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5A353A5AE</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Interventi di manutenzione
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01969220639</codiceFiscale>
+					<ragioneSociale>SOCIETA&apos; COOPERATIVA LA NUOVA NAPOLI A.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01969220639</codiceFiscale>
+					<ragioneSociale>SOCIETA&apos; COOPERATIVA LA NUOVA NAPOLI A.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>11000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-02-21</dataInizio>
+				<dataUltimazione>2022-05-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>11000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9B3614223</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Iscrizione di un dipendente consortile ad un corso di formazione in materia ambientale
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01360130338</codiceFiscale>
+					<ragioneSociale>TuttoAmbiente Spa</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01360130338</codiceFiscale>
+					<ragioneSociale>TuttoAmbiente Spa</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1521.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-04-20</dataInizio>
+				<dataUltimazione>2022-06-24</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1521.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7E3714A68</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Attività revisione/aggiornamento del Piano di Gestione Consortile inerente al Bilancio Preventivo 2023</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04130410287</codiceFiscale>
+					<ragioneSociale>EL-FO S.p.A. a Socio Unico</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04130410287</codiceFiscale>
+					<ragioneSociale>EL-FO S.p.A. a Socio Unico</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4800.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-07-07</dataInizio>
+				<dataUltimazione>2024-10-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0F37149E7</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Installazione nuova infrastruttura software per procedura catasto</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04130410287</codiceFiscale>
+					<ragioneSociale>EL-FO S.p.A. a Socio Unico</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04130410287</codiceFiscale>
+					<ragioneSociale>EL-FO S.p.A. a Socio Unico</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>12900.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-07-07</dataInizio>
+				<dataUltimazione>2023-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9437140A6</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Rinnovo data base my sql, backup database mysql</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01573850516</codiceFiscale>
+					<ragioneSociale>ARUBA SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01573850516</codiceFiscale>
+					<ragioneSociale>ARUBA SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>10.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-07-09</dataInizio>
+				<dataUltimazione>2023-07-09</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>10.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZF03729DFB</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Polizza RC Patrimoniale/Presidente/Dirigente/Capi settore/Rup/Resp.Corruzione</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>10794431006</codiceFiscale>
+					<ragioneSociale>PRIMAE CONSULTING SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>10794431006</codiceFiscale>
+					<ragioneSociale>PRIMAE CONSULTING SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>8049.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-07-29</dataInizio>
+				<dataUltimazione>2023-07-29</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>8049.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z30373D210</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Acquisto buoni carburante per escavatore consortile</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00484960588</codiceFiscale>
+					<ragioneSociale>ENI SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00484960588</codiceFiscale>
+					<ragioneSociale>ENI SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4950.65</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-07-21</dataInizio>
+				<dataUltimazione>2022-09-02</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4950.65</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z45373D1D7</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Acquisto materiale vario di cancelleria</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>07175400634</codiceFiscale>
+					<ragioneSociale>CMC CARTUFFICIO SAS DI ABBATE MAURO &amp; C</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>07175400634</codiceFiscale>
+					<ragioneSociale>CMC CARTUFFICIO SAS DI ABBATE MAURO &amp; C</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1140.52</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-07-21</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1140.52</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZCD37AFCAD</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Costante aggiornamento della banca dati catastale integrata consortile per l&apos;anno 2022</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04130410287</codiceFiscale>
+					<ragioneSociale>EL-FO S.p.A. a Socio Unico</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04130410287</codiceFiscale>
+					<ragioneSociale>EL-FO S.p.A. a Socio Unico</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>14000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-09-30</dataInizio>
+				<dataUltimazione>2023-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2637F3D16</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Incarico professionale per espletamento attività di consulenza, assistenza, supporto tecnico/amministrativo e istruttorie finalizzato all&apos;utilizzo di finanziamenti pubblici</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>RSSVCN55A24F111J</codiceFiscale>
+					<ragioneSociale>RUSSO VINCENZO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>RSSVCN55A24F111J</codiceFiscale>
+					<ragioneSociale>RUSSO VINCENZO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-10-04</dataInizio>
+				<dataUltimazione>2023-10-04</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZBB38500A7</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Attività propedeutiche e attività connesse all&apos;emissione dei ruoli di contribuenza per l&apos;anno 2023 con inserimento dati delle unità immobiliari in avviso</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04130410287</codiceFiscale>
+					<ragioneSociale>EL-FO S.p.A. a Socio Unico</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04130410287</codiceFiscale>
+					<ragioneSociale>EL-FO S.p.A. a Socio Unico</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5060.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-10-25</dataInizio>
+				<dataUltimazione>2022-12-01</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z05388E2D1</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Copertura polizza assicurativa per responsabilità civile verso terzi</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>06148541219</codiceFiscale>
+					<ragioneSociale>MALLOZZI SRL AGENTI REALE MUTUA ASSICURAZIONI</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>06148541219</codiceFiscale>
+					<ragioneSociale>MALLOZZI SRL AGENTI REALE MUTUA ASSICURAZIONI</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2850.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-11-27</dataInizio>
+				<dataUltimazione>2023-11-27</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2850.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZB238AA857</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura e messa in opera di una griglia metallica su emissario in galleria Agnano Napoli</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04070790631</codiceFiscale>
+					<ragioneSociale>Officina Caiazzo Marcello</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04070790631</codiceFiscale>
+					<ragioneSociale>Officina Caiazzo Marcello</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>950.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-11-18</dataInizio>
+				<dataUltimazione>2022-12-14</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z6638C086F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Canone assistenza programma di contabilità</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>GCMSFN66A19L736N</codiceFiscale>
+					<ragioneSociale>GIACOMELLO STEFANO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>GCMSFN66A19L736N</codiceFiscale>
+					<ragioneSociale>GIACOMELLO STEFANO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>800.80</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-11-24</dataInizio>
+				<dataUltimazione>2023-11-24</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z6938D2B76</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Manutenzione ed assistenza 2023 di hardware e software catastale</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04130410287</codiceFiscale>
+					<ragioneSociale>EL-FO S.p.A. a Socio Unico</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04130410287</codiceFiscale>
+					<ragioneSociale>EL-FO S.p.A. a Socio Unico</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3340.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-12</dataInizio>
+				<dataUltimazione>2023-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z863927380</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Medico competente per gli anni 2023, 2024 e 2025</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>PNRRSL78L49L259E</codiceFiscale>
+					<ragioneSociale>ROSSELLA PANARIELLO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>PNRRSL78L49L259E</codiceFiscale>
+					<ragioneSociale>ROSSELLA PANARIELLO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1100.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-19</dataInizio>
+				<dataUltimazione>2025-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2F392719F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Responsabile sicurezza prevenzione e protezione per gli anni 2023, 2024 e 2025</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>QGLRSR64M14F839B</codiceFiscale>
+					<ragioneSociale>ROSARIO QUAGLIERO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>QGLRSR64M14F839B</codiceFiscale>
+					<ragioneSociale>ROSARIO QUAGLIERO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>6600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-01</dataInizio>
+				<dataUltimazione>2025-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z6730251FD</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Responsabile sicurezza prevenzione e protezione per gli anni 2021 e 2022
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>RSSCRI67T21F839M</codiceFiscale>
+					<ragioneSociale>CIRO ROSSI</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>RSSCRI67T21F839M</codiceFiscale>
+					<ragioneSociale>CIRO ROSSI</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-01-12</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z683249E5B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Attività di ispezione e verifica delle condizioni strutturali, della funzionalità idraulica e dello stato generale dei luoghi sia del vecchio che del costruendo emissario in galleria, ed eventuali servizi tecnici connessi.
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04574120657</codiceFiscale>
+					<ragioneSociale>SATURNO FRANCESCO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04574120657</codiceFiscale>
+					<ragioneSociale>SATURNO FRANCESCO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4100.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-06-29</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4100.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0F33127F4</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Costante aggiornamento della banca dati catastale integrata consortile per l&apos;anno 2021
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04130410287</codiceFiscale>
+					<ragioneSociale>EL-FO S.p.A. a Socio Unico</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04130410287</codiceFiscale>
+					<ragioneSociale>EL-FO S.p.A. a Socio Unico</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>14000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-09-30</dataInizio>
+				<dataUltimazione>2021-12-13</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>14000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z763446237</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Attività servizi di formazione e consulenza RPCT (L.190/2012)
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>08442651215</codiceFiscale>
+					<ragioneSociale>Foglia Manzillo &amp;amp; Partners</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>08442651215</codiceFiscale>
+					<ragioneSociale>Foglia Manzillo &amp; Partners</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-12-13</dataInizio>
+				<dataUltimazione>2021-12-23</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>600.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD03487C0B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Manutenzione ed assistenza 2021 di hardware e software catastale
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04130410287</codiceFiscale>
+					<ragioneSociale>EL-FO S.p.A. a Socio Unico</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04130410287</codiceFiscale>
+					<ragioneSociale>EL-FO S.p.A. a Socio Unico</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5740.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>8822295425</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Affidamento diretto di locazione finanziaria operativa strumentale per l&apos;acquisto di un midi escavatore ai sensi decreto semplificazioni
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>07275681216</codiceFiscale>
+					<ragioneSociale>Movimac srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>07275681216</codiceFiscale>
+					<ragioneSociale>Movimac srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>72000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-07-22</dataInizio>
+				<dataUltimazione>2025-07-22</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>24000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZB32C39CAB</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Aggiornamento banca dati catastali consortile a seguito: variazioni censuarie dell&apos;Agenzia delle Entrate per emissione ruoli esercizi 2021-2022-2023/Analisi contribuenti scartati dai ruoli 2020-2021-2022/Verifica tratti stradali comunali</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>SPNGNN68B11G596X</codiceFiscale>
+					<ragioneSociale>SPINOSA GIOVANNI CARLO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>SPNGNN68B11G596X</codiceFiscale>
+					<ragioneSociale>SPINOSA GIOVANNI CARLO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>10000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2020-04-23</dataInizio>
+				<dataUltimazione>2023-04-23</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>6405.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZC92E5ADFC</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>Acquisto servizio elaborazione paghe e relativa formazione all&apos;uso del software in cloud</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01035310414</codiceFiscale>
+					<ragioneSociale>TeamSystem S.p.A.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01035310414</codiceFiscale>
+					<ragioneSociale>TeamSystem S.p.A.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>6400.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2020-10-31</dataInizio>
+				<dataUltimazione>2023-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4366.76</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z162F2468B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>80015780630</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica della Conca di Agnano e dei Bacini Flegrei</denominazione>
+			</strutturaProponente>
+			<oggetto>fornitura software patrasparente</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04090050966</codiceFiscale>
+					<ragioneSociale>INTESTO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04090050966</codiceFiscale>
+					<ragioneSociale>INTESTO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1050.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-01-17</dataInizio>
+				<dataUltimazione>2023-01-17</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1050.00</importoSommeLiquidate>
+  </lotto>
+</data>
+</legge190:pubblicazione>

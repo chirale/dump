@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+  <titolo>Pubblicazione 1 legge 190</titolo>
+  <abstract>Pubblicazione 1 legge 190 rif. 2019</abstract>
+  <dataPubblicazioneDataset>2020-01-01</dataPubblicazioneDataset>
+  <entePubblicatore>EXE S.p.A.</entePubblicatore>
+  <dataUltimoAggiornamentoDataset>2022-03-24</dataUltimoAggiornamentoDataset>
+  <annoRiferimento>2019</annoRiferimento>
+  <urlFile>http://www.patrasparente.it/public/19/datasets/dataset_2019.xml</urlFile>
+ 	<licenza>IODL</licenza>
+</metadata>
+<data>
+  <lotto>
+		<cig>ZDE270F20E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01856920309</codiceFiscaleProp>
+					<denominazione>EXE S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di manutenzione, implementazione ed assistenza software gestione contabilità Team System</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01233220324</codiceFiscale>
+					<ragioneSociale>REAN SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01233220324</codiceFiscale>
+					<ragioneSociale>REAN SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>8000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2019-01-01</dataInizio>
+				<dataUltimazione>2020-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4640.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZC92792867</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01856920309</codiceFiscaleProp>
+					<denominazione>EXE S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di campionamenti ed analisi chimiche presso la discarica di Tivignano Udinese</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02014700302</codiceFiscale>
+					<ragioneSociale>RUFFINI STEFANO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02014700302</codiceFiscale>
+					<ragioneSociale>RUFFINI STEFANO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>38000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2019-01-01</dataInizio>
+				<dataUltimazione>2020-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>9236.10</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3D29DB199</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01856920309</codiceFiscaleProp>
+					<denominazione>EXE S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio manutenzione area verde discarica di Trivignano Udinese</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01523580304</codiceFiscale>
+					<ragioneSociale>GESTECO SPA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>01395910308</codiceFiscale>
+					<ragioneSociale>VIVAI D&apos;ANDREIS DI R. D&apos;ANDREIS &amp; C. SAS</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01523580304</codiceFiscale>
+					<ragioneSociale>GESTECO SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>9300.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2019-09-01</dataInizio>
+				<dataUltimazione>2019-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>9300.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZDF2B2F7A5</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01856920309</codiceFiscaleProp>
+					<denominazione>EXE S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio consulenza, assistenza e copertura assicurativa anno 2020</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01836490308</codiceFiscale>
+					<ragioneSociale>RIZZI MAURIZIO E VENUTI VIVIANA SNC</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01836490308</codiceFiscale>
+					<ragioneSociale>RIZZI MAURIZIO E VENUTI VIVIANA SNC</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>19097.41</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2019-12-01</dataInizio>
+				<dataUltimazione>2020-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>19097.41</importoSommeLiquidate>
+  </lotto>
+</data>
+</legge190:pubblicazione>

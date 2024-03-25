@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+  <titolo>Pubblicazione 1 legge 190</titolo>
+  <abstract>Pubblicazione 1 legge 190 anno 1 rif. 2010</abstract>
+  <dataPubbicazioneDataset>2018-01-01</dataPubbicazioneDataset>
+  <entePubblicatore>Ami S.p.A.</entePubblicatore>
+  <dataUltimoAggiornamentoDataset>2017-03-03</dataUltimoAggiornamentoDataset>
+  <annoRiferimento>2017</annoRiferimento>
+  <urlFile>http://www.patrasparente.it/public/18/datasets/dataset_2017.xml</urlFile>
+ 	<licenza>IODL</licenza>
+</metadata>
+<data>
+  <lotto>
+		<cig>6945640B70</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01482560412</codiceFiscaleProp>
+					<denominazione>Ami S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA CARBURANTE GASOLIO</oggetto>
+			<sceltaContraente>22-PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE LA GARA</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00605110402</codiceFiscale>
+					<ragioneSociale>BARONI SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02189130418</codiceFiscale>
+					<ragioneSociale>ENI FUEL SPA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02309080410</codiceFiscale>
+					<ragioneSociale>CATRIA PETROLI SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02189130418</codiceFiscale>
+					<ragioneSociale>ENI FUEL SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>60129.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-01-16</dataInizio>
+				<dataUltimazione>2017-01-19</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>695272522D</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01482560412</codiceFiscaleProp>
+					<denominazione>Ami S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA CARBURANTE GASOLIO</oggetto>
+			<sceltaContraente>22-PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE LA GARA</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00605110402</codiceFiscale>
+					<ragioneSociale>BARONI CENTROPETROLI SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02189130418</codiceFiscale>
+					<ragioneSociale>ENI FUEL SPA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02309080410</codiceFiscale>
+					<ragioneSociale>CATRIA PETROLI SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02189130418</codiceFiscale>
+					<ragioneSociale>ENI FUEL SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>45786.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-01-23</dataInizio>
+				<dataUltimazione>2017-01-26</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>6960338C9C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01482560412</codiceFiscaleProp>
+					<denominazione>Ami S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA CARBURANTE GASOLIO</oggetto>
+			<sceltaContraente>22-PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE LA GARA</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00605110402</codiceFiscale>
+					<ragioneSociale>BARONI CENTROPETROLI SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02189130418</codiceFiscale>
+					<ragioneSociale>ENI FUEL SPA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02309080410</codiceFiscale>
+					<ragioneSociale>CATRIA PETROLI SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02189130418</codiceFiscale>
+					<ragioneSociale>ENI FUEL SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>48544.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-01-30</dataInizio>
+				<dataUltimazione>2017-02-02</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>6968698F7F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01482560412</codiceFiscaleProp>
+					<denominazione>Ami S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA CARBURANTE GASOLIO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00605110402</codiceFiscale>
+					<ragioneSociale>BARONI CENTROPETROLI SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02189130418</codiceFiscale>
+					<ragioneSociale>ENI FUEL SPA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02309080410</codiceFiscale>
+					<ragioneSociale>CATRIA PETROLI SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02189130418</codiceFiscale>
+					<ragioneSociale>ENI FUEL SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>54188.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-02-06</dataInizio>
+				<dataUltimazione>2017-02-09</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>6976506ADE</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01482560412</codiceFiscaleProp>
+					<denominazione>Ami S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA CARBURANTE GASOLIO</oggetto>
+			<sceltaContraente>22-PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE LA GARA</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00605110402</codiceFiscale>
+					<ragioneSociale>BARONI CENTROPETROLI SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02189130418</codiceFiscale>
+					<ragioneSociale>ENI FUEL SPA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02309080410</codiceFiscale>
+					<ragioneSociale>CATRIA PETROLI SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00605110402</codiceFiscale>
+					<ragioneSociale>BARONI CENTROPETROLI SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>59241.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-02-13</dataInizio>
+				<dataUltimazione>2017-02-16</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z471D3D5BF</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01482560412</codiceFiscaleProp>
+					<denominazione>Ami S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>MANUTENZIONE TRIENNALE IMPIANTO ANTINCENDIO DEPOSITO URBINO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00120470414</codiceFiscale>
+					<ragioneSociale>DAGO ELETTRONICA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00120470414</codiceFiscale>
+					<ragioneSociale>DAGO ELETTRONICA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-02-06</dataInizio>
+				<dataUltimazione>2020-02-05</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9F1D35A65</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01482560412</codiceFiscaleProp>
+					<denominazione>Ami S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA E MANUTENZIONE IMPIANTI ANTINCENDIO FISSI E MOBILI E CASSETTE DI PRIMO SOCCORSO - 2017/2020</oggetto>
+			<sceltaContraente>06-PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI  GARA ART. 221 D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02389230414</codiceFiscale>
+					<ragioneSociale>CM SERVICE DI CIARONI MARCO</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00983450412</codiceFiscale>
+					<ragioneSociale>ESTINTORI VITALI</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00478850720</codiceFiscale>
+					<ragioneSociale>GIELLE DI LUIGI GALANTUCCI</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02259020416</codiceFiscale>
+					<ragioneSociale>MARINO MONTE</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02127050413</codiceFiscale>
+					<ragioneSociale>MINGUCCI ANTINCENDIO</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00753370154</codiceFiscale>
+					<ragioneSociale>CIODUE SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02389230414</codiceFiscale>
+					<ragioneSociale>CM SERVICE DI CIARONI MARCO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>17115.25</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-02-02</dataInizio>
+				<dataUltimazione>2020-01-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZC11D52F66</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01482560412</codiceFiscaleProp>
+					<denominazione>Ami S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ASSEVERAZIONE BILANCIO SOCIALE 2015 - MOD. OT24 INAIL</oggetto>
+			<sceltaContraente>06-PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI  GARA ART. 221 D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00820340966</codiceFiscale>
+					<ragioneSociale>DNV GL Business Assurance Italia S.r.l. </ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02055510966</codiceFiscale>
+					<ragioneSociale>TUV ITALIA SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>12898410159</codiceFiscale>
+					<ragioneSociale>IMQ SPA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03487840104</codiceFiscale>
+					<ragioneSociale>RINA Services SpA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00820340966</codiceFiscale>
+					<ragioneSociale>DNV GL Business Assurance Italia S.r.l. </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1100.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-02-09</dataInizio>
+				<dataUltimazione>2017-02-23</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z191D66025</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01482560412</codiceFiscaleProp>
+					<denominazione>Ami S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO ANNUALE PATTUGLIAMENTO PRESSO DEPOSITO URBINO E PESARO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00818630188</codiceFiscale>
+					<ragioneSociale>AXITEA SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00818630188</codiceFiscale>
+					<ragioneSociale>AXITEA SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>648.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-02-16</dataInizio>
+				<dataUltimazione>2018-02-15</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>69860059B1</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01482560412</codiceFiscaleProp>
+					<denominazione>Ami S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA CARBURANTE GASOLIO</oggetto>
+			<sceltaContraente>22-PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE LA GARA</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00605110402</codiceFiscale>
+					<ragioneSociale>BARONI CENTROPETROLI SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02189130418</codiceFiscale>
+					<ragioneSociale>ENI FUEL SPA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02309080410</codiceFiscale>
+					<ragioneSociale>CATRIA PETROLI SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02189130418</codiceFiscale>
+					<ragioneSociale>ENI FUEL SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>53370.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-02-20</dataInizio>
+				<dataUltimazione>2017-02-23</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z581D5E0FF</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01482560412</codiceFiscaleProp>
+					<denominazione>Ami S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA E POSA IN OPERA TENDE UFFICI PESARO</oggetto>
+			<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00706340411</codiceFiscale>
+					<ragioneSociale>GIEMME SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02310970419</codiceFiscale>
+					<ragioneSociale>MODUS COLLEZIONI D&apos;ARREDO</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02460430412</codiceFiscale>
+					<ragioneSociale>AGOSTINI TENDE SAS</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02460430412</codiceFiscale>
+					<ragioneSociale>AGOSTINI TENDE SAS</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1472.29</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-02-14</dataInizio>
+				<dataUltimazione>2017-03-20</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>699427417F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01482560412</codiceFiscaleProp>
+					<denominazione>Ami S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA CARBURANTE GASOLIO</oggetto>
+			<sceltaContraente>22-PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE LA GARA</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00605110402</codiceFiscale>
+					<ragioneSociale>BARONI CENTROPETROLI SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02189130418</codiceFiscale>
+					<ragioneSociale>ENI FUEL SPA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02309080410</codiceFiscale>
+					<ragioneSociale>CATRIA PETROLI SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02309080410</codiceFiscale>
+					<ragioneSociale>CATRIA PETROLI SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>50955.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-02-27</dataInizio>
+				<dataUltimazione>2017-03-03</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>7002596506</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01482560412</codiceFiscaleProp>
+					<denominazione>Ami S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA CARBURANTE GASOLIO</oggetto>
+			<sceltaContraente>22-PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE LA GARA</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00605110402</codiceFiscale>
+					<ragioneSociale>BARONI CENTROPETROLI SRL</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02189130418</codiceFiscale>
+					<ragioneSociale>ENI FUEL SPA</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>02309080410</codiceFiscale>
+					<ragioneSociale>CATRIA PETROLI SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02189130418</codiceFiscale>
+					<ragioneSociale>ENI FUEL SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>57036.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2017-03-06</dataInizio>
+				<dataUltimazione>2017-03-10</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+</data>
+</legge190:pubblicazione>

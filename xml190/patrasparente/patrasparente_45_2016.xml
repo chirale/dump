@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+  <titolo>Pubblicazione 1 legge 190</titolo>
+  <abstract>Pubblicazione 1 legge 190 anno 1 rif. 2010</abstract>
+  <dataPubbicazioneDataset>2017-01-01</dataPubbicazioneDataset>
+  <entePubblicatore>Amgas S.p.A.</entePubblicatore>
+  <dataUltimoAggiornamentoDataset>2018-01-19</dataUltimoAggiornamentoDataset>
+  <annoRiferimento>2016</annoRiferimento>
+  <urlFile>http://www.patrasparente.it/public/45/datasets/dataset_2016.xml</urlFile>
+ 	<licenza>IODL</licenza>
+</metadata>
+<data>
+  <lotto>
+		<cig>6483084A27</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Trattativa privata lavori di costruzione e manutenzione rete gas metano</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+ 			 	<raggruppamento>
+					<membro>
+						<codiceFiscale>04018220717</codiceFiscale>
+						<ragioneSociale>Impianti Generali Gas srl</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>03971330711</codiceFiscale>
+						<ragioneSociale>FlorioGroup srl</ragioneSociale>
+						<ruolo>02-MANDATARIA</ruolo>
+					</membro>
+ 		 		</raggruppamento>
+  			</partecipanti>
+ 		    <aggiudicatari>
+ 			 	<aggiudicatarioRaggruppamento>
+					<membro>
+						<codiceFiscale>04018220717</codiceFiscale>
+						<ragioneSociale>Impianti Generali Gas srl</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>03971330711</codiceFiscale>
+						<ragioneSociale>FlorioGroup srl</ragioneSociale>
+						<ruolo>02-MANDATARIA</ruolo>
+					</membro>
+ 			 	</aggiudicatarioRaggruppamento>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>164443.50</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2015-11-27</dataInizio>
+				<dataUltimazione>2016-01-29</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>163600.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>5109358799</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Procedura aperta per la fornitura di servizi e prodotti per gestione, telecontrollo e manutenzione dei sistemi di protezione catodica degli impianti reti gas di Foggia e Borgo incoronata</oggetto>
+			<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>06427620015</codiceFiscale>
+					<ragioneSociale>Fiam Elettronica srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>06427620015</codiceFiscale>
+					<ragioneSociale>Fiam Elettronica srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>302292.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2014-01-02</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>99150.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>6571673C1B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Copertura polizza RCTO</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00885351007</codiceFiscale>
+					<ragioneSociale>Generali Assitalia</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00885351007</codiceFiscale>
+					<ragioneSociale>Generali Assitalia</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>55000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-31</dataInizio>
+				<dataUltimazione>2017-01-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>55000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z241928920</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori edili per il completamento interno e piazzale della cabina di Via Bari</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03733630713</codiceFiscale>
+					<ragioneSociale>Impredil Tucci srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03733630713</codiceFiscale>
+					<ragioneSociale>Impredil Tucci srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>16020.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-05-25</dataInizio>
+				<dataUltimazione>2016-07-07</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>16020.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7E1928107</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori di compartimentazione con parti in cartongesso REI 120 presso l&apos;archivio AMGAS spa al 1° piano interrato</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04023500715</codiceFiscale>
+					<ragioneSociale>LG. Soc. Coop. arl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04023500715</codiceFiscale>
+					<ragioneSociale>LG. Soc. Coop. arl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>20635.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-05-30</dataInizio>
+				<dataUltimazione>2016-07-25</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>20635.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>6551982297</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Realizzazione integrazione ai sistemi di sicurezza della cabina di decompressione di Via Bari</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04005530714</codiceFiscale>
+					<ragioneSociale>G.O.S.S. srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03738030711</codiceFiscale>
+					<ragioneSociale>Gesolar Costruzioni scarl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03738030711</codiceFiscale>
+					<ragioneSociale>Gesolar Costruzioni scarl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>47509.95</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-05-18</dataInizio>
+				<dataUltimazione>2016-07-25</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>47509.95</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>6671783181</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di manutenzione e verificazione periodiva delle apparecchiature per la misura fiscale del gas naturale presso i gruppi dotati di funzione di telelettura</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>08620190150</codiceFiscale>
+					<ragioneSociale>Pietro Fiorentini spa</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>00827160110</codiceFiscale>
+					<ragioneSociale>Teclab</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>01742010158</codiceFiscale>
+					<ragioneSociale>Fimigas</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00827160110</codiceFiscale>
+					<ragioneSociale>Teclab</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>26298.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-06-01</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0019DA882</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Prestazioni specialistiche di manutenzione ordinaria e straordinaria degli impianti termici</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03044170714</codiceFiscale>
+					<ragioneSociale>Antonacci Termoidraulica srl</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>01528130717</codiceFiscale>
+					<ragioneSociale>Termotecnica di Luigi Ficelo</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>03279500718</codiceFiscale>
+					<ragioneSociale>Termo Edil Gallo srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03279500718</codiceFiscale>
+					<ragioneSociale>Termo Edil Gallo srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>12290.20</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-06-24</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>8939.50</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z8319F4160</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizi relativi al sistema di gestione della qualità risposndente alla norma UNI EN ISO 9001.2015 per n. 3 anni</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>08271511001</codiceFiscale>
+					<ragioneSociale>LPC Ingegneria srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>08271511001</codiceFiscale>
+					<ragioneSociale>LPC Ingegneria srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>21000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-05-30</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE51A14315</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori di manutenzione ordinaria degli impianti elettrici della sede aziendale</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03977520711</codiceFiscale>
+					<ragioneSociale>Ingegneria Futura Energia</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03977520711</codiceFiscale>
+					<ragioneSociale>Ingegneria Futura Energia</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>14000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-06-06</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>9937.86</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZB51A91CDA</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di pulizia dei locvali della sede AMGAS</oggetto>
+			<sceltaContraente>14-PROCEDURA SELETTIVA EX ART 238 C.7, D.LGS. 163/2006</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00123510711</codiceFiscale>
+					<ragioneSociale>Tre Fiammelle Soc. Coop Prod. Lav arl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00123510711</codiceFiscale>
+					<ragioneSociale>Tre Fiammelle Soc. Coop Prod. Lav arl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>34320.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-07-15</dataInizio>
+				<dataUltimazione>2017-07-14</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4438.09</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>6554456C30</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>02361300714</codiceFiscaleProp>
+					<denominazione>Amgas S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori di costruzione, manutenzione ordinaria e straordinaria rete gas, servizio di reperibilità e prestazioni accessorie</oggetto>
+			<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+ 			<partecipanti>
+ 			 	<raggruppamento>
+					<membro>
+						<codiceFiscale>03971330711</codiceFiscale>
+						<ragioneSociale>Florio Group srl</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>04018220717</codiceFiscale>
+						<ragioneSociale>Impianti Generali Gas srl</ragioneSociale>
+						<ruolo>02-MANDATARIA</ruolo>
+					</membro>
+ 		 		</raggruppamento>
+  			</partecipanti>
+ 		    <aggiudicatari>
+ 			 	<aggiudicatarioRaggruppamento>
+					<membro>
+						<codiceFiscale>03971330711</codiceFiscale>
+						<ragioneSociale>Florio Group srl</ragioneSociale>
+						<ruolo>01-MANDANTE</ruolo>
+					</membro>
+					<membro>
+						<codiceFiscale>04018220717</codiceFiscale>
+						<ragioneSociale>Impianti Generali Gas srl</ragioneSociale>
+						<ruolo>02-MANDATARIA</ruolo>
+					</membro>
+ 			 	</aggiudicatarioRaggruppamento>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>164443.50</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-03-02</dataInizio>
+				<dataUltimazione>2016-06-24</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>164284.80</importoSommeLiquidate>
+  </lotto>
+</data>
+</legge190:pubblicazione>

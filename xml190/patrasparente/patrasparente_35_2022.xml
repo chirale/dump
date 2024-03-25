@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+  <titolo>Pubblicazione 1 legge 190</titolo>
+  <abstract>Pubblicazione 1 legge 190 rif. 2022</abstract>
+  <dataPubblicazioneDataset>2023-01-01</dataPubblicazioneDataset>
+  <entePubblicatore>Azienda Sanitaria Regionale del Molise</entePubblicatore>
+  <dataUltimoAggiornamentoDataset>2022-02-07</dataUltimoAggiornamentoDataset>
+  <annoRiferimento>2022</annoRiferimento>
+  <urlFile>http://www.patrasparente.it/public/35/datasets/dataset_2022.xml</urlFile>
+ 	<licenza>IODL</licenza>
+</metadata>
+<data>
+  <lotto>
+		<cig>ZCE34B8409</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01546900703</codiceFiscaleProp>
+					<denominazione>Azienda Sanitaria Regionale del Molise</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura grondaie ad integrazione acquisto gazebo per l&apos;ASREM</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>05351360820</codiceFiscale>
+					<ragioneSociale>TOBA SERVICE Srl </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>05351360820</codiceFiscale>
+					<ragioneSociale>TOBA SERVICE Srl </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>420.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-13</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>869835801A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01546900703</codiceFiscaleProp>
+					<denominazione>Azienda Sanitaria Regionale del Molise</denominazione>
+			</strutturaProponente>
+			<oggetto>AFFIDAMENTO  FORNIRURA SISTEMA DI MONITORAGGI CONTINUO DELLA GLICEMIA DEXOM G6 PER ASSISTITI DEI DISTRETTI SANITARI DI BASE DI CAMPOBASO , ISERNIA E TERMOLI. DITTA THERAS BIOCARE SRL</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02700790344</codiceFiscale>
+					<ragioneSociale>DITTA THERAS BIOCARE SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02700790344</codiceFiscale>
+					<ragioneSociale>DITTA THERAS BIOCARE SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>102128.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-06-07</dataInizio>
+				<dataUltimazione>2022-06-06</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>102128.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA734A8D3B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01546900703</codiceFiscaleProp>
+					<denominazione>Azienda Sanitaria Regionale del Molise</denominazione>
+			</strutturaProponente>
+			<oggetto>Noleggio apparecchiatura sanitaria
+
+
+
+
+
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00931170195</codiceFiscale>
+					<ragioneSociale>Fresenius Medical Care</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00931170195</codiceFiscale>
+					<ragioneSociale>Fresenius Medical Care</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>8400.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-11</dataInizio>
+				<dataUltimazione>2022-01-17</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>8400.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2B3483DEC</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01546900703</codiceFiscaleProp>
+					<denominazione>Azienda Sanitaria Regionale del Molise</denominazione>
+			</strutturaProponente>
+			<oggetto>Gara per la fornitura di materiale informatico
+
+
+
+
+
+</oggetto>
+			<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00900060708</codiceFiscale>
+					<ragioneSociale>Punto Exe</ragioneSociale>
+				</partecipante>
+				<partecipante>
+					<codiceFiscale>01615450705</codiceFiscale>
+					<ragioneSociale>Solution System srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01615450705</codiceFiscale>
+					<ragioneSociale>Solution System srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>10750.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-12</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2A32EBDB1</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01546900703</codiceFiscaleProp>
+					<denominazione>Azienda Sanitaria Regionale del Molise</denominazione>
+			</strutturaProponente>
+			<oggetto>AFFIDAMENTO FORNITURA PINZE DA CRACKING IN ACCIAIO INOX PER INTERVENTI DI CATARATTA. 
+DITTA ELLEGGI MEDICAL OPTICS SRL</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>05354730631</codiceFiscale>
+					<ragioneSociale>DITTA  ELLEGGI MEDICAL OPTICS SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>05354730631</codiceFiscale>
+					<ragioneSociale>DITTA  ELLEGGI MEDICAL OPTICS SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1070.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-09-14</dataInizio>
+				<dataUltimazione>2022-09-13</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1070.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>9059405980</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01546900703</codiceFiscaleProp>
+					<denominazione>Azienda Sanitaria Regionale del Molise</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di test molecolare
+
+
+
+
+
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01689490900</codiceFiscale>
+					<ragioneSociale>Nurex srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01689490900</codiceFiscale>
+					<ragioneSociale>Nurex srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>212700.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-14</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>897222631F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01546900703</codiceFiscaleProp>
+					<denominazione>Azienda Sanitaria Regionale del Molise</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA FARMACI &quot;SPPYCEL 80 MG 30 CPR&quot; E SPRYCEL 100 MG 30 CPR &quot;
+DITTA BRISTOL MYERS SQUIBB SRL</oggetto>
+			<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01726510595</codiceFiscale>
+					<ragioneSociale>DITTA BRISTOL MYERS SQUIBB SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01726510595</codiceFiscale>
+					<ragioneSociale>DITTA BRISTOL MYERS SQUIBB SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>626775.06</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-11-30</dataInizio>
+				<dataUltimazione>2022-03-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>626775.06</importoSommeLiquidate>
+  </lotto>
+</data>
+</legge190:pubblicazione>

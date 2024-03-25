@@ -1,0 +1,5139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+  <titolo>Pubblicazione 1 legge 190</titolo>
+  <abstract>Pubblicazione 1 legge 190 anno 1 rif. 2010</abstract>
+  <dataPubbicazioneDataset>2017-01-01</dataPubbicazioneDataset>
+  <entePubblicatore>Consorzio di Bonifica Navarolo</entePubblicatore>
+  <dataUltimoAggiornamentoDataset>2017-02-20</dataUltimoAggiornamentoDataset>
+  <annoRiferimento>2016</annoRiferimento>
+  <urlFile>http://www.patrasparente.it/public/40/datasets/dataset_2016.xml</urlFile>
+ 	<licenza>IODL</licenza>
+</metadata>
+<data>
+  <lotto>
+		<cig>Z601A5B0EF</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Spurgo sifone canale consortile
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00165760208</codiceFiscale>
+					<ragioneSociale>METALSER DI ANTONIETTI ANGELO E BRUNO snc</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00165760208</codiceFiscale>
+					<ragioneSociale>METALSER DI ANTONIETTI ANGELO E BRUNO snc</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>270.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>270.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZAC183C7C2</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>&quot;Servizio predisposizione ed invio telematico
+ modelli previdenziali e fiscali anno 2016&quot;
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03690390269</codiceFiscale>
+					<ragioneSociale>HUNEXT CONSULTING</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03690390269</codiceFiscale>
+					<ragioneSociale>HUNEXT CONSULTING</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5700.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>5700.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2317ECF71</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio pulizie uffici 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01600790198</codiceFiscale>
+					<ragioneSociale>IL CERCHIO SOCIETA&apos; COOPERATIVA SOCIALE</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01600790198</codiceFiscale>
+					<ragioneSociale>IL CERCHIO SOCIETA&apos; COOPERATIVA SOCIALE</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>8232.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>8232.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9717FD619</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Riparazione convertitore statico</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01291190203</codiceFiscale>
+					<ragioneSociale>DATEK SISTEMI</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01291190203</codiceFiscale>
+					<ragioneSociale>DATEK SISTEMI</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>950.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>950.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3D180471B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di casella postale anno 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01114601006</codiceFiscale>
+					<ragioneSociale>POSTE ITALIANE SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01114601006</codiceFiscale>
+					<ragioneSociale>POSTE ITALIANE SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>200.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3E180E82C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Riparazione mezzi d&apos;opera
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00078030343</codiceFiscale>
+					<ragioneSociale>Cantoni Pierino</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00078030343</codiceFiscale>
+					<ragioneSociale>Cantoni Pierino</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>25000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>25000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z74187E560</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Dichiarazione di rispondenza impianti termici/gas immobili consortili
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02255220200</codiceFiscale>
+					<ragioneSociale>Termoidraulica Beccari di Beccari Alberto</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02255220200</codiceFiscale>
+					<ragioneSociale>Termoidraulica Beccari di Beccari Alberto</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>300.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>300.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z641818B5E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di manutenzione mezzi agricoli
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00586200982</codiceFiscale>
+					<ragioneSociale>EUROMACH SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00586200982</codiceFiscale>
+					<ragioneSociale>EUROMACH SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3637.47</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3637.47</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z931819904</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Materiale inerte per difesa spondale 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02457030357</codiceFiscale>
+					<ragioneSociale>FLUMAR S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02457030357</codiceFiscale>
+					<ragioneSociale>FLUMAR S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>12000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>12000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z48181B8C4</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Sportelli chiusura vani tecnici
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01826600205</codiceFiscale>
+					<ragioneSociale>EUROBAGNI</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01826600205</codiceFiscale>
+					<ragioneSociale>EUROBAGNI</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>415.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>415.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z20181EEB2</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di materiali per manutenzione sede uffici
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01386310195</codiceFiscale>
+					<ragioneSociale>HD READY DI TONINELLI VERONICA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01386310195</codiceFiscale>
+					<ragioneSociale>HD READY DI TONINELLI VERONICA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>441.06</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>441.06</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZC91822DE5</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Formazione software gestione progetti Lavori Pubblici 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>12811210157</codiceFiscale>
+					<ragioneSociale>TSS S.P.A.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>12811210157</codiceFiscale>
+					<ragioneSociale>TSS S.P.A.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1400.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1400.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z801831247</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Consulenza peritale per danni da sisma 2012 impianto S.Matteo delle Chiaviche 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00694320359</codiceFiscale>
+					<ragioneSociale>ING. IVANO BIACCHI</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00694320359</codiceFiscale>
+					<ragioneSociale>ING. IVANO BIACCHI</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1248.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1248.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z541836E59</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Licenza e manutenzione programmi informatici (catasto, protocollo, concessioni, finanziario) anno 2016 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03309000275</codiceFiscale>
+					<ragioneSociale>CAPACITAS Srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03309000275</codiceFiscale>
+					<ragioneSociale>CAPACITAS Srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>7945.44</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>7945.44</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZC3183C718</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio elaborazione paghe anno 2016 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03764380261</codiceFiscale>
+					<ragioneSociale>HUNEXT PAYROLL SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03764380261</codiceFiscale>
+					<ragioneSociale>HUNEXT PAYROLL SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>16400.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>16400.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z11183EF5C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di kit ventilazione trasformatori
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03550350171</codiceFiscale>
+					<ragioneSociale>MF Trasformatori srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03550350171</codiceFiscale>
+					<ragioneSociale>MF Trasformatori srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3050.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3050.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z73183C815</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>&quot;Servizio assistenza e manutenzione informatica
+programma informatico rilevazione presenze anno 2016&quot;
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04505810269</codiceFiscale>
+					<ragioneSociale>HUNEXT SOFTWARE SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04505810269</codiceFiscale>
+					<ragioneSociale>HUNEXT SOFTWARE SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA2183C8FC</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura cancelleria anno 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01040710194</codiceFiscale>
+					<ragioneSociale>OERRE CARTOTECNICA di ORI RITA &amp; C. s.n.c.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01040710194</codiceFiscale>
+					<ragioneSociale>OERRE CARTOTECNICA di ORI RITA &amp; C. s.n.c.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2200.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z36183C94A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura cancelleria anno 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01915770208</codiceFiscale>
+					<ragioneSociale>ELIOCRIS S.R.L. SOCIETA&apos; AD UNICO SOCIO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01915770208</codiceFiscale>
+					<ragioneSociale>ELIOCRIS S.R.L. SOCIETA&apos; AD UNICO SOCIO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2500.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z6E183C9AD</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Assistenza informatica anno 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02224670345</codiceFiscale>
+					<ragioneSociale>T.S.T. SISTEMI S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02224670345</codiceFiscale>
+					<ragioneSociale>T.S.T. SISTEMI S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2500.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZCE183CA0F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio costo fotocopia anno 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00470220203</codiceFiscale>
+					<ragioneSociale>BAROZZI VITTORIO S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00470220203</codiceFiscale>
+					<ragioneSociale>BAROZZI VITTORIO S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4100.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4100.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z46183CBA4</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Noleggio fotocopiatrici anno 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>13187000156</codiceFiscale>
+					<ragioneSociale>GRENKE LOCAZIONE S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>13187000156</codiceFiscale>
+					<ragioneSociale>GRENKE LOCAZIONE S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>5000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z44183CC15</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio metronotte anno 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00321120339</codiceFiscale>
+					<ragioneSociale>I.V.R.I. Istituti di Vigilanza Riuniti D&apos;Italia S.P.A.  - Sede Secondaria di Cremona</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00321120339</codiceFiscale>
+					<ragioneSociale>I.V.R.I. Istituti di Vigilanza Riuniti D&apos;Italia S.P.A.  - Sede Secondaria di Cremona</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1700.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1700.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZB3183CC96</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio collegamento radar anno 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01132880194</codiceFiscale>
+					<ragioneSociale>ITALSINERGIE - Servizi Tecnologici e Telematici S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01132880194</codiceFiscale>
+					<ragioneSociale>ITALSINERGIE - Servizi Tecnologici e Telematici S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>820.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>820.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z6F183CCE3</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio telefonia fissa anno 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01762150207</codiceFiscale>
+					<ragioneSociale>MNET Srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01762150207</codiceFiscale>
+					<ragioneSociale>MNET Srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3300.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3300.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZAE183CD33</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio telefonia mobile anno 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>08539010010</codiceFiscale>
+					<ragioneSociale>VODAFONE OMNITEL N.V.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>08539010010</codiceFiscale>
+					<ragioneSociale>VODAFONE OMNITEL N.V.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>6200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>6200.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA1183CD9E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura acqua uffici e impianti anno 2016</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02512100989</codiceFiscale>
+					<ragioneSociale>Acquaviva Italia S.p.A.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02512100989</codiceFiscale>
+					<ragioneSociale>Acquaviva Italia S.p.A.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1300.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1300.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z85183D1D6</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servzio pasti dipendenti anno 2016</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01412870204</codiceFiscale>
+					<ragioneSociale>Ristorante Pizzeria CROCE D&apos;ORO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01412870204</codiceFiscale>
+					<ragioneSociale>Ristorante Pizzeria CROCE D&apos;ORO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3300.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3300.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD7183E20E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servzio pasti dipendenti anno 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01085170197</codiceFiscale>
+					<ragioneSociale>Bar Ristorante LA FAVORITA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01085170197</codiceFiscale>
+					<ragioneSociale>Bar Ristorante LA FAVORITA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2700.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2700.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z8B183E41F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servzio pasti dipendenti anno 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01010860193</codiceFiscale>
+					<ragioneSociale>Bar Trattoria IL PAVONE</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01010860193</codiceFiscale>
+					<ragioneSociale>Bar Trattoria IL PAVONE</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1300.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1300.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZB51848D4C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura e posa di pavimento presso immobile consortile
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01293420194</codiceFiscale>
+					<ragioneSociale>Lupino Carmine</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01293420194</codiceFiscale>
+					<ragioneSociale>Lupino Carmine</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3950.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3950.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z76183E553</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servzio pasti dipendenti anno 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01229920192</codiceFiscale>
+					<ragioneSociale>Bar Trattoria LA PACE</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01229920192</codiceFiscale>
+					<ragioneSociale>Bar Trattoria LA PACE</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>370.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>370.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA8183E60E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servzio pasti dipendenti anno 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02158790200</codiceFiscale>
+					<ragioneSociale>Bar Trattoria GLI SCALINI</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02158790200</codiceFiscale>
+					<ragioneSociale>Bar Trattoria GLI SCALINI</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1700.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1700.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZB1183E780</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servzio pasti dipendenti anno 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01361820192</codiceFiscale>
+					<ragioneSociale>Ristorante LA COMBRICCOLA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01361820192</codiceFiscale>
+					<ragioneSociale>Ristorante LA COMBRICCOLA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1700.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1700.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z21183E7E8</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servzio pasti dipendenti anno 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01329040198</codiceFiscale>
+					<ragioneSociale>Bar Trattoria TRATTOBENE</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01329040198</codiceFiscale>
+					<ragioneSociale>Bar Trattoria TRATTOBENE</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>500.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0E183E9A6</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servzio pasti dipendenti anno 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02741560342</codiceFiscale>
+					<ragioneSociale>Ristorante Pizzeria L&apos;AURORA DI I PETALI </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02741560342</codiceFiscale>
+					<ragioneSociale>Ristorante Pizzeria L&apos;AURORA DI I PETALI </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1300.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1300.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7D183EA27</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio pubblicità pagine bianche cartacee-informatica CR-MN anno 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03970540963</codiceFiscale>
+					<ragioneSociale>SEAT Pagine Gialle</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03970540963</codiceFiscale>
+					<ragioneSociale>SEAT Pagine Gialle</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3800.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3800.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9C183EAAA</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servzio on line consultazione leggi anno 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>10209790152</codiceFiscale>
+					<ragioneSociale>Wolter Kluwer - Ipsoa</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>10209790152</codiceFiscale>
+					<ragioneSociale>Wolter Kluwer - Ipsoa</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>630.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>630.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZCD183EC1B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio varie tipografia 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00315590190</codiceFiscale>
+					<ragioneSociale>TIPOLITOGRAFIA FAZZI &amp; C. s.n.c</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00315590190</codiceFiscale>
+					<ragioneSociale>TIPOLITOGRAFIA FAZZI &amp; C. s.n.c</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z04183ECD6</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Assistenza software e mantenimento dominio sito Navrolo.it anno 2016 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02225750351</codiceFiscale>
+					<ragioneSociale>INFORES SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02225750351</codiceFiscale>
+					<ragioneSociale>INFORES SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>700.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>700.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZEA184483E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Forniture edili Camperia Ovest 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01512830199</codiceFiscale>
+					<ragioneSociale>EDILIZIA CARBONI di Carboni Andrea</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01512830199</codiceFiscale>
+					<ragioneSociale>EDILIZIA CARBONI di Carboni Andrea</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9B1845930</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Forniture edili Camperia Sud
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01262740192</codiceFiscale>
+					<ragioneSociale>BONGIOVANNI GIOVANNI E CESARE S.N.C.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01262740192</codiceFiscale>
+					<ragioneSociale>BONGIOVANNI GIOVANNI E CESARE S.N.C.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>8000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>8000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE8184622D</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Forniture edili Camperia Nord
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00271090201</codiceFiscale>
+					<ragioneSociale>COMARTE Soc. Coop. Materiali e Prodotti per l&apos;Edillizia</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00271090201</codiceFiscale>
+					<ragioneSociale>COMARTE Soc. Coop. Materiali e Prodotti per l&apos;Edillizia</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>8000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>8000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD818463BF</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Forniture edili Impianti
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01741480204</codiceFiscale>
+					<ragioneSociale>EDILVIADANA di Rovina e Coppi S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01741480204</codiceFiscale>
+					<ragioneSociale>EDILVIADANA di Rovina e Coppi S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZC5184657D</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura inerti Camperia Ovest
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01417300199</codiceFiscale>
+					<ragioneSociale>BACCHI ATTILIO di Bacchi Abdenago &amp; C. s.a.s.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01417300199</codiceFiscale>
+					<ragioneSociale>BACCHI ATTILIO di Bacchi Abdenago &amp; C. s.a.s.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7A18468CE</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura inerti Camperia Sud
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01618300204</codiceFiscale>
+					<ragioneSociale>ROSA INERTI S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01618300204</codiceFiscale>
+					<ragioneSociale>ROSA INERTI S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z57184A5F7</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura inerti Camperia Nord
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01878690203</codiceFiscale>
+					<ragioneSociale>PERINI INERTI DI PERINI MASSIMO &amp; C. S.n.c.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01878690203</codiceFiscale>
+					<ragioneSociale>PERINI INERTI DI PERINI MASSIMO &amp; C. S.n.c.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>24000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>24000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z79184A749</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Ferramenta Camperia Ovest
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00873850192</codiceFiscale>
+					<ragioneSociale>VIDI DOMENICO FERRAMENTA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00873850192</codiceFiscale>
+					<ragioneSociale>VIDI DOMENICO FERRAMENTA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z82184A7C0</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Ferramenta Camperia Sud
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00191380203</codiceFiscale>
+					<ragioneSociale>FERRAMENTA SOLAZZI s.a.s.   di BORONI GRAZIOLI ALDO &amp; C.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00191380203</codiceFiscale>
+					<ragioneSociale>FERRAMENTA SOLAZZI s.a.s.   di BORONI GRAZIOLI ALDO &amp; C.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>15000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>15000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z34184AC38</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Ferramenta Camperia Nord
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00930620190</codiceFiscale>
+					<ragioneSociale>FERRAMENTA MARCHETTI DI BUSI ROSA &amp; C. SNC</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00930620190</codiceFiscale>
+					<ragioneSociale>FERRAMENTA MARCHETTI DI BUSI ROSA &amp; C. SNC</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-01-01</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z25184AF0A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Ferramenta San Matteo
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00505230201</codiceFiscale>
+					<ragioneSociale>BAIOCCHI AUGUSTO &amp; MASSIMO SNC</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00505230201</codiceFiscale>
+					<ragioneSociale>BAIOCCHI AUGUSTO &amp; MASSIMO SNC</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z27184B08F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Ricambi agricoli Camperia Ovest
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00075320192</codiceFiscale>
+					<ragioneSociale>AGRIGARDEN STORE AZZI s.n.c. di Azzi Marco e Alessia e C.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00075320192</codiceFiscale>
+					<ragioneSociale>AGRIGARDEN STORE AZZI s.n.c. di Azzi Marco e Alessia e C.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z22184B227</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Ricambi agricoli Camperia Sud
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00684270192</codiceFiscale>
+					<ragioneSociale>TRE EMME DI FEUDATARI PIERGIOVANNI &amp; C. S.n.c.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00684270192</codiceFiscale>
+					<ragioneSociale>TRE EMME DI FEUDATARI PIERGIOVANNI &amp; C. S.n.c.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>7000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>7000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5E184B2A3</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Ricambi agricoli Camperia Nord
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01240830198</codiceFiscale>
+					<ragioneSociale>MALCISI S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01240830198</codiceFiscale>
+					<ragioneSociale>MALCISI S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0A184B482</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Ricambi oleodinamica Camperie
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02221840206</codiceFiscale>
+					<ragioneSociale>BRAGA MAURIZIO &amp; C. S.r.l. Macchine Agricole</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02221840206</codiceFiscale>
+					<ragioneSociale>BRAGA MAURIZIO &amp; C. S.r.l. Macchine Agricole</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z04184B6D0</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Ricambi oleodinamica Impianti
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01044190195</codiceFiscale>
+					<ragioneSociale>CIMARDI s.r.l. FORNITURE MECCANICHE INDUSTRIALI</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01044190195</codiceFiscale>
+					<ragioneSociale>CIMARDI s.r.l. FORNITURE MECCANICHE INDUSTRIALI</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z60184B814</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Riparazione mezzi d&apos;opera Camperia Ovest
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01526140346</codiceFiscale>
+					<ragioneSociale>BM MACCHINE MOVIMENTO TERRA s.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01526140346</codiceFiscale>
+					<ragioneSociale>BM MACCHINE MOVIMENTO TERRA s.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZEE184B918</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Riparazione mezzi d&apos;opera Camperia Sud
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00778480194</codiceFiscale>
+					<ragioneSociale>PANCERA GIANCARLO OFFICINA MECCANICA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00778480194</codiceFiscale>
+					<ragioneSociale>PANCERA GIANCARLO OFFICINA MECCANICA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0D184BA38</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Riparazione mezzi d&apos;opera Camperia Nord
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01772130207</codiceFiscale>
+					<ragioneSociale>S.O.S. TRATTORI di Carnevali Ruber</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01772130207</codiceFiscale>
+					<ragioneSociale>S.O.S. TRATTORI di Carnevali Ruber</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z96184BCD4</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Riparazione mezzi d&apos;opera Impianti
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01811480209</codiceFiscale>
+					<ragioneSociale>OFFICINA MECCANICA TASSONI ALDO di Tassoni Silver e Flisi Gianpietro S.n.c.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01811480209</codiceFiscale>
+					<ragioneSociale>OFFICINA MECCANICA TASSONI ALDO di Tassoni Silver e Flisi Gianpietro S.n.c.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>25000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>25000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA0184BE8B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Riparazione autoveicoli Camperia Ovest
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01366470191</codiceFiscale>
+					<ragioneSociale>AUTOFFICINA - ELETTRAUTO DI DABERGAMO M. &amp; FUOCHI A. S.N.C.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01366470191</codiceFiscale>
+					<ragioneSociale>AUTOFFICINA - ELETTRAUTO DI DABERGAMO M. &amp; FUOCHI A. S.N.C.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z52184C10D</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Riparazione autoveicoli Camperia Sud
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01040540195</codiceFiscale>
+					<ragioneSociale>A.C.M.A. DI EZIO SBERNINI &amp; C. S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01040540195</codiceFiscale>
+					<ragioneSociale>A.C.M.A. DI EZIO SBERNINI &amp; C. S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z84184C1C8</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Riparazione autoveicoli Camperia Nord
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01751570209</codiceFiscale>
+					<ragioneSociale>BALLERINI SANTE &amp; C. S.N.C.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01751570209</codiceFiscale>
+					<ragioneSociale>BALLERINI SANTE &amp; C. S.N.C.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA9184C2EE</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Riparazione autoveicoli Impianti
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00378680201</codiceFiscale>
+					<ragioneSociale>OFFICINA MECCANICA VEDOVELLI S.N.C. di Vedovelli Sergio &amp; Giordano</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00378680201</codiceFiscale>
+					<ragioneSociale>OFFICINA MECCANICA VEDOVELLI S.N.C. di Vedovelli Sergio &amp; Giordano</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZB6184C37E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Riparazioni meccaniche Camperia Ovest
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01090470194</codiceFiscale>
+					<ragioneSociale>RAINERI MARIO DI RAINERI ANGELO E CLAUDIO S.N.C.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01090470194</codiceFiscale>
+					<ragioneSociale>RAINERI MARIO DI RAINERI ANGELO E CLAUDIO S.N.C.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE4184C51B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Riparazioni meccaniche Camperia Sud
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00399580190</codiceFiscale>
+					<ragioneSociale>OSMA DI SANZANNI FRANCESCO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00399580190</codiceFiscale>
+					<ragioneSociale>OSMA DI SANZANNI FRANCESCO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZCB184C636</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Riparazione meccaniche Camperia Nord
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02120050204</codiceFiscale>
+					<ragioneSociale>NUOVA SVA S.R.L. Costruzione Macchine Agricole e Forestali</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02120050204</codiceFiscale>
+					<ragioneSociale>NUOVA SVA S.R.L. Costruzione Macchine Agricole e Forestali</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>10000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>10000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3C184C6E3</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Riparazione meccaniche Camperia Nord
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01903360202</codiceFiscale>
+					<ragioneSociale>PELIZZONI MACCHINE AGRICOLE SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01903360202</codiceFiscale>
+					<ragioneSociale>PELIZZONI MACCHINE AGRICOLE SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z55184C8B9</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori contoterzisti Camperia Ovest
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02303890202</codiceFiscale>
+					<ragioneSociale>VADNOT di Gerola Petronio e Giuliano s.n.c.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02303890202</codiceFiscale>
+					<ragioneSociale>VADNOT di Gerola Petronio e Giuliano s.n.c.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7718504DF</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori contoterzisti Camperia Sud
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01569040205</codiceFiscale>
+					<ragioneSociale>F.LLI FORMICI GIANPIETRO AMEDEO MATTEO s.n.c.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01569040205</codiceFiscale>
+					<ragioneSociale>F.LLI FORMICI GIANPIETRO AMEDEO MATTEO s.n.c.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>15000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>15000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9F18505D9</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori contoterzisti Camperia Nord
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01406310209</codiceFiscale>
+					<ragioneSociale>VIGHINI ANGELO - MINI SCAVI - MOVIMENTO TERRA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01406310209</codiceFiscale>
+					<ragioneSociale>VIGHINI ANGELO - MINI SCAVI - MOVIMENTO TERRA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZB81850D91</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Attrezzatura industriale 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00964710198</codiceFiscale>
+					<ragioneSociale>CM LA CASALMACCHINE S.A.S. di Bravi Fulvia e C.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00964710198</codiceFiscale>
+					<ragioneSociale>CM LA CASALMACCHINE S.A.S. di Bravi Fulvia e C.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>6000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>6000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z761850E68</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Carpenteria metallica
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01619880196</codiceFiscale>
+					<ragioneSociale>AZZI ERMETE E SILVIO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01619880196</codiceFiscale>
+					<ragioneSociale>AZZI ERMETE E SILVIO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>8000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>8000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z081850F27</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Diserbanti
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00114930191</codiceFiscale>
+					<ragioneSociale>CONSORZIO AGRARIO di CREMONA Soc. Coop. a r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00114930191</codiceFiscale>
+					<ragioneSociale>CONSORZIO AGRARIO di CREMONA Soc. Coop. a r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD91851094</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Prodotti colorificio
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01608050207</codiceFiscale>
+					<ragioneSociale>COLORIFICIO A. DEFRANCESCHI DI Antonio Defranceschi &amp; C. s.n.c.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01608050207</codiceFiscale>
+					<ragioneSociale>COLORIFICIO A. DEFRANCESCHI DI Antonio Defranceschi &amp; C. s.n.c.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z041851104</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura gas tecnici
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01060420195</codiceFiscale>
+					<ragioneSociale>SAVAZZI STEFANO - GAS E MATERIALI PER LA SALDATURA E IL TAGLIO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01060420195</codiceFiscale>
+					<ragioneSociale>SAVAZZI STEFANO - GAS E MATERIALI PER LA SALDATURA E IL TAGLIO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE3185124B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Forniture elettriche 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01111340194</codiceFiscale>
+					<ragioneSociale>B.T.B. - S.R.L. FORNITURE MATERIALE ELETTRICO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01111340194</codiceFiscale>
+					<ragioneSociale>B.T.B. - S.R.L. FORNITURE MATERIALE ELETTRICO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>12000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>12000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZAC1851328</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Gommista autoveicoli
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00101830198</codiceFiscale>
+					<ragioneSociale>GORLA GOMME di Gorla Giovanni C. snc</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00101830198</codiceFiscale>
+					<ragioneSociale>GORLA GOMME di Gorla Giovanni C. snc</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>5000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA418513F1</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Gommista mezzi d&apos;opera
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01864670201</codiceFiscale>
+					<ragioneSociale>GASTALDI GOMME S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01864670201</codiceFiscale>
+					<ragioneSociale>GASTALDI GOMME S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>12000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>12000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2A1851465</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Lubrificanti
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00905811006</codiceFiscale>
+					<ragioneSociale>ENI S.P.A.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00905811006</codiceFiscale>
+					<ragioneSociale>ENI S.P.A.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>8000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>8000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZCB18515A1</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Lubrificanti speciali
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01937260204</codiceFiscale>
+					<ragioneSociale>BASONI S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01937260204</codiceFiscale>
+					<ragioneSociale>BASONI S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE118516A8</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Materiale idraulico
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01607950191</codiceFiscale>
+					<ragioneSociale>IDROTERMOSANITARIA CREMONESE S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01607950191</codiceFiscale>
+					<ragioneSociale>IDROTERMOSANITARIA CREMONESE S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZB11851772</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Materiale idro-termo-sanitario
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01412690206</codiceFiscale>
+					<ragioneSociale>BELLINI GIUSEPPE  &amp; C. S.N.C. - INGROSSO ARTICOLI IDRICI</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01412690206</codiceFiscale>
+					<ragioneSociale>BELLINI GIUSEPPE  &amp; C. S.N.C. - INGROSSO ARTICOLI IDRICI</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>15000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>15000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z971851848</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Materiale pulizia
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00115030207</codiceFiscale>
+					<ragioneSociale>AGENZIA AGRICOLA - GIORGIO VALLI - ANTIPARASSITARI E MANGIMI</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00115030207</codiceFiscale>
+					<ragioneSociale>AGENZIA AGRICOLA - GIORGIO VALLI - ANTIPARASSITARI E MANGIMI</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z43185192C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Nolo attrezzature
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01795870201</codiceFiscale>
+					<ragioneSociale>DANESE AUTOGRU S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01795870201</codiceFiscale>
+					<ragioneSociale>DANESE AUTOGRU S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>5000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z871851AD5</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Riparazione motocicli
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01468960198</codiceFiscale>
+					<ragioneSociale>PEZZONI MOTO di Pezzoni Diego Alberto</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01468960198</codiceFiscale>
+					<ragioneSociale>PEZZONI MOTO di Pezzoni Diego Alberto</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZB11851B5E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Riparazione motori elettrici
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01223010198</codiceFiscale>
+					<ragioneSociale>MULTIMOTOR DI CONCARI DAVIDE E POLI ANTONELLO S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01223010198</codiceFiscale>
+					<ragioneSociale>MULTIMOTOR DI CONCARI DAVIDE E POLI ANTONELLO S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z221851C0B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio spurghi
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01817210345</codiceFiscale>
+					<ragioneSociale>MARTINI ROBERTO Spurgo Fogne</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01817210345</codiceFiscale>
+					<ragioneSociale>MARTINI ROBERTO Spurgo Fogne</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z1D1851CA8</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio zincatura
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03306750989</codiceFiscale>
+					<ragioneSociale>ZINCATURA SERVICE S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03306750989</codiceFiscale>
+					<ragioneSociale>ZINCATURA SERVICE S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>5000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9E1845809</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura ricambi caldaie Immergas
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02000660346</codiceFiscale>
+					<ragioneSociale>PARMA CLIMA S.R.L</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02000660346</codiceFiscale>
+					<ragioneSociale>PARMA CLIMA S.R.L</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>542.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>542.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z791857FF8</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Ricambi oleodinamica Camperie
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01039480197</codiceFiscale>
+					<ragioneSociale>CONCA OFFICINA MECCANICA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01039480197</codiceFiscale>
+					<ragioneSociale>CONCA OFFICINA MECCANICA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z91185E0A4</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura inverter impianto S.Maria
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03686440284</codiceFiscale>
+					<ragioneSociale>ELETTRONICA SANTERNO S.P.A</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03686440284</codiceFiscale>
+					<ragioneSociale>ELETTRONICA SANTERNO S.P.A</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>16401.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>16401.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA2185BA15</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Abbonamento utet giuridica anno 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>10209790152</codiceFiscale>
+					<ragioneSociale>Wolter Kluwer - Ipsoa</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>10209790152</codiceFiscale>
+					<ragioneSociale>Wolter Kluwer - Ipsoa</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>550.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZB41863E65</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di avvolgibili e ricambi per immobili consortili
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00394230205</codiceFiscale>
+					<ragioneSociale>LAMAPLA DI VAROTTI FRANCO &amp; C. S.n.c.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00394230205</codiceFiscale>
+					<ragioneSociale>LAMAPLA DI VAROTTI FRANCO &amp; C. S.n.c.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z27186D98B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Annuncio lutto famiglia Presidente su quotidiano Gazzetta di Mantova 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04705810150</codiceFiscale>
+					<ragioneSociale>A. MANZONI &amp; C. S.P.A</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04705810150</codiceFiscale>
+					<ragioneSociale>A. MANZONI &amp; C. S.P.A</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>110.86</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>110.86</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z88186DA32</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Annuncio lutto famiglia Presidente su quotidiano  La Provincia 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01094610191</codiceFiscale>
+					<ragioneSociale>PUBLIA S.R.L</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01094610191</codiceFiscale>
+					<ragioneSociale>PUBLIA S.R.L</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>86.08</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>86.08</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZEA187073D</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Acquisto licenza Firebox WachtGuard T30 per server con Security Suite 3 anni (2016-2017-2018)
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02224670345</codiceFiscale>
+					<ragioneSociale>T.S.T. SISTEMI S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02224670345</codiceFiscale>
+					<ragioneSociale>T.S.T. SISTEMI S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1200.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0918790A6</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>servizio di assistenza, manutenzione e canone STR VISION per lanno 2016 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>12811210157</codiceFiscale>
+					<ragioneSociale>TSS S.P.A.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>12811210157</codiceFiscale>
+					<ragioneSociale>TSS S.P.A.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z42187A9D1</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di ricambi vari per nastri trasportatori Impianto Consortile di Roncole di Gazzuolo
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00855940151</codiceFiscale>
+					<ragioneSociale>API S.P.A.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00855940151</codiceFiscale>
+					<ragioneSociale>API S.P.A.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z6118144F2</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Dichiarazione di respondenza impianti gas immobili consortili
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02255220200</codiceFiscale>
+					<ragioneSociale>Termoidraulica Beccari di Beccari Alberto</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02255220200</codiceFiscale>
+					<ragioneSociale>Termoidraulica Beccari di Beccari Alberto</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>300.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z6718D3F82</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura battiscopa in legno
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01735950204</codiceFiscale>
+					<ragioneSociale>Bernardi Mario</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01735950204</codiceFiscale>
+					<ragioneSociale>Bernardi Mario</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>249.60</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>249.60</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZC218DF7DA</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Riparazione mezzi consortili
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01229930191</codiceFiscale>
+					<ragioneSociale>Officina Meccanica Maffei Venerio</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01229930191</codiceFiscale>
+					<ragioneSociale>Officina Meccanica Maffei Venerio</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>418.40</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>418.40</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZB518F630B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura condensatori di ricambio
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01442160204</codiceFiscale>
+					<ragioneSociale>ENERLUX S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01442160204</codiceFiscale>
+					<ragioneSociale>ENERLUX S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>865.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>865.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5418F7119</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura ricambi per strumentazione di misura
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01942780154</codiceFiscale>
+					<ragioneSociale>Endress+Hauser Italia S.p.A.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01942780154</codiceFiscale>
+					<ragioneSociale>Endress+Hauser Italia S.p.A.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2073.23</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2073.23</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0518FB9EE</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Attestato prestazione energetica immobile consortile
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01818150201</codiceFiscale>
+					<ragioneSociale>ING. GOZZI COSTANTINO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01818150201</codiceFiscale>
+					<ragioneSociale>ING. GOZZI COSTANTINO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>150.80</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>150.80</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z63190420F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori di asfaltatura su S.P. 57 località Villastrada di Dosolo (Canale Sorgive)
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02301950206</codiceFiscale>
+					<ragioneSociale>Impresa Stradale Bronzini Aldo di Bronzini Claudio e Davide s.n.c.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02301950206</codiceFiscale>
+					<ragioneSociale>Impresa Stradale Bronzini Aldo di Bronzini Claudio e Davide s.n.c.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2500.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE11901C72</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura calcestruzzo
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00867100281</codiceFiscale>
+					<ragioneSociale>CALCESTRUZZI ZILLO SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00867100281</codiceFiscale>
+					<ragioneSociale>CALCESTRUZZI ZILLO SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1131.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1131.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3419022C3</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura abbigliamento personale dipendente
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01839110200</codiceFiscale>
+					<ragioneSociale>TANDRES S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01839110200</codiceFiscale>
+					<ragioneSociale>TANDRES S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>7500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>7500.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZBB1908BC8</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Rifacimento guaina coperura officina S. Matteo delle Chiaviche 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01668510207</codiceFiscale>
+					<ragioneSociale>LATTONERIA BINASCHI EDO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01668510207</codiceFiscale>
+					<ragioneSociale>LATTONERIA BINASCHI EDO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2200.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZEE1908CC8</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Materiale edile per rete irrigua e bonifica camperie varie
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00659660989</codiceFiscale>
+					<ragioneSociale>FORESTI DISTRIBUZIONE LATERIZI S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00659660989</codiceFiscale>
+					<ragioneSociale>FORESTI DISTRIBUZIONE LATERIZI S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>5000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZEE190CE79</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Acquisto carburanti per autotrazione anno 2016 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00896331006</codiceFiscale>
+					<ragioneSociale>ENI ADFIN SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00896331006</codiceFiscale>
+					<ragioneSociale>ENI ADFIN SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>35000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>35000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z68192F6A3</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Rilegatura delibere Consiglio di Amministrazione e Protocollo
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01058650191</codiceFiscale>
+					<ragioneSociale>CASALCOPY S.A.S</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01058650191</codiceFiscale>
+					<ragioneSociale>CASALCOPY S.A.S</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>390.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>390.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZBA1930AC7</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di pneumatici
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01184420196</codiceFiscale>
+					<ragioneSociale>Bozzetti Giuseppe &amp; C</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01184420196</codiceFiscale>
+					<ragioneSociale>Bozzetti Giuseppe &amp; C</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>213.12</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>213.12</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZFA19394A0</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura materiale per reintegro cassette pronto soccorso
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01392710206</codiceFiscale>
+					<ragioneSociale>ARIETE GROUP S.P.A.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01392710206</codiceFiscale>
+					<ragioneSociale>ARIETE GROUP S.P.A.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD41941D74</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Riparazione attuatori elettrici
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01018580330</codiceFiscale>
+					<ragioneSociale>Biffi Italia srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01018580330</codiceFiscale>
+					<ragioneSociale>Biffi Italia srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1700.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1700.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z411941E08</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Risanamento botte sifone canaletta &quot;Torricella&quot; e canale Secondario di Rivarolo Mantovano
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02975500170</codiceFiscale>
+					<ragioneSociale>Lombarda Strade</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02975500170</codiceFiscale>
+					<ragioneSociale>Lombarda Strade</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>8500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>8500.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZAB1944D3B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori di posa tubazione in cls su S.P. MN 73 località Via Grande - Commessaggio
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00702800194</codiceFiscale>
+					<ragioneSociale>Aroldi F.lli S.n.c.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00702800194</codiceFiscale>
+					<ragioneSociale>Aroldi F.lli S.n.c.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>5500.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z091973AC4</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura climatizzatori uffici e san matteo
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01386310195</codiceFiscale>
+					<ragioneSociale>HD READY DI TONINELLI VERONICA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01386310195</codiceFiscale>
+					<ragioneSociale>HD READY DI TONINELLI VERONICA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1750.85</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1750.85</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZBC1969159</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio verifica fatturazione energia anno 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01545680389</codiceFiscale>
+					<ragioneSociale> C.E.A.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01545680389</codiceFiscale>
+					<ragioneSociale> C.E.A.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3225.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3225.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z29197389B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di manutenzione ups
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01291190203</codiceFiscale>
+					<ragioneSociale>DATEK SISTEMI</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01291190203</codiceFiscale>
+					<ragioneSociale>DATEK SISTEMI</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2881.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2881.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z211979784</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Ammodernamento PC uffici 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02224670345</codiceFiscale>
+					<ragioneSociale>T.S.T. SISTEMI S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02224670345</codiceFiscale>
+					<ragioneSociale>T.S.T. SISTEMI S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>9308.50</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>9308.50</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZCF197D90B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Inserzioni pubblicitarie quotidiano la Provincia anno 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01094610191</codiceFiscale>
+					<ragioneSociale>PUBLIA S.R.L</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01094610191</codiceFiscale>
+					<ragioneSociale>PUBLIA S.R.L</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1500.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9F198B189</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di boccole di ricambio per pompa n. 6 Impianto Santa Maria di Calvatone
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00168990273</codiceFiscale>
+					<ragioneSociale>ELETTROMECCCANICA VIOTTO S.R.l</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00168990273</codiceFiscale>
+					<ragioneSociale>ELETTROMECCCANICA VIOTTO S.R.l</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2800.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2800.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z4A1990D57</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Inserzioni pubblicitarie settimanale il Piccolo anno 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01217270196</codiceFiscale>
+					<ragioneSociale>Immagina Srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01217270196</codiceFiscale>
+					<ragioneSociale>Immagina Srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>600.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7B1998375</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Batteria per mezzi di trasporto 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00133820209</codiceFiscale>
+					<ragioneSociale>PIAZZA F.LLI di Piazza Ermes e Sandolini Massimo s.n.c.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00133820209</codiceFiscale>
+					<ragioneSociale>PIAZZA F.LLI di Piazza Ermes e Sandolini Massimo s.n.c.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>78.75</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>78.75</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z6919C5522</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Riparazione motore elettrico Marelli P 5 Impianto Santa Maria di Calvatone
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01223010198</codiceFiscale>
+					<ragioneSociale>MULTIMOTOR DI CONCARI DAVIDE E POLI ANTONELLO S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01223010198</codiceFiscale>
+					<ragioneSociale>MULTIMOTOR DI CONCARI DAVIDE E POLI ANTONELLO S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>18900.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>18900.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0719E1544</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura trappole per nutrie
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00911940351</codiceFiscale>
+					<ragioneSociale>TABEC S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00911940351</codiceFiscale>
+					<ragioneSociale>TABEC S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>8190.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>8190.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0719E0F62</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori di consolidamento e riprofilatura scarpata argine canale Sorgive
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01660560200</codiceFiscale>
+					<ragioneSociale>CAPILUPPI LORENZO S.N.C. di Capiluppi Claudio &amp; C. </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01660560200</codiceFiscale>
+					<ragioneSociale>CAPILUPPI LORENZO S.N.C. di Capiluppi Claudio &amp; C. </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1040.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1040.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z4919F95C0</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>polizza copertura rischio elettronico 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02169980345</codiceFiscale>
+					<ragioneSociale>STUDIO GARULLI - Insurance Broker S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02169980345</codiceFiscale>
+					<ragioneSociale>STUDIO GARULLI - Insurance Broker S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>698.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>698.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZF919F9620</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Polizza RCT RCO 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02169980345</codiceFiscale>
+					<ragioneSociale>STUDIO GARULLI - Insurance Broker S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02169980345</codiceFiscale>
+					<ragioneSociale>STUDIO GARULLI - Insurance Broker S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>19800.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>19800.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2F19F9696</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Polizza infortuni amministratori 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02169980345</codiceFiscale>
+					<ragioneSociale>STUDIO GARULLI - Insurance Broker S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02169980345</codiceFiscale>
+					<ragioneSociale>STUDIO GARULLI - Insurance Broker S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>499.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>499.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z1819F9740</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>polizza RCA veicoli 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02169980345</codiceFiscale>
+					<ragioneSociale>STUDIO GARULLI - Insurance Broker S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02169980345</codiceFiscale>
+					<ragioneSociale>STUDIO GARULLI - Insurance Broker S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>14417.11</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>14417.11</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2419FDA37</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Manutenzione estintori anno 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00015840192</codiceFiscale>
+					<ragioneSociale>MANZI GIANFRANCO S.R.L</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00015840192</codiceFiscale>
+					<ragioneSociale>MANZI GIANFRANCO S.R.L</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2500.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9519AFF0B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Incarico RSPP esterno e coordinamento sicurezza anno 2016 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01503090191</codiceFiscale>
+					<ragioneSociale>3 GHISI CONSULTING STUDIO ASSOCIATO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01503090191</codiceFiscale>
+					<ragioneSociale>3 GHISI CONSULTING STUDIO ASSOCIATO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>18000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>18000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z4A1A3715A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Prestazioni medico competente al lavoro anno 2015
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01073840199</codiceFiscale>
+					<ragioneSociale>DOTT. ANGELO ANGIOLINI</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01073840199</codiceFiscale>
+					<ragioneSociale>DOTT. ANGELO ANGIOLINI</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>5000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZEC1A38968</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Adesione XIX edizione manifestazione &quot;Per Corti e Cascine&quot;
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01852740206</codiceFiscale>
+					<ragioneSociale>CONSORZIO AGRITURISTICO MANTOVANO - Verdi Terre d&apos;Acqua -</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01852740206</codiceFiscale>
+					<ragioneSociale>CONSORZIO AGRITURISTICO MANTOVANO - Verdi Terre d&apos;Acqua -</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>250.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>250.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7C1A3DAFE</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Acquisto licenza progecad
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>08718790960</codiceFiscale>
+					<ragioneSociale>PROGESOFT ITALIA S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>08718790960</codiceFiscale>
+					<ragioneSociale>PROGESOFT ITALIA S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1835.37</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1838.37</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZDF1A3DC2F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Acquisto telefoni cellulari dipendenti e interventi telefonia uffici
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00943280198</codiceFiscale>
+					<ragioneSociale>TELCOM SNC DI FEROLDI BRUNO E FIGLI</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00943280198</codiceFiscale>
+					<ragioneSociale>TELCOM SNC DI FEROLDI BRUNO E FIGLI</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>250.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>250.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE01A5AD32</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Intervento di perforazione numero quattro pozzi presso Impianti Consortili
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01206070201</codiceFiscale>
+					<ragioneSociale>PERFORPOZZI di Zangelmi</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01206070201</codiceFiscale>
+					<ragioneSociale>PERFORPOZZI di Zangelmi</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>6000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>6000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3E1A4538C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Riparazione motore pompa n. 1 impiando di Roncole
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00698240983</codiceFiscale>
+					<ragioneSociale>ELETTROTECNICA LG Lecci Fontano &amp; C. s.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00698240983</codiceFiscale>
+					<ragioneSociale>ELETTROTECNICA LG Lecci Fontano &amp; C. s.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>6950.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>6950.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z021A4A180</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Intervento di manutenzione Impianto di San Matteo delle Chiaviche
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00161250204</codiceFiscale>
+					<ragioneSociale>GOZZI S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00161250204</codiceFiscale>
+					<ragioneSociale>GOZZI S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1440.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1440.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z191A67194</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura nuovo attuatore Impianto di Roncole
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01018590339</codiceFiscale>
+					<ragioneSociale>Pentair Valves &amp; Controls Italai srl</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01018590339</codiceFiscale>
+					<ragioneSociale>Pentair Valves &amp; Controls Italai srl</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2767.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2767.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z921A87C6D</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Riparazione automezzo consortile
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00693110199</codiceFiscale>
+					<ragioneSociale>CAPELLI AUTOMOBILI S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00693110199</codiceFiscale>
+					<ragioneSociale>CAPELLI AUTOMOBILI S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>277.51</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>277.51</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z231AB6FDD</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Acquisto maschere per diserbo
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00875410193</codiceFiscale>
+					<ragioneSociale>Nuova Ferramenta Vico di Pomati Francesco</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00875410193</codiceFiscale>
+					<ragioneSociale>Nuova Ferramenta Vico di Pomati Francesco</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z721AC1062</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Contratto noleggio multifunzioni uffici - s.matteo
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00470220203</codiceFiscale>
+					<ragioneSociale>BAROZZI VITTORIO S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00470220203</codiceFiscale>
+					<ragioneSociale>BAROZZI VITTORIO S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>15000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>15000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZCB1AD827A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Verifica periodica Impianti di terra
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>08427870012</codiceFiscale>
+					<ragioneSociale>ELLISSE S.R.L. </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>08427870012</codiceFiscale>
+					<ragioneSociale>ELLISSE S.R.L. </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>11980.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>11980.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z451AD77DA</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio canone dal 30.09.2016 al 30.09.2017 per fornitura prodotti pulizia servizi igienici 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02774650960</codiceFiscale>
+					<ragioneSociale>HYGENE SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02774650960</codiceFiscale>
+					<ragioneSociale>HYGENE SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>780.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>780.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z711AEBE71</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servzio pasti dipendenti anno 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02209990205</codiceFiscale>
+					<ragioneSociale>Ristorante Pizzeria MAGNA MAGNA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02209990205</codiceFiscale>
+					<ragioneSociale>Ristorante Pizzeria MAGNA MAGNA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>500.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z801B26EC1</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura di due stazioni meteo
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01592070351</codiceFiscale>
+					<ragioneSociale>Meteo Shop</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01592070351</codiceFiscale>
+					<ragioneSociale>Meteo Shop</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1566.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1566.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE91B46E6D</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori di urgenza sulla pompa mod. PAV 180 dell&apos;impianto di sollevamento irriguo di Casalmaggiore
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02293180242</codiceFiscale>
+					<ragioneSociale>MISA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02293180242</codiceFiscale>
+					<ragioneSociale>MISA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4850.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4850.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD31B59871</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Riparazione mezzi d&apos;opera Camperia Nord 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01399950193</codiceFiscale>
+					<ragioneSociale>RAZZINI-DEVOTI S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01399950193</codiceFiscale>
+					<ragioneSociale>RAZZINI-DEVOTI S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>500.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z971B6D0BA</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Sfalcio Argine golenale S.Maria/Riolo
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01609070204</codiceFiscale>
+					<ragioneSociale>Flisi &amp; Franzini di Flisi Pierangel &amp; C snc</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01609070204</codiceFiscale>
+					<ragioneSociale>Flisi &amp; Franzini di Flisi Pierangel &amp; C snc</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>11000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>11000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z351B6D3BA</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Stampa Logo per automezzi consortili
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01058650191</codiceFiscale>
+					<ragioneSociale>CASALCOPY S.A.S</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01058650191</codiceFiscale>
+					<ragioneSociale>CASALCOPY S.A.S</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>440.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>440.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZCB1B6D7E1</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Valutazione rumore e vibrazioni
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02908400985</codiceFiscale>
+					<ragioneSociale>Martini Matteo Consulting</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02908400985</codiceFiscale>
+					<ragioneSociale>Martini Matteo Consulting</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1085.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1085.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2F1B7C449</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Attività di presentazione del 75° anniversario impianto S.Matteo 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01993310356</codiceFiscale>
+					<ragioneSociale>STUDIO ARLOTTI</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01993310356</codiceFiscale>
+					<ragioneSociale>STUDIO ARLOTTI</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1064.88</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1064.88</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z651B7CEEB</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Rinnovo contratto assistenza anno 2017 e aggiornamento software 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01707010920</codiceFiscale>
+					<ragioneSociale>LEONARDO SOFTWARE HOUSE</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01707010920</codiceFiscale>
+					<ragioneSociale>LEONARDO SOFTWARE HOUSE</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>250.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>250.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z511B9B7AF</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di pianificazione avvio e mappatura rischi D.Lgs 231/2001
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02086101207</codiceFiscale>
+					<ragioneSociale>M&amp;IT Consulting s.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02086101207</codiceFiscale>
+					<ragioneSociale>M&amp;IT Consulting s.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4750.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>4750.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z841BBADB4</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura vetro NH 3.6 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03705840233</codiceFiscale>
+					<ragioneSociale>RIGATO SERVICE SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03705840233</codiceFiscale>
+					<ragioneSociale>RIGATO SERVICE SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>236.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>236.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z341BD1A75</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Conversione mappe digitali e sistemazione S.I.T. del Consorzio di Bonifica Navarolo
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02048870352</codiceFiscale>
+					<ragioneSociale>Stefano Bonaretti</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02048870352</codiceFiscale>
+					<ragioneSociale>Stefano Bonaretti</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1250.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1250.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZF91C09ABF</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Riparazione escavatore HITACHI ZX 140 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01874000340</codiceFiscale>
+					<ragioneSociale>MORA CLAUDIO E C. SNC</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01874000340</codiceFiscale>
+					<ragioneSociale>MORA CLAUDIO E C. SNC</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>382.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>382.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZCA1C0EA3E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura pacchi per dipendenti Natale 2015 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00111790192</codiceFiscale>
+					<ragioneSociale>GR MARKET DEI F.LLI RINALDI &amp; C. S.R.L</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00111790192</codiceFiscale>
+					<ragioneSociale>GR MARKET DEI F.LLI RINALDI &amp; C. S.R.L</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1900.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1900.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z971C164C8</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura toner per Plotter ufficio Tecnico
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00304720287</codiceFiscale>
+					<ragioneSociale>GBR ROSSETTO SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00304720287</codiceFiscale>
+					<ragioneSociale>GBR ROSSETTO SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>500.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZC11C17501</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio affrancatura posta anno 2017 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01114601006</codiceFiscale>
+					<ragioneSociale>POSTE ITALIANE SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01114601006</codiceFiscale>
+					<ragioneSociale>POSTE ITALIANE SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z651C2DE83</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Acquisto di numero due caldaie immergas per immobili consortili
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02000660346</codiceFiscale>
+					<ragioneSociale>PARMA CLIMA S.R.L</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02000660346</codiceFiscale>
+					<ragioneSociale>PARMA CLIMA S.R.L</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2169.24</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2169.24</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE01C2DF4F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Revisione completa pompa Flygt 7121-905-0441051 installata presso l&apos;Impianto di Isola Pescaroli
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01409940200</codiceFiscale>
+					<ragioneSociale>ELETTROMECCANICA VENETA DI F.LLI TORNIERI SNC</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01409940200</codiceFiscale>
+					<ragioneSociale>ELETTROMECCANICA VENETA DI F.LLI TORNIERI SNC</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>27134.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>27137.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZBB1C2E01F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Revisione completa pompa Pelizzari FVER 2500 - Impianto di Casalmaggiore
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00168990273</codiceFiscale>
+					<ragioneSociale>ELETTROMECCCANICA VIOTTO S.R.l</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00168990273</codiceFiscale>
+					<ragioneSociale>ELETTROMECCCANICA VIOTTO S.R.l</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>24000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>24000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5F1C33DF6</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Revisione completa pompa smie EV750 -  Impianto di Santa Maria di Calvatone
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02293180242</codiceFiscale>
+					<ragioneSociale>MISA S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02293180242</codiceFiscale>
+					<ragioneSociale>MISA S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>32600.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>32600.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZAB1C36418</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Corso coordinatore sicurezza in fase di progettazione ed esecuzione dei lavori 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01987770342</codiceFiscale>
+					<ragioneSociale>CENTRO SERVIZI EDILI DI PARMA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01987770342</codiceFiscale>
+					<ragioneSociale>CENTRO SERVIZI EDILI DI PARMA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>800.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>800.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9E1C41BDC</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura confezioni salmone per pacchi Natale 2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01558710206</codiceFiscale>
+					<ragioneSociale>LA NUOVA ARAGOSTA S.N.C</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01558710206</codiceFiscale>
+					<ragioneSociale>LA NUOVA ARAGOSTA S.N.C</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z651C41C2F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura confezioni Grana Padano per pacchi Natale 2016 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00114170194</codiceFiscale>
+					<ragioneSociale>LATTERIA PLAC PRODUTTORI LATTE ASSOCIATI CREMONA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00114170194</codiceFiscale>
+					<ragioneSociale>LATTERIA PLAC PRODUTTORI LATTE ASSOCIATI CREMONA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z241C72BB5</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Posa di ponteggio modulare per smontaggio pompa n. 2 (impianto di Casalmaggiore)
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00505070201</codiceFiscale>
+					<ragioneSociale>ELECTRA SERVICE di Buttarelli Roberto &amp; C. s.n.c.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00505070201</codiceFiscale>
+					<ragioneSociale>ELECTRA SERVICE di Buttarelli Roberto &amp; C. s.n.c.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1100.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1100.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z751C795DC</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Ripristino del rivestimento d&apos;alveo delle canalette Roccolo in comun di Tornata e Confini Casteldidone 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01578990200</codiceFiscale>
+					<ragioneSociale>CEMENTSYSTEM S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01578990200</codiceFiscale>
+					<ragioneSociale>CEMENTSYSTEM S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>37700.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>37700.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7E1C658A7</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio pubblicità pagine bianche cartacee-informatica CR-MN anno 2017
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03970540963</codiceFiscale>
+					<ragioneSociale>SEAT Pagine Gialle</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03970540963</codiceFiscale>
+					<ragioneSociale>SEAT Pagine Gialle</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3800.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3800.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z631CB2BA1</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Revisione completa Motore Marelli tipo B4W400LH10 Imp. S.Maria di Calvatone 
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02293180242</codiceFiscale>
+					<ragioneSociale>MISA S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02293180242</codiceFiscale>
+					<ragioneSociale>MISA S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>10500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>10500.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZEA18B08CF</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>RIPRISTINO DEL RIVESTIMENTO D&apos;ALVEO DELLE CANALETTE MADONNA PECORONI, GAMBINA RIVAROLO MANTOVANO, LEVATA
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01578990200</codiceFiscale>
+					<ragioneSociale>CEMENTSYSTEM S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01578990200</codiceFiscale>
+					<ragioneSociale>CEMENTSYSTEM S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>30795.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>30795.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z6D1930A9D</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Acquisto attrezzatura officina
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00490290061</codiceFiscale>
+					<ragioneSociale>TECNOFUNI snc</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00490290061</codiceFiscale>
+					<ragioneSociale>TECNOFUNI snc</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>270.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>270.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5A19E4812</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori edili di manutenzione immobili e reti consortil
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00725050199</codiceFiscale>
+					<ragioneSociale>SARZI AMADE&apos; ATTILIO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00725050199</codiceFiscale>
+					<ragioneSociale>SARZI AMADE&apos; ATTILIO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>6990.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>6990.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZB519E4816</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Intervento di riparazione CPI Casalmaggiore-Viadana
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01562840197</codiceFiscale>
+					<ragioneSociale>Impresa edile GOI PIERGIUSEPPE</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01562840197</codiceFiscale>
+					<ragioneSociale>Impresa edile GOI PIERGIUSEPPE</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1905.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1905.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z4C1A1B6B8</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Lavori di espurgo opera di presa impianto di Isola Pescaroli
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02669650349</codiceFiscale>
+					<ragioneSociale>IDROVIE SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02669650349</codiceFiscale>
+					<ragioneSociale>IDROVIE SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>19200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>19200.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZB91A534DF</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>LAVORI DI MANUTENZIONE SU RETE CONSORTILE
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00702800194</codiceFiscale>
+					<ragioneSociale>Aroldi F.lli S.n.c.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00702800194</codiceFiscale>
+					<ragioneSociale>Aroldi F.lli S.n.c.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>20000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>20000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z411A669BB</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>ASSISTENZA SOFTWARE IMPIANTO TELECONTROLLO
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03873090280</codiceFiscale>
+					<ragioneSociale>BROMBIN ANDREA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03873090280</codiceFiscale>
+					<ragioneSociale>BROMBIN ANDREA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z601C4005D</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Corso per patentino distributore prodotti fitosanitari
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01647490190</codiceFiscale>
+					<ragioneSociale>CENTRO DI ADDESTRAMENTO PROFESSIONALE AGRICOLO CREMONA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01647490190</codiceFiscale>
+					<ragioneSociale>CENTRO DI ADDESTRAMENTO PROFESSIONALE AGRICOLO CREMONA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1400.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1400.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z911C60683</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001030200</codiceFiscaleProp>
+					<denominazione>Consorzio di Bonifica Navarolo</denominazione>
+			</strutturaProponente>
+			<oggetto>Fornitura catene e accessori per mezzi consortili
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO IN ECONOMIA - AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01563520194</codiceFiscale>
+					<ragioneSociale>FRA.MA RICAMBI S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01563520194</codiceFiscale>
+					<ragioneSociale>FRA.MA RICAMBI S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>454.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2016-01-01</dataInizio>
+				<dataUltimazione>2016-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>454.00</importoSommeLiquidate>
+  </lotto>
+</data>
+</legge190:pubblicazione>

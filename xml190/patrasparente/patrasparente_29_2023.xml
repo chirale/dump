@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+  <titolo>Pubblicazione 1 legge 190</titolo>
+  <abstract>Pubblicazione 1 legge 190 rif. 2023</abstract>
+  <dataPubblicazioneDataset>2024-01-01</dataPubblicazioneDataset>
+  <entePubblicatore>Progetto Ambiente S.p.A.</entePubblicatore>
+  <dataUltimoAggiornamentoDataset>2023-01-27</dataUltimoAggiornamentoDataset>
+  <annoRiferimento>2023</annoRiferimento>
+  <urlFile>http://www.patrasparente.it/public/29/datasets/dataset_2023.xml</urlFile>
+ 	<licenza>IODL</licenza>
+</metadata>
+<data>
+  <lotto>
+		<cig>Z473962F25</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01626270597</codiceFiscaleProp>
+					<denominazione>Progetto Ambiente S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA ROTOLI CARTA TERMICA PER TOTEM C/O ECOCENTRO COMUNALE	</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02482320591</codiceFiscale>
+					<ragioneSociale>BOTTARI TECNOLOGIE S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02482320591</codiceFiscale>
+					<ragioneSociale>BOTTARI TECNOLOGIE S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>270.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-03</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZF1396747F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01626270597</codiceFiscaleProp>
+					<denominazione>Progetto Ambiente S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO ASSISTENZA E AGGIORNAMENTI SOFTWEAR PROGRAMMA CONTABILE 2023	</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>10209790152</codiceFiscale>
+					<ragioneSociale>WOLTERS KLUWER ITALIA S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>10209790152</codiceFiscale>
+					<ragioneSociale>WOLTERS KLUWER ITALIA S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4400.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-01</dataInizio>
+				<dataUltimazione>2023-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z75396DB5C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01626270597</codiceFiscaleProp>
+					<denominazione>Progetto Ambiente S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>LIQUIDAZIONE SERVIZIO DI CARICAMENTO, TRASPORTO E TRATTAMENTO RIFIUTI	</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>07958841004</codiceFiscale>
+					<ragioneSociale>SINERGIE ECOLOGICHE S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>07958841004</codiceFiscale>
+					<ragioneSociale>SINERGIE ECOLOGICHE S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>11514.80</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-09</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z4A3972DE5</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01626270597</codiceFiscaleProp>
+					<denominazione>Progetto Ambiente S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO DI MANUTENZIONE ORDINARIA E PRONTO INTERVENTO SULLIMPIANTO ELEVATORE	</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04474391218</codiceFiscale>
+					<ragioneSociale>CONSORZIO DEL BO s.c.ar.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04474391218</codiceFiscale>
+					<ragioneSociale>CONSORZIO DEL BO s.c.ar.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>564.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-01</dataInizio>
+				<dataUltimazione>2023-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZDF397A965</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01626270597</codiceFiscaleProp>
+					<denominazione>Progetto Ambiente S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA SACCHI PER RACCOLTA DIFFERENZIATA PLASTICA E METALLI	</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>08455841216</codiceFiscale>
+					<ragioneSociale>ZAC PLAST S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>08455841216</codiceFiscale>
+					<ragioneSociale>ZAC PLAST S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>8000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-12</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>9598324389</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01626270597</codiceFiscaleProp>
+					<denominazione>Progetto Ambiente S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>PROCEDURA TRAMITE MEPA PER LA FORNITURA DI SACCHI PER ORGANICO UTENZE DOMESTICHE
+</oggetto>
+			<sceltaContraente>33-PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA</sceltaContraente>
+ 			<partecipanti>
+  			</partecipanti>
+ 		    <aggiudicatari>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>75000.00</importoAggiudicazione>
+			<tempiCompletamento>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2E397C339</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01626270597</codiceFiscaleProp>
+					<denominazione>Progetto Ambiente S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA DI FILO IN MATASSE E BOBINE PER UTILIZZO PRESSO IMPIANTO DI SELEZIONE	</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00626720544</codiceFiscale>
+					<ragioneSociale>TECNOFILO UMBRO S.n.c</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00626720544</codiceFiscale>
+					<ragioneSociale>TECNOFILO UMBRO S.n.c</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>7887.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-12</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z173981835</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01626270597</codiceFiscaleProp>
+					<denominazione>Progetto Ambiente S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO DI SUPPORTO TECNICO-LEGALE PER STAZIONE APPALTANTE PROGETTO AMBIENTE SPA	</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>05833480725</codiceFiscale>
+					<ragioneSociale>MEDIA GRAPHIC S.r.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>05833480725</codiceFiscale>
+					<ragioneSociale>MEDIA GRAPHIC S.r.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3800.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-13</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z063988E2F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01626270597</codiceFiscaleProp>
+					<denominazione>Progetto Ambiente S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA TRAMITE MEPA DI CONTENITORI PER LA RACCOLTA DIFFERENZIATA	</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01100130226</codiceFiscale>
+					<ragioneSociale>SARTORI AMBIENTE S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01100130226</codiceFiscale>
+					<ragioneSociale>SARTORI AMBIENTE S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>37996.50</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-17</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z72398EA0B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01626270597</codiceFiscaleProp>
+					<denominazione>Progetto Ambiente S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>AFFIDAMENTO INTERVENTO DI RIPARAZIONE AUTOMEZZO DI PROPRIETA DELLA PROGETTO AMBIENTE SPA TARGATO EW152BP	</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>VNCSNT49R11L290I</codiceFiscale>
+					<ragioneSociale>VINCENZI SANTE</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>VNCSNT49R11L290I</codiceFiscale>
+					<ragioneSociale>VINCENZI SANTE</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>220.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-18</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE3398EC11</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01626270597</codiceFiscaleProp>
+					<denominazione>Progetto Ambiente S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>AFFIDAMENTO FORNITURA DI SOFFIATORI E PEZZI RICAMBIO SERVIZIO IGIENE AMBIENTALE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01506610599</codiceFiscale>
+					<ragioneSociale>CEREAL MANGIMI 91 S.r.l </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01506610599</codiceFiscale>
+					<ragioneSociale>CEREAL MANGIMI 91 S.r.l </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>950.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-18</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z87398FE69</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01626270597</codiceFiscaleProp>
+					<denominazione>Progetto Ambiente S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO DI RACCOLTA, CONFEZIONAMENTO, TRASPORTO E SMALTIMENTO RIFIUTI URBANI COSTITUITI DA VERNICI ED IMBALLAGGI SPORCHI DI VERNICI, FLACONI E BOTTIGLIE CONTENENTI PRODOTTI AGROCHIMICI -FITOSANITARI, CARTUCCE-TONER C/O CENTRO COMUNALE DI RACCOLTA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>07958841004</codiceFiscale>
+					<ragioneSociale>SINERGIE ECOLOGICHE S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>07958841004</codiceFiscale>
+					<ragioneSociale>SINERGIE ECOLOGICHE S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-01</dataInizio>
+				<dataUltimazione>2023-01-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZC7399478C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01626270597</codiceFiscaleProp>
+					<denominazione>Progetto Ambiente S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA DI MATERIALI DI CONSUMO PER LIGIENE E PULIZIA DELLE SEDI PROGETTO AMBIENTE S.P.A	</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01389470590</codiceFiscale>
+					<ragioneSociale>BRICOFER DI MAGRINI S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01389470590</codiceFiscale>
+					<ragioneSociale>BRICOFER DI MAGRINI S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-19</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z32399498C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01626270597</codiceFiscaleProp>
+					<denominazione>Progetto Ambiente S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO DI SUPPORTO GIURIDICO AGLI ADEMPIMENTI IN MATERIA DI PRIVACY ED ASSUNZIONE DEL RUOLO DI RESPONSABILE DELLA PROTEZIONE DI DATI PERSONALI (DPO) AI SENSI DELLART. 37 DEL REGOLAMENTO EUROPEO N. 679/2016	</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02404510808</codiceFiscale>
+					<ragioneSociale>FONDAZIONE LOGOS PA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02404510808</codiceFiscale>
+					<ragioneSociale>FONDAZIONE LOGOS PA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>12000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-19</dataInizio>
+				<dataUltimazione>2026-01-19</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5C399939E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01626270597</codiceFiscaleProp>
+					<denominazione>Progetto Ambiente S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>AFFIDAMENTO, AI SENSI DELLART. 36, COMMA 2, LETT. a), DEL D.Lgs n. 50 DEL 18.04.2016, SERVIZIO DI AMMINISTRATORE DI RETE/SISTEMA PER LA GESTIONE DEL SISTEMA INFORMATICO DELLA PROGETTO AMBIENTE S.p.a.	</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02121400598</codiceFiscale>
+					<ragioneSociale>COPY SERVICE S.r.l. </ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02121400598</codiceFiscale>
+					<ragioneSociale>COPY SERVICE S.r.l. </ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2700.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-01</dataInizio>
+				<dataUltimazione>2025-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD639A3CC9</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01626270597</codiceFiscaleProp>
+					<denominazione>Progetto Ambiente S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA DI ADBLUE PER PARCO MEZZI IN DOTAZIONE ALLA PROGETTO AMBIENTE SPA	</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01791340597</codiceFiscale>
+					<ragioneSociale>GE.SA RICAMBI S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01791340597</codiceFiscale>
+					<ragioneSociale>GE.SA RICAMBI S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-24</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0139A3D39</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01626270597</codiceFiscaleProp>
+					<denominazione>Progetto Ambiente S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA DI OLII E LUBRIFICANTI PER PARCO MEZZI IN DOTAZIONE ALLA PROGETTO AMBIENTE SPA	</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01791340597</codiceFiscale>
+					<ragioneSociale>GE.SA. RICAMBI S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01791340597</codiceFiscale>
+					<ragioneSociale>GE.SA. RICAMBI S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-24</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z4039AB13B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01626270597</codiceFiscaleProp>
+					<denominazione>Progetto Ambiente S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO DI ASSISTENZA SISTEMICA-PROTEZIONE ANTIVIRUS-PROTEZIONE ANTISPAM-PROTEZIONE PERIMETRALE FIREWALL- SPAZIO CLOUD	</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02121400598</codiceFiscale>
+					<ragioneSociale>COPY SERVICE S.R.L.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02121400598</codiceFiscale>
+					<ragioneSociale>COPY SERVICE S.R.L.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>7777.44</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-26</dataInizio>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+</data>
+</legge190:pubblicazione>

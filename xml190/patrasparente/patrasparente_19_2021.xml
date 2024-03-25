@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+  <titolo>Pubblicazione 1 legge 190</titolo>
+  <abstract>Pubblicazione 1 legge 190 rif. 2021</abstract>
+  <dataPubblicazioneDataset>2022-01-01</dataPubblicazioneDataset>
+  <entePubblicatore>EXE S.p.A.</entePubblicatore>
+  <dataUltimoAggiornamentoDataset>2022-03-24</dataUltimoAggiornamentoDataset>
+  <annoRiferimento>2021</annoRiferimento>
+  <urlFile>http://www.patrasparente.it/public/19/datasets/dataset_2021.xml</urlFile>
+ 	<licenza>IODL</licenza>
+</metadata>
+<data>
+  <lotto>
+		<cig>Z8531D0FDD</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01856920309</codiceFiscaleProp>
+					<denominazione>EXE S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di assistenza informatica e fornitura parti di ricambio</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00637000324</codiceFiscale>
+					<ragioneSociale>IS COPY SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00637000324</codiceFiscale>
+					<ragioneSociale>IS COPY SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-05-27</dataInizio>
+				<dataUltimazione>2022-05-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1425.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z1632367FF</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01856920309</codiceFiscaleProp>
+					<denominazione>EXE S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di prelievo, trasporto e smaltimento percolato prodotto nella discarica di Trivignano Udinese</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01523580304</codiceFiscale>
+					<ragioneSociale>GESTECO SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01523580304</codiceFiscale>
+					<ragioneSociale>GESTECO SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>38500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-06-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>14059.39</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE8335554E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01856920309</codiceFiscaleProp>
+					<denominazione>EXE S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di manutenzione area verde discarica di Trivignano Udinese</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01523580304</codiceFiscale>
+					<ragioneSociale>GESTECO SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01523580304</codiceFiscale>
+					<ragioneSociale>GESTECO SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>11500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-10-01</dataInizio>
+				<dataUltimazione>2021-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>11500.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZAD33B15C1</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01856920309</codiceFiscaleProp>
+					<denominazione>EXE S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di per noleggio ed assistenza generatore di corrente per messa in funzione temporanea degli impianti presso la discarica di Trivignano Udinese</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>VRRPRB85B11E098N</codiceFiscale>
+					<ragioneSociale>TECNOADVANCE DI PAOLO ROBERTO VERRE</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>VRRPRB85B11E098N</codiceFiscale>
+					<ragioneSociale>TECNOADVANCE DI PAOLO ROBERTO VERRE</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-10-29</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1010.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZEC344BBDE</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01856920309</codiceFiscaleProp>
+					<denominazione>EXE S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di manutenzione, riparazione e fornitura parti di ricambio per sonde multiparamentriche utilizzate presso la discarica di Trivignano Udinese</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>07406300017</codiceFiscale>
+					<ragioneSociale>CORR-TEK IDROMETRIA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>07406300017</codiceFiscale>
+					<ragioneSociale>CORR-TEK IDROMETRIA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>15000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2021-12-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+</data>
+</legge190:pubblicazione>

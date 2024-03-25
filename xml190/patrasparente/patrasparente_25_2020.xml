@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+  <titolo>Pubblicazione 1 legge 190</titolo>
+  <abstract>Pubblicazione 1 legge 190 rif. 2020</abstract>
+  <dataPubblicazioneDataset>2021-01-01</dataPubblicazioneDataset>
+  <entePubblicatore>C.L.I.R. S.p.A.</entePubblicatore>
+  <dataUltimoAggiornamentoDataset>2020-01-29</dataUltimoAggiornamentoDataset>
+  <annoRiferimento>2020</annoRiferimento>
+  <urlFile>http://www.patrasparente.it/public/25/datasets/dataset_2020.xml</urlFile>
+ 	<licenza>IODL</licenza>
+</metadata>
+<data>
+  <lotto>
+		<cig>ZDA2B54585</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001860184</codiceFiscaleProp>
+					<denominazione>C.L.I.R. S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ORDINE PER INCARICO DI MEDICO COMPETENTE ED ESAMI STRUMENTALI ED EMATOCHIMICI
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01980380180</codiceFiscale>
+					<ragioneSociale>MEDICAL WORK CENTER S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01980380180</codiceFiscale>
+					<ragioneSociale>MEDICAL WORK CENTER S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>28000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2020-01-01</dataInizio>
+				<dataUltimazione>2021-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZC12B56DD8</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001860184</codiceFiscaleProp>
+					<denominazione>C.L.I.R. S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ORDINE PER L&apos;AFFIDAMENTO DI SERVIZI ASSICURATIVI: RC VEICOLI  - KASKO - TUTELA LEGALE PER L&apos;ANNO 2020
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02434920183</codiceFiscale>
+					<ragioneSociale>VALANDRO GROUP DI VALANDRO Q. &amp; C. S.a.s.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02434920183</codiceFiscale>
+					<ragioneSociale>VALANDRO GROUP DI VALANDRO Q. &amp; C. S.a.s.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>32891.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2020-01-01</dataInizio>
+				<dataUltimazione>2020-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>20325.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z4A2B66148</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001860184</codiceFiscaleProp>
+					<denominazione>C.L.I.R. S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ORDINE PER INCARICO DI RESPONSABILE DEL SERVIZIO DI PREVENZIONE E PROTEZIONE (RSPP)
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>VLNRRT64C13E897K</codiceFiscale>
+					<ragioneSociale>VALENTINI ROBERTO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>VLNRRT64C13E897K</codiceFiscale>
+					<ragioneSociale>VALENTINI ROBERTO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>24000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2020-01-01</dataInizio>
+				<dataUltimazione>2020-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z6C2B684EB</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001860184</codiceFiscaleProp>
+					<denominazione>C.L.I.R. S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ORDINE PER IL SERVIZIO DI MANUTENZIONE, RIPARAZIONE, FORNITURA DI PNEUMATICI PER VEICOLI DI C.L.I.R. S.p.a.
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01148030180</codiceFiscale>
+					<ragioneSociale>GALIMBERTI GOMME DI GEOM. ANDRE&apos; GAGLIAZZI &amp; C. S.n.c.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01148030180</codiceFiscale>
+					<ragioneSociale>GALIMBERTI GOMME DI GEOM. ANDRE&apos; GAGLIAZZI &amp; C. S.n.c.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>38000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2020-01-01</dataInizio>
+				<dataUltimazione>2021-06-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE52B6D68E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001860184</codiceFiscaleProp>
+					<denominazione>C.L.I.R. S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ORDINE PER L&apos;AFFIDAMENTO DEL SERVIZIO DI SMALTIMENTO RIFIUTI CON COD. CER 20.03.07 (INGOMBRANTI)
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02194460180</codiceFiscale>
+					<ragioneSociale>ABONECO RECYCLING S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02194460180</codiceFiscale>
+					<ragioneSociale>ABONECO RECYCLING S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>39500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2020-01-03</dataInizio>
+				<dataUltimazione>2020-01-25</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2A2B6DA14</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001860184</codiceFiscaleProp>
+					<denominazione>C.L.I.R. S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ORDINE PER IL SERVIZIO DI RECUPERO/SMALTIMENTO DI MEDICINALI SCADUTI (20.01.32) E BATTERIE (20.01.33 - 20.01.34)
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02236550063</codiceFiscale>
+					<ragioneSociale>RAEE.MAN S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02236550063</codiceFiscale>
+					<ragioneSociale>RAEE.MAN S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>19000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2020-01-03</dataInizio>
+				<dataUltimazione>2020-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z652B70A56</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001860184</codiceFiscaleProp>
+					<denominazione>C.L.I.R. S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ORDINE PER ATTIVITA&apos; DI CONSULENZA PER IL SISTEMA QUALITA&apos; SECONDO LA NUOVA NORMA ISO 9001:2015
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>SPLGPP48C14I599I</codiceFiscale>
+					<ragioneSociale>SPALLA GIUSEPPE</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>SPLGPP48C14I599I</codiceFiscale>
+					<ragioneSociale>SPALLA GIUSEPPE</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2020-01-07</dataInizio>
+				<dataUltimazione>2021-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z302B70AC2</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001860184</codiceFiscaleProp>
+					<denominazione>C.L.I.R. S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ORDINE PER LA MANUTENZIONE E RIPARAZIONE ORDINARIA E STRAORDINARIA ATTREZZATURE PER RACCOLTA RIFIUTI
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04334350727</codiceFiscale>
+					<ragioneSociale>TECAM S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04334350727</codiceFiscale>
+					<ragioneSociale>TECAM S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>36000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2020-01-07</dataInizio>
+				<dataUltimazione>2021-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z392B77BFA</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001860184</codiceFiscaleProp>
+					<denominazione>C.L.I.R. S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ORDINE PER FORNITURA DI GASOLIO PER AUTOTRAZIONE - ADESIONE CONVENZIONE CONSIP CIG 7213650C49
+</oggetto>
+			<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02701740108</codiceFiscale>
+					<ragioneSociale>ENI FUEL S.p.a.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02701740108</codiceFiscale>
+					<ragioneSociale>ENI FUEL S.p.a.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2020-01-08</dataInizio>
+				<dataUltimazione>2020-01-13</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5F2B898C0</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001860184</codiceFiscaleProp>
+					<denominazione>C.L.I.R. S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ORDINE PER FORNITURA DI GASOLIO PER AUTOTRAZIONE - ADESIONE CONVENZIONE CONSIP CIG 7213650C49
+</oggetto>
+			<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02701740108</codiceFiscale>
+					<ragioneSociale>ENI FUEL S.p.a.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02701740108</codiceFiscale>
+					<ragioneSociale>ENI FUEL S.p.a.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2020-01-14</dataInizio>
+				<dataUltimazione>2020-01-20</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z682B76072</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001860184</codiceFiscaleProp>
+					<denominazione>C.L.I.R. S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ORDINE PER L&apos;AFFIDAMENTO DEL SERVIZIO DI SELEZIONE E CERNITA DI RIFIUTI CON COD. CER 20.02.01 (VERDE) PRESSO L&apos;IMPIANTO C.L.I.R. DI SANNAZZARO DE&apos; BURGONDI E/O DI MORTARA
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02519610188</codiceFiscale>
+					<ragioneSociale>COOP. DI SERVIZI PETRARCA a r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02519610188</codiceFiscale>
+					<ragioneSociale>COOP. DI SERVIZI PETRARCA a r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>39500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2020-01-13</dataInizio>
+				<dataUltimazione>2020-05-17</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZBB2B8DBB5</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001860184</codiceFiscaleProp>
+					<denominazione>C.L.I.R. S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ORDINE  PER L&apos;AFFIDAMENTO DEL SERVIZIO DI MANUTENZIONE DEI CASSONETTI STRADALI PER LA RACCOLTA RIFIUTI DI PROPRIETA&apos; DI C.L.I.R. S.P.A. E DELLE CALOTTE/PORTELLE EMZ DI DI PROPRIETA&apos; DI C.L.I.R. S.P.A.
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01355500032</codiceFiscale>
+					<ragioneSociale>COLOR COAT S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01355500032</codiceFiscale>
+					<ragioneSociale>COLOR COAT S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>39250.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2020-01-15</dataInizio>
+				<dataUltimazione>2021-09-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z7A2B8FC31</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001860184</codiceFiscaleProp>
+					<denominazione>C.L.I.R. S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ORDINE PER IL SERVIZIO DI CONSULENZA E FORMAZIONE IN MATERIA DI ANTICORRUZIONE, TRASPARENZA E OBBLIGHI ORGANIZZATIVI AI SENSI DELL&apos;ART. 6, COMMA 3, D.LGS. 175/2016
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>FDNNLS71P61F205R</codiceFiscale>
+					<ragioneSociale>DOTT.SSA ANNALISA FADINI</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>FDNNLS71P61F205R</codiceFiscale>
+					<ragioneSociale>DOTT.SSA ANNALISA FADINI</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2020-01-15</dataInizio>
+				<dataUltimazione>2021-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z672BA0F7C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001860184</codiceFiscaleProp>
+					<denominazione>C.L.I.R. S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ORDINE PER FORNITURA DI GASOLIO PER AUTOTRAZIONE - ADESIONE CONVENZIONE CONSIP CIG 7213650C49
+</oggetto>
+			<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02701740108</codiceFiscale>
+					<ragioneSociale>ENI FUEL S.p.a.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02701740108</codiceFiscale>
+					<ragioneSociale>ENI FUEL S.p.a.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2020-01-20</dataInizio>
+				<dataUltimazione>2020-01-27</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZC92B96F9C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001860184</codiceFiscaleProp>
+					<denominazione>C.L.I.R. S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ORDINE PER L&apos;AFFIDAMENTO DEL SERVIZIO DI RECUPERO RIFIUTI SPECIALI NON PERICOLOSI EER 20.02.01 - EER 19.12.07
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01554180180</codiceFiscale>
+					<ragioneSociale>ALAN S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01554180180</codiceFiscale>
+					<ragioneSociale>ALAN S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>39500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2020-01-16</dataInizio>
+				<dataUltimazione>2020-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZF12B97096</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001860184</codiceFiscaleProp>
+					<denominazione>C.L.I.R. S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ORDINE PER IL SERVIZIO DI LOCAZIONE A LUNGO TERMINE DI MACCHINA INDUSTRIALE SENZA OPERATORE
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03054090984</codiceFiscale>
+					<ragioneSociale>ZANON &amp; ORMAC S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03054090984</codiceFiscale>
+					<ragioneSociale>ZANON &amp; ORMAC S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>39670.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2020-01-16</dataInizio>
+				<dataUltimazione>2020-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z452B988D2</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001860184</codiceFiscaleProp>
+					<denominazione>C.L.I.R. S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ORDINE PER CANONI DI ASSISTENZA AHR, HR, IV, FATEL, DIGITAL HUB - ANNO 2020
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>13033940159</codiceFiscale>
+					<ragioneSociale>ITACOM S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>13033940159</codiceFiscale>
+					<ragioneSociale>ITACOM S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>6562.82</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2020-01-16</dataInizio>
+				<dataUltimazione>2020-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2E2B98D68</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001860184</codiceFiscaleProp>
+					<denominazione>C.L.I.R. S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ORDINE PER IL SERVIZIO DI NOLEGGIO A FREDDO DI UN VEICOLO SPECIALE CON GRU PER LA MOVIMENTAZIONE DI CASSONI SCARRABILI
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>08605630014</codiceFiscale>
+					<ragioneSociale>GORENT S.p.a.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>08605630014</codiceFiscale>
+					<ragioneSociale>GORENT S.p.a.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>38500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2020-01-16</dataInizio>
+				<dataUltimazione>2020-08-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD12BACBDF</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001860184</codiceFiscaleProp>
+					<denominazione>C.L.I.R. S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ORDINE PER IL SERVIZIO DI LAVAGGIO ABITI DA LAVORO IN USO AGLI OPERATORI C.L.I.R.
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>LMGSTR62E04D925Y</codiceFiscale>
+					<ragioneSociale>LAVANDERIA LAMPO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>LMGSTR62E04D925Y</codiceFiscale>
+					<ragioneSociale>LAVANDERIA LAMPO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>6000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2020-03-01</dataInizio>
+				<dataUltimazione>2020-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z792BACDA5</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001860184</codiceFiscaleProp>
+					<denominazione>C.L.I.R. S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ORDINE PER LA FORNITURA DI RICAMBI PER SPAZZATRICI
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03280400130</codiceFiscale>
+					<ragioneSociale>LINEA STRADALE S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03280400130</codiceFiscale>
+					<ragioneSociale>LINEA STRADALE S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>8000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2020-01-22</dataInizio>
+				<dataUltimazione>2021-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z652BAD20F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001860184</codiceFiscaleProp>
+					<denominazione>C.L.I.R. S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ORDINE PER MANUTENZIONE E RIPARAZIONE ORDINARIA E STRAORDINARIA ATTREZZATURE PER RACCOLTA RIFIUTI
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>06500530016</codiceFiscale>
+					<ragioneSociale>FARID INDUSTRIE S.p.a.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>06500530016</codiceFiscale>
+					<ragioneSociale>FARID INDUSTRIE S.p.a.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>39000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2020-01-22</dataInizio>
+				<dataUltimazione>2021-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD22BAD3FC</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001860184</codiceFiscaleProp>
+					<denominazione>C.L.I.R. S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ORDINE PER MANUTENZIONE E RIPARAZIONE ORDINARIA E STRAORDINARIA DI AUTOMEZZI CLIR
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01353700188</codiceFiscale>
+					<ragioneSociale>CARROZZERIA PASQUINO S.n.c.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01353700188</codiceFiscale>
+					<ragioneSociale>CARROZZERIA PASQUINO S.n.c.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>14500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2020-01-22</dataInizio>
+				<dataUltimazione>2021-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z492BAD647</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>83001860184</codiceFiscaleProp>
+					<denominazione>C.L.I.R. S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>ORDINE PER SERVIZIO DI CONSULENZA CONTABILE-AMMINISTRATIVA-FISCALE ORDINARIA E PER REDAZIONE DI BILANCIO E DICHIARATIVI FISCALI PER L&apos;ANNO 2020
+</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01885380186</codiceFiscale>
+					<ragioneSociale>GRIFFINI &amp; PARTNERS S.r.l.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01885380186</codiceFiscale>
+					<ragioneSociale>GRIFFINI &amp; PARTNERS S.r.l.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>24000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2020-01-01</dataInizio>
+				<dataUltimazione>2020-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+</data>
+</legge190:pubblicazione>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+  <titolo>Pubblicazione 1 legge 190</titolo>
+  <abstract>Pubblicazione 1 legge 190 rif. 2022</abstract>
+  <dataPubblicazioneDataset>2023-01-01</dataPubblicazioneDataset>
+  <entePubblicatore>EXE S.p.A.</entePubblicatore>
+  <dataUltimoAggiornamentoDataset>2022-03-24</dataUltimoAggiornamentoDataset>
+  <annoRiferimento>2022</annoRiferimento>
+  <urlFile>http://www.patrasparente.it/public/19/datasets/dataset_2022.xml</urlFile>
+ 	<licenza>IODL</licenza>
+</metadata>
+<data>
+  <lotto>
+		<cig>Z63352A34D</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>01856920309</codiceFiscaleProp>
+					<denominazione>EXE S.p.A.</denominazione>
+			</strutturaProponente>
+			<oggetto>Servizio di consulenza tecnica nellesecuzione di una due diligence ambientale (edd) della discarica per rifiuti non pericolosi sita in Loc. Merlanis in comune di Trivignano Udinese (ud)</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>14949731005</codiceFiscale>
+					<ragioneSociale>ANTHESIS SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>14949731005</codiceFiscale>
+					<ragioneSociale>ANTHESIS SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>5000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2022-06-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+</data>
+</legge190:pubblicazione>

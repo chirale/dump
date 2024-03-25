@@ -1,0 +1,1528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+  <titolo>Pubblicazione 1 legge 190</titolo>
+  <abstract>Pubblicazione 1 legge 190 rif. 2022</abstract>
+  <dataPubblicazioneDataset>2023-01-01</dataPubblicazioneDataset>
+  <entePubblicatore>Consorzio Università Rovigo</entePubblicatore>
+  <dataUltimoAggiornamentoDataset>2023-01-26</dataUltimoAggiornamentoDataset>
+  <annoRiferimento>2022</annoRiferimento>
+  <urlFile>http://www.patrasparente.it/public/22/datasets/dataset_2022.xml</urlFile>
+ 	<licenza>IODL</licenza>
+</metadata>
+<data>
+  <lotto>
+		<cig>Z36353E779</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>REDAZIONE E PRESENTAZIONE PRATICA PER NUOVA SCIA SEDE DIDATTICA CUR DI VPA.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00178600292</codiceFiscale>
+					<ragioneSociale>MIANI GERMANO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00178600292</codiceFiscale>
+					<ragioneSociale>MIANI GERMANO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1500.30</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-02-06</dataInizio>
+				<dataUltimazione>2022-11-07</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1500.30</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z293510694</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>SVOLGIMENTO SERVIZIO DI RSPP ANNO 2022.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01301420293</codiceFiscale>
+					<ragioneSociale>SICUR 3000 SAS</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01301420293</codiceFiscale>
+					<ragioneSociale>SICUR 3000 SAS</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>250.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>250.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZCD3534B19</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>PREDISPOSIZIONE E TRASMISSIONE DICHIARAZIONE IVA/2022, REDDITI/2022, IRAP/2022 E COMUNICAZIONI LIQUIDAZIONI IVA 2022.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00878780295</codiceFiscale>
+					<ragioneSociale>BERTO MARA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00878780295</codiceFiscale>
+					<ragioneSociale>BERTO MARA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>694.72</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZED39303F0</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>CAMPAGNA DI COMUNICAZIONE E PROMOZIONE I° SEMESTRE 2023</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01463600294</codiceFiscale>
+					<ragioneSociale>EDITORIALE LA VOCE SOCIETA&apos; COOPERATIVA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01463600294</codiceFiscale>
+					<ragioneSociale>EDITORIALE LA VOCE SOCIETA&apos; COOPERATIVA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4900.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-01</dataInizio>
+				<dataUltimazione>2023-06-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z893932CA3</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>CAMPAGNA DI COMUNICAZIONE E PROMOZIONE DELLE ATTIVITA&apos; DI ORIENTAMENTO DEL CUR</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>05122191009</codiceFiscale>
+					<ragioneSociale>PIEMME SPA CONCESSIONARIA DI PUBBLICITA&apos;</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>05122191009</codiceFiscale>
+					<ragioneSociale>PIEMME SPA CONCESSIONARIA DI PUBBLICITA&apos;</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1509.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-01</dataInizio>
+				<dataUltimazione>2023-02-28</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD339396DD</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>PROMOZIONE CUR SU MENSILE E WEB, MESE DI GENNAIO 2023</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04385760287</codiceFiscale>
+					<ragioneSociale>GIVE EMOTIONS SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04385760287</codiceFiscale>
+					<ragioneSociale>GIVE EMOTIONS SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-01</dataInizio>
+				<dataUltimazione>2023-01-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z4D3939510</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>PROMOZIONE CUR DAL 25/01/2023 AL 01/02/2023</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00326930377</codiceFiscale>
+					<ragioneSociale>SPEED - SOCIETA&apos; PUBBLICITA&apos; EDITORIALE E DIGITALE</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00326930377</codiceFiscale>
+					<ragioneSociale>SPEED - SOCIETA&apos; PUBBLICITA&apos; EDITORIALE E DIGITALE</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>210.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-25</dataInizio>
+				<dataUltimazione>2023-02-01</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA9393CB46</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>PROMOZIONE DEL CUR SUI PRINCIPALI SOCIAL NETWORK. PERIODO 01/01/2023 - 30/06/2023</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>BXUFNC84R42H620B</codiceFiscale>
+					<ragioneSociale>BUX FRANCESCA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>BXUFNC84R42H620B</codiceFiscale>
+					<ragioneSociale>BUX FRANCESCA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1876.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-01</dataInizio>
+				<dataUltimazione>2023-06-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z39392F4C2</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>ORGANIZZAZIONE E PROMOZIONE UNIVERSITY DAY</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01339500298</codiceFiscale>
+					<ragioneSociale>FANCY GRAFICA DI BIASISSI CLAUDIA SAS</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01339500298</codiceFiscale>
+					<ragioneSociale>FANCY GRAFICA DI BIASISSI CLAUDIA SAS</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>12000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-21</dataInizio>
+				<dataUltimazione>2023-02-02</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z33392F80B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>SOMMINISTRAZIONE DI LAVORO A TEMPO PIENO E DETERMINATO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04681350270</codiceFiscale>
+					<ragioneSociale>UMANA SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04681350270</codiceFiscale>
+					<ragioneSociale>UMANA SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>20000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-01</dataInizio>
+				<dataUltimazione>2023-06-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD3393AB74</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>HARDWARE E SOFTWARE SISTEMA RILEVAZIONE PRESENZE - ANNO 2023</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>06294880965</codiceFiscale>
+					<ragioneSociale>SELESTA INGEGNERIA SPA A SOCIO UNICO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>06294880965</codiceFiscale>
+					<ragioneSociale>SELESTA INGEGNERIA SPA A SOCIO UNICO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>506.91</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-01</dataInizio>
+				<dataUltimazione>2023-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZB6390ADBC</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO DI CONTABILITA&apos; ECONOMICO PATRIMONIALE ANNO 2022</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02663810428</codiceFiscale>
+					<ragioneSociale>MIRA PA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02663810428</codiceFiscale>
+					<ragioneSociale>MIRA PA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1200.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-01</dataInizio>
+				<dataUltimazione>2023-04-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZEC390AD95</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>RINNOVO DEL SERVIZIO DI MANUTENZIONE E ASSISTENZA SUITE JENTE - PERIODO ANNI UNO.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01973900838</codiceFiscale>
+					<ragioneSociale>MUNICIPIA SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01973900838</codiceFiscale>
+					<ragioneSociale>MUNICIPIA SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4566.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2023-01-01</dataInizio>
+				<dataUltimazione>2023-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5038DA13E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>AFFIDAMENTO SERVIZIO DO CORSI ANTINCENDIO, CORSO PRIMO SOCCORSO E CORSO SICUREZZA.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01607760293</codiceFiscale>
+					<ragioneSociale>APS SRLS</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01607760293</codiceFiscale>
+					<ragioneSociale>APS SRLS</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2282.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-12-01</dataInizio>
+				<dataUltimazione>2023-03-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZE638C91E2</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>RINNOVO CERTIFICATO SSL STANDARD. PERIODO 21/10/2022 - 21/10/2024</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04066840283</codiceFiscale>
+					<ragioneSociale>ITS SRL UNIPERSONALE</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04066840283</codiceFiscale>
+					<ragioneSociale>ITS SRL UNIPERSONALE</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>180.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-10-21</dataInizio>
+				<dataUltimazione>2024-10-21</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>180.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZC5389CDEA</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>STAMPANTE TERMICA PER ETICHETTE</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00740770292</codiceFiscale>
+					<ragioneSociale>SISTEMI E INFORMATICA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00740770292</codiceFiscale>
+					<ragioneSociale>SISTEMI E INFORMATICA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>420.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-11-16</dataInizio>
+				<dataUltimazione>2022-12-05</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>420.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZCF3841DAC</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>MATERIALE BIBLIOGRAFICO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01258940293</codiceFiscale>
+					<ragioneSociale>BOOKSHOP &amp; CARTOLERIA DI A. ZELANTE &amp; C. SNC</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01258940293</codiceFiscale>
+					<ragioneSociale>BOOKSHOP &amp; CARTOLERIA DI A. ZELANTE &amp; C. SNC</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2342.45</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-10-21</dataInizio>
+				<dataUltimazione>2023-02-02</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1862.50</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZF63838377</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>RINNOVO SERVIZIO FIREWALL WATCHGUARD ANNI UNO.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04066840283</codiceFiscale>
+					<ragioneSociale>ITS SRL UNIPERSONALE</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04066840283</codiceFiscale>
+					<ragioneSociale>ITS SRL UNIPERSONALE</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1090.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-09-23</dataInizio>
+				<dataUltimazione>2023-09-23</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1090.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9A34CED8A</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA ENERGIA ELETTRICA SEDI VPA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>06655971007</codiceFiscale>
+					<ragioneSociale>ENEL ENERGIA SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>06655971007</codiceFiscale>
+					<ragioneSociale>ENEL ENERGIA SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>39900.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>65294.48</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z893830600</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>PROROGA CAMPAGNA DI COMUNICAZIONE, PROMOZIONE E ORIENTAMENTO QUARTO TRIMESTRE 2022</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01463600294</codiceFiscale>
+					<ragioneSociale>EDITORIALE LA VOCE SOCIETA&apos; COOPERATIVA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01463600294</codiceFiscale>
+					<ragioneSociale>EDITORIALE LA VOCE SOCIETA&apos; COOPERATIVA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-10-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2500.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZF937BC0DD</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>BUONI PASTO ELETTRONICI</oggetto>
+			<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>10527040967</codiceFiscale>
+					<ragioneSociale>YES TICKET SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>10527040967</codiceFiscale>
+					<ragioneSociale>YES TICKET SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>7116.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-09-15</dataInizio>
+				<dataUltimazione>2023-09-15</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1476.57</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9737C5ADB</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>MANUTENZIONE E IGIENIZZAZIONE IMPIANTO DI RISCALDAMENTO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01480840295</codiceFiscale>
+					<ragioneSociale>EXSUS SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01480840295</codiceFiscale>
+					<ragioneSociale>EXSUS SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1880.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-09-16</dataInizio>
+				<dataUltimazione>2022-11-25</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1880.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3437C5AA5</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>SOSTITUZIONE SENSORI FUMO, LAMPADE SPIA E BATTERIA IMPIANTO ANTINCENDIO.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00771620291</codiceFiscale>
+					<ragioneSociale>MORO ANTONIO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00771620291</codiceFiscale>
+					<ragioneSociale>MORO ANTONIO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>388.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-09-16</dataInizio>
+				<dataUltimazione>2022-09-28</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>388.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA53758D65</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>CAMPAGNA DI COMUNICAZIONE E PROMOZIONE DELLE ATTIVITA&apos; DI ORIENTAMENTO DEL CUR.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01463600294</codiceFiscale>
+					<ragioneSociale>EDITORIALE LA VOCE SOCIETA&apos; COOPERATIVA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01463600294</codiceFiscale>
+					<ragioneSociale>EDITORIALE LA VOCE SOCIETA&apos; COOPERATIVA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-08-15</dataInizio>
+				<dataUltimazione>2022-09-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z573758CF6</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO DI COMUNICAZIONE INTEGRATA E PROMOZIONE DELLE ATTIVITA&apos; DI ORIENTAMENTO DEL CUR.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01211990294</codiceFiscale>
+					<ragioneSociale>PLANET MEDIA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01211990294</codiceFiscale>
+					<ragioneSociale>PLANET MEDIA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-08-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z8D37403A4</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>SOMMINISTRAZIONE DI LAVORO A TEMPO PIENO E DETERMINATO. PERIODO 01/08/2022 - 31/12/2022.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04681350270</codiceFiscale>
+					<ragioneSociale>UMANA SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04681350270</codiceFiscale>
+					<ragioneSociale>UMANA SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>17000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-08-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>9617.68</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZAA3747363</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>RINNOVO POLIZZA INFORTUNI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01484070295</codiceFiscale>
+					<ragioneSociale>MODENA ANGELO, VALENTINI PIETRO E FAGIOLO PAOLO SNC</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01484070295</codiceFiscale>
+					<ragioneSociale>MODENA ANGELO, VALENTINI PIETRO E FAGIOLO PAOLO SNC</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>405.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-07-11</dataInizio>
+				<dataUltimazione>2023-07-11</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>405.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0B3712296</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>MATERIALE DI CANCELLERIA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01618200297</codiceFiscale>
+					<ragioneSociale>CARTOLERIA CAVALLARO DI EDOARDO PRADAL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01618200297</codiceFiscale>
+					<ragioneSociale>CARTOLERIA CAVALLARO DI EDOARDO PRADAL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>93.07</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-07-06</dataInizio>
+				<dataUltimazione>2022-07-13</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>92.98</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5B36FF39D</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>ATTIVITA&apos; DI COMUNICAZIONE E PROMOZIONE DEL CUR SUI PRINCIPALI SOCIAL NETWORK</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01570440295</codiceFiscale>
+					<ragioneSociale>BUX FRANCESCA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01570440295</codiceFiscale>
+					<ragioneSociale>BUX FRANCESCA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1250.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-07-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1250.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZF836DEC1F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>RINNOVO LICENZA VEEAM 29/06/2022 - 31/12/2023 E LICENZA VMWARE 06/08/2022 - 31/12/2023.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>04066840283</codiceFiscale>
+					<ragioneSociale>ITS SRL UNIPERSONALE</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>04066840283</codiceFiscale>
+					<ragioneSociale>ITS SRL UNIPERSONALE</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.10</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-29</dataInizio>
+				<dataUltimazione>2023-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1000.10</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZB236CAF31</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO DI VIGILANZA SEDE DIDATTICA E BIBLIOTECA VPA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>07897711003</codiceFiscale>
+					<ragioneSociale>SICURITALIA IVRI SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>07897711003</codiceFiscale>
+					<ragioneSociale>SICURITALIA IVRI SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1620.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-07-01</dataInizio>
+				<dataUltimazione>2023-06-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>819.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA336C968F</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>POLIZZA ASSICURATIVA RCT/O. PERIODO 23/06/2022 - 23/06/2023</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01484070295</codiceFiscale>
+					<ragioneSociale>MODENA ANGELO, VALENTINI PIETRO E FAGIOLO PAOLO SNC</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01484070295</codiceFiscale>
+					<ragioneSociale>MODENA ANGELO, VALENTINI PIETRO E FAGIOLO PAOLO SNC</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2700.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-23</dataInizio>
+				<dataUltimazione>2023-06-23</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>2700.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9236BDD92</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA DI N. 12 MULTIPRESE CON ADATTATORE.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00771620291</codiceFiscale>
+					<ragioneSociale>MORO ANTONIO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00771620291</codiceFiscale>
+					<ragioneSociale>MORO ANTONIO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>591.60</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-09</dataInizio>
+				<dataUltimazione>2022-06-16</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>591.60</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3536B1DD3</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>PROMOZIONE RADIOFONICA DEL CUR - MESI DUE.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01211990294</codiceFiscale>
+					<ragioneSociale>PLANET MEDIA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01211990294</codiceFiscale>
+					<ragioneSociale>PLANET MEDIA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-07</dataInizio>
+				<dataUltimazione>2022-08-07</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z2236B1D9B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>CAMPAGNA DI COMUNICAZIONE E PROMOZIONE DEL CUR - MESI DUE.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01463600294</codiceFiscale>
+					<ragioneSociale>EDITORIALE LA VOCE SOCIETA&apos; COOPERATIVA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01463600294</codiceFiscale>
+					<ragioneSociale>EDITORIALE LA VOCE SOCIETA&apos; COOPERATIVA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-07</dataInizio>
+				<dataUltimazione>2022-08-07</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1500.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZF736A804B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>COMUNICAZIONE INTEGRATA NELL&apos;AMBITO DELLA PROMOZIONE DEL CUR</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>05122191009</codiceFiscale>
+					<ragioneSociale>PIEMME SPA CINCESSIONARIA DI PUBBLICITA&apos;</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>05122191009</codiceFiscale>
+					<ragioneSociale>PIEMME SPA CINCESSIONARIA DI PUBBLICITA&apos;</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1509.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-06-01</dataInizio>
+				<dataUltimazione>2022-11-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1509.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z89366CCED</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>POLIZZA ELETTRONICA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01484070295</codiceFiscale>
+					<ragioneSociale>MODENA ANGELO, VALENTINI PIETRO E FAGIOLO PAOLO SNC</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01484070295</codiceFiscale>
+					<ragioneSociale>MODENA ANGELO, VALENTINI PIETRO E FAGIOLO PAOLO SNC</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1057.50</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-05-16</dataInizio>
+				<dataUltimazione>2023-05-16</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1057.50</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5535D8DC9</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA E MONTAGGIO RUBINETTO UNI 45 PESANTE PN 16.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00818090292</codiceFiscale>
+					<ragioneSociale>NUOVA REGAL ANTINCENDIO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00818090292</codiceFiscale>
+					<ragioneSociale>NUOVA REGAL ANTINCENDIO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>70.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-04-01</dataInizio>
+				<dataUltimazione>2022-06-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>70.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZC035C8868</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>BUONI PASTO CARTACEI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>03543000370</codiceFiscale>
+					<ragioneSociale>DAY RISTOSERVICE SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>03543000370</codiceFiscale>
+					<ragioneSociale>DAY RISTOSERVICE SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3588.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-03-29</dataInizio>
+				<dataUltimazione>2022-10-29</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3588.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z3B35A5EDF</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>POLIZZA ASSICURATIVA ALL RISKS - ANNI UNO.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01484070295</codiceFiscale>
+					<ragioneSociale>MODENA ANGELO, VALENTINI PIETRO E FAGIOLO PAOLO SNC</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01484070295</codiceFiscale>
+					<ragioneSociale>MODENA ANGELO, VALENTINI PIETRO E FAGIOLO PAOLO SNC</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>6229.50</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-03-27</dataInizio>
+				<dataUltimazione>2023-03-27</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>6229.50</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA8359D68D</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>TRASLOCO ARREDI E MATERIALE LIBRARIO</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01153100290</codiceFiscale>
+					<ragioneSociale>TRASLOCHI TRASPORTI &quot;ROLOIS&quot; SNC DI STECCA MASSIMO &amp; C.</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01153100290</codiceFiscale>
+					<ragioneSociale>TRASLOCHI TRASPORTI &quot;ROLOIS&quot; SNC DI STECCA MASSIMO &amp; C.</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>16000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-03-16</dataInizio>
+				<dataUltimazione>2022-04-20</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>16000.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5B359D75E</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>REVISIONE E COLLAUDO ESTINTORI</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00818090292</codiceFiscale>
+					<ragioneSociale>NUOVA REGAL ANTINCENDIO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00818090292</codiceFiscale>
+					<ragioneSociale>NUOVA REGAL ANTINCENDIO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>804.10</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-03-21</dataInizio>
+				<dataUltimazione>2022-03-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>804.10</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZF9359D7CB</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA E MONTAGGIO TENDA A PLISSE&apos; SEDE VPA</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01190220291</codiceFiscale>
+					<ragioneSociale>DALVE SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01190220291</codiceFiscale>
+					<ragioneSociale>DALVE SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>780.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-03-22</dataInizio>
+				<dataUltimazione>2022-04-14</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>780.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z653592F76</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>RIPARAZIONE/SOSTITUZIONE LAMPADE DI EMERGENZA, SENSORE FUMO, LAMPADE SPIA, LED E RELE&apos;, SEDE VPA.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00771620291</codiceFiscale>
+					<ragioneSociale>MORO ANTONIO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00771620291</codiceFiscale>
+					<ragioneSociale>MORO ANTONIO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1158.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-03-14</dataInizio>
+				<dataUltimazione>2022-03-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1158.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z5A3586671</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>CAVO DI SICUREZZA CON LUCCHETTO A DUE CHIAVI PER NOTEBOOK - QUANTITA&apos; 15.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00595540295</codiceFiscale>
+					<ragioneSociale>BREVIGLIERI SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00595540295</codiceFiscale>
+					<ragioneSociale>BREVIGLIERI SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>97.50</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-03-09</dataInizio>
+				<dataUltimazione>2022-03-30</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>97.50</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZD13568D93</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>MANTENIMENTO DOMINIO, HOSTING LAMP, PEC MASSIVA E ASSISTENZA - ANNO 2022.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01575370299</codiceFiscale>
+					<ragioneSociale>ISPIRO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01575370299</codiceFiscale>
+					<ragioneSociale>ISPIRO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1300.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1300.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z93354743C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO DI CONTABILITA&apos; ECONOMICO PATRIMONIALE ARMONIZZATA ESERCIZIO 2021.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>02663810428</codiceFiscale>
+					<ragioneSociale>MIRA PA SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>02663810428</codiceFiscale>
+					<ragioneSociale>MIRA PA SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1550.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-02-18</dataInizio>
+				<dataUltimazione>2022-04-26</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1550.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z56350681B</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>FORNITURA E POSA IN OPERA DI N. 2 BATTERIE YUASA E N. 1 RILEVATORE DI FUMO OTTICO SEDE VPA.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00771620291</codiceFiscale>
+					<ragioneSociale>MORO ANTONIO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00771620291</codiceFiscale>
+					<ragioneSociale>MORO ANTONIO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>270.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-02-01</dataInizio>
+				<dataUltimazione>2022-02-15</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>270.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z4434F3B27</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>MANUTENZIONE SISTEMI ANTINCENDIO SEDI VPA - ANNO 2022.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00818090292</codiceFiscale>
+					<ragioneSociale>NUOVA REGAL ANTINCENDIO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00818090292</codiceFiscale>
+					<ragioneSociale>NUOVA REGAL ANTINCENDIO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1602.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1602.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z9034EA022</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>INCARICO PROFESSIONALE PRATICA RINNOVO AUTORIZZAZIONE ALL&apos;ESERCIZIO (EX CPI) BIBLIOTECA E CUBO SEDE VPA.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00178600292</codiceFiscale>
+					<ragioneSociale>MIANI GERMANO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00178600292</codiceFiscale>
+					<ragioneSociale>MIANI GERMANO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>4324.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-24</dataInizio>
+				<dataUltimazione>2022-11-07</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>3243.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z4434DEDCB</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO DI MANUTENZIONE IMPIANTO ANTIFURTO SEDI VPA ANNO 2022.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01162080293</codiceFiscale>
+					<ragioneSociale>ASMO SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01162080293</codiceFiscale>
+					<ragioneSociale>ASMO SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>180.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>180.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZA234DEDA3</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO DI SVUOTAMENTO FOSSE SETTICHE ANNO 2022.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>01447600295</codiceFiscale>
+					<ragioneSociale>BIANCHI G. PULIZIA RETI FOGNARIE DI BIANCHI GIANLUCA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>01447600295</codiceFiscale>
+					<ragioneSociale>BIANCHI G. PULIZIA RETI FOGNARIE DI BIANCHI GIANLUCA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>1000.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>0.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZAE34D88F1</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>RINNOVO ABBONAMENTO SOFTWARE PATRASPARENTE - ANNO 2022.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>07189200723</codiceFiscale>
+					<ragioneSociale>MEDIACONSULT SRL</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>07189200723</codiceFiscale>
+					<ragioneSociale>MEDIACONSULT SRL</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>470.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>470.00</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>ZDF34D5861</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>RINNOVO CONTRATTO DI MANUTENZIONE HARDWARE E SOFTWARE SISTEMA DI RILEVAZIONE PRESENZE - ANNO 2022.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>06294880965</codiceFiscale>
+					<ragioneSociale>SELESTA INGEGNERIA SPA A SOCIO UNICO</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>06294880965</codiceFiscale>
+					<ragioneSociale>SELESTA INGEGNERIA SPA A SOCIO UNICO</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>677.40</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>453.40</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z8C34CEEAB</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>SERVIZIO DI TELEFONIA SEDI DI VPA - ANNO 2022.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>12878470157</codiceFiscale>
+					<ragioneSociale>FASTWEB SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>12878470157</codiceFiscale>
+					<ragioneSociale>FASTWEB SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>2500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1909.86</importoSommeLiquidate>
+  </lotto>
+  <lotto>
+		<cig>Z0C34CEE7C</cig>
+			<strutturaProponente>
+					<codiceFiscaleProp>00947640298</codiceFiscaleProp>
+					<denominazione>Consorzio Università Rovigo</denominazione>
+			</strutturaProponente>
+			<oggetto>CONTRATTO DI TELEFONIA SEDE PALAZZO ANGELI - ANNO 2022.</oggetto>
+			<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+ 			<partecipanti>
+				<partecipante>
+					<codiceFiscale>00488410010</codiceFiscale>
+					<ragioneSociale>TIM SPA</ragioneSociale>
+				</partecipante>
+  			</partecipanti>
+ 		    <aggiudicatari>
+				<aggiudicatario>
+					<codiceFiscale>00488410010</codiceFiscale>
+					<ragioneSociale>TIM SPA</ragioneSociale>
+				</aggiudicatario>
+ 		    </aggiudicatari>
+			<importoAggiudicazione>3500.00</importoAggiudicazione>
+			<tempiCompletamento>
+				<dataInizio>2022-01-01</dataInizio>
+				<dataUltimazione>2022-12-31</dataUltimazione>
+			</tempiCompletamento>
+			<importoSommeLiquidate>1972.02</importoSommeLiquidate>
+  </lotto>
+</data>
+</legge190:pubblicazione>
