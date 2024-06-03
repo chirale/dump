@@ -1,0 +1,3076 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:pubblicazione xmlns:ns2="legge190_1_0">
+    <metadata>
+        <titolo>Pubblicazione 1 legge 190</titolo>
+        <abstract>Pubblicazione 1 legge 190</abstract>
+        <dataPubblicazioneDataset>2024-01-31</dataPubblicazioneDataset>
+        <entePubblicatore>POLO DI MANTENIMENTO PESANTE NORD</entePubblicatore>
+        <dataUltimoAggiornamentoDataset>2024-01-31</dataUltimoAggiornamentoDataset>
+        <annoRiferimento>2023</annoRiferimento>
+        <urlFile>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/polo-mantenimento-pesante-nord/2023/indiceDataset.xml</urlFile>
+        <licenza>IODL</licenza>
+    </metadata>
+    <data>
+        <lotto>
+            <cig>9669276AF8</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Ripristino intonaco e verniciatura facciate esterne presso edificio n. 11</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>DSNSTN75R07F061T</codiceFiscale>
+                    <ragioneSociale>DE SANTIS SANTINO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>DSNSTN75R07F061T</codiceFiscale>
+                    <ragioneSociale>DE SANTIS SANTINO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>49887.42</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-05-17</dataInizio>
+                <dataUltimazione>2023-08-17</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>49887.42</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z1D3C3B66C</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Calibrazione attrezzatura BEMIS (Pzh2000)</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <identificativoFiscaleEstero>ESB82399619</identificativoFiscaleEstero>
+                    <ragioneSociale>LASER TECHNIQUES COMPANY EUROPE</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <identificativoFiscaleEstero>ESB82399619</identificativoFiscaleEstero>
+                    <ragioneSociale>LASER TECHNIQUES COMPANY EUROPE</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>5440.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-09-08</dataInizio>
+                <dataUltimazione>2023-11-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>5440.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z203A1209E</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Analisi malfunzionamento del sistema campale del motopropulsore vcc Dardo</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>07032480589</codiceFiscale>
+                    <ragioneSociale>IVECO - OTO MELARA  Soc. cons. a r.l.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>07032480589</codiceFiscale>
+                    <ragioneSociale>IVECO - OTO MELARA  Soc. cons. a r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>8000.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-03-15</dataInizio>
+                <dataUltimazione>2023-05-23</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>8000.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z353A0E1A5</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Ripristino intonaco e tinteggiatura muro di cinta</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>NPLGPP79C09G791R</codiceFiscale>
+                    <ragioneSociale>G.N. EDILIZIA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>NPLGPP79C09G791R</codiceFiscale>
+                    <ragioneSociale>G.N. EDILIZIA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>32681.36</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-03-15</dataInizio>
+                <dataUltimazione>2023-05-15</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>32681.36</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z5D3A1FEF5</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura ed installazione smerigliatrice</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00158850180</codiceFiscale>
+                    <ragioneSociale>FERRI ADELIO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00158850180</codiceFiscale>
+                    <ragioneSociale>FERRI ADELIO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1984.5</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-03-17</dataInizio>
+                <dataUltimazione>2023-04-18</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1984.5</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z7139F25FA</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Elettromagnete Imear per VCC Dardo</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>08411660726</codiceFiscale>
+                    <ragioneSociale>GAMMA RICAMBI SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>08411660726</codiceFiscale>
+                    <ragioneSociale>GAMMA RICAMBI SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4550.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-03-08</dataInizio>
+                <dataUltimazione>2023-06-07</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>4550.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z7D3A1FFBD</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura ed installazione compressore</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00440550374</codiceFiscale>
+                    <ragioneSociale>ARIAC SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00440550374</codiceFiscale>
+                    <ragioneSociale>ARIAC SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3124.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-03-24</dataInizio>
+                <dataUltimazione>2023-04-24</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>3124.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z8B3A000C4</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Revisione di n. 55 estintori vari e collaudo di n. 7 estintori a polvere</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>CSNFSC52M30H720W</codiceFiscale>
+                    <ragioneSociale>ALFATECNICA ANTINCENDIO DI CASANA FOSCO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>CSNFSC52M30H720W</codiceFiscale>
+                    <ragioneSociale>ALFATECNICA ANTINCENDIO DI CASANA FOSCO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3987.84</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-03-22</dataInizio>
+                <dataUltimazione>2023-05-21</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>3987.84</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z8C3A01796</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Analisi su campioni per ricerca amianto</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01227710330</codiceFiscale>
+                    <ragioneSociale>M.C.M. ECOSISTEMI S.R.L.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01227710330</codiceFiscale>
+                    <ragioneSociale>M.C.M. ECOSISTEMI S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>330.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-02-27</dataInizio>
+                <dataUltimazione>2023-03-01</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>330.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z953A1FF58</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura ed installazione aspiratore con braccio x fumi saldatura</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>05023390288</codiceFiscale>
+                    <ragioneSociale>AIRCONTROL ITALY SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05023390288</codiceFiscale>
+                    <ragioneSociale>AIRCONTROL ITALY SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3938.2</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-03-23</dataInizio>
+                <dataUltimazione>2023-07-27</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>3938.2</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z9739FF83C</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Attrezzature varie per lav. Meccaniche</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00102720331</codiceFiscale>
+                    <ragioneSociale>NEREO TRABACCHI</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00102720331</codiceFiscale>
+                    <ragioneSociale>NEREO TRABACCHI</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>7538.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-05-24</dataInizio>
+                <dataUltimazione>2023-08-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>7538.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z9F39FF773</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Resistenza 24V</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01038480115</codiceFiscale>
+                    <ragioneSociale>C.T.I. SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01038480115</codiceFiscale>
+                    <ragioneSociale>C.T.I. SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>5280.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-03-06</dataInizio>
+                <dataUltimazione>2023-04-06</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>5280.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZBE39FC013</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Attrezzatura per reparto corazzati</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01738310356</codiceFiscale>
+                    <ragioneSociale>FERTEC</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01738310356</codiceFiscale>
+                    <ragioneSociale>FERTEC</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2811.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-03-16</dataInizio>
+                <dataUltimazione>2023-04-06</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2811.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZCD39F7D86</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Materiale lavorazioni PzH2000</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01729990331</codiceFiscale>
+                    <ragioneSociale>C.R.T. di Chiodaroli Alberto</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01729990331</codiceFiscale>
+                    <ragioneSociale>C.R.T. di Chiodaroli Alberto</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1061.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-03-29</dataInizio>
+                <dataUltimazione>2023-04-18</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1061.0</importoSommeLiquidate>
+        </lotto>
+		 <lotto>
+            <cig>9621851A9F</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Servizio di riparazione e manutenzione di autoveicoli e rimorchi del PMPN</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00723840336</codiceFiscale>
+                    <ragioneSociale>AUTODIESEL SAS DI MANFREDI PIERLUIGI</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00723840336</codiceFiscale>
+                    <ragioneSociale>AUTODIESEL SAS DI MANFREDI PIERLUIGI</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>53278.69</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-03-20</dataInizio>
+                <dataUltimazione>2023-11-20</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>53278.69</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>978703766D</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Verniciatura artiglierie e veicoli</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00435600333</codiceFiscale>
+                    <ragioneSociale>SYSTEM CAR S.R.L.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00435600333</codiceFiscale>
+                    <ragioneSociale>SYSTEM CAR S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>110000.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-06-12</dataInizio>
+                <dataUltimazione>2023-11-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>110000.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z0239CC981</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>buoni pasti pers. Militare</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01964741001</codiceFiscale>
+                    <ragioneSociale>REPAS LOUNCH</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01964741001</codiceFiscale>
+                    <ragioneSociale>REPAS LOUNCH</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3257.07</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-02-20</dataInizio>
+                <dataUltimazione>2023-03-20</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>3257.07</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z0739AC334</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Servizio di riparazione lavatraino e forno c/o mensa</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02551890342</codiceFiscale>
+                    <ragioneSociale>SINTECNA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02551890342</codiceFiscale>
+                    <ragioneSociale>SINTECNA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2290.94</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-02-17</dataInizio>
+                <dataUltimazione>2023-02-27</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2290.94</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z1F39AC0D9</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura, smontaggio e montaggio pneumatici</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01706760335</codiceFiscale>
+                    <ragioneSociale>CAR SERVICE 360°</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01706760335</codiceFiscale>
+                    <ragioneSociale>CAR SERVICE 360°</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>7810.8</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-02-23</dataInizio>
+                <dataUltimazione>2023-03-10</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>7810.8</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z5639AC4E3</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Manutenzione e calibrazione banchi prova antincendio</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02819310968</codiceFiscale>
+                    <ragioneSociale>MARTEC SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02819310968</codiceFiscale>
+                    <ragioneSociale>MARTEC SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>34500.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-02-02</dataInizio>
+                <dataUltimazione>2023-11-20</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>34500.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z5F39D7F72</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>cancelleria</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01499130332</codiceFiscale>
+                    <ragioneSociale>BLEKA UNIPERSONALE SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01499130332</codiceFiscale>
+                    <ragioneSociale>BLEKA UNIPERSONALE SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>5342.84</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-02-23</dataInizio>
+                <dataUltimazione>2023-03-05</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>5342.84</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z8939C2BC2</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Manutenzione ordinaria della pesa stradale a ponte elettronica.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00104720339</codiceFiscale>
+                    <ragioneSociale>BILANCIAI ASSOCIATI GRANDI IMPIANTI</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00104720339</codiceFiscale>
+                    <ragioneSociale>BILANCIAI ASSOCIATI GRANDI IMPIANTI</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>750.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-03-22</dataInizio>
+                <dataUltimazione>2023-05-25</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>750.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z8E399E0D3</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Servizio esperto di radioprotezione periodo gennaio-ottobre 2023</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>PRRLRD74A18D150X</codiceFiscale>
+                    <ragioneSociale>ING. LEONARDO PRIORI</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>PRRLRD74A18D150X</codiceFiscale>
+                    <ragioneSociale>ING. LEONARDO PRIORI</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1639.34</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-03-07</dataInizio>
+                <dataUltimazione>2023-10-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>600.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZA339C3E88</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Manutenzione ordinaria impianto antincendio</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01132880194</codiceFiscale>
+                    <ragioneSociale>ITALSINERGIE SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01132880194</codiceFiscale>
+                    <ragioneSociale>ITALSINERGIE SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>14850.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-02-23</dataInizio>
+                <dataUltimazione>2023-11-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>14850.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZC439C2AFE</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Acquisto DPI ed indumenti da lavoro per i reparti del PMPN</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03359340548</codiceFiscale>
+                    <ragioneSociale>SIR SAFETY SYSTEM</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03359340548</codiceFiscale>
+                    <ragioneSociale>SIR SAFETY SYSTEM</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1431.8</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-02-02</dataInizio>
+                <dataUltimazione>2023-02-10</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1431.8</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZD539D7DEA</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Manutenzione cabina di verniciatura</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02647010129</codiceFiscale>
+                    <ragioneSociale>AB SERVICE SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02647010129</codiceFiscale>
+                    <ragioneSociale>AB SERVICE SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>10639.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-04-20</dataInizio>
+                <dataUltimazione>2023-06-10</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>10639.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZF139D527A</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Servizio di riparazione carrello elevatore</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01787950334</codiceFiscale>
+                    <ragioneSociale>NUOVA CE.AS.CAR</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01787950334</codiceFiscale>
+                    <ragioneSociale>NUOVA CE.AS.CAR</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1156.32</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-02-17</dataInizio>
+                <dataUltimazione>2023-03-09</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1156.32</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZFA39C8410</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Servizio di riparazione e manutenzionesu carrelli elevatori/trasportatori del PMPN</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01787950334</codiceFiscale>
+                    <ragioneSociale>NUOVA CE.AS.CAR</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01787950334</codiceFiscale>
+                    <ragioneSociale>NUOVA CE.AS.CAR</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>20491.8</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-04-13</dataInizio>
+                <dataUltimazione>2023-11-20</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>20491.8</importoSommeLiquidate>
+        </lotto>
+		 <lotto>
+            <cig>9674514D80</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>A.Q. 298 del 16/07/2020 - 
+Assistenza Tecnica a si.ar. DARDO 
+socio IVECO 1 settimana
+socio LEONARDO 13 settimane
+Assistenza Tecnica a si.ar. BLINDO
+socio IVECO 11 settimane 
+c/o il PMPN di Piacenza</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>07032480589</codiceFiscale>
+                    <ragioneSociale>IVECO - OTO MELARA  Soc. cons. a r.l.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>07032480589</codiceFiscale>
+                    <ragioneSociale>IVECO - OTO MELARA  Soc. cons. a r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>262180.03</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-03-29</dataInizio>
+                <dataUltimazione>2023-10-24</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>262180.03</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>96867395E6</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>A.Q. 298 del 16/07/2020 - 
+Assistenza Tecnica a si.ar. A n. 5 VBM FRECCIA  
+socio IVECO  5 settimana
+socio LEONARDO 5 settimane
+c/o il PMPN di Piacenza</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>07032480589</codiceFiscale>
+                    <ragioneSociale>IVECO - OTO MELARA  Soc. cons. a r.l.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>07032480589</codiceFiscale>
+                    <ragioneSociale>IVECO - OTO MELARA  Soc. cons. a r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>105007.8</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-04-19</dataInizio>
+                <dataUltimazione>2023-11-23</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>105007.8</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z123A9F2C9</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Ispezione per singolo kit lavoro in quota e ispezione sistema retrattile anticaduta</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03091520969</codiceFiscale>
+                    <ragioneSociale>TIELLE SEGNALETICA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03091520969</codiceFiscale>
+                    <ragioneSociale>TIELLE SEGNALETICA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>552.89</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-05-03</dataInizio>
+                <dataUltimazione>2023-07-05</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>552.89</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z153AC2B49</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Computi estimativi rispondenza impianti elettrici</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01514040334</codiceFiscale>
+                    <ragioneSociale>SRC INGEGNERIA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01514040334</codiceFiscale>
+                    <ragioneSociale>SRC INGEGNERIA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2496.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-04-28</dataInizio>
+                <dataUltimazione>2023-05-28</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2496.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z163AABFCD</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Gel per ultrasuoni e dosatori gel a piantana</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>10821690962</codiceFiscale>
+                    <ragioneSociale>LA4.IT SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>10821690962</codiceFiscale>
+                    <ragioneSociale>LA4.IT SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>435.6</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-05-15</dataInizio>
+                <dataUltimazione>2023-06-15</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>435.6</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z173AAC012</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Materiale per deratizzazione</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03080150372</codiceFiscale>
+                    <ragioneSociale>MIDA SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03080150372</codiceFiscale>
+                    <ragioneSociale>MIDA SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>289.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-05-08</dataInizio>
+                <dataUltimazione>2023-06-08</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>289.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z1D3AA5DAE</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Arredi per ambulatorio infermeria</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01498810280</codiceFiscale>
+                    <ragioneSociale>GIVAS SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01498810280</codiceFiscale>
+                    <ragioneSociale>GIVAS SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3974.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-07-14</dataInizio>
+                <dataUltimazione>2023-08-23</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>3974.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z243AB3359</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Manutenzione preventiva e verifiche  su ecografo MYLAB OMEGA</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>05131180969</codiceFiscale>
+                    <ragioneSociale>ESAOTE SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05131180969</codiceFiscale>
+                    <ragioneSociale>ESAOTE SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>730.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-04-28</dataInizio>
+                <dataUltimazione>2023-05-11</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>730.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z2C3A9240D</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Acquisto e sostituzione batterie mezzi di trasporto</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01259510335</codiceFiscale>
+                    <ragioneSociale>SIRO BATTERIE</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01259510335</codiceFiscale>
+                    <ragioneSociale>SIRO BATTERIE</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>8964.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-05-30</dataInizio>
+                <dataUltimazione>2023-08-27</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>8964.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z6F3A1A2BE</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Servizio annuale di verifica funi, manutenzione oridnaria e straordinaria degli impianti di sollevamento fissi</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>04715490159</codiceFiscale>
+                    <ragioneSociale>ELETTROMEC S.A.S.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04715490159</codiceFiscale>
+                    <ragioneSociale>ELETTROMEC S.A.S.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>7514.35</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-09-14</dataInizio>
+                <dataUltimazione>2023-10-13</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>7514.35</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z7D3A77FB1</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura di prodotti x sanificazione</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03095020362</codiceFiscale>
+                    <ragioneSociale>CENTRO UFFICI SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03095020362</codiceFiscale>
+                    <ragioneSociale>CENTRO UFFICI SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1834.56</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-04-13</dataInizio>
+                <dataUltimazione>2023-04-28</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1834.56</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZCB3A3E96D</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>servizio di raccolta,trasporto e smaltimento rifiuti speciali pericolosi e non pericolosi a q.ta' indeterminata nel comprensorio PMPN, ex Sta.ve.co e ex Pertite.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00841170335</codiceFiscale>
+                    <ragioneSociale>ROMANI GALLI</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00841170335</codiceFiscale>
+                    <ragioneSociale>ROMANI GALLI</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>36590.8</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-08-02</dataInizio>
+                <dataUltimazione>2023-10-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>36590.8</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZF03A2DBF7</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Sostituzione caldaia pensile da 24 kw ed. 84 - integr. Pr 119/22 TERZO RESP.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01342400338</codiceFiscale>
+                    <ragioneSociale>D.M. IDROSANITARIA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01342400338</codiceFiscale>
+                    <ragioneSociale>D.M. IDROSANITARIA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2850.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-04-03</dataInizio>
+                <dataUltimazione>2023-07-02</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2850.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZF13A578EA</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Riposizionamento conversa di colmo e messa in sicurezza tetto edificio n, 8</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00127410330</codiceFiscale>
+                    <ragioneSociale>EDILTUNA S.A.S.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00127410330</codiceFiscale>
+                    <ragioneSociale>EDILTUNA S.A.S.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>950.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-03-24</dataInizio>
+                <dataUltimazione>2023-04-03</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>950.0</importoSommeLiquidate>
+        </lotto>
+		<lotto>
+            <cig>9642580CBB</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Alimentatore pneumatico (compressore) PZH2000 (PN 2500262-830010.0) N.U.C. 4310-12-341-2252 e Collettore PZH2000 (PN 500123002) N.U.C. 1025-12-345-1688</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00401990585</codiceFiscale>
+                    <ragioneSociale>LEONARDO SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00401990585</codiceFiscale>
+                    <ragioneSociale>LEONARDO SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>90000.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-05-24</dataInizio>
+                <dataUltimazione>2023-08-23</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>90000.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z1539E7630</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Acquisto abbonamento triennale accesso banca dati</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03556360174</codiceFiscale>
+                    <ragioneSociale>MEGA ITALIA MEDIA SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03556360174</codiceFiscale>
+                    <ragioneSociale>MEGA ITALIA MEDIA SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>290.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-03-02</dataInizio>
+                <dataUltimazione>2023-03-06</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>290.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z2139F717B</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Verifiche periodiche degli impianti di messa a terra</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01346990086</codiceFiscale>
+                    <ragioneSociale>TECNICA SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01346990086</codiceFiscale>
+                    <ragioneSociale>TECNICA SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2190.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-05-02</dataInizio>
+                <dataUltimazione>2023-07-13</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2190.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z2D39E1D8D</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Aggiornamento Doc. Valutazione rischi (stress da lavoro correlato D. Lgs. 81/08 art.28)</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01161120330</codiceFiscale>
+                    <ragioneSociale>TECO S.r.l.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01161120330</codiceFiscale>
+                    <ragioneSociale>TECO S.r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1066.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-03-02</dataInizio>
+                <dataUltimazione>2023-03-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1066.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z4B39E0352</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura Kit uomo personale portineria</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00167200245</codiceFiscale>
+                    <ragioneSociale>FORINT SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00167200245</codiceFiscale>
+                    <ragioneSociale>FORINT SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1470.61</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-03-15</dataInizio>
+                <dataUltimazione>2023-05-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1470.61</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z6139F7210</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Verifica annuale scaffalature metalliche</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>05797440962</codiceFiscale>
+                    <ragioneSociale>GOZZI ROBERTO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05797440962</codiceFiscale>
+                    <ragioneSociale>GOZZI ROBERTO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1950.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-04-05</dataInizio>
+                <dataUltimazione>2023-06-29</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1950.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z6239D5327</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Servizio di Spurgo Fosse Biologiche presso gli immobili di competenza del PMPN</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00795000348</codiceFiscale>
+                    <ragioneSociale>REGGIANI SPURGHI SNC</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00795000348</codiceFiscale>
+                    <ragioneSociale>REGGIANI SPURGHI SNC</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2163.93</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-02-27</dataInizio>
+                <dataUltimazione>2023-11-20</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2163.93</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z6A39D71BE</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Batteria trazione tubolare corazzata 6V 240 AH</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00358210334</codiceFiscale>
+                    <ragioneSociale>CENTRO RICAMBI PIACENTINO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00358210334</codiceFiscale>
+                    <ragioneSociale>CENTRO RICAMBI PIACENTINO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1100.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-03-10</dataInizio>
+                <dataUltimazione>2023-03-25</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1100.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z8539E043F</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura segatrice a nastro</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03322420989</codiceFiscale>
+                    <ragioneSociale>AIR PLANTS ITALY</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03322420989</codiceFiscale>
+                    <ragioneSociale>AIR PLANTS ITALY</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2926.9</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-03-23</dataInizio>
+                <dataUltimazione>2023-05-24</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2926.9</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZA739E0591</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Manutenzione straordinaria impianti di sollevamento fissi del PMPN</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>04715490159</codiceFiscale>
+                    <ragioneSociale>ELETTROMEC S.A.S.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04715490159</codiceFiscale>
+                    <ragioneSociale>ELETTROMEC S.A.S.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>8112.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-03-23</dataInizio>
+                <dataUltimazione>2023-11-23</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>8112.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZA839E04DB</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Attrezzature di sicurezza per i Reparti del PMPN</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01094090337</codiceFiscale>
+                    <ragioneSociale>EUROFERRAMENTA SNC</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01094090337</codiceFiscale>
+                    <ragioneSociale>EUROFERRAMENTA SNC</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2616.61</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-03-08</dataInizio>
+                <dataUltimazione>2023-03-09</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2616.61</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZB839DAEF7</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Riparazione cavi e fexture operanti su sistema ATE</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00401990585</codiceFiscale>
+                    <ragioneSociale>LEONARDO SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00401990585</codiceFiscale>
+                    <ragioneSociale>LEONARDO SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>28193.41</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-04-17</dataInizio>
+                <dataUltimazione>2023-10-17</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>28193.41</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZC639F70DA</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Campionamento ed analisi fibre aerodisperse presso edifici 48 - 63 - 66 e 78</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01227710330</codiceFiscale>
+                    <ragioneSociale>M.C.M. ECOSISTEMI S.R.L.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01227710330</codiceFiscale>
+                    <ragioneSociale>M.C.M. ECOSISTEMI S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1140.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-03-31</dataInizio>
+                <dataUltimazione>2023-04-19</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1140.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZE239E03D2</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Acquisto DPI con logo PMPN</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03359340548</codiceFiscale>
+                    <ragioneSociale>SIR SAFETY SYSTEM</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03359340548</codiceFiscale>
+                    <ragioneSociale>SIR SAFETY SYSTEM</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>11173.49</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-04-04</dataInizio>
+                <dataUltimazione>2023-05-05</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>11173.49</importoSommeLiquidate>
+        </lotto>
+		 <lotto>
+            <cig>Z143B5FDEB</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Cassoni metallici per trasporto materiale sensibile</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00928570332</codiceFiscale>
+                    <ragioneSociale>CARPENTERIA BURZONI DI BURZONI CLAUDIO E C SNC</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00928570332</codiceFiscale>
+                    <ragioneSociale>CARPENTERIA BURZONI DI BURZONI CLAUDIO E C SNC</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>38612.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-06-05</dataInizio>
+                <dataUltimazione>2023-08-04</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>38612.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z233AD01DC</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>BUONI PASTO (LOTTO 13)</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>05577471005</codiceFiscale>
+                    <ragioneSociale>EP SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05577471005</codiceFiscale>
+                    <ragioneSociale>EP SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>17582.2</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-04-21</dataInizio>
+                <dataUltimazione>2023-05-20</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>17582.2</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z523B8A181</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Acquisto Gazebi</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02375670466</codiceFiscale>
+                    <ragioneSociale>PROFESSIONAL TENT SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02375670466</codiceFiscale>
+                    <ragioneSociale>PROFESSIONAL TENT SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1320.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-09-01</dataInizio>
+                <dataUltimazione>2023-10-18</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1320.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z6A3B9DDCD</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura parti di ricambio per rete dati</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01486330309</codiceFiscale>
+                    <ragioneSociale>DPS INFORMATICA S.N.C. DI PRESELLO GIANNI &amp; C.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01486330309</codiceFiscale>
+                    <ragioneSociale>DPS INFORMATICA S.N.C. DI PRESELLO GIANNI &amp; C.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1617.13</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-07-12</dataInizio>
+                <dataUltimazione>2023-08-11</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1617.13</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z6D3B032ED</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Servizio di progettazione esecutiva con indagini strutturali geologiche e tecniche per la messa in sicurezza delle fondazioni dell'edificio n. 77</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>CRNSLV87L10G535W</codiceFiscale>
+                    <ragioneSociale>ING. SILVIO CARINI</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>CRNSLV87L10G535W</codiceFiscale>
+                    <ragioneSociale>ING. SILVIO CARINI</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>8585.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-05-24</dataInizio>
+                <dataUltimazione>2023-07-20</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>8585.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z7F3B5AFE3</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Buoni pasto pers. Militare per attivita' HUB anno 2021</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>05066690156</codiceFiscale>
+                    <ragioneSociale>PELLEGRINI S.P.A.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05066690156</codiceFiscale>
+                    <ragioneSociale>PELLEGRINI S.P.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>10477.88</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-07-25</dataInizio>
+                <dataUltimazione>2023-07-27</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>10477.88</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z9B3B8C8CA</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Indumenti da lavoro e DPI</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01486240334</codiceFiscale>
+                    <ragioneSociale>ELI SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01486240334</codiceFiscale>
+                    <ragioneSociale>ELI SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>5775.71</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-08-01</dataInizio>
+                <dataUltimazione>2023-09-01</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>5775.71</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z9C3B96203</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Acquisto estintori</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>CSNFSC52M30H720W</codiceFiscale>
+                    <ragioneSociale>ALFATECNICA ANTINCENDIO DI CASANA FOSCO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>CSNFSC52M30H720W</codiceFiscale>
+                    <ragioneSociale>ALFATECNICA ANTINCENDIO DI CASANA FOSCO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>407.4</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-07-17</dataInizio>
+                <dataUltimazione>2023-08-09</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>407.4</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZA53B62ECE</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Materiale x messa in sicurezza Deposito di OME (BS)</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00097150338</codiceFiscale>
+                    <ragioneSociale>A.M. MORSCIA SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00097150338</codiceFiscale>
+                    <ragioneSociale>A.M. MORSCIA SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>374.7</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-06-01</dataInizio>
+                <dataUltimazione>2023-06-21</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>374.7</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZA63B78156</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Progettazione termotecnia edificio 18</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>MGNMTT72T25G535Q</codiceFiscale>
+                    <ragioneSociale>Matteo Magnani</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>MGNMTT72T25G535Q</codiceFiscale>
+                    <ragioneSociale>Matteo Magnani</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>7113.6</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-06-16</dataInizio>
+                <dataUltimazione>2023-07-03</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>7113.6</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZB03B219A6</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura di materiale x potenziamento Deposito munizioni di Ome (BS)</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00097150338</codiceFiscale>
+                    <ragioneSociale>A.M. MORSCIA SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00097150338</codiceFiscale>
+                    <ragioneSociale>A.M. MORSCIA SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2116.34</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-05-16</dataInizio>
+                <dataUltimazione>2023-06-21</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2116.34</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZB13B8F109</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura di cartucce varie e testina per plotter a getto d'inchiostro</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01499130332</codiceFiscale>
+                    <ragioneSociale>BLEKA UNIPERSONALE SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01499130332</codiceFiscale>
+                    <ragioneSociale>BLEKA UNIPERSONALE SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2625.1</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-07-06</dataInizio>
+                <dataUltimazione>2023-07-17</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2625.1</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZC13B84DB0</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura telecomandi BRP per rimessa in efficineza barchetti plananti</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>VTLDNL60L30I274P</codiceFiscale>
+                    <ragioneSociale>CENTRO NAUTICO PIACENZA DI VITALONI DANIELE</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>VTLDNL60L30I274P</codiceFiscale>
+                    <ragioneSociale>CENTRO NAUTICO PIACENZA DI VITALONI DANIELE</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1374.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-08-17</dataInizio>
+                <dataUltimazione>2023-09-05</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1374.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZCF3B45D9E</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Ricarica bombole di ossigeno medicale</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02006400960</codiceFiscale>
+                    <ragioneSociale>SAPIO LIFE S.R.L.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02006400960</codiceFiscale>
+                    <ragioneSociale>SAPIO LIFE S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>48.07</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-07-19</dataInizio>
+                <dataUltimazione>2023-07-25</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>48.07</importoSommeLiquidate>
+        </lotto>
+		<lotto>
+            <cig>9982717EA9</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Ferramenta per potenziamento sicurezza riservette Depo.Muni.</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00097150338</codiceFiscale>
+                    <ragioneSociale>A.M. MORSCIA SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00097150338</codiceFiscale>
+                    <ragioneSociale>A.M. MORSCIA SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>57620.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-10-24</dataInizio>
+                <dataUltimazione>2023-11-24</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>57620.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z0F3C3F35C</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Rifacimento segnaletica orizzontale</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02985820964</codiceFiscale>
+                    <ragioneSociale>RIBONI SEGNALETICA S.R.L.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02985820964</codiceFiscale>
+                    <ragioneSociale>RIBONI SEGNALETICA S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3920.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-09-13</dataInizio>
+                <dataUltimazione>2023-09-19</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>3920.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z3D3C3513C</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Servizio di manovalanza</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>04269490266</codiceFiscale>
+                    <ragioneSociale>L'OPEROSA SPA SOCIETA' BENEFIT</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04269490266</codiceFiscale>
+                    <ragioneSociale>L'OPEROSA SPA SOCIETA' BENEFIT</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4705.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-08-31</dataInizio>
+                <dataUltimazione>2023-09-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>4705.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z493C34AAA</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Corsi di formazione professionale</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02830100984</codiceFiscale>
+                    <ragioneSociale>SICURLIVE GROUP SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02830100984</codiceFiscale>
+                    <ragioneSociale>SICURLIVE GROUP SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>3416.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-08-31</dataInizio>
+                <dataUltimazione>2023-10-31</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>3416.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z553C13A7C</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Esecuzione dell’indagine supplementare alle attrezzature di sollevamento del PMPN</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03751610282</codiceFiscale>
+                    <ragioneSociale>VERIFICHE INDUSTRIALI S.R.L.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03751610282</codiceFiscale>
+                    <ragioneSociale>VERIFICHE INDUSTRIALI S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4125.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-09-07</dataInizio>
+                <dataUltimazione>2023-10-04</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>4125.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z5E3C29413</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Ripristino condizioni di sicurezza ed 77</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00172050338</codiceFiscale>
+                    <ragioneSociale>ROSSI E SIGNAROLDI COSTRUZIONI SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00172050338</codiceFiscale>
+                    <ragioneSociale>ROSSI E SIGNAROLDI COSTRUZIONI SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>39522.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-09-08</dataInizio>
+                <dataUltimazione>2023-11-08</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>39522.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z6A3C13A43</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura di rulli e smalti sintetici</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01000040335</codiceFiscale>
+                    <ragioneSociale>BRI-MAN S.R.L.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01000040335</codiceFiscale>
+                    <ragioneSociale>BRI-MAN S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2022.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-09-06</dataInizio>
+                <dataUltimazione>2023-09-16</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2022.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z923C0987B</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Tagliacartoni professionale</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>12479491008</codiceFiscale>
+                    <ragioneSociale>MR SERVICE SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>12479491008</codiceFiscale>
+                    <ragioneSociale>MR SERVICE SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1948.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-09-01</dataInizio>
+                <dataUltimazione>2023-09-12</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1948.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z933BB1FA9</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Gestione delle attività di controllo della qualità delle acque destinate al consumo umano</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01755610340</codiceFiscale>
+                    <ragioneSociale>LABORATORIO REI SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01755610340</codiceFiscale>
+                    <ragioneSociale>LABORATORIO REI SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1520.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-09-22</dataInizio>
+                <dataUltimazione>2023-11-15</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1520.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z953C0EBA6</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura Gruppo di rinvio per autocarro ASTRA</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02854220213</codiceFiscale>
+                    <ragioneSociale>IVECO DEFENCE VEHICLES S.p.A.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02854220213</codiceFiscale>
+                    <ragioneSociale>IVECO DEFENCE VEHICLES S.p.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>15805.64</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-10-18</dataInizio>
+                <dataUltimazione>2023-11-17</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>15805.64</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZCD3C290A8</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura di buoni pasto personale civile (aprile - settembre2023)</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>05066690156</codiceFiscale>
+                    <ragioneSociale>PELLEGRINI SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>05066690156</codiceFiscale>
+                    <ragioneSociale>PELLEGRINI SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>13987.68</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-11-20</dataInizio>
+                <dataUltimazione>2023-11-08</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>13987.68</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZD63C304D1</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Risanamento locale Diretrtore</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00169640331</codiceFiscale>
+                    <ragioneSociale>BARBIERI ANTONIO DI BARBIERI GEOM. MASSIMILIANO &amp; C. - S.N.C.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00169640331</codiceFiscale>
+                    <ragioneSociale>BARBIERI ANTONIO DI BARBIERI GEOM. MASSIMILIANO &amp; C. - S.N.C.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>8577.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-09-15</dataInizio>
+                <dataUltimazione>2023-10-09</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>8577.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZDE3C04AEB</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>servizio di pulizia aree verdi esterne ai reparti (settembre/dicembre 2023)</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01253900334</codiceFiscale>
+                    <ragioneSociale>IL POLLICE VERDE DI PANTANO GIUSEPPE E C. S.A.S.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01253900334</codiceFiscale>
+                    <ragioneSociale>IL POLLICE VERDE DI PANTANO GIUSEPPE E C. S.A.S.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>22528.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-09-11</dataInizio>
+                <dataUltimazione>2023-11-20</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>22528.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZE43BD8B94</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Materiale per l'utilizzo della macchina da taglio al plasma</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00158850180</codiceFiscale>
+                    <ragioneSociale>FERRI ADELIO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00158850180</codiceFiscale>
+                    <ragioneSociale>FERRI ADELIO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1291.61</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-09-06</dataInizio>
+                <dataUltimazione>2023-10-07</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1291.61</importoSommeLiquidate>
+        </lotto>
+		<lotto>
+            <cig>Z043C92DAD</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>corso di primo soccorso aziendale gruppo B e C e BLSD</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>91125530336</codiceFiscale>
+                    <ragioneSociale>RELIFE 2020 ASSOCIATION</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>91125530336</codiceFiscale>
+                    <ragioneSociale>RELIFE 2020 ASSOCIATION</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>300.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-10-05</dataInizio>
+                <dataUltimazione>2023-10-30</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>300.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z053C9F014</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura di torcia x saldatrice</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01611910330</codiceFiscale>
+                    <ragioneSociale>CENTRO TECNICO SALDATRICI S.R.L.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01611910330</codiceFiscale>
+                    <ragioneSociale>CENTRO TECNICO SALDATRICI S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>484.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-10-12</dataInizio>
+                <dataUltimazione>2023-10-17</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>484.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z0D3C5B9C2</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Direzione Lavori per ripristino fondazioni edificio n°77</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>CRNSLV87L10G535W</codiceFiscale>
+                    <ragioneSociale>CARINI SILVIO</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>CRNSLV87L10G535W</codiceFiscale>
+                    <ragioneSociale>CARINI SILVIO</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1424.8</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-09-08</dataInizio>
+                <dataUltimazione>2023-11-08</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1424.8</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z123A1326A</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>attrezzature per stoccaggio materiale</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>09816660154</codiceFiscale>
+                    <ragioneSociale>MANUTAN ITALIA SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>09816660154</codiceFiscale>
+                    <ragioneSociale>MANUTAN ITALIA SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>10073.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-10-09</dataInizio>
+                <dataUltimazione>2023-11-13</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>10073.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z163C921DC</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>progetto applicativo servizio di sicurezza sistema di chiamata per mancanza rete frigorifero infermeria</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01132880194</codiceFiscale>
+                    <ragioneSociale>ITALSINERGIE SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01132880194</codiceFiscale>
+                    <ragioneSociale>ITALSINERGIE SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>980.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-10-11</dataInizio>
+                <dataUltimazione>2023-11-10</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>980.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z2EECEBED5</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Fornitura scala</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00806960233</codiceFiscale>
+                    <ragioneSociale>COMET GROUP SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00806960233</codiceFiscale>
+                    <ragioneSociale>COMET GROUP SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2448.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-11-10</dataInizio>
+                <dataUltimazione>2023-12-11</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2448.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z313D22551</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Materiale di consumo per macchina di taglio al plasma</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>04141030165</codiceFiscale>
+                    <ragioneSociale>AMC SYSTEM SRL</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04141030165</codiceFiscale>
+                    <ragioneSociale>AMC SYSTEM SRL</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1318.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-11-24</dataInizio>
+                <dataUltimazione>2023-12-04</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1318.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z7D3CAD775</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>tratto di muro perimetrale</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00169640331</codiceFiscale>
+                    <ragioneSociale>BARBIERI ANTONIO DI BARBIERI GEOM. MASSIMILIANO &amp; C. - S.N.C.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00169640331</codiceFiscale>
+                    <ragioneSociale>BARBIERI ANTONIO DI BARBIERI GEOM. MASSIMILIANO &amp; C. - S.N.C.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4925.25</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-10-04</dataInizio>
+                <dataUltimazione>2023-10-19</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>4925.25</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z873C74D42</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Riparazione scaldavivande</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02551890342</codiceFiscale>
+                    <ragioneSociale>SINTECNA S.R.L.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02551890342</codiceFiscale>
+                    <ragioneSociale>SINTECNA S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>858.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-09-26</dataInizio>
+                <dataUltimazione>2023-10-13</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>858.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z8E3C3F441</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Riifacimento recinzione perimetrale</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00169640331</codiceFiscale>
+                    <ragioneSociale>BARBIERI ANTONIO DI BARBIERI GEOM. MASSIMILIANO &amp; C. - S.N.C.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00169640331</codiceFiscale>
+                    <ragioneSociale>BARBIERI ANTONIO DI BARBIERI GEOM. MASSIMILIANO &amp; C. - S.N.C.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>15817.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-09-19</dataInizio>
+                <dataUltimazione>2023-11-15</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>15817.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZAB3CA0E1D</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Manutenzione carri ponte</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>04715490159</codiceFiscale>
+                    <ragioneSociale>ELETTROMEC S.A.S. DI PIVA R.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04715490159</codiceFiscale>
+                    <ragioneSociale>ELETTROMEC S.A.S. DI PIVA R.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2760.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-10-16</dataInizio>
+                <dataUltimazione>2023-11-20</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2760.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZE93CFB845</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>raccolta, trasporto e smaltimento rifiuti non pericolosi</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03033240106</codiceFiscale>
+                    <ragioneSociale>ECO ERIDANIA SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03033240106</codiceFiscale>
+                    <ragioneSociale>ECO ERIDANIA SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>14940.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-11-06</dataInizio>
+                <dataUltimazione>2023-11-15</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>14940.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZF63C9EE5D</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Lavagna Multimediale</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01634070435</codiceFiscale>
+                    <ragioneSociale>REMATARLAZZI S.P.A.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01634070435</codiceFiscale>
+                    <ragioneSociale>REMATARLAZZI S.P.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>1800.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-10-26</dataInizio>
+                <dataUltimazione>2023-11-26</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>1800.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZF63CC33C8</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>catering per evento conviviale 16-19/10/2023</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>01769440338</codiceFiscale>
+                    <ragioneSociale>ANITA SRLS</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>01769440338</codiceFiscale>
+                    <ragioneSociale>ANITA SRLS</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>2869.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-10-17</dataInizio>
+                <dataUltimazione>2023-10-18</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>2869.0</importoSommeLiquidate>
+        </lotto>
+		 <lotto>
+            <cig>9651229E1C</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>A.Q.298 del 16.07.2020 - AssistenzaTecnica a vari si.ar. ARIETE presso laSCUOLA di CAVALLERIA di LECCE</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>07032480589</codiceFiscale>
+                    <ragioneSociale>IVECO - OTO MELARA  Soc. cons. a r.l.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>07032480589</codiceFiscale>
+                    <ragioneSociale>IVECO - OTO MELARA  Soc. cons. a r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>190215.32</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-06-06</dataInizio>
+                <dataUltimazione>2023-10-23</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>190215.32</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>9655508942</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>A.Q.298 del 16.07.2020 - Assistenza Tecnica a vari si.ar. ARIETEpresso il 4^ RGT. CARRI - PERSANO</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>07032480589</codiceFiscale>
+                    <ragioneSociale>IVECO - OTO MELARA  Soc. cons. a r.l.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>07032480589</codiceFiscale>
+                    <ragioneSociale>IVECO - OTO MELARA  Soc. cons. a r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>102307.84</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-06-06</dataInizio>
+                <dataUltimazione>2023-11-27</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>102307.84</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>96866761EA</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Assistenza Tecnica a vari si.ar. BLINDO “CENTAURO” presso il  8° Reggimento Lancieri di Montebello  ROMA</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>07032480589</codiceFiscale>
+                    <ragioneSociale>IVECO - OTO MELARA  Soc. cons. a r.l.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>07032480589</codiceFiscale>
+                    <ragioneSociale>IVECO - OTO MELARA  Soc. cons. a r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>62712.85</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-04-17</dataInizio>
+                <dataUltimazione>2023-08-09</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>62712.85</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>9689055D1D</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Assistenza Tecnica a vari si.ar. BLINDO “CENTAURO” presso 6° Reggimento “Lancieri  di Aosta” di PALERMO</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>07032480589</codiceFiscale>
+                    <ragioneSociale>IVECO - OTO MELARA  Soc. cons. a r.l.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>07032480589</codiceFiscale>
+                    <ragioneSociale>IVECO - OTO MELARA  Soc. cons. a r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>872160.24</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-06-27</dataInizio>
+                <dataUltimazione>2023-12-01</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>872160.24</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>9691961B39</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>A.Q. 298 LDM 52/2022- Ass. Tecnica si/ar ARIETE</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>07032480589</codiceFiscale>
+                    <ragioneSociale>IVECO - OTO MELARA  Soc. cons. a r.l.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>07032480589</codiceFiscale>
+                    <ragioneSociale>IVECO - OTO MELARA  Soc. cons. a r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>210015.6</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-06-06</dataInizio>
+                <dataUltimazione>2023-10-03</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>210015.6</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>96965630ED</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Servizio di Assistenza Tecnica a vari si.ar. DARDO  presso  il 15° CE.RI.MANT. di PADOVA</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>07032480589</codiceFiscale>
+                    <ragioneSociale>IVECO - OTO MELARA  Soc. cons. a r.l.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>07032480589</codiceFiscale>
+                    <ragioneSociale>IVECO - OTO MELARA  Soc. cons. a r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>762897.45</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-08-10</dataInizio>
+                <dataUltimazione>2023-12-01</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>762897.45</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>9760700074</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Assistenza Tecnica a vari si.ar. BLINDO “CENTAURO” presso 19° Reggimento “Cavalleggeri Guide” di SALERNO</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>07032480589</codiceFiscale>
+                    <ragioneSociale>IVECO - OTO MELARA  Soc. cons. a r.l.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>07032480589</codiceFiscale>
+                    <ragioneSociale>IVECO - OTO MELARA  Soc. cons. a r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>126302.3</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-06-27</dataInizio>
+                <dataUltimazione>2023-11-13</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>126302.3</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>9889282DA9</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Assistenza Tecnica a vari si.ar. BLINDO presso 8° Rgt. “Lancieri di Montebello” di ROMA e  4° Rgt. “Genova Cavalleria” di PALMANOVA</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>07032480589</codiceFiscale>
+                    <ragioneSociale>IVECO - OTO MELARA  Soc. cons. a r.l.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>07032480589</codiceFiscale>
+                    <ragioneSociale>IVECO - OTO MELARA  Soc. cons. a r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>132274.81</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-08-10</dataInizio>
+                <dataUltimazione>2023-11-23</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>132274.81</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>9902021E37</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>ASSISTENZA TECNICA SI AR ARIETE PRESSO PMPN DI PIACENZA</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>07032480589</codiceFiscale>
+                    <ragioneSociale>IVECO - OTO MELARA  Soc. cons. a r.l.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>07032480589</codiceFiscale>
+                    <ragioneSociale>IVECO - OTO MELARA  Soc. cons. a r.l.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>273020.28</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-08-07</dataInizio>
+                <dataUltimazione>2023-12-11</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>273020.28</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>A02E28FB23</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>manutenzione extra canone dell'impianto termico dell'edificio n. 18</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02184890354</codiceFiscale>
+                    <ragioneSociale>IREN SMART SOLUTIONS S.P.A.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02184890354</codiceFiscale>
+                    <ragioneSociale>IREN SMART SOLUTIONS S.P.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>121800.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-11-22</dataInizio>
+                <dataUltimazione>2023-12-13</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>121800.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z673D7DEF7</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>penne, portadocumenti neri e marroni</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>10324241008</codiceFiscale>
+                    <ragioneSociale>ULTRAPROMEDIA S.R.L.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>10324241008</codiceFiscale>
+                    <ragioneSociale>ULTRAPROMEDIA S.R.L.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>4200.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-12-05</dataInizio>
+                <dataUltimazione>2023-12-15</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>4200.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>Z743D85143</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>buoni libro</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>04628790968</codiceFiscale>
+                    <ragioneSociale>FELTRINELLI SPA</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>04628790968</codiceFiscale>
+                    <ragioneSociale>FELTRINELLI SPA</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>10500.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-12-10</dataInizio>
+                <dataUltimazione>2023-12-22</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>10500.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZB93D3EAAC</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Parti di ricambio per riparazione tende pneumatiche</oggetto>
+            <sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>03202170365</codiceFiscale>
+                    <ragioneSociale>M.L. S.R.L. MILITARY LOGISTICS</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>03202170365</codiceFiscale>
+                    <ragioneSociale>M.L. S.R.L. MILITARY LOGISTICS</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>5617.0</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-11-28</dataInizio>
+                <dataUltimazione>2023-12-21</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>5617.0</importoSommeLiquidate>
+        </lotto>
+        <lotto>
+            <cig>ZDA3AD596C</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>Assistenza Tecnica a domicilio per attività di diagnosi su n. 9 MRAP BUFFALO in carico al Parco MOTG di Peschiera del Garda</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>00040990319</codiceFiscale>
+                    <ragioneSociale>GORIZIANE GROUP S.P.A.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>00040990319</codiceFiscale>
+                    <ragioneSociale>GORIZIANE GROUP S.P.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>9864.16</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-05-30</dataInizio>
+                <dataUltimazione>2023-06-27</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>9864.16</importoSommeLiquidate>
+        </lotto>
+		<lotto>
+            <cig>9761685D49</cig>
+            <strutturaProponente>
+                <codiceFiscaleProp>80010190330</codiceFiscaleProp>
+                <denominazione>POLO DI MANTENIMENTO PESANTE NORD</denominazione>
+            </strutturaProponente>
+            <oggetto>RICAMBI PER VTMM ORSO</oggetto>
+            <sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+            <partecipanti>
+                <partecipante>
+                    <codiceFiscale>02854220213</codiceFiscale>
+                    <ragioneSociale>IVECO DEFENCE VEHICLES S.p.A.</ragioneSociale>
+                </partecipante>
+            </partecipanti>
+            <aggiudicatari>
+                <aggiudicatario>
+                    <codiceFiscale>02854220213</codiceFiscale>
+                    <ragioneSociale>IVECO DEFENCE VEHICLES S.p.A.</ragioneSociale>
+                </aggiudicatario>
+            </aggiudicatari>
+            <importoAggiudicazione>813999.09</importoAggiudicazione>
+            <tempiCompletamento>
+                <dataInizio>2023-06-28</dataInizio>
+                <dataUltimazione>2023-08-28</dataUltimazione>
+            </tempiCompletamento>
+            <importoSommeLiquidate>813999.09</importoSommeLiquidate>
+        </lotto>
+    </data>
+</ns2:pubblicazione>

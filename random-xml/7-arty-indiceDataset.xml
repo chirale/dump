@@ -1,0 +1,4305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+<titolo> Pubblicazione 1 legge 190</titolo>
+<abstract> Pubblicazione 1 legge 190 anno 1 rif. 2010 aggiornamento del 2024-01-11 15:29:15</abstract>
+<dataPubblicazioneDataset>2024-01-31</dataPubblicazioneDataset>
+<entePubblicatore>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</entePubblicatore>
+<dataUltimoAggiornamentoDataset>2024-01-11</dataUltimoAggiornamentoDataset>
+<annoRiferimento>2023</annoRiferimento>
+<urlFile>
+https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/parco-materiali-motorizzazione-genio-artiglieria-NBC/2023/indiceDataset.xml</urlFile>
+<licenza>IODL 2.0</licenza>
+</metadata>
+<data>
+<lotto>
+<cig>ZF43BD5029</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO TESSERE VIACARD</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01713400214</codiceFiscale>
+<ragioneSociale>JARA SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01713400214</codiceFiscale>
+<ragioneSociale>JARA SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4985.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-17</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>4985.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z7C39888BB</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO MATERIALI PER SERVIZI IGIENICI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05330700286</codiceFiscale>
+<ragioneSociale>BIANCHI INGROSSO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05330700286</codiceFiscale>
+<ragioneSociale>BIANCHI INGROSSO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2859.39</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-16</dataInizio>
+<dataUltimazione>2023-01-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2859.39</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZF13C18CBB</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO MANUALI JATA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03170350122</codiceFiscale>
+<ragioneSociale>A.P.S. S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03170350122</codiceFiscale>
+<ragioneSociale>A.P.S. S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>717.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-27</dataInizio>
+<dataUltimazione>2023-08-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>717.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZCA3C41613</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTA CUCINA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>13401220150</codiceFiscale>
+<ragioneSociale>CONFORAMA ITALIA S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>13401220150</codiceFiscale>
+<ragioneSociale>CONFORAMA ITALIA S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1843.28</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-24</dataInizio>
+<dataUltimazione>2023-09-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1843.28</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z1237C9136</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO PARASPIGOLI PER SCAFFALI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02137790206</codiceFiscale>
+<ragioneSociale>DE BIASI AUTOMATISMI S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02137790206</codiceFiscale>
+<ragioneSociale>DE BIASI AUTOMATISMI S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>9965.16</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-16</dataInizio>
+<dataUltimazione>0202-04-12</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>9965.16</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZBF3C7E0B7</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MATERIALE PER IGIENE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02796620231</codiceFiscale>
+<ragioneSociale>IGENA S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02796620231</codiceFiscale>
+<ragioneSociale>IGENA S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3165.05</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-15</dataInizio>
+<dataUltimazione>2023-10-12</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3165.05</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z033C55409</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO PNEUMATICI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04218930230</codiceFiscale>
+<ragioneSociale>PEDRAZZI PNEUMATICI  S.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04218930230</codiceFiscale>
+<ragioneSociale>PEDRAZZI PNEUMATICI  S.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3593.59</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-04</dataInizio>
+<dataUltimazione>2023-10-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3593.59</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z6F3CADD7D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>RIPARAZIONE VEICOLO ELETTRICO ALKE'</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04355000284</codiceFiscale>
+<ragioneSociale>ALKE' S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04355000284</codiceFiscale>
+<ragioneSociale>ALKE' S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>384.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-29</dataInizio>
+<dataUltimazione>2023-10-18</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>384.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZE639B6547</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>RIPARAZIONE STAMPANTE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03193100231</codiceFiscale>
+<ragioneSociale>OFFICE GROUP S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03193100231</codiceFiscale>
+<ragioneSociale>OFFICE GROUP S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1092.74</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-30</dataInizio>
+<dataUltimazione>2023-03-13</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1092.74</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZF63A3CDCC</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>SOSTITUZIONE LAMPADE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>CRTFLV55L22G489J</codiceFiscale>
+<ragioneSociale>EREDE DI CERUTTI IVANO DI CERUTTI FLAVIO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>CRTFLV55L22G489J</codiceFiscale>
+<ragioneSociale>EREDE DI CERUTTI IVANO DI CERUTTI FLAVIO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>286.49</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-03</dataInizio>
+<dataUltimazione>2023-03-21</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>286.49</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z103ABA39D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>RIPARAZIONE VEICOLO ELETTRICO ALKE'</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04355000284</codiceFiscale>
+<ragioneSociale>ALKE' S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04355000284</codiceFiscale>
+<ragioneSociale>ALKE' S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3499.25</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-07</dataInizio>
+<dataUltimazione>2023-05-29</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3499.25</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z2F3AB9B4D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO LICENZE OFFICE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02802930343</codiceFiscale>
+<ragioneSociale>J-STORE DISTRIBUZIONE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02802930343</codiceFiscale>
+<ragioneSociale>J-STORE DISTRIBUZIONE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>819.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-13</dataInizio>
+<dataUltimazione>2023-05-16</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>819.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZAF3A79BE0</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>RIP. GUASTO IDRAULICO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03327480236</codiceFiscale>
+<ragioneSociale>BERTAIOLA IMPIANTI S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03327480236</codiceFiscale>
+<ragioneSociale>BERTAIOLA IMPIANTI S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>750.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-21</dataInizio>
+<dataUltimazione>2023-04-17</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>750.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>0000000000</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>RIPARAZIONE MANUT. ATTREZZATURE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02884720232</codiceFiscale>
+<ragioneSociale>NARCONTI F.LLI S.N.C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02884720232</codiceFiscale>
+<ragioneSociale>NARCONTI F.LLI S.N.C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3717.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-28</dataInizio>
+<dataUltimazione>2023-05-22</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3717.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z703A890AE</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>INTEGR. ATTR.  GIARDINAGGIO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02884720232</codiceFiscale>
+<ragioneSociale>NARCONTI F.LLI S.N.C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02884720232</codiceFiscale>
+<ragioneSociale>NARCONTI F.LLI S.N.C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>240.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataUltimazione>2023-05-16</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>240.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z093B86E74</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO PORTACHIVI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05641680011</codiceFiscale>
+<ragioneSociale>GIEMME DI D'AGOSTINO F. S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05641680011</codiceFiscale>
+<ragioneSociale>GIEMME DI D'AGOSTINO F. S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>225.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-12</dataInizio>
+<dataUltimazione>0203-07-20</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>225.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z693BE0652</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>SVUOTAMENTO FOSSE BIOLOGICHE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02704610985</codiceFiscale>
+<ragioneSociale>EUROSPURGHILONATO DI PEDROTTI S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02704610985</codiceFiscale>
+<ragioneSociale>EUROSPURGHILONATO DI PEDROTTI S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1115.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-18</dataInizio>
+<dataUltimazione>2023-09-01</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1115.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z9739BC2B3</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE DOSIMETRI SOR-T</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04095801009</codiceFiscale>
+<ragioneSociale>B.M.A. BUIZZA MAZZEI AGENCY S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04095801009</codiceFiscale>
+<ragioneSociale>B.M.A. BUIZZA MAZZEI AGENCY S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2049.18</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-30</dataInizio>
+<dataUltimazione>2023-07-07</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2049.18</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z923A8A3A6</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>SMALTIMENTO RIFIUTI SPECIALI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04445790233</codiceFiscale>
+<ragioneSociale>ECOMIND S.R.L</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04445790233</codiceFiscale>
+<ragioneSociale>ECOMIND S.R.L</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>15939.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-22</dataInizio>
+<dataUltimazione>2023-07-24</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>15939.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZB93AA2A95</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MESSA A NORMA CANCELLO CARRAIO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02239080233</codiceFiscale>
+<ragioneSociale>CONTROL SYSTEM S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02239080233</codiceFiscale>
+<ragioneSociale>CONTROL SYSTEM S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>8696.16</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-30</dataInizio>
+<dataUltimazione>2023-06-12</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>8696.16</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z973B2700E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>INTEGR. RIPARAZIONE SCUDO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02080520238</codiceFiscale>
+<ragioneSociale>GARAGE SERENISSIMA S.N.C</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02080520238</codiceFiscale>
+<ragioneSociale>GARAGE SERENISSIMA S.N.C</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>341.18</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-11</dataInizio>
+<dataUltimazione>2023-07-04</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>341.18</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZB43AE92BC</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE ASTRA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00800230286</codiceFiscale>
+<ragioneSociale>OFFICINE MIOTTO S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00800230286</codiceFiscale>
+<ragioneSociale>OFFICINE MIOTTO S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>13753.56</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-23</dataInizio>
+<dataUltimazione>2023-07-03</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>13753.56</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZA33B07477</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MATERIALE DI CONSUMPO PER CONF. PASTI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00667690044</codiceFiscale>
+<ragioneSociale>LA CASALINDA S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00667690044</codiceFiscale>
+<ragioneSociale>LA CASALINDA S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1410.91</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-03</dataInizio>
+<dataUltimazione>2023-06-16</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1410.91</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZBE3A37373</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>RIPARAZIONE MEZZI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02080520238</codiceFiscale>
+<ragioneSociale>GARAGE SERENISSIMA S.N.C</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02080520238</codiceFiscale>
+<ragioneSociale>GARAGE SERENISSIMA S.N.C</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1290.64</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-07</dataInizio>
+<dataUltimazione>2023-07-21</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1290.64</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZCF3966A5A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>GPL DA RISCALDAMENTO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00166810341</codiceFiscale>
+<ragioneSociale>SOCOGAS S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00166810341</codiceFiscale>
+<ragioneSociale>SOCOGAS S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1870.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-02</dataInizio>
+<dataUltimazione>2023-01-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1870.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>9779491346</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE CHEM PRO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07203881003</codiceFiscale>
+<ragioneSociale>DPD SERVICE S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07203881003</codiceFiscale>
+<ragioneSociale>DPD SERVICE S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>56874.18</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-18</dataInizio>
+<dataUltimazione>2023-07-07</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>56874.18</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z803709785</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ARREDI DI MAGAZZINO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03498610249</codiceFiscale>
+<ragioneSociale>FAMI S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03498610249</codiceFiscale>
+<ragioneSociale>FAMI S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>22556.72</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-09-16</dataInizio>
+<dataUltimazione>2023-02-24</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>22556.72</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZBB3B4A99B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>CORSO IATA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03170350122</codiceFiscale>
+<ragioneSociale>A.P.S. S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03170350122</codiceFiscale>
+<ragioneSociale>A.P.S. S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-23</dataInizio>
+<dataUltimazione>2023-08-08</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5000.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z233B42F42</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA SCAFFALE MENSA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03090890231</codiceFiscale>
+<ragioneSociale>ADIGE GRANDI IMPIANTI S.R.L</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03090890231</codiceFiscale>
+<ragioneSociale>ADIGE GRANDI IMPIANTI S.R.L</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2307.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-19</dataInizio>
+<dataUltimazione>2023-08-03</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2307.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z8339B8B4E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO SALE STRADALE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>PRNGPP64P08C225X</codiceFiscale>
+<ragioneSociale>PARONI GIUSEPPE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>PRNGPP64P08C225X</codiceFiscale>
+<ragioneSociale>PARONI GIUSEPPE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>173.69</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-30</dataInizio>
+<dataUltimazione>2023-02-16</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>173.69</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZCA39CB6DB</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GASOLIO</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03645040282</codiceFiscale>
+<ragioneSociale>AF PETROLI S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03645040282</codiceFiscale>
+<ragioneSociale>AF PETROLI S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>16257.38</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-02</dataInizio>
+<dataUltimazione>2023-03-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>16257.38</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZD13C71D8D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE SANIJET</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01281250231</codiceFiscale>
+<ragioneSociale>CRISTANINI S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01281250231</codiceFiscale>
+<ragioneSociale>CRISTANINI S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4826.99</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-13</dataInizio>
+<dataUltimazione>2023-10-04</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4826.99</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZC1397E9DD</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO BATTERIE AL LITIO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03972911204</codiceFiscale>
+<ragioneSociale>3M FORNITURE</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>10063440019</codiceFiscale>
+<ragioneSociale>BLU BATTERIE S.N.C</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>06978581004</codiceFiscale>
+<ragioneSociale>ELETTROSERVIZI S.R.L.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>00934261009</codiceFiscale>
+<ragioneSociale>F.E.R.T.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>14329411004</codiceFiscale>
+<ragioneSociale>LAITECH S.R.L.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>10324241008</codiceFiscale>
+<ragioneSociale>POWERMEDIA S.R.L.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>03878640238</codiceFiscale>
+<ragioneSociale>VIRTUAL LOGIC S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00934261009</codiceFiscale>
+<ragioneSociale>F.E.R.T.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>14380.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-09</dataInizio>
+<dataUltimazione>2023-03-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>14380.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z7F3CA19C9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>STURAZIONE TUBO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02704610985</codiceFiscale>
+<ragioneSociale>EUROSPURGHILONATO DI PEDROTTI S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02704610985</codiceFiscale>
+<ragioneSociale>EUROSPURGHILONATO DI PEDROTTI S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>120.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-26</dataInizio>
+<dataUltimazione>2023-10-10</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>120.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZB63C3C23F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE PIATT. AEREE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03451850402</codiceFiscale>
+<ragioneSociale>C.T.E CERTIFICAZIONI S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03451850402</codiceFiscale>
+<ragioneSociale>C.T.E CERTIFICAZIONI S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>813.80</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-24</dataInizio>
+<dataUltimazione>2023-10-10</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>813.80</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z8E3A45B63</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>CERTIFICAZIONE MONTACARICHI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>12898410159</codiceFiscale>
+<ragioneSociale>I.M.Q. S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>12898410159</codiceFiscale>
+<ragioneSociale>I.M.Q. S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>140.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-03</dataInizio>
+<dataUltimazione>2023-10-11</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>140.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZA23C553C0</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>VERIFICA ANNUALE AUTOMEZZI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01781590235</codiceFiscale>
+<ragioneSociale>VENETA ENGINEERING S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01781590235</codiceFiscale>
+<ragioneSociale>VENETA ENGINEERING S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1667.62</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-04</dataInizio>
+<dataUltimazione>2023-10-12</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1667.62</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z353BDC06B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>RIPARAZIONE CLIMATIZZATORE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>PTRCRD68B29G489D</codiceFiscale>
+<ragioneSociale>PIETROPOLI CORRADO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>PTRCRD68B29G489D</codiceFiscale>
+<ragioneSociale>PIETROPOLI CORRADO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>300.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-17</dataInizio>
+<dataUltimazione>2023-09-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>300.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z883C5CE2A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MAGNETE CANCELLO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02239080233</codiceFiscale>
+<ragioneSociale>CONTROL SYSTEM S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02239080233</codiceFiscale>
+<ragioneSociale>CONTROL SYSTEM S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>128.80</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-04</dataInizio>
+<dataUltimazione>2023-09-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>128.80</importoSommeLiquidate></lotto>
+<lotto>
+<cig>982994573A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>PORTONI MONTORIO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04369880234</codiceFiscale>
+<ragioneSociale>LERCO ANTINCENDI S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04369880234</codiceFiscale>
+<ragioneSociale>LERCO ANTINCENDI S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>27528.74</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-15</dataInizio>
+<dataUltimazione>2023-09-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>27528.74</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZE83ADFD03</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO MATERIALI PER MAGAZZINI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>08358350588</codiceFiscale>
+<ragioneSociale>PROPAC S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>08358350588</codiceFiscale>
+<ragioneSociale>PROPAC S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5806.13</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-18</dataInizio>
+<dataUltimazione>2023-07-12</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5806.13</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z723BA75F8</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO DEPURATORI D'ARIA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01264220169</codiceFiscale>
+<ragioneSociale>FAIP S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01264220169</codiceFiscale>
+<ragioneSociale>FAIP S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5086.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-19</dataInizio>
+<dataUltimazione>2023-10-09</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5086.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZD6BC13027</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO STOCCATORI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00274620228</codiceFiscale>
+<ragioneSociale>KARREL S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00274620228</codiceFiscale>
+<ragioneSociale>KARREL S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>16335.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-27</dataInizio>
+<dataUltimazione>2023-08-07</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>16335.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z4D3B87118</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA MATERIALI PER MAGAZZINI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01381620234</codiceFiscale>
+<ragioneSociale>VESENTINI S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01381620234</codiceFiscale>
+<ragioneSociale>VESENTINI S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>8799.12</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-12</dataInizio>
+<dataUltimazione>2023-09-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>8799.12</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z103ACE04E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MATERIALI PER MAGAZZINI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03498610249</codiceFiscale>
+<ragioneSociale>FAMI S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03498610249</codiceFiscale>
+<ragioneSociale>FAMI S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4940.28</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-17</dataInizio>
+<dataUltimazione>2023-07-12</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4940.28</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z3D3AAEF92</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO MARKIN KIT CBRN</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01831710569</codiceFiscale>
+<ragioneSociale>N.B.C. SYSTEM S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01831710569</codiceFiscale>
+<ragioneSociale>N.B.C. SYSTEM S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>16900.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-03</dataInizio>
+<dataUltimazione>2023-08-17</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>16900.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>97785380D6</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO RILEVATORI CHIMICI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07203881003</codiceFiscale>
+<ragioneSociale>DPD SERVICE S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07203881003</codiceFiscale>
+<ragioneSociale>DPD SERVICE S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>301584.89</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-20</dataInizio>
+<dataUltimazione>2023-09-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>301584.89</importoSommeLiquidate></lotto>
+<lotto>
+<cig>940533799E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA PORTONI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02137790206</codiceFiscale>
+<ragioneSociale>DE BIASI AUTOMATISMI S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02137790206</codiceFiscale>
+<ragioneSociale>DE BIASI AUTOMATISMI S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>39940.25</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-09-12</dataInizio>
+<dataUltimazione>2023-06-20</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>39940.25</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z993BEE419</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MATERIALE PER UFFICIO MONTORIO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02149540284</codiceFiscale>
+<ragioneSociale>ZANOTTO AUTOMOTIVE S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02149540284</codiceFiscale>
+<ragioneSociale>ZANOTTO AUTOMOTIVE S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4301.15</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-17</dataInizio>
+<dataUltimazione>2023-09-29</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4301.15</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z6237A84A7</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>RICMAMBI PER CAM PLUS</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04294350964</codiceFiscale>
+<ragioneSociale>SMITHS DETECTION ITALIA S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04294350964</codiceFiscale>
+<ragioneSociale>SMITHS DETECTION ITALIA S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>42585.54</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-09-05</dataInizio>
+<dataUltimazione>2023-08-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>42585.54</importoSommeLiquidate></lotto>
+<lotto>
+<cig>95434661D4</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA RICAMBI PER OBICE FH70</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11515630967</codiceFiscale>
+<ragioneSociale>DONATI FORNITURA S.R.L.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>00382830891</codiceFiscale>
+<ragioneSociale>GENOVESE UMBERTO S.R.L.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01521770295</codiceFiscale>
+<ragioneSociale>MARTA FASHION S.R.L.S.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02889060808</codiceFiscale>
+<ragioneSociale>ORTHO MED</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01521230035</codiceFiscale>
+<ragioneSociale>PARACCHINI SHOP DI PARACCHINI M ICHELE</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>03619100831</codiceFiscale>
+<ragioneSociale>RD LABS S.R.L.S.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>00495840019</codiceFiscale>
+<ragioneSociale>A.R.I.S. S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00495840019</codiceFiscale>
+<ragioneSociale>A.R.I.S. S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>144801.05</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-11-25</dataInizio>
+<dataUltimazione>2023-10-09</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>144801.05</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z193AE9223</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MATERIALI PER GESTIONE PRODOTTI PERICOLOSI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03385390103</codiceFiscale>
+<ragioneSociale>DENIOS S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03385390103</codiceFiscale>
+<ragioneSociale>DENIOS S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4426.54</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-26</dataInizio>
+<dataUltimazione>2023-05-09</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4426.54</importoSommeLiquidate></lotto>
+<lotto>
+<cig>941428301A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>PORTONI A LIBRO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02137790206</codiceFiscale>
+<ragioneSociale>DE BIASI AUTOMATISMI S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02137790206</codiceFiscale>
+<ragioneSociale>DE BIASI AUTOMATISMI S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>110701.20</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-09-15</dataInizio>
+<dataUltimazione>2023-08-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>110701.20</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z063B5E689</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO MATERIALE IMBALLAGGIO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05083510965</codiceFiscale>
+<ragioneSociale>SERPAC S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05083510965</codiceFiscale>
+<ragioneSociale>SERPAC S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4505.20</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-29</dataInizio>
+<dataUltimazione>2023-06-29</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4505.20</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z473B185BB</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA ALLARME CSI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03782470987</codiceFiscale>
+<ragioneSociale>DOMINO SISTEMI S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03782470987</codiceFiscale>
+<ragioneSociale>DOMINO SISTEMI S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3200.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-03</dataInizio>
+<dataUltimazione>2023-10-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3200.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZA72776025</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA GAS PER RISCALDAMENTO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02221101203</codiceFiscale>
+<ragioneSociale>HERA COMM S.P.A</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02221101203</codiceFiscale>
+<ragioneSociale>HERA COMM S.P.A</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>36233.79</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-01</dataInizio>
+<dataUltimazione>2023-06-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>36233.79</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZD23A338DE</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA GAS DA RISCALDAMENTO</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01812630224</codiceFiscale>
+<ragioneSociale>DOLOMITI ENERGIA S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01812630224</codiceFiscale>
+<ragioneSociale>DOLOMITI ENERGIA S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3293.03</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-01</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3293.03</importoSommeLiquidate></lotto>
+<lotto>
+<cig>9105626847</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA ENERGIA ELETTRICA</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06655971007</codiceFiscale>
+<ragioneSociale>ENEL ENERGIA S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06655971007</codiceFiscale>
+<ragioneSociale>ENEL ENERGIA S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>68434.46</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-01</dataInizio>
+<dataUltimazione>2023-06-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>68434.46</importoSommeLiquidate></lotto>
+<lotto>
+<cig>9733824DA9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA ENERGIA ELETTRICA</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06655971007</codiceFiscale>
+<ragioneSociale>ENEL ENERGIA S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06655971007</codiceFiscale>
+<ragioneSociale>ENEL ENERGIA S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>35424.36</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-07</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>35424.36</importoSommeLiquidate></lotto>
+<lotto>
+<cig>X2016E5680</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>TELEFONIA MOBILE</oggetto>
+<sceltaContraente>27-CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00488410010</codiceFiscale>
+<ragioneSociale>T.I.M. S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00488410010</codiceFiscale>
+<ragioneSociale>T.I.M. S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>150.63</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-01</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>150.63</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZE629AE262</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>TELEFONIA FISSA</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>12878470157</codiceFiscale>
+<ragioneSociale>FASTWEB S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>12878470157</codiceFiscale>
+<ragioneSociale>FASTWEB S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>329.39</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-01</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>329.39</importoSommeLiquidate></lotto>
+<lotto>
+<cig>X290F242D6</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>PEDAGGI AUTOSTRADALI TELEPASS</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>09771701001</codiceFiscale>
+<ragioneSociale>TELEPASS S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>09771701001</codiceFiscale>
+<ragioneSociale>TELEPASS S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>370.12</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-01</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>370.12</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZB837C125F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>SPESE POSTALI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>97103880585</codiceFiscale>
+<ragioneSociale>POSTE ITALIANE S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>97103880585</codiceFiscale>
+<ragioneSociale>POSTE ITALIANE S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>697.68</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-01</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>697.68</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZC2398E522</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>GENERI ALIMENTARI</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02182570396</codiceFiscale>
+<ragioneSociale>RICCI S.R.L. FORNITURE ALIMENTARI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02182570396</codiceFiscale>
+<ragioneSociale>RICCI S.R.L. FORNITURE ALIMENTARI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1890.06</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-01</dataInizio>
+<dataUltimazione>2023-01-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1890.06</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z443A20BD4</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>GENERI ALIMENTARI</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02182570396</codiceFiscale>
+<ragioneSociale>RICCI S.R.L. FORNITURE ALIMENTARI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02182570396</codiceFiscale>
+<ragioneSociale>RICCI S.R.L. FORNITURE ALIMENTARI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2646.04</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-01</dataInizio>
+<dataUltimazione>2023-02-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2646.04</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZF73A927C8</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>GENERI ALIMENTARI</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02182570396</codiceFiscale>
+<ragioneSociale>RICCI S.R.L. FORNITURE ALIMENTARI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02182570396</codiceFiscale>
+<ragioneSociale>RICCI S.R.L. FORNITURE ALIMENTARI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3767.10</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-01</dataInizio>
+<dataUltimazione>2023-03-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3767.10</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z3D3AF2711</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>GENERI ALIMENTARI</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02182570396</codiceFiscale>
+<ragioneSociale>RICCI S.R.L. FORNITURE ALIMENTARI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02182570396</codiceFiscale>
+<ragioneSociale>RICCI S.R.L. FORNITURE ALIMENTARI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2517.17</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-01</dataInizio>
+<dataUltimazione>2023-04-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2517.17</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZEA3B62EC6</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>GENERI ALIMENTARI</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02182570396</codiceFiscale>
+<ragioneSociale>RICCI S.R.L. FORNITURE ALIMENTARI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02182570396</codiceFiscale>
+<ragioneSociale>RICCI S.R.L. FORNITURE ALIMENTARI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3587.43</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-01</dataInizio>
+<dataUltimazione>2023-05-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3587.43</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z8B3BC129F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>GENERI ALIMENTARI</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02182570396</codiceFiscale>
+<ragioneSociale>RICCI S.R.L. FORNITURE ALIMENTARI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02182570396</codiceFiscale>
+<ragioneSociale>RICCI S.R.L. FORNITURE ALIMENTARI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3756.47</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-01</dataInizio>
+<dataUltimazione>2023-06-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3756.47</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z413C108F9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>GENERI ALIMENTARI</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02182570396</codiceFiscale>
+<ragioneSociale>RICCI S.R.L. FORNITURE ALIMENTARI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02182570396</codiceFiscale>
+<ragioneSociale>RICCI S.R.L. FORNITURE ALIMENTARI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3752.68</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-01</dataInizio>
+<dataUltimazione>2023-07-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3752.68</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z6C3C4510F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>GENERI ALIMENTARI</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02182570396</codiceFiscale>
+<ragioneSociale>RICCI S.R.L. FORNITURE ALIMENTARI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02182570396</codiceFiscale>
+<ragioneSociale>RICCI S.R.L. FORNITURE ALIMENTARI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2310.75</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-01</dataInizio>
+<dataUltimazione>2023-08-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2310.75</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZA83C9D470</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>GENERI ALIMENTARI</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02182570396</codiceFiscale>
+<ragioneSociale>RICCI S.R.L. FORNITURE ALIMENTARI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02182570396</codiceFiscale>
+<ragioneSociale>RICCI S.R.L. FORNITURE ALIMENTARI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3951.26</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-01</dataInizio>
+<dataUltimazione>2023-09-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3951.26</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z8D3D0F79E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>GENERI ALIMENTARI</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02182570396</codiceFiscale>
+<ragioneSociale>RICCI S.R.L. FORNITURE ALIMENTARI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02182570396</codiceFiscale>
+<ragioneSociale>RICCI S.R.L. FORNITURE ALIMENTARI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3178.10</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-01</dataInizio>
+<dataUltimazione>2023-10-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3178.10</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZD23D82BD9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>GENERI ALIMENTARI</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02182570396</codiceFiscale>
+<ragioneSociale>RICCI S.R.L. FORNITURE ALIMENTARI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02182570396</codiceFiscale>
+<ragioneSociale>RICCI S.R.L. FORNITURE ALIMENTARI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>7727.96</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-01</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>7727.96</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z623C5BC14</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MATERIALE INFORMATICO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01644110239</codiceFiscale>
+<ragioneSociale>ABS COMPUTERS SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01644110239</codiceFiscale>
+<ragioneSociale>ABS COMPUTERS SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5748.91</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-09</dataInizio>
+<dataUltimazione>2023-10-03</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5748.91</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z3D3D26943</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>BATTERIE PER ALLARMI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>10063440019</codiceFiscale>
+<ragioneSociale>BLU BATTERIE S.N.C</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>10063440019</codiceFiscale>
+<ragioneSociale>BLU BATTERIE S.N.C</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>663.90</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-02</dataInizio>
+<dataUltimazione>2023-11-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>663.90</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZAF3C60AAE</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>BATTERIE PER GRUPPI CONTINUITA'</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>10063440019</codiceFiscale>
+<ragioneSociale>BLU BATTERIE S.N.C</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>10063440019</codiceFiscale>
+<ragioneSociale>BLU BATTERIE S.N.C</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>682.72</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-05</dataInizio>
+<dataUltimazione>2023-09-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>682.72</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z923CFD1D8</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MATERIALI PER UFFICIO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01279070237</codiceFiscale>
+<ragioneSociale>NICOLIS NERINO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01279070237</codiceFiscale>
+<ragioneSociale>NICOLIS NERINO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4693.38</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-24</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4693.38</importoSommeLiquidate></lotto>
+<lotto>
+<cig>99948635DE</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>SCAFFALATURE PER UFFICIO SENSORI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04371620248</codiceFiscale>
+<ragioneSociale>ARMES S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04371620248</codiceFiscale>
+<ragioneSociale>ARMES S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>36506.25</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-27</dataInizio>
+<dataUltimazione>2023-12-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>36506.25</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z793CDB3C5</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>VISITE MEDICHE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02573090236</codiceFiscale>
+<ragioneSociale>ULSS 9 SCALIGERA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02573090236</codiceFiscale>
+<ragioneSociale>ULSS 9 SCALIGERA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>990.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-16</dataInizio>
+<dataUltimazione>2023-12-20</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>990.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z243D221D0</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>RIPARAZIONE TETTI CAPANNONI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04327490233</codiceFiscale>
+<ragioneSociale>EFFEPI COSTRUZIONI S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04327490233</codiceFiscale>
+<ragioneSociale>EFFEPI COSTRUZIONI S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4910.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-03</dataInizio>
+<dataUltimazione>2023-12-11</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4910.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z6A3BE91D1</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>SCALE PROFESIONALI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01956330235</codiceFiscale>
+<ragioneSociale>MORATI S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01956330235</codiceFiscale>
+<ragioneSociale>MORATI S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>10588.97</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-18</dataInizio>
+<dataUltimazione>2023-07-25</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>10588.97</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z413B86DDC</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ATTREZZTURE VARIE UFFICO SENSORI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00384730248</codiceFiscale>
+<ragioneSociale>AUTO ATTREZZATURE TRIVENETO S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00384730248</codiceFiscale>
+<ragioneSociale>AUTO ATTREZZATURE TRIVENETO S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>9775.54</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-12</dataInizio>
+<dataUltimazione>2023-10-25</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>9775.54</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z643B86F73</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ARMADI DA MAGAZZINO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03498610249</codiceFiscale>
+<ragioneSociale>FAMI S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03498610249</codiceFiscale>
+<ragioneSociale>FAMI S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>17628.26</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-12</dataInizio>
+<dataUltimazione>2023-11-22</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>17628.26</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZF63D371D9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE EXTRA CANONE IMPIANTI TECNICI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04291440230</codiceFiscale>
+<ragioneSociale>S.T.A. SERVIZI TECNICI ASSISTENZE S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04291440230</codiceFiscale>
+<ragioneSociale>S.T.A. SERVIZI TECNICI ASSISTENZE S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1800.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-13</dataInizio>
+<dataUltimazione>2023-12-07</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1800.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZB03C11057</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>CORSO PLE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03948340231</codiceFiscale>
+<ragioneSociale>PENTA FORMAZIONE S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03948340231</codiceFiscale>
+<ragioneSociale>PENTA FORMAZIONE S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>880.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-27</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>880.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z263D3CFCC</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ANALISI LEGIONELLA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01324010238</codiceFiscale>
+<ragioneSociale>LACHIVER ALIMENTI S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01324010238</codiceFiscale>
+<ragioneSociale>LACHIVER ALIMENTI S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>200.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-13</dataInizio>
+<dataUltimazione>2023-12-07</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>200.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZB53C9EB5</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ANALISI ALIMENTI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01324010238</codiceFiscale>
+<ragioneSociale>LACHIVER ALIMENTI S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01324010238</codiceFiscale>
+<ragioneSociale>LACHIVER ALIMENTI S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1018.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-26</dataInizio>
+<dataUltimazione>2023-12-07</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1018.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z403CE4C11</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO POLTRONE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>09816660154</codiceFiscale>
+<ragioneSociale>MANUTAN ITALIA S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>09816660154</codiceFiscale>
+<ragioneSociale>MANUTAN ITALIA S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3289.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-16</dataInizio>
+<dataUltimazione>2023-11-24</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3289.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z423CE331D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>PROIETTORE PER UFFICIO SENSORI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03706320276</codiceFiscale>
+<ragioneSociale>SIAC INFORMATICA VENETAS.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03706320276</codiceFiscale>
+<ragioneSociale>SIAC INFORMATICA VENETAS.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2815.04</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-17</dataInizio>
+<dataUltimazione>2023-11-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2815.04</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZF23D46ACA</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MATERIALE MINUTO MANTENIMENTO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>MTTMRC59S26G489M</codiceFiscale>
+<ragioneSociale>COLORIFICIO AEMME</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>MTTMRC59S26G489M</codiceFiscale>
+<ragioneSociale>COLORIFICIO AEMME</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3791.79</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-15</dataInizio>
+<dataUltimazione>2023-11-29</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3791.79</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z5D3CFA81B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>TENDE PER UFFICI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03386520237</codiceFiscale>
+<ragioneSociale>MATTIAZZI TENDE S.N.C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03386520237</codiceFiscale>
+<ragioneSociale>MATTIAZZI TENDE S.N.C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4915.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-23</dataInizio>
+<dataUltimazione>2023-11-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4915.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z4A3D2EA44</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>APPARECCHIO MISURATORE TEMPI DI REAZIONE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01769780675</codiceFiscale>
+<ragioneSociale>SA.NI. MEDICAL S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01769780675</codiceFiscale>
+<ragioneSociale>SA.NI. MEDICAL S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1925.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-08</dataInizio>
+<dataUltimazione>2023-11-09</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1925.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZEC39D0D7A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE MONTACARICHI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03751420237</codiceFiscale>
+<ragioneSociale>MA.RI.VE. S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03751420237</codiceFiscale>
+<ragioneSociale>MA.RI.VE. S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>400.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-02</dataInizio>
+<dataUltimazione>2023-12-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>400.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z4C3CF089C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>GASOLIO DA RISCALDAMENTO</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03645040282</codiceFiscale>
+<ragioneSociale>AF PETROLI S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03645040282</codiceFiscale>
+<ragioneSociale>AF PETROLI S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>13260.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-20</dataInizio>
+<dataUltimazione>2023-12-04</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>13260.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZBE3D22129</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA E POSA TELECAMERE DI VIDEOSORVEGLIANZA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03782470987</codiceFiscale>
+<ragioneSociale>DOMINO SISTEMI S.R.L.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02939410987</codiceFiscale>
+<ragioneSociale>DIGITEC SOLUTION S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03782470987</codiceFiscale>
+<ragioneSociale>DOMINO SISTEMI S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5792.85</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-03</dataInizio>
+<dataUltimazione>2023-12-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5792.85</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZDE3D49C4E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA POLICARBONATO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04452950233</codiceFiscale>
+<ragioneSociale>PERINELLI FORNITRE S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04452950233</codiceFiscale>
+<ragioneSociale>PERINELLI FORNITRE S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3180.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-15</dataInizio>
+<dataUltimazione>2023-11-29</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3180.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZE93C93F47</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA E POSA CORPI ILLUMINANTI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>CRTFLV55L22G489J</codiceFiscale>
+<ragioneSociale>EREDE DI CERUTTI IVANO DI CERUTTI FLAVIO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>CRTFLV55L22G489J</codiceFiscale>
+<ragioneSociale>EREDE DI CERUTTI IVANO DI CERUTTI FLAVIO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>20191.21</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-23</dataInizio>
+<dataUltimazione>2023-12-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>20191.21</importoSommeLiquidate></lotto>
+<lotto>
+<cig>A003EBC5F3</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>LAVORI DI RIPARAZIONE TETTI CAPANNONI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04327490233</codiceFiscale>
+<ragioneSociale>EFFEPI COSTRUZIONI S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04327490233</codiceFiscale>
+<ragioneSociale>EFFEPI COSTRUZIONI S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>73500.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-10</dataInizio>
+<dataUltimazione>2023-12-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>73500.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZB33C55469</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>VERIFICA PERIODICA LINEA REVISIONE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02149540284</codiceFiscale>
+<ragioneSociale>ZANOTTO AUTOMOTIVE S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02149540284</codiceFiscale>
+<ragioneSociale>ZANOTTO AUTOMOTIVE S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1683.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-04</dataInizio>
+<dataUltimazione>2023-09-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1683.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z7A3CBD592</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>REVISIONE DEFRIBRILLATORI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00470970237</codiceFiscale>
+<ragioneSociale>GIOVANNI CORATO S.A.S.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00470970237</codiceFiscale>
+<ragioneSociale>GIOVANNI CORATO S.A.S.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>540.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-04</dataInizio>
+<dataUltimazione>2023-12-01</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>540.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZF83C70E92</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>PICCOLE ATTREZZATURE MENSA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03090890231</codiceFiscale>
+<ragioneSociale>ADIGE GRANDI IMPIANTI S.R.L</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03090890231</codiceFiscale>
+<ragioneSociale>ADIGE GRANDI IMPIANTI S.R.L</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>430.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-11</dataInizio>
+<dataUltimazione>2023-10-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>430.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZC73C9B0AC</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>INDUMENTI DPI E ACCESSORI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02293630188</codiceFiscale>
+<ragioneSociale>CANEVARI GROUP S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02293630188</codiceFiscale>
+<ragioneSociale>CANEVARI GROUP S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>11898.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-26</dataInizio>
+<dataUltimazione>2023-10-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>11898.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z243CB3134</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>RICAMBI PER VEICOLI COMMERCIALI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>CLLFNC62H12F471E</codiceFiscale>
+<ragioneSociale>CUELLI RAG. FRANCESCO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>CLLFNC62H12F471E</codiceFiscale>
+<ragioneSociale>CUELLI RAG. FRANCESCO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1623.08</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-29</dataInizio>
+<dataUltimazione>2023-11-17</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1623.08</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZBF3D36FC5</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>RIPARAZIONE COPERTURE IMMOBILE INFERMERIA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00832870232</codiceFiscale>
+<ragioneSociale>LA ROSA S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00832870232</codiceFiscale>
+<ragioneSociale>LA ROSA S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5810.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-13</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5810.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z293C10F40</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>CORSO R.L.S.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03929800278</codiceFiscale>
+<ragioneSociale>VEGA FORMAZIONE S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03929800278</codiceFiscale>
+<ragioneSociale>VEGA FORMAZIONE S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>100.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-27</dataInizio>
+<dataUltimazione>2023-09-07</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>100.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z433C10F65</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>CORSO RESPONSABILE AMBIENTALE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03929800278</codiceFiscale>
+<ragioneSociale>VEGA FORMAZIONE S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03929800278</codiceFiscale>
+<ragioneSociale>VEGA FORMAZIONE S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>180.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-27</dataInizio>
+<dataUltimazione>2023-08-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>180.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z4B3C63943</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>RIMESSA IN EFFICENZA MINICAR ELETTRICA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01621550936</codiceFiscale>
+<ragioneSociale>ESTRIMA S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01621550936</codiceFiscale>
+<ragioneSociale>ESTRIMA S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3093.94</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-05</dataInizio>
+<dataUltimazione>2023-11-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3093.94</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZB93CC225C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>BUONI PER ELEVAZIONE CULTURALE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02180760965</codiceFiscale>
+<ragioneSociale>MEDIAMARKET S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02180760965</codiceFiscale>
+<ragioneSociale>MEDIAMARKET S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4520.88</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-06</dataInizio>
+<dataUltimazione>2023-11-09</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4520.88</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z893CFD161</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ASCIUGA MANI ELETTRICI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02796620231</codiceFiscale>
+<ragioneSociale>IGENA S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02796620231</codiceFiscale>
+<ragioneSociale>IGENA S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4981.68</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-23</dataInizio>
+<dataUltimazione>2023-11-16</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4981.68</importoSommeLiquidate></lotto>
+<lotto>
+<cig>9811821AD3</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE APPARATI CAM FAM</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04294350964</codiceFiscale>
+<ragioneSociale>SMITHS DETECTION ITALIA S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04294350964</codiceFiscale>
+<ragioneSociale>SMITHS DETECTION ITALIA S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>94645.80</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-19</dataInizio>
+<dataUltimazione>2023-11-22</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>94645.80</importoSommeLiquidate></lotto>
+<lotto>
+<cig>9845051917</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE SANIJET</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01281250231</codiceFiscale>
+<ragioneSociale>CRISTANINI S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01281250231</codiceFiscale>
+<ragioneSociale>CRISTANINI S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>133146.35</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-24</dataInizio>
+<dataUltimazione>2023-10-26</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>133146.35</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z2C3935543</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ESPERTO QUALIFICATO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>VSNGNN60L22L551M</codiceFiscale>
+<ragioneSociale>VISONA' GIOVANNI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>VSNGNN60L22L551M</codiceFiscale>
+<ragioneSociale>VISONA' GIOVANNI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>9478.44</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-12-22</dataInizio>
+<dataUltimazione>2023-12-01</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>9478.44</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z503B5D248</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>RIPARAZIONE MASCHERE NBC</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01343690598</codiceFiscale>
+<ragioneSociale>ARESCOSMO S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01343690598</codiceFiscale>
+<ragioneSociale>ARESCOSMO S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4457.42</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-29</dataInizio>
+<dataUltimazione>2023-10-25</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4457.42</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z933C320D7</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>SOSTITUZIONE VETRI ENTE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02851530176</codiceFiscale>
+<ragioneSociale>VETRERIE ARTIGIANE S.N.C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02851530176</codiceFiscale>
+<ragioneSociale>VETRERIE ARTIGIANE S.N.C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4612.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-16</dataInizio>
+<dataUltimazione>2023-10-24</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4612.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZE73C97A8C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ANALISI ARIA UFFICI AMMINISTRAZIONE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03265530364</codiceFiscale>
+<ragioneSociale>TECNO AMBIENTE S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03265530364</codiceFiscale>
+<ragioneSociale>TECNO AMBIENTE S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-25</dataInizio>
+<dataUltimazione>2023-10-24</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3000.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>9307063F57</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO SPAZZATRICI DULEVO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01767940347</codiceFiscale>
+<ragioneSociale>DULEVO INTERNATIONAL S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01767940347</codiceFiscale>
+<ragioneSociale>DULEVO INTERNATIONAL S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>52000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-06-30</dataInizio>
+<dataUltimazione>2023-04-07</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>52000.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZF73CBB39C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>SMONTA GOMMA E MANUT. RAVAGLIOLI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00384730248</codiceFiscale>
+<ragioneSociale>AUTO ATTREZZATURE TRIVENETO S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00384730248</codiceFiscale>
+<ragioneSociale>AUTO ATTREZZATURE TRIVENETO S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1527.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-04</dataInizio>
+<dataUltimazione>2023-10-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1527.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z283C13051</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>VERIFICHE ATTREZZATURE MAGAZZINO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03748990284</codiceFiscale>
+<ragioneSociale>NEW CAR SERVICE S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03748990284</codiceFiscale>
+<ragioneSociale>NEW CAR SERVICE S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>14767.34</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-27</dataInizio>
+<dataUltimazione>2023-11-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>14767.34</importoSommeLiquidate></lotto>
+<lotto>
+<cig>9824171A5E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>RETROFITTAGGIO APPARATI LEM</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02844290581</codiceFiscale>
+<ragioneSociale>L.E.M. S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02844290581</codiceFiscale>
+<ragioneSociale>L.E.M. S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>124409.20</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-29</dataInizio>
+<dataUltimazione>2023-11-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>124409.20</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z173B70A65</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE SONDE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11091310158</codiceFiscale>
+<ragioneSociale>B.M.D. S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11091310158</codiceFiscale>
+<ragioneSociale>B.M.D. S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>6652.80</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-06</dataInizio>
+<dataUltimazione>2023-10-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>6652.80</importoSommeLiquidate></lotto>
+<lotto>
+<cig>0000000000</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>DISERBANTE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04602560239</codiceFiscale>
+<ragioneSociale>MURARI MARIA S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04602560239</codiceFiscale>
+<ragioneSociale>MURARI MARIA S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>205.40</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-20</dataInizio>
+<dataUltimazione>2023-10-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>205.40</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z363BE908C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>VERIFICA SCAFFALTURE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00149440240</codiceFiscale>
+<ragioneSociale>FERRETTO GROUP S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00149440240</codiceFiscale>
+<ragioneSociale>FERRETTO GROUP S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>10890.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-18</dataInizio>
+<dataUltimazione>2023-11-16</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>10890.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZAE3CBDCB9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>CANCELLERIA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03374730780</codiceFiscale>
+<ragioneSociale>KARTIELL VERONA S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03374730780</codiceFiscale>
+<ragioneSociale>KARTIELL VERONA S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>8576.88</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-04</dataInizio>
+<dataUltimazione>2023-11-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>8576.88</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z403C10F91</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>CORSO GESTIONE RIFIUTI PERICOLOSI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03526920784</codiceFiscale>
+<ragioneSociale>ALTEREDU S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03526920784</codiceFiscale>
+<ragioneSociale>ALTEREDU S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>137.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-27</dataInizio>
+<dataUltimazione>2023-11-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>137.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z8F3D0C336</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>BUONI PASTO</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05066690156</codiceFiscale>
+<ragioneSociale>PELLEGRINI S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05066690156</codiceFiscale>
+<ragioneSociale>PELLEGRINI S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1918.08</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-27</dataInizio>
+<dataUltimazione>2023-11-13</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1918.08</importoSommeLiquidate></lotto>
+<lotto>
+<cig>9421338E0E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA E POSA FINESTRE E GRATE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02172280352</codiceFiscale>
+<ragioneSociale>ALUFER S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02172280352</codiceFiscale>
+<ragioneSociale>ALUFER S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>51890.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-09-26</dataInizio>
+<dataUltimazione>2023-04-12</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>51890.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z3535B6019</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>RICAMBI PER CAM PLUS</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04294350964</codiceFiscale>
+<ragioneSociale>SMITHS DETECTION ITALIA S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04294350964</codiceFiscale>
+<ragioneSociale>SMITHS DETECTION ITALIA S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>37948.34</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-05-30</dataInizio>
+<dataUltimazione>2023-01-16</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>37948.34</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z163C9B2F8</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MATERIALE PER DERATTIZZAZIONE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03247700275</codiceFiscale>
+<ragioneSociale>AS S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03247700275</codiceFiscale>
+<ragioneSociale>AS S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>550.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-26</dataInizio>
+<dataUltimazione>2023-10-19</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>550.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z143A92C4A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE STRUMENTAZIONE BERTHOLD</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04704120155</codiceFiscale>
+<ragioneSociale>BERTHOLD ITALIA S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04704120155</codiceFiscale>
+<ragioneSociale>BERTHOLD ITALIA S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3168.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-28</dataInizio>
+<dataUltimazione>2023-10-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3168.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z163B70A20</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>QUADRO ELETTRICO ALLOGGI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02921670234</codiceFiscale>
+<ragioneSociale>NEW LUX S.N.C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02921670234</codiceFiscale>
+<ragioneSociale>NEW LUX S.N.C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>791.01</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-06</dataInizio>
+<dataUltimazione>2023-11-23</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>791.01</importoSommeLiquidate></lotto>
+<lotto>
+<cig>981637159C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>SMALTIMENTO RIFIUTI PERICOLOSI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06317870969</codiceFiscale>
+<ragioneSociale>MITAMBIENTE S.R.L</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06317870969</codiceFiscale>
+<ragioneSociale>MITAMBIENTE S.R.L</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>33748.51</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-09</dataInizio>
+<dataUltimazione>2023-11-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>33748.51</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZA33CB6DE8</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>RIPARAZIONE SPAZZATRICE DULEVO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01767940347</codiceFiscale>
+<ragioneSociale>DULEVO INTERNATIONAL S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01767940347</codiceFiscale>
+<ragioneSociale>DULEVO INTERNATIONAL S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2294.42</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-03</dataInizio>
+<dataUltimazione>2023-11-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2294.42</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZDD3CCEF2D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>RIP. ATTR. MENSA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03090890231</codiceFiscale>
+<ragioneSociale>ADIGE GRANDI IMPIANTI S.R.L</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03090890231</codiceFiscale>
+<ragioneSociale>ADIGE GRANDI IMPIANTI S.R.L</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1680.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-10</dataInizio>
+<dataUltimazione>2023-11-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1680.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z9C3CC235E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>BUONI PERSONALE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04628790968</codiceFiscale>
+<ragioneSociale>LIBRERIE FELTRINELLI S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04628790968</codiceFiscale>
+<ragioneSociale>LIBRERIE FELTRINELLI S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>879.06</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-06</dataInizio>
+<dataUltimazione>2023-11-22</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>879.06</importoSommeLiquidate></lotto>
+<lotto>
+<cig>9821657FBE</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA INTENSIMETRI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11091310158</codiceFiscale>
+<ragioneSociale>B.M.D. S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11091310158</codiceFiscale>
+<ragioneSociale>B.M.D. S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>114885.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-03</dataInizio>
+<dataUltimazione>2023-10-25</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>114885.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZF33C71DE4</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA RICAMBI SANIJET</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01281250231</codiceFiscale>
+<ragioneSociale>CRISTANINI S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01281250231</codiceFiscale>
+<ragioneSociale>CRISTANINI S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>37307.37</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-05</dataInizio>
+<dataUltimazione>2023-11-23</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>37307.37</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z2B37CC412</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA RICAMBISTICA APPARATI BON. P.C.</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02844290581</codiceFiscale>
+<ragioneSociale>L.E.M. S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02844290581</codiceFiscale>
+<ragioneSociale>L.E.M. S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>50976.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-16</dataInizio>
+<dataUltimazione>2023-11-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>50976.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>9747677587</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MATERIALI E PARTI DI RICAMBIO SORT E LETTORI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04095801009</codiceFiscale>
+<ragioneSociale>B.M.A. BUIZZA MAZZEI AGENCY S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04095801009</codiceFiscale>
+<ragioneSociale>B.M.A. BUIZZA MAZZEI AGENCY S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>114444.50</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-13</dataInizio>
+<dataUltimazione>2023-09-23</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>114444.50</importoSommeLiquidate></lotto>
+<lotto>
+<cig>9779603FAF</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>PARTI DI RICAMBIO E PRODOTTI DECONTAMINANTI CBRN</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01281250231</codiceFiscale>
+<ragioneSociale>CRISTANINI S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01281250231</codiceFiscale>
+<ragioneSociale>CRISTANINI S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>229999.07</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-18</dataInizio>
+<dataUltimazione>2023-11-23</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>229999.07</importoSommeLiquidate></lotto>
+<lotto>
+<cig>A1691C007</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>KIT TOOLS</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00112120670</codiceFiscale>
+<ragioneSociale>METALLURGICA ABRUZZESE S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00112120670</codiceFiscale>
+<ragioneSociale>METALLURGICA ABRUZZESE S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30797.32</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-26</dataInizio>
+<dataUltimazione>2023-11-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>30797.32</importoSommeLiquidate></lotto>
+<lotto>
+<cig>97793796D8</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA CAM FAM</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04294350964</codiceFiscale>
+<ragioneSociale>SMITHS DETECTION ITALIA S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04294350964</codiceFiscale>
+<ragioneSociale>SMITHS DETECTION ITALIA S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30582.98</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-18</dataInizio>
+<dataUltimazione>2023-11-23</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>30582.98</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z403C18539</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MATERIALE N.B.C</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01281250231</codiceFiscale>
+<ragioneSociale>CRISTANINI S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01281250231</codiceFiscale>
+<ragioneSociale>CRISTANINI S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>399972.81</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-07</dataInizio>
+<dataUltimazione>2023-11-23</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>399972.81</importoSommeLiquidate></lotto>
+<lotto>
+<cig>9157778579</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE TARATURE CAM FAM</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04294350964</codiceFiscale>
+<ragioneSociale>SMITHS DETECTION ITALIA S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04294350964</codiceFiscale>
+<ragioneSociale>SMITHS DETECTION ITALIA S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>106895.25</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-03-17</dataInizio>
+<dataUltimazione>2023-01-16</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>106895.25</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZE535ECC08</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>III° CONDUTTORE CALDAIE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04291440230</codiceFiscale>
+<ragioneSociale>S.T.A. SERVIZI TECNICI ASSISTENZE S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04291440230</codiceFiscale>
+<ragioneSociale>S.T.A. SERVIZI TECNICI ASSISTENZE S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2940.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-12-01</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2940.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z4035A236E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE I.E.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>CRTFLV55L22G489J</codiceFiscale>
+<ragioneSociale>EREDE DI CERUTTI IVANO DI CERUTTI FLAVIO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>CRTFLV55L22G489J</codiceFiscale>
+<ragioneSociale>EREDE DI CERUTTI IVANO DI CERUTTI FLAVIO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4440.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-12-01</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4440.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z713AE9253</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE PDISTRIBUTORI ACQUA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00321300378</codiceFiscale>
+<ragioneSociale>CULLIGANITALAINA S.P.A</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00321300378</codiceFiscale>
+<ragioneSociale>CULLIGANITALAINA S.P.A</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>496.18</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-26</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>496.18</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZD53B3F267</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE PRESIDI ANTINCENDIO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04037120234</codiceFiscale>
+<ragioneSociale>PROTEKO S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04037120234</codiceFiscale>
+<ragioneSociale>PROTEKO S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>6563.90</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-05</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>6563.90</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZD039ED0CA</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE G.E.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>PGZNRC70H20B709B</codiceFiscale>
+<ragioneSociale>ELETTROMECCANICA PIGOZZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>PGZNRC70H20B709B</codiceFiscale>
+<ragioneSociale>ELETTROMECCANICA PIGOZZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>496.26</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-02</dataInizio>
+<dataUltimazione>2023-11-24</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>496.26</importoSommeLiquidate></lotto>
+<lotto>
+<cig>95448481BF</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI PULIZIA LOCALI LAV. STOV. E MANOVALANZA</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02076190178</codiceFiscale>
+<ragioneSociale>PULITORI ED AFFINI S.P.A</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02076190178</codiceFiscale>
+<ragioneSociale>PULITORI ED AFFINI S.P.A</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>104230.71</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-01</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>104230.71</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZC73C8DCE4</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>RICAMBI MEZZI COMMERCIALI</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>SLLDNC63B10A225O</codiceFiscale>
+<ragioneSociale>SALLICATI DOMENICO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>SLLDNC63B10A225O</codiceFiscale>
+<ragioneSociale>SALLICATI DOMENICO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2545.45</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-06</dataInizio>
+<dataUltimazione>2023-11-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2545.45</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z6C3CF4729</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>BANCO DA LAVORO MENSA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03090890231</codiceFiscale>
+<ragioneSociale>ADIGE GRANDI IMPIANTI S.R.L</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03090890231</codiceFiscale>
+<ragioneSociale>ADIGE GRANDI IMPIANTI S.R.L</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>14454.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-23</dataInizio>
+<dataUltimazione>2023-12-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>14454.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZDA334182E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>NOLEGGIO FORTOCOPIATORI</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05773090013</codiceFiscale>
+<ragioneSociale>ITD SOLUTIONS S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05773090013</codiceFiscale>
+<ragioneSociale>ITD SOLUTIONS S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>529.76</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-01</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>529.76</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z6B32C7B16</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>NOLEGGIO MULTIFUNZIONE</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05773090013</codiceFiscale>
+<ragioneSociale>ITD SOLUTIONS S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05773090013</codiceFiscale>
+<ragioneSociale>ITD SOLUTIONS S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>943.36</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-01</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>943.36</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z1832C7B44</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>NOLEGGIO MULTIFUNZIONE COLOR</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04472901000</codiceFiscale>
+<ragioneSociale>CONVERGE S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04472901000</codiceFiscale>
+<ragioneSociale>CONVERGE S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>408.56</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-01</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>408.56</importoSommeLiquidate></lotto>
+<lotto>
+<cig>zb12a3a90f</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>noleggio multifunzione</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01788080156</codiceFiscale>
+<ragioneSociale>KIOCERA S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01788080156</codiceFiscale>
+<ragioneSociale>KIOCERA S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>568.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-01</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>568.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z2336A53E6</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80021620234</codiceFiscaleProp>
+<denominazione>Parco Materiali Motorizzazione 
+Genio Artiglieria e NBC</denominazione>
+</strutturaProponente>
+<oggetto>NOLEGGIO MULTIFUNZIONE</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00865220156</codiceFiscale>
+<ragioneSociale>CANON ITALIA S.P.A</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00865220156</codiceFiscale>
+<ragioneSociale>CANON ITALIA S.P.A</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2677.05</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-01</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2677.05</importoSommeLiquidate></lotto>
+</data>
+</legge190:pubblicazione>
