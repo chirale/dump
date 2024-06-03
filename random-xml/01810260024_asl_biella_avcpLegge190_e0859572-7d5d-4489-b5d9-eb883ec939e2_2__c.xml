@@ -1,0 +1,3151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+  <metadata>
+    <titolo><![CDATA[Pubblicazione legge 190]]></titolo>
+    <abstract><![CDATA[ ]]></abstract>
+    <dataPubblicazioneDataset>2024-01-30</dataPubblicazioneDataset>
+    <entePubblicatore><![CDATA[AZIENDA SANITARIA LOCALE BI]]></entePubblicatore>
+    <dataUltimoAggiornamentoDataset>2024-01-30</dataUltimoAggiornamentoDataset>
+    <annoRiferimento><![CDATA[2023]]></annoRiferimento>
+    <urlFile><![CDATA[https:////aslbi.piemonte.it/azienda/adempimenti-art-1-c-32-l-190-2012/avcpLegge190.xml]]></urlFile>
+    <licenza><![CDATA[IODL]]></licenza>
+  </metadata>
+  <data>
+    <lotto>
+      <cig><![CDATA[59981852D9]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[COVIDIEN *DTE 131/2014 - MAT. X ANESTESIA/RIANIM. - LOTTO n 13 - mm]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[09238800156]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MEDTRONIC ITALIA S.P.A.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[08641790152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[COVIDIEN ITALIA SPA]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[09238800156]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MEDTRONIC ITALIA S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[08641790152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[COVIDIEN ITALIA SPA]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1405.14</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-15</dataInizio>
+        <dataUltimazione>2017-06-16</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1435.17</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[6003931897]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[COVIDIEN *DTE 131/2014 - MAT. X ANESTESIA/RIANIM. - LOTTO n 70 - mm]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[08641790152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[COVIDIEN ITALIA SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[09238800156]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MEDTRONIC ITALIA S.P.A.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[08641790152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[COVIDIEN ITALIA SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[09238800156]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MEDTRONIC ITALIA S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3466.51</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-15</dataInizio>
+        <dataUltimazione>2017-11-22</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>15759.51</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[599880527D]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[MEDTRONIC DT 131 DEL 12/11/14 LOTTO 50 FILTRO ANTIBATT. PED.]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[09238800156]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MEDTRONIC ITALIA S.P.A.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[08641790152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[COVIDIEN ITALIA SPA]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[09238800156]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MEDTRONIC ITALIA S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[08641790152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[COVIDIEN ITALIA SPA]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>249.62</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-10</dataInizio>
+        <dataUltimazione>2014-12-10</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>273.98</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[5425457CBD]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[SISTEMA AUTOMATIZZATO PER ESEGUIRE L'ANALISI DI TIPO CHIMICO-FISICO E LA RILEVAZIONE E LA QUANTIFICAZIONE DELLE COMPONENTI CORPUSCOLATE URINARIE PER LO SCREENING DELLE PATOLOGIE NEFROLOGICHE]]></oggetto>
+      <sceltaContraente><![CDATA[01-PROCEDURA APERTA]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[13144290155]]></codiceFiscale>
+          <ragioneSociale><![CDATA[DIASORIN S.P.A.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[03222390159]]></codiceFiscale>
+          <ragioneSociale><![CDATA[DASIT SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[05688870483]]></codiceFiscale>
+          <ragioneSociale><![CDATA[A.MENARINI DIAGNOSTICS S.R.L.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[13144290155]]></codiceFiscale>
+          <ragioneSociale><![CDATA[DIASORIN S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[03222390159]]></codiceFiscale>
+          <ragioneSociale><![CDATA[DASIT SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[05688870483]]></codiceFiscale>
+          <ragioneSociale><![CDATA[A.MENARINI DIAGNOSTICS S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>383409.12</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-04</dataInizio>
+        <dataUltimazione>2020-12-03</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>185112.08</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[5358491EA5]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[Procedura aperta per l'affidamento della forntirua in modalita full service di un sistema centralizzato per test emogasanalitici ed elettroliti occorrente al Nuovo Ospedale di Biella]]></oggetto>
+      <sceltaContraente><![CDATA[01-PROCEDURA APERTA]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[04785851009]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SIEMENS HEALTHCARE  SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[02368591208]]></codiceFiscale>
+          <ragioneSociale><![CDATA[INSTRUMENTATION LABORATORY SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[00152680203]]></codiceFiscale>
+          <ragioneSociale><![CDATA[A. DE MORI SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[03222390159]]></codiceFiscale>
+          <ragioneSociale><![CDATA[DASIT SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[02388660264]]></codiceFiscale>
+          <ragioneSociale><![CDATA[AREX SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[04479460158]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ALK-ABELLO' S.P.A.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[12307860150]]></codiceFiscale>
+          <ragioneSociale><![CDATA[*ANALITICA DE MORI S.R.L.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[00176010346]]></codiceFiscale>
+          <ragioneSociale><![CDATA[GAMBRO HOSPAL SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[04785851009]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SIEMENS HEALTHCARE  SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02368591208]]></codiceFiscale>
+          <ragioneSociale><![CDATA[INSTRUMENTATION LABORATORY SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[00152680203]]></codiceFiscale>
+          <ragioneSociale><![CDATA[A. DE MORI SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[03222390159]]></codiceFiscale>
+          <ragioneSociale><![CDATA[DASIT SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02388660264]]></codiceFiscale>
+          <ragioneSociale><![CDATA[AREX SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[04479460158]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ALK-ABELLO' S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[12307860150]]></codiceFiscale>
+          <ragioneSociale><![CDATA[*ANALITICA DE MORI S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[00176010346]]></codiceFiscale>
+          <ragioneSociale><![CDATA[GAMBRO HOSPAL SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>420036.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-12-01</dataInizio>
+        <dataUltimazione>2020-11-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>692296.97</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[59980378B5]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[MEDTRONIC DT 131 DEL 12/11/14 LOTTO 1 CIRCUITO ADULTI]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[08641790152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[COVIDIEN ITALIA SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[09238800156]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MEDTRONIC ITALIA S.P.A.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[08641790152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[COVIDIEN ITALIA SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[09238800156]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MEDTRONIC ITALIA S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>12422.04</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-19</dataInizio>
+        <dataUltimazione>2016-09-23</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>15723.04</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[597269255B]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[ACRAF-LOTTO 1 -ADESIONE SCR ANTISETTICI E DISINFETTANTI]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[03907010585]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ANGELINI PHARMA SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[03907010585]]></codiceFiscale>
+          <ragioneSociale><![CDATA[A.C.R.A.F. SPA]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[03907010585]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ANGELINI PHARMA SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[03907010585]]></codiceFiscale>
+          <ragioneSociale><![CDATA[A.C.R.A.F. SPA]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>8094.24</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-06</dataInizio>
+        <dataUltimazione>2018-01-15</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>57673.44</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[5425435A96]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[SISTEMA AUTOMATIZZATO PER ESEGUIRE ANALISI DI SIEROLOGIA VIROLOGICA E SIEROLOGIA DEL COMPLESSO TORCH]]></oggetto>
+      <sceltaContraente><![CDATA[01-PROCEDURA APERTA]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[03222390159]]></codiceFiscale>
+          <ragioneSociale><![CDATA[DASIT SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[00076670595]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ABBOTT SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[13144290155]]></codiceFiscale>
+          <ragioneSociale><![CDATA[DIASORIN S.P.A.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[03222390159]]></codiceFiscale>
+          <ragioneSociale><![CDATA[DASIT SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[00076670595]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ABBOTT SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[13144290155]]></codiceFiscale>
+          <ragioneSociale><![CDATA[DIASORIN S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>976020.24</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-11-01</dataInizio>
+        <dataUltimazione>2020-10-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1477435.65</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[5256678BE7]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[FORNITURA DI 2 IMPIANTI DI TRATTAMENTO DELL'ACQUA PER EMODIALITICO PER NUOVO OSPEDALE E COSSATO]]></oggetto>
+      <sceltaContraente><![CDATA[01-PROCEDURA APERTA]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[00492340583]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BAXTER S.P.A.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[02141870341]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SPINDIAL SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[00321300378]]></codiceFiscale>
+          <ragioneSociale><![CDATA[CULLIGAN ITALIANA SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01997710361]]></codiceFiscale>
+          <ragioneSociale><![CDATA[FRESENIUS HEMOCARE ITALIA- S.R.L.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[00176010346]]></codiceFiscale>
+          <ragioneSociale><![CDATA[GAMBRO HOSPAL SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[00492340583]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BAXTER S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02141870341]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SPINDIAL SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[00321300378]]></codiceFiscale>
+          <ragioneSociale><![CDATA[CULLIGAN ITALIANA SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01997710361]]></codiceFiscale>
+          <ragioneSociale><![CDATA[FRESENIUS HEMOCARE ITALIA- S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[00176010346]]></codiceFiscale>
+          <ragioneSociale><![CDATA[GAMBRO HOSPAL SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>379500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-10-01</dataInizio>
+        <dataUltimazione>2022-10-01</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>367452.97</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[5791835570]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[CARDINAL/COVIDIEN *DTE 63/2014 DRENAGGI VARI LOTTO n 14 - mm]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[08641790152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[COVIDIEN ITALIA SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[09238800156]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MEDTRONIC ITALIA S.P.A.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[08641790152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[COVIDIEN ITALIA SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[09238800156]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MEDTRONIC ITALIA S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>155.20</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-12</dataInizio>
+        <dataUltimazione>2017-11-07</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>794.96</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[5791911428]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[MERIT * 63/2014 - DRENAGGI VARI - LOTTO n 17 - mm]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[07609020966]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MERIT MEDICAL ITALY SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[07609020966]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MERIT MEDICAL ITALY SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2757.20</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-03</dataInizio>
+        <dataUltimazione>2017-06-06</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5330.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[58317586F0]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[ESTRATTI ALLERGENICI DITTA STALLERGENES - LOTTO 8]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[02468610288]]></codiceFiscale>
+          <ragioneSociale><![CDATA[STALLERGENES ITALIA S.R.L.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02468610288]]></codiceFiscale>
+          <ragioneSociale><![CDATA[STALLERGENES ITALIA S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>40000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-09-01</dataInizio>
+        <dataUltimazione>2018-01-23</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>22014.78</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[5791880A91]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[G.B.S. *DTE 63/2014 - DRENAGGI VARI - LOTTO n 16 - mm]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[01879170064]]></codiceFiscale>
+          <ragioneSociale><![CDATA[G.B.S. INSTRUMENTS SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01879170064]]></codiceFiscale>
+          <ragioneSociale><![CDATA[G.B.S. INSTRUMENTS SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2216.98</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-08-26</dataInizio>
+        <dataUltimazione>2016-09-27</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3639.60</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[5831786E09]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[ESTRATTI ALLERGENICI DITTA LOFARMA - LOTTO 6]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[00713510154]]></codiceFiscale>
+          <ragioneSociale><![CDATA[LOFARMA S.P.A.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[00713510154]]></codiceFiscale>
+          <ragioneSociale><![CDATA[LOFARMA S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>11000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-08-01</dataInizio>
+        <dataUltimazione>2018-01-23</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>66405.50</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[57914095E4]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[POLIMED *DTE 63/2014 DRENAGGI VARI LOTTO n 7/A e 7/B - mm]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[01655870028]]></codiceFiscale>
+          <ragioneSociale><![CDATA[POLIMED S.R.L.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01655870028]]></codiceFiscale>
+          <ragioneSociale><![CDATA[POLIMED S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>14240.54</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-07-14</dataInizio>
+        <dataUltimazione>2017-11-03</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>22012.40</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[58316562C5]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[ESTRATTI ALLERGENICI DITTA ANALLERGO - LOTTO 4]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[01739990487]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ANALLERGO S.R.L.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01739990487]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ANALLERGO S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>50000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-07-01</dataInizio>
+        <dataUltimazione>2018-01-23</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>159126.30</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[5831632EF3]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[ESTRATTI ALLERGENICI DITTA ALLERGY THERAPEUTIC - LOTTO 3]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[09453740152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ALLERGY THERAPEUTICS ITALIA S.R.L.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[09453740152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ALLERGY THERAPEUTICS ITALIA S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>15000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2014-07-01</dataInizio>
+        <dataUltimazione>2018-01-23</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>31025.91</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[4106498559]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[SANITEX SPA *DB 194/12-DEFLUSSORI+AC.-LOTTO 19]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[02883250017]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SANITEX S.P.A.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02883250017]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SANITEX S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>29271.20</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-05-30</dataInizio>
+        <dataUltimazione>2017-11-08</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>75370.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[3907112ACF]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[Fornitura biennale full service di sistema automatizzato per lo studio della sensibilita in vitro dei batteri agli antibiotici per l'identificazione dei batteri occorrente alla S.O.C. Laboratorio Analisi]]></oggetto>
+      <sceltaContraente><![CDATA[08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[04785851009]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SIEMENS HEALTHCARE  SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[04185110154]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BECKMAN COULTER SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[07146020586]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BIOMERIEUX  ITALIA S.P.A.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[00803890151]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BECTON DICKINSON ITALIA SPA]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[04785851009]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SIEMENS HEALTHCARE  SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[04185110154]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BECKMAN COULTER SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[07146020586]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BIOMERIEUX  ITALIA S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[00803890151]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BECTON DICKINSON ITALIA SPA]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>136322.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2013-03-01</dataInizio>
+        <dataUltimazione>2015-02-28</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>231368.27</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[4298393A1B]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[B.BRAUN *DTE 27/2012-SISTEMI RACC.URINE+URINOMETRI-LOTTO 9]]></oggetto>
+      <sceltaContraente><![CDATA[04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[00674840152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[B.BRAUN MILANO S.P.A.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[00674840152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[B.BRAUN MILANO S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3097.24</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2012-06-27</dataInizio>
+        <dataUltimazione>2018-01-15</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5674.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[42983674A8]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[HOLLISTER/SERENITY *DTE 27/2012-SISTEMI RACC.URINE+URINOMETRI-LOTTO 5-6]]></oggetto>
+      <sceltaContraente><![CDATA[04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[00227010139]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ARTSANA S.P.A.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[93517310152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[HOLLISTER SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01251280689]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SERENITY SPA]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[00227010139]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ARTSANA S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[93517310152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[HOLLISTER SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01251280689]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SERENITY SPA]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>7629.54</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2012-06-15</dataInizio>
+        <dataUltimazione>2017-12-04</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>10698.32</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[0356631D32]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[SERVIZIO DI PULIZIA E SERVIZI ACCESSORI DB.214 DEL 20/04/2011]]></oggetto>
+      <sceltaContraente><![CDATA[23-AFFIDAMENTO DIRETTO]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[07947601006]]></codiceFiscale>
+          <ragioneSociale><![CDATA[TEAM SERVICE SOC.CONS. A R.L.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01747390027]]></codiceFiscale>
+          <ragioneSociale><![CDATA[COOPERATIVA SOC. DELL'ORSO BLU ONLUS]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[00124140211]]></codiceFiscale>
+          <ragioneSociale><![CDATA[DUSSMANN SERVICE SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[07947601006]]></codiceFiscale>
+          <ragioneSociale><![CDATA[TEAM SERVICE SOC.CONS. A R.L.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01747390027]]></codiceFiscale>
+          <ragioneSociale><![CDATA[COOPERATIVA SOC. DELL'ORSO BLU ONLUS]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[00124140211]]></codiceFiscale>
+          <ragioneSociale><![CDATA[DUSSMANN SERVICE SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>29525598.73</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2012-05-17</dataInizio>
+        <dataUltimazione>2017-11-21</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>29422330.62</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[0072251767]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[PRODOTTI DA FORNO]]></oggetto>
+      <sceltaContraente><![CDATA[08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[02401440157]]></codiceFiscale>
+          <ragioneSociale><![CDATA[NESTLE' ITALIANA S.P.A.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02401440157]]></codiceFiscale>
+          <ragioneSociale><![CDATA[NESTLE' ITALIANA S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>341267.65</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2011-10-06</dataInizio>
+        <dataUltimazione>2017-05-17</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>206905.14</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[31531952D4]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[MATERIALE DI CONSUMO AVALANCHE XT]]></oggetto>
+      <sceltaContraente><![CDATA[04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[01681100150]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SEDA SPA]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01681100150]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SEDA SPA]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>61543.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2011-09-23</dataInizio>
+        <dataUltimazione>2017-11-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>66262.36</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[27532505C5]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[SERVIZI ELABORAZIONE DATI]]></oggetto>
+      <sceltaContraente><![CDATA[23-AFFIDAMENTO DIRETTO]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[01347430397]]></codiceFiscale>
+          <ragioneSociale><![CDATA[9 NOEMALIFE SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[93027710016]]></codiceFiscale>
+          <ragioneSociale><![CDATA[GE MEDICAL SYSTEMS ITALIA S.P.A.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[06770040019]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BITELO DI LONNI GUALTIERO & C.SAS]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01867040220]]></codiceFiscale>
+          <ragioneSociale><![CDATA[LIZARD SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[00967720285]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ENGINEERING INGEGNERIA INFORMATICA SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[03166670244]]></codiceFiscale>
+          <ragioneSociale><![CDATA[AXIOS INFORMATICA SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[10209790152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[WOLTERS KLUVER ITALIA S.R.L.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01127580429]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ME.S.I.S. SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[02023710995]]></codiceFiscale>
+          <ragioneSociale><![CDATA[AVELCOWEB S.R.L.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[02147390690]]></codiceFiscale>
+          <ragioneSociale><![CDATA[DROMEDIAN SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[03059120174]]></codiceFiscale>
+          <ragioneSociale><![CDATA[CO.GEN.SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[80057930150]]></codiceFiscale>
+          <ragioneSociale><![CDATA[POLITECNICO DI MILANO-ISTR.PERMAN.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[02410080424]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BIMIND S.R.L.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[02298700010]]></codiceFiscale>
+          <ragioneSociale><![CDATA[OLIVETTI SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01047200769]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SYSTEMS TECHNOLOGY SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[10018310010]]></codiceFiscale>
+          <ragioneSociale><![CDATA[QUALITY AND SAFETY SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[04222630370]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SPSS ITALIA SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[11281120151]]></codiceFiscale>
+          <ragioneSociale><![CDATA[* BIM ITALIA S.R.L.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[12378150150]]></codiceFiscale>
+          <ragioneSociale><![CDATA[* OSLO SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01995120019]]></codiceFiscale>
+          <ragioneSociale><![CDATA[CSI PIEMONTE]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[12878470157]]></codiceFiscale>
+          <ragioneSociale><![CDATA[FASTWEB SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01121130197]]></codiceFiscale>
+          <ragioneSociale><![CDATA[C2  SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[07854130635]]></codiceFiscale>
+          <ragioneSociale><![CDATA[HEALTHWARE GROUP S.R.L.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01713290441]]></codiceFiscale>
+          <ragioneSociale><![CDATA[METEDA SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[09066160152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MAUDEN SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[05032840968]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MATICMIND SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[03516340100]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SIAV SISTEMI DIGITALI SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[03537610960]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ZUCCHETTI AXESS S.P.A]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[05185750014]]></codiceFiscale>
+          <ragioneSociale><![CDATA[REKORDATA SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01747390027]]></codiceFiscale>
+          <ragioneSociale><![CDATA[COOPERATIVA SOC. DELL'ORSO BLU ONLUS]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[04226120378]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SINED S.R.L.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[02334550288]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SIAV SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[00488410010]]></codiceFiscale>
+          <ragioneSociale><![CDATA[TELECOM ITALIA S.P.A.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01491490023]]></codiceFiscale>
+          <ragioneSociale><![CDATA[CITTA' STUDI S.P.A.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01847860309]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SOLARI DI UDINE SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[07538230017]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MMUST SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[05994810488]]></codiceFiscale>
+          <ragioneSociale><![CDATA[DEDALUS ITALIA  SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[05143370962]]></codiceFiscale>
+          <ragioneSociale><![CDATA[NTI ITALY SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[10838770013]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ADDENDA INFORMAZIONE E FORMAZIONE SAS]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[13262400156]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SANTER REPLY S.P.A.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[07945211006]]></codiceFiscale>
+          <ragioneSociale><![CDATA[INFOCERT SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[02305100139]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ESPRESSO SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[06250230965]]></codiceFiscale>
+          <ragioneSociale><![CDATA[TECHNOGYM SPA]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01347430397]]></codiceFiscale>
+          <ragioneSociale><![CDATA[9 NOEMALIFE SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[93027710016]]></codiceFiscale>
+          <ragioneSociale><![CDATA[GE MEDICAL SYSTEMS ITALIA S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[06770040019]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BITELO DI LONNI GUALTIERO & C.SAS]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01867040220]]></codiceFiscale>
+          <ragioneSociale><![CDATA[LIZARD SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[00967720285]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ENGINEERING INGEGNERIA INFORMATICA SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[03166670244]]></codiceFiscale>
+          <ragioneSociale><![CDATA[AXIOS INFORMATICA SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[10209790152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[WOLTERS KLUVER ITALIA S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01127580429]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ME.S.I.S. SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02023710995]]></codiceFiscale>
+          <ragioneSociale><![CDATA[AVELCOWEB S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02147390690]]></codiceFiscale>
+          <ragioneSociale><![CDATA[DROMEDIAN SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[03059120174]]></codiceFiscale>
+          <ragioneSociale><![CDATA[CO.GEN.SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[80057930150]]></codiceFiscale>
+          <ragioneSociale><![CDATA[POLITECNICO DI MILANO-ISTR.PERMAN.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02410080424]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BIMIND S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02298700010]]></codiceFiscale>
+          <ragioneSociale><![CDATA[OLIVETTI SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01047200769]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SYSTEMS TECHNOLOGY SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[10018310010]]></codiceFiscale>
+          <ragioneSociale><![CDATA[QUALITY AND SAFETY SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[04222630370]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SPSS ITALIA SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[11281120151]]></codiceFiscale>
+          <ragioneSociale><![CDATA[* BIM ITALIA S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[12378150150]]></codiceFiscale>
+          <ragioneSociale><![CDATA[* OSLO SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01995120019]]></codiceFiscale>
+          <ragioneSociale><![CDATA[CSI PIEMONTE]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[12878470157]]></codiceFiscale>
+          <ragioneSociale><![CDATA[FASTWEB SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01121130197]]></codiceFiscale>
+          <ragioneSociale><![CDATA[C2  SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[07854130635]]></codiceFiscale>
+          <ragioneSociale><![CDATA[HEALTHWARE GROUP S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01713290441]]></codiceFiscale>
+          <ragioneSociale><![CDATA[METEDA SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[09066160152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MAUDEN SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[05032840968]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MATICMIND SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[03516340100]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SIAV SISTEMI DIGITALI SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[03537610960]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ZUCCHETTI AXESS S.P.A]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[05185750014]]></codiceFiscale>
+          <ragioneSociale><![CDATA[REKORDATA SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01747390027]]></codiceFiscale>
+          <ragioneSociale><![CDATA[COOPERATIVA SOC. DELL'ORSO BLU ONLUS]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[04226120378]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SINED S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02334550288]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SIAV SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[00488410010]]></codiceFiscale>
+          <ragioneSociale><![CDATA[TELECOM ITALIA S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01491490023]]></codiceFiscale>
+          <ragioneSociale><![CDATA[CITTA' STUDI S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01847860309]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SOLARI DI UDINE SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[07538230017]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MMUST SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[05994810488]]></codiceFiscale>
+          <ragioneSociale><![CDATA[DEDALUS ITALIA  SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[05143370962]]></codiceFiscale>
+          <ragioneSociale><![CDATA[NTI ITALY SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[10838770013]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ADDENDA INFORMAZIONE E FORMAZIONE SAS]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[13262400156]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SANTER REPLY S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[07945211006]]></codiceFiscale>
+          <ragioneSociale><![CDATA[INFOCERT SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02305100139]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ESPRESSO SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[06250230965]]></codiceFiscale>
+          <ragioneSociale><![CDATA[TECHNOGYM SPA]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>10292292.55</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2011-08-04</dataInizio>
+        <dataUltimazione>2018-01-17</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>17807076.57</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[2352994811]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[ATTREZZATURE INFORMATICHE]]></oggetto>
+      <sceltaContraente><![CDATA[23-AFFIDAMENTO DIRETTO]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[02778750246]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SOLUZIONE UFFICIO SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[12878470157]]></codiceFiscale>
+          <ragioneSociale><![CDATA[FASTWEB SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[03059120174]]></codiceFiscale>
+          <ragioneSociale><![CDATA[CO.GEN.SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01121130197]]></codiceFiscale>
+          <ragioneSociale><![CDATA[C2  SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01203550353]]></codiceFiscale>
+          <ragioneSociale><![CDATA[INTERSYSTEM SRL DI NAZARENO GIANNI]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[PNRGNN63P67B111F]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MEMOGRAPH DI PANERO GIOVANNA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[05685740721]]></codiceFiscale>
+          <ragioneSociale><![CDATA[C.& C. CONSULTING SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01700490020]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ROBINSON SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[09066160152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MAUDEN SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[00488410010]]></codiceFiscale>
+          <ragioneSociale><![CDATA[TELECOM ITALIA S.P.A.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[03537610960]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ZUCCHETTI AXESS S.P.A]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01486330309]]></codiceFiscale>
+          <ragioneSociale><![CDATA[DPS INFORMATICA SNC DI PRESELLO G. & C:]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[03878640238]]></codiceFiscale>
+          <ragioneSociale><![CDATA[VIRTUAL LOGIC SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02778750246]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SOLUZIONE UFFICIO SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[12878470157]]></codiceFiscale>
+          <ragioneSociale><![CDATA[FASTWEB SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[03059120174]]></codiceFiscale>
+          <ragioneSociale><![CDATA[CO.GEN.SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01121130197]]></codiceFiscale>
+          <ragioneSociale><![CDATA[C2  SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01203550353]]></codiceFiscale>
+          <ragioneSociale><![CDATA[INTERSYSTEM SRL DI NAZARENO GIANNI]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[PNRGNN63P67B111F]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MEMOGRAPH DI PANERO GIOVANNA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[05685740721]]></codiceFiscale>
+          <ragioneSociale><![CDATA[C.& C. CONSULTING SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01700490020]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ROBINSON SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[09066160152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MAUDEN SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[00488410010]]></codiceFiscale>
+          <ragioneSociale><![CDATA[TELECOM ITALIA S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[03537610960]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ZUCCHETTI AXESS S.P.A]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01486330309]]></codiceFiscale>
+          <ragioneSociale><![CDATA[DPS INFORMATICA SNC DI PRESELLO G. & C:]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[03878640238]]></codiceFiscale>
+          <ragioneSociale><![CDATA[VIRTUAL LOGIC SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1008714.51</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2011-05-10</dataInizio>
+        <dataUltimazione>2017-12-13</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>636542.76</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[0900888C48]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[REAGENTI PER RICERCA SANGUE OCCULTO NELLE FECI]]></oggetto>
+      <sceltaContraente><![CDATA[08-AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[07118040158]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SENTINEL CH S.P.A.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[03653370282]]></codiceFiscale>
+          <ragioneSociale><![CDATA[A.D.A. S.R.L.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[07118040158]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SENTINEL CH S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[03653370282]]></codiceFiscale>
+          <ragioneSociale><![CDATA[A.D.A. S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>28455.77</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2011-05-02</dataInizio>
+        <dataUltimazione>2013-04-30</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>256484.38</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[30342695FC]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[LOCAZIONE APPARECCHIATURE INFORMATICHE]]></oggetto>
+      <sceltaContraente><![CDATA[23-AFFIDAMENTO DIRETTO]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[00486530025]]></codiceFiscale>
+          <ragioneSociale><![CDATA[INFORMATICA DATA SYSTEM SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01347430397]]></codiceFiscale>
+          <ragioneSociale><![CDATA[9 NOEMALIFE SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01995120019]]></codiceFiscale>
+          <ragioneSociale><![CDATA[CSI PIEMONTE]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[00967720285]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ENGINEERING INGEGNERIA INFORMATICA SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01121130197]]></codiceFiscale>
+          <ragioneSociale><![CDATA[C2  SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[03705590580]]></codiceFiscale>
+          <ragioneSociale><![CDATA[WESTPOLE SPA]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[00486530025]]></codiceFiscale>
+          <ragioneSociale><![CDATA[INFORMATICA DATA SYSTEM SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01347430397]]></codiceFiscale>
+          <ragioneSociale><![CDATA[9 NOEMALIFE SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01995120019]]></codiceFiscale>
+          <ragioneSociale><![CDATA[CSI PIEMONTE]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[00967720285]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ENGINEERING INGEGNERIA INFORMATICA SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01121130197]]></codiceFiscale>
+          <ragioneSociale><![CDATA[C2  SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[03705590580]]></codiceFiscale>
+          <ragioneSociale><![CDATA[WESTPOLE SPA]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2279426.45</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2011-03-18</dataInizio>
+        <dataUltimazione>2018-01-24</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1263760.66</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[3002104696]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[RIPRISTINO CABLAGGIO]]></oggetto>
+      <sceltaContraente><![CDATA[23-AFFIDAMENTO DIRETTO]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[05359681003]]></codiceFiscale>
+          <ragioneSociale><![CDATA[CONSIP SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[04226120378]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SINED S.R.L.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01121130197]]></codiceFiscale>
+          <ragioneSociale><![CDATA[C2  SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01203550353]]></codiceFiscale>
+          <ragioneSociale><![CDATA[INTERSYSTEM SRL DI NAZARENO GIANNI]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[12878470157]]></codiceFiscale>
+          <ragioneSociale><![CDATA[FASTWEB SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[05388630013]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ATLAS TELECOMUNICAZIONI SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[03537610960]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ZUCCHETTI AXESS S.P.A]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[02778750246]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SOLUZIONE UFFICIO SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[11281120151]]></codiceFiscale>
+          <ragioneSociale><![CDATA[* BIM ITALIA S.R.L.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[11094740153]]></codiceFiscale>
+          <ragioneSociale><![CDATA[PLUS TECHNOLOGIES SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[05359681003]]></codiceFiscale>
+          <ragioneSociale><![CDATA[CONSIP SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[04226120378]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SINED S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01121130197]]></codiceFiscale>
+          <ragioneSociale><![CDATA[C2  SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01203550353]]></codiceFiscale>
+          <ragioneSociale><![CDATA[INTERSYSTEM SRL DI NAZARENO GIANNI]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[12878470157]]></codiceFiscale>
+          <ragioneSociale><![CDATA[FASTWEB SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[05388630013]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ATLAS TELECOMUNICAZIONI SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[03537610960]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ZUCCHETTI AXESS S.P.A]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02778750246]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SOLUZIONE UFFICIO SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[11281120151]]></codiceFiscale>
+          <ragioneSociale><![CDATA[* BIM ITALIA S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[11094740153]]></codiceFiscale>
+          <ragioneSociale><![CDATA[PLUS TECHNOLOGIES SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>285354.09</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2011-02-14</dataInizio>
+        <dataUltimazione>2017-11-10</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>164692.64</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[2380858A2A]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[SERVIZIO DI RITIRO E ARCHIVAZIONE DI MATERIALE RADIOGRAFICO CARTELLE CLINICHE E DI ALTRO MATERIALE DOCUMENTALE]]></oggetto>
+      <sceltaContraente><![CDATA[23-AFFIDAMENTO DIRETTO]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[01698960547]]></codiceFiscale>
+          <ragioneSociale><![CDATA[PLURIMA S.P.A.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01698960547]]></codiceFiscale>
+          <ragioneSociale><![CDATA[PLURIMA S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1979287.76</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2011-01-01</dataInizio>
+        <dataUltimazione>2017-11-16</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2499335.84</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[2353138EE4]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[ATTREZZATURE INFORMATICHE (SW)]]></oggetto>
+      <sceltaContraente><![CDATA[23-AFFIDAMENTO DIRETTO]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[04639370289]]></codiceFiscale>
+          <ragioneSociale><![CDATA[TOP PC SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[12878470157]]></codiceFiscale>
+          <ragioneSociale><![CDATA[FASTWEB SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[04825840962]]></codiceFiscale>
+          <ragioneSociale><![CDATA[EXTREME FLIGHT DI C. MOZZONI]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01117510923]]></codiceFiscale>
+          <ragioneSociale><![CDATA[FATICONI SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[00095010286]]></codiceFiscale>
+          <ragioneSociale><![CDATA[QB GROUP SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[06770040019]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BITELO DI LONNI GUALTIERO & C.SAS]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01047200769]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SYSTEMS TECHNOLOGY SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01995120019]]></codiceFiscale>
+          <ragioneSociale><![CDATA[CSI PIEMONTE]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01385180037]]></codiceFiscale>
+          <ragioneSociale><![CDATA[TOP SOFT SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[06467211006]]></codiceFiscale>
+          <ragioneSociale><![CDATA[QUASARTEK SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[00488410010]]></codiceFiscale>
+          <ragioneSociale><![CDATA[TELECOM ITALIA S.P.A.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[03059120174]]></codiceFiscale>
+          <ragioneSociale><![CDATA[CO.GEN.SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[12378150150]]></codiceFiscale>
+          <ragioneSociale><![CDATA[* OSLO SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[02611310307]]></codiceFiscale>
+          <ragioneSociale><![CDATA[NUVOLAPOINT DI FLAJS ALESSANDRO]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[06169220966]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SOFTWAREONE ITALIA SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01347430397]]></codiceFiscale>
+          <ragioneSociale><![CDATA[9 NOEMALIFE SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[05143370962]]></codiceFiscale>
+          <ragioneSociale><![CDATA[NTI ITALY SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[02334550288]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SIAV SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[07854130635]]></codiceFiscale>
+          <ragioneSociale><![CDATA[HEALTHWARE GROUP S.R.L.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01127580429]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ME.S.I.S. SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01121130197]]></codiceFiscale>
+          <ragioneSociale><![CDATA[C2  SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[00967720285]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ENGINEERING INGEGNERIA INFORMATICA SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[93027710016]]></codiceFiscale>
+          <ragioneSociale><![CDATA[GE MEDICAL SYSTEMS ITALIA S.P.A.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[05350170485]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ITECH PROJECTS & CONSULTING SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[05994810488]]></codiceFiscale>
+          <ragioneSociale><![CDATA[DEDALUS ITALIA  SPA]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[04639370289]]></codiceFiscale>
+          <ragioneSociale><![CDATA[TOP PC SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[12878470157]]></codiceFiscale>
+          <ragioneSociale><![CDATA[FASTWEB SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[04825840962]]></codiceFiscale>
+          <ragioneSociale><![CDATA[EXTREME FLIGHT DI C. MOZZONI]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01117510923]]></codiceFiscale>
+          <ragioneSociale><![CDATA[FATICONI SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[00095010286]]></codiceFiscale>
+          <ragioneSociale><![CDATA[QB GROUP SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[06770040019]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BITELO DI LONNI GUALTIERO & C.SAS]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01047200769]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SYSTEMS TECHNOLOGY SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01995120019]]></codiceFiscale>
+          <ragioneSociale><![CDATA[CSI PIEMONTE]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01385180037]]></codiceFiscale>
+          <ragioneSociale><![CDATA[TOP SOFT SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[06467211006]]></codiceFiscale>
+          <ragioneSociale><![CDATA[QUASARTEK SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[00488410010]]></codiceFiscale>
+          <ragioneSociale><![CDATA[TELECOM ITALIA S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[03059120174]]></codiceFiscale>
+          <ragioneSociale><![CDATA[CO.GEN.SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[12378150150]]></codiceFiscale>
+          <ragioneSociale><![CDATA[* OSLO SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02611310307]]></codiceFiscale>
+          <ragioneSociale><![CDATA[NUVOLAPOINT DI FLAJS ALESSANDRO]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[06169220966]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SOFTWAREONE ITALIA SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01347430397]]></codiceFiscale>
+          <ragioneSociale><![CDATA[9 NOEMALIFE SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[05143370962]]></codiceFiscale>
+          <ragioneSociale><![CDATA[NTI ITALY SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02334550288]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SIAV SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[07854130635]]></codiceFiscale>
+          <ragioneSociale><![CDATA[HEALTHWARE GROUP S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01127580429]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ME.S.I.S. SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01121130197]]></codiceFiscale>
+          <ragioneSociale><![CDATA[C2  SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[00967720285]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ENGINEERING INGEGNERIA INFORMATICA SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[93027710016]]></codiceFiscale>
+          <ragioneSociale><![CDATA[GE MEDICAL SYSTEMS ITALIA S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[05350170485]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ITECH PROJECTS & CONSULTING SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[05994810488]]></codiceFiscale>
+          <ragioneSociale><![CDATA[DEDALUS ITALIA  SPA]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1331480.34</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2011-01-01</dataInizio>
+        <dataUltimazione>2017-11-08</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1184152.25</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[0339613183]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[FORNITURA MATERIALE CONTROPULSATORE AORTICO]]></oggetto>
+      <sceltaContraente><![CDATA[04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[00562490011]]></codiceFiscale>
+          <ragioneSociale><![CDATA[VIGLIA SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[05469900962]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MIDA TECNOLOGIA MEDICA SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[02883250017]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SANITEX S.P.A.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[00562490011]]></codiceFiscale>
+          <ragioneSociale><![CDATA[VIGLIA SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[05469900962]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MIDA TECNOLOGIA MEDICA SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02883250017]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SANITEX S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>88920.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2010-02-01</dataInizio>
+        <dataUltimazione>2015-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>313527.74</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[0269031B64]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[SERVICE OSSIGENOTERAPIA E VENTILOTERAPIA]]></oggetto>
+      <sceltaContraente><![CDATA[01-PROCEDURA APERTA]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[00807970157]]></codiceFiscale>
+          <ragioneSociale><![CDATA[Sico S.P.A. ]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[02466440167]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MEDIGAS ITALIA S.R.L.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[06872000010]]></codiceFiscale>
+          <ragioneSociale><![CDATA[OFFICINA ORTOPEDICA FERRERO S.R.L.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[00807970157]]></codiceFiscale>
+          <ragioneSociale><![CDATA[Sico S.P.A. ]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02466440167]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MEDIGAS ITALIA S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[06872000010]]></codiceFiscale>
+          <ragioneSociale><![CDATA[OFFICINA ORTOPEDICA FERRERO S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2184000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2009-01-31</dataInizio>
+        <dataUltimazione>2020-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6236806.73</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[6633642E8A]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[SELEFAR *DTE 17/2016 LOTTO 17 MAT.X ANG.COR.]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[01749330047]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SELEFAR S.R.L.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[11264670156]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ABBOTT MEDICAL ITALIA SPA]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01749330047]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SELEFAR S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[11264670156]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ABBOTT MEDICAL ITALIA SPA]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>13420.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>31900.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[6651117361]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[RECEPIMENTO RISULTANZE PROCEDURA APERTA AIC3 PER AFFIDAMENTO FORNITURA IN SERVICE DI STRUMENTAZIONE AUTOMATICA E KIT REAGENTI PER ANALISI DI APPROFONDIMENTO. SPESA PRESUNTA PER 72 MESI  111.982,32 OLTRE IVA]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[02972270785]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MEDIEMME SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[05906110639]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BIOLAB S.R.L.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02972270785]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MEDIEMME SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[05906110639]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BIOLAB S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>111982.32</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>151446.22</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[66538789D2]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[TELEFLEX *DTE 25/2016 - SONDE E CATETERI - LOTTO n 17]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[06324460150]]></codiceFiscale>
+          <ragioneSociale><![CDATA[TELEFLEX MEDICAL SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[06324460150]]></codiceFiscale>
+          <ragioneSociale><![CDATA[TELEFLEX MEDICAL SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>658.80</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3213.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[6653902D9F]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[BENEFIS *DTE 25/2016 - SONDE E CATETERI - LOTTO n 21]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[02790240101]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BENEFIS SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02790240101]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BENEFIS SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2562.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>6483.75</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[665395488A]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[BECTON D./BARD DTE 27/16 DEL 31/3/16 CATET.VENOSI/ ARTER. LOTTO n 1]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[00803890151]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BECTON DICKINSON ITALIA SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[07931650589]]></codiceFiscale>
+          <ragioneSociale><![CDATA[* BARD SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[00803890151]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BECTON DICKINSON ITALIA SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[07931650589]]></codiceFiscale>
+          <ragioneSociale><![CDATA[* BARD SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>40809.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>32634.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[5706377B42]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[ALCON-FOR.LENTI INTRAOCULARI LOTTO 1]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[04678121007]]></codiceFiscale>
+          <ragioneSociale><![CDATA[OPTIKON 2000 SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[07435060152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ALCON ITALIA S.P.A.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[04678121007]]></codiceFiscale>
+          <ragioneSociale><![CDATA[OPTIKON 2000 SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[07435060152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ALCON ITALIA S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>22000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>87185.26</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[5791244DB8]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[POLIMED *DTE63/2014 - DRENAGGI VARI - LOTTO n 2 - mm]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[01655870028]]></codiceFiscale>
+          <ragioneSociale><![CDATA[POLIMED S.R.L.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01655870028]]></codiceFiscale>
+          <ragioneSociale><![CDATA[POLIMED S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1230.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>7248.60</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[579134838E]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[POLIMED *DTE 63/2014 - DRENAGGI VARI - LOTTO n 5 - mm]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[01655870028]]></codiceFiscale>
+          <ragioneSociale><![CDATA[POLIMED S.R.L.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01655870028]]></codiceFiscale>
+          <ragioneSociale><![CDATA[POLIMED S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>6660.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>11236.70</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[579185886A]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[G.B.S. *DTE 63/2014 - DRENAGGI VARI - LOTTO n 15 - mm]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[01879170064]]></codiceFiscale>
+          <ragioneSociale><![CDATA[G.B.S. INSTRUMENTS SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01879170064]]></codiceFiscale>
+          <ragioneSociale><![CDATA[G.B.S. INSTRUMENTS SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2105.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>5259.20</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[5792017B9F]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[ID&CO *DTE 63/2014 - DRENAGGI VARI - LOTTO  n 24 - mm]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[09018810151]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ID&CO SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[09018810151]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ID&CO SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>16500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>67133.48</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[5792122248]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[ID&CO *DTE63/2014 - DRENAGGI VARI- LOTTO n 29 - mm]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[09018810151]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ID&CO SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[09018810151]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ID&CO SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>23050.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>136134.93</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[58202405FC]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[COLOPLAST *DTE 64/2014 - SONDE E CATETERI UROL. - LOTTO n 8 - mm]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[04029180371]]></codiceFiscale>
+          <ragioneSociale><![CDATA[COLOPLAST S.P.A]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[04029180371]]></codiceFiscale>
+          <ragioneSociale><![CDATA[COLOPLAST S.P.A]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4850.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>7690.18</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[5820249D67]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[BENEFIS *DTE 64/2014 - SONDE E CATETERI UROL. - LOTTO n12 - mm]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[02790240101]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BENEFIS SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02790240101]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BENEFIS SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1010.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>2635.50</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[59469488BB]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[Ditta TOSOH Bioscience LOTTO 1-Fornitura FULL SERVICE SISTEMI ANALITICI PER ESAMI DI HPLC-EMATOLOGIA, EMOCOLTURE ELETTROFORESI COAGULAZIONE VES E COLORA VETRINI]]></oggetto>
+      <sceltaContraente><![CDATA[01-PROCEDURA APERTA]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[05139070014]]></codiceFiscale>
+          <ragioneSociale><![CDATA[TOSOH BIOSCIENCE SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <identificativoFiscaleEstero><![CDATA[05139070014]]></identificativoFiscaleEstero>
+          <ragioneSociale><![CDATA[TOSOH BIOSCIENCE S.R.L.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[05139070014]]></codiceFiscale>
+          <ragioneSociale><![CDATA[TOSOH BIOSCIENCE SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <identificativoFiscaleEstero><![CDATA[05139070014]]></identificativoFiscaleEstero>
+          <ragioneSociale><![CDATA[TOSOH BIOSCIENCE S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>484423.58</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>292395.15</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[5947305F54]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[Ditta BECTON DICKINSON  LOTTO 3 EMOCULTURE -Fornitura FULL SERVICE SISTEMI ANALITICI PER ESAMI DI HPLC-EMATOLOGIA, EMOCOLTURE ELETTROFORESI COAGULAZIONE VES E COLORA VETRINI]]></oggetto>
+      <sceltaContraente><![CDATA[01-PROCEDURA APERTA]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[00803890151]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BECTON DICKINSON ITALIA SPA]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[00803890151]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BECTON DICKINSON ITALIA SPA]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>871204.78</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>254825.89</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[59473135F1]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[DITTA SEBIA - ELETTROFORESI   LOTTO N. 4--DB442/15]]></oggetto>
+      <sceltaContraente><![CDATA[01-PROCEDURA APERTA]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[01260340482]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SEBIA ITALIA SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01260340482]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SEBIA ITALIA SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>2299906.90</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>261836.60</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[59473303F9]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[DITTA DIESSE DIAGN.SENESE - VES   LOTTO N. 6 -DB442/15]]></oggetto>
+      <sceltaContraente><![CDATA[01-PROCEDURA APERTA]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[05871140157]]></codiceFiscale>
+          <ragioneSociale><![CDATA[DIESSE DIAGNOSTICA SENESE SPA]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[05871140157]]></codiceFiscale>
+          <ragioneSociale><![CDATA[DIESSE DIAGNOSTICA SENESE SPA]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1140953.45</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>47224.18</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[5947335818]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[COLORA VETRINI LOTTO N. 7 - DITTA BIOMERIEUX ITALIA]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[07146020586]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BIOMERIEUX  ITALIA S.P.A.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[07146020586]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BIOMERIEUX  ITALIA S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>1251953.45</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>75473.28</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[5998109421]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[INTERSURGICAL DT 131 DEL 12/11/14 LOTTO 5 CIRCUITO RESP. STER.]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[02092530365]]></codiceFiscale>
+          <ragioneSociale><![CDATA[INTERSURGICAL SPA]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02092530365]]></codiceFiscale>
+          <ragioneSociale><![CDATA[INTERSURGICAL SPA]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>870.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>4406.29</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[669991726A]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[VIGLIA LA 18/16 LOTTO 19 ELETTROCATETERI PER REGISTRAZIONE E STIMOLAZIONE]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[00562490011]]></codiceFiscale>
+          <ragioneSociale><![CDATA[VIGLIA  S.R.L.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[00562490011]]></codiceFiscale>
+          <ragioneSociale><![CDATA[VIGLIA  S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>21069.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3330.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[67246604FB]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[FORNITURA DI SISTEMI PER LA RACCOLTA E LA LAVORAZIONE DI EMOCOMPONENTI]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[03524050238]]></codiceFiscale>
+          <ragioneSociale><![CDATA[FRESENIUS KABI ITALIA SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[03524050238]]></codiceFiscale>
+          <ragioneSociale><![CDATA[FRESENIUS KABI ITALIA SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>630154.20</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>716304.99</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[6747144F5A]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[SISTEMI MONOUSO IGIENE CAVO ORALE SENZA VALVOLA DI ASPIRAZIONE LOTTO N. 12]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[07424950157]]></codiceFiscale>
+          <ragioneSociale><![CDATA[PHARMA EEC SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[07424950157]]></codiceFiscale>
+          <ragioneSociale><![CDATA[PHARMA EEC SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>30000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>27303.95</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[6995613279]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[ARTHROSCOPI SURGERY BLADES MIS. DIVERSE]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[05297730961]]></codiceFiscale>
+          <ragioneSociale><![CDATA[CONMED ITALIA SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[05297730961]]></codiceFiscale>
+          <ragioneSociale><![CDATA[CONMED ITALIA SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>163846.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>92316.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[6305197D27]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[DITTA JOHNSON & JOHNSON- LOTTO 11 MATERIALE PROTESICO PER INCONTINENZA URINARIA]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[08082461008]]></codiceFiscale>
+          <ragioneSociale><![CDATA[JOHNSON & JOHNSON MEDICAL SPA]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[08082461008]]></codiceFiscale>
+          <ragioneSociale><![CDATA[JOHNSON & JOHNSON MEDICAL SPA]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>231234.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-12-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>89922.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[63245553E4]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[BECTON DICK./ BARD DT 63 DEL 13/07/15 LOTTO 7 SUB LOTTO A RETI CHIR.]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[07931650589]]></codiceFiscale>
+          <ragioneSociale><![CDATA[* BARD SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[07931650589]]></codiceFiscale>
+          <ragioneSociale><![CDATA[* BARD SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>7500.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>57884.19</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[6324682CAF]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[BARD DT 63 DEL 13/07/15 LOTTO 12 SUB LOTTO A RETI CHIR.]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[07931650589]]></codiceFiscale>
+          <ragioneSociale><![CDATA[* BARD SRL]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[07931650589]]></codiceFiscale>
+          <ragioneSociale><![CDATA[* BARD SRL]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>30990.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>96174.88</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[7199072E23]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[FULL SERVICE DI SISTEMI ANALITICI AUTOMATIZZATI PER IDENTIFICAZIONE ED ANTIBIOGRAMMI- RECEPIMENTO RISULTANZE PROCEDURA RISTRETTA AIC3]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[07146020586]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BIOMERIEUX  ITALIA S.P.A.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[07146020586]]></codiceFiscale>
+          <ragioneSociale><![CDATA[BIOMERIEUX  ITALIA S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>251731.60</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>210478.82</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[410039482A]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[SANITEX SPA *DB 194/12- DEFLUSS.+ACC - LOTTO 8]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[02883250017]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SANITEX S.P.A.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02883250017]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SANITEX S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>9720.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>73389.99</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[0238099581]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[PIASTRE PER ELETTROBISTURI]]></oggetto>
+      <sceltaContraente><![CDATA[04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[09018810151]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ID&CO SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[01835220482]]></codiceFiscale>
+          <ragioneSociale><![CDATA[FIAB SPA]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[09018810151]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ID&CO SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01835220482]]></codiceFiscale>
+          <ragioneSociale><![CDATA[FIAB SPA]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>99727.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>95516.03</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[0384315AC2]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[MATERIALE DI CONSUMO VENTILATORI POLMONARI]]></oggetto>
+      <sceltaContraente><![CDATA[04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[02330970209]]></codiceFiscale>
+          <ragioneSociale><![CDATA[M.T.V. MEDICAL SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[00856750153]]></codiceFiscale>
+          <ragioneSociale><![CDATA[PHILIPS S.P.A.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02330970209]]></codiceFiscale>
+          <ragioneSociale><![CDATA[M.T.V. MEDICAL SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[00856750153]]></codiceFiscale>
+          <ragioneSociale><![CDATA[PHILIPS S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>138951.79</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>41823.98</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[0440098C58]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[FORNITURA IN NOLEGGIO DI SISTEMI ANTIDECUBITO]]></oggetto>
+      <sceltaContraente><![CDATA[01-PROCEDURA APERTA]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[08817300158]]></codiceFiscale>
+          <ragioneSociale><![CDATA[HILL - ROM S.P.A.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[10804870151]]></codiceFiscale>
+          <ragioneSociale><![CDATA[KCI MEDICAL SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[05503160011]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ARJO ITALIA  SPA]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[08817300158]]></codiceFiscale>
+          <ragioneSociale><![CDATA[HILL - ROM S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[10804870151]]></codiceFiscale>
+          <ragioneSociale><![CDATA[KCI MEDICAL SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[05503160011]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ARJO ITALIA  SPA]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>4107240.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>1019964.11</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[1431715098]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[PROSECUZIONE PROTESI ENDOVASCOLARI]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[02883250017]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SANITEX S.P.A.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[03748120155]]></codiceFiscale>
+          <ragioneSociale><![CDATA[W.L. GORE &  ASSOCIATI SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[03748120155]]></codiceFiscale>
+          <ragioneSociale><![CDATA[W.L. GORE & ASSOCIATI S.R.L.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02883250017]]></codiceFiscale>
+          <ragioneSociale><![CDATA[SANITEX S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[03748120155]]></codiceFiscale>
+          <ragioneSociale><![CDATA[W.L. GORE &  ASSOCIATI SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[03748120155]]></codiceFiscale>
+          <ragioneSociale><![CDATA[W.L. GORE & ASSOCIATI S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>22687.50</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>336952.02</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[152093399B]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[MATERIALE SIST.MONITORAGGIO GE]]></oggetto>
+      <sceltaContraente><![CDATA[04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[07486340016]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ON.OFF S.R.L.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[07486340016]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ON.OFF S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>42180.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>27279.86</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[20389724EB]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[MATERIALE DI CONSUMO PER OCULISTICA PROSECUZIONE CONTRATTUALE]]></oggetto>
+      <sceltaContraente><![CDATA[04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[09554050014]]></codiceFiscale>
+          <ragioneSociale><![CDATA[LABORATOIRES EUROMEDIS ITALIE SARL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[06426540156]]></codiceFiscale>
+          <ragioneSociale><![CDATA[TECNO INSTRUMENTS S.R.L.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[06636280155]]></codiceFiscale>
+          <ragioneSociale><![CDATA[C.B. MEDICAL S.R.L.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[07283770019]]></codiceFiscale>
+          <ragioneSociale><![CDATA[OPTIKA S.R.L.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[02516620107]]></codiceFiscale>
+          <ragioneSociale><![CDATA[TG OFTALMICA S.R.L.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[07121831007]]></codiceFiscale>
+          <ragioneSociale><![CDATA[AMO ITALY SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[07435060152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ALCON ITALIA S.P.A.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[04918311210]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ALFA INTES SRL  IND.TERAP.SPLENDORE]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[09038120151]]></codiceFiscale>
+          <ragioneSociale><![CDATA[NEW TECH SPA]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[09554050014]]></codiceFiscale>
+          <ragioneSociale><![CDATA[LABORATOIRES EUROMEDIS ITALIE SARL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[06426540156]]></codiceFiscale>
+          <ragioneSociale><![CDATA[TECNO INSTRUMENTS S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[06636280155]]></codiceFiscale>
+          <ragioneSociale><![CDATA[C.B. MEDICAL S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[07283770019]]></codiceFiscale>
+          <ragioneSociale><![CDATA[OPTIKA S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02516620107]]></codiceFiscale>
+          <ragioneSociale><![CDATA[TG OFTALMICA S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[07121831007]]></codiceFiscale>
+          <ragioneSociale><![CDATA[AMO ITALY SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[07435060152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ALCON ITALIA S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[04918311210]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ALFA INTES SRL  IND.TERAP.SPLENDORE]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[09038120151]]></codiceFiscale>
+          <ragioneSociale><![CDATA[NEW TECH SPA]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>82835.54</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>88285.22</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[23480876AF]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[NESTLE']]></oggetto>
+      <sceltaContraente><![CDATA[01-PROCEDURA APERTA]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[10634380017]]></codiceFiscale>
+          <ragioneSociale><![CDATA[NUTRISENS ITALIA SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[02401440157]]></codiceFiscale>
+          <ragioneSociale><![CDATA[NESTLE' ITALIANA S.P.A.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[00076670595]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ABBOTT SRL]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[06872000010]]></codiceFiscale>
+          <ragioneSociale><![CDATA[OFFICINA ORTOPEDICA FERRERO S.R.L.]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[11667890153]]></codiceFiscale>
+          <ragioneSociale><![CDATA[DANONE NUTRICIA SPA SOCIETA BENEFIT]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[10634380017]]></codiceFiscale>
+          <ragioneSociale><![CDATA[NUTRISENS ITALIA SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[02401440157]]></codiceFiscale>
+          <ragioneSociale><![CDATA[NESTLE' ITALIANA S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[00076670595]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ABBOTT SRL]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[06872000010]]></codiceFiscale>
+          <ragioneSociale><![CDATA[OFFICINA ORTOPEDICA FERRERO S.R.L.]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[11667890153]]></codiceFiscale>
+          <ragioneSociale><![CDATA[DANONE NUTRICIA SPA SOCIETA BENEFIT]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>316823.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>552019.90</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[2348230CAF]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[NUTRICIA ITALIA S.P.A.]]></oggetto>
+      <sceltaContraente><![CDATA[23-AFFIDAMENTO DIRETTO]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[11667890153]]></codiceFiscale>
+          <ragioneSociale><![CDATA[DANONE NUTRICIA SPA SOCIETA BENEFIT]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[11667890153]]></codiceFiscale>
+          <ragioneSociale><![CDATA[DANONE NUTRICIA SPA SOCIETA BENEFIT]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>138844.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>232247.45</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[2634465D47]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[COVIDIEN * FORNITURA CAPPUCCI X USO F.O. - CF]]></oggetto>
+      <sceltaContraente><![CDATA[04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[08641790152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[COVIDIEN ITALIA SPA]]></ragioneSociale>
+        </partecipante>
+        <partecipante>
+          <codiceFiscale><![CDATA[09238800156]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MEDTRONIC ITALIA S.P.A.]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[08641790152]]></codiceFiscale>
+          <ragioneSociale><![CDATA[COVIDIEN ITALIA SPA]]></ragioneSociale>
+        </aggiudicatario>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[09238800156]]></codiceFiscale>
+          <ragioneSociale><![CDATA[MEDTRONIC ITALIA S.P.A.]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>15000.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>151647.45</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[6699639CFD]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[ABBOTT M. LA 18/16 LOTTO 4 INTRODUT. VENOSI - ELETTROFISIOLOGIA]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[11264670156]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ABBOTT MEDICAL ITALIA SPA]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[11264670156]]></codiceFiscale>
+          <ragioneSociale><![CDATA[ABBOTT MEDICAL ITALIA SPA]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3050.00</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>3250.00</importoSommeLiquidate>
+    </lotto>
+    <lotto>
+      <cig><![CDATA[6699660E51]]></cig>
+      <strutturaProponente>
+        <codiceFiscaleProp><![CDATA[01810260024]]></codiceFiscaleProp>
+        <denominazione><![CDATA[AZIENDA SANITARIA LOCALE BI]]></denominazione>
+      </strutturaProponente>
+      <oggetto><![CDATA[FIAB  LA 18/16 LOTTO 5 MAT. PER ELETTROFIS.]]></oggetto>
+      <sceltaContraente><![CDATA[26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE]]></sceltaContraente>
+      <partecipanti>
+        <partecipante>
+          <codiceFiscale><![CDATA[01835220482]]></codiceFiscale>
+          <ragioneSociale><![CDATA[FIAB SPA]]></ragioneSociale>
+        </partecipante>
+      </partecipanti>
+      <aggiudicatari>
+        <aggiudicatario>
+          <codiceFiscale><![CDATA[01835220482]]></codiceFiscale>
+          <ragioneSociale><![CDATA[FIAB SPA]]></ragioneSociale>
+        </aggiudicatario>
+      </aggiudicatari>
+      <importoAggiudicazione>3434.30</importoAggiudicazione>
+      <tempiCompletamento>
+        <dataInizio>2007-05-11</dataInizio>
+        <dataUltimazione>2023-01-31</dataUltimazione>
+      </tempiCompletamento>
+      <importoSommeLiquidate>8855.70</importoSommeLiquidate>
+    </lotto>
+  </data>
+</legge190:pubblicazione>
