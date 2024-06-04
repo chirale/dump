@@ -1,0 +1,19 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='http://dati.anticorruzione.it/schema/datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' > 
+<metadata>
+<titolo>Legge 190/2012</titolo>
+<abstract>Legge 190/2012</abstract>
+<dataPubblicazioneIndice>2024-01-31</dataPubblicazioneIndice>
+<entePubblicatore>COMANDO FORZE OPERATIVE SUD</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2024-01-31</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2023</annoRiferimento>
+<urlFile>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/comando-forze-operative-sud/2023/datasetIndiceAppalti_2023.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<indice>
+<dataset id='ID_1'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/comando-forze-operative-sud/2023/dataset_2023_Comfopsud.xml</linkDataset>
+<dataUltimoAggiornamento>2024-01-31</dataUltimoAggiornamento>
+</dataset>
+</indice>
+</indici>

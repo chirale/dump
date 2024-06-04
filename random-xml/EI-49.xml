@@ -1,0 +1,4288 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<legge190:pubblicazione xsi:schemaLocation='legge190_1_0 datasetAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:legge190='legge190_1_0'>
+<metadata>
+<titolo>ART.1 C.32 LEGGE 190/2012 E SMI PUBBLICITA' DEGLI APPALTI PUBBLICI SUI SITI ISTITUZIONALI. OBBLIGHI DI TRASMISSIONE ANAC</titolo>
+<abstract>80019080631</abstract>
+<dataPubblicazioneDataset>2024-01-31</dataPubblicazioneDataset>
+<entePubblicatore>10° Centro Rifornimenti e Mantenimento</entePubblicatore>
+<dataUltimoAggiornamentoDataset>2023-03-23</dataUltimoAggiornamentoDataset>
+<annoRiferimento>2023</annoRiferimento>
+<urlFile>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/10-cerimant/2023/dataset10.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<data>
+<lotto>
+<cig>Z9B3959743</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° CENTRO RIFORNIMENTI E MANTENIMENTO</denominazione>
+</strutturaProponente>
+<oggetto>AFFID. SERVIZIO DI PULIZIA LOC. ED AREE ESTERNE PRESSO CASERMA MARSELLI NAPOLI PARCO VEICOLI INEFFICIENTI DI CANCELLO,-MAG. DIR.DI GRICIGN.-DIST. DI PERSANO-DEP.MUN.CARD.-POGGIOR.-PRATOLA P.-NERA M.-RAP.-VERSEGGE GENNAIO/2023 NELLE MORE AGG.CONSIP</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01234110631</codiceFiscale>
+<ragioneSociale>S.A.P. SOCIETA' APPALTI PULIZIE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01234110631</codiceFiscale>
+<ragioneSociale>S.A.P. SOCIETA' APPALTI PULIZIE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>31465.56</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-05</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZBD395A168</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI SOMMINISTRAZIONE PASTI CON SISTEMA CATERING VEICOLATO DA EFF. PRESSO IL DEP. MUN. DI POGGIORSINI DA SVOLG. MORE ESPL. NUOVA GARA MESE GEN/2023 ALLE COND. ECON. PREVISTE RDO 2022 DA SV. MORE AGGIUD. DITTE TIT. DI CONV. CONSIP</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04139830725</codiceFiscale>
+<ragioneSociale>LA GROTTA DI VAARVARA S. &amp; C. SNC</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04139830725</codiceFiscale>
+<ragioneSociale>LA GROTTA DI VAARVARA S. &amp; C. SNC</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-05</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z89395D31F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. SOMM.PASTI CON SISTEMA CATERING VEICOL. DA EFF. PRESSO DEP. MUNIZ. DI PRAT. PEL. DA SVOLGERSI MORE ESPL. NUOVA GARA GENNAIO/2023 ALLE STESSE COND. ECON. RDO 2022 DA SV. MORE AGGIUD. DITTE TIT. CONVENZ. CONSIP O NUOVA GARA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01910150695</codiceFiscale>
+<ragioneSociale>EUROMENSE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01910150695</codiceFiscale>
+<ragioneSociale>EUROMENSE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-05</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z9D395E156</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. DI SOMMINISTRAZIONE PASTI CON SISTEMA DEL CATERING VEICOLATO DA EFF. PRESSO DEP. MUN. DI NERA MONTORO DA SVOLGERSI NELLE MORE DELL'ESPLET. DI UNA NUOVA GARA NEL MESE GENNAIO 2023 ALLE COND. ECON. PREV. RDO 2022</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>13996971001</codiceFiscale>
+<ragioneSociale>ALL FOOD SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>13996971001</codiceFiscale>
+<ragioneSociale>ALL FOOD SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-05</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z8A395EED8</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI SOMMINISTRAZIONE PASTI CON IL SISTEMA CATERING VEICOLATO DA EFF. PRESSO IL DEP. MUNIZ. DI RAPOLANO DA SVOLG. NELLE MORE DELL'ESPLET. DI UNA NUOVA GARA NEL MESE DI GENNAIO 2023 ALLE COND. ECONOM. PREV. DALLA RDO AGGIUDIC. IN ASP 2022 DA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02258820519</codiceFiscale>
+<ragioneSociale>LUJEDA SAS DI MAGINI DANIELA &amp; C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02258820519</codiceFiscale>
+<ragioneSociale>LUJEDA SAS DI MAGINI DANIELA &amp; C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-05</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z3D396373C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI SOMMINISTRAZIONE PASTI CON SISTEMA CATERING VEICOLATO DA EFF. PRESSO DEP. MUN. DI BIBBONA MESE GENNAIO 2023 ALLE COND. ECON. PREV. DALLA RDO 2022 DA SV. NELLE MORE AGGIU. DITTE TIT. CONV. CONSIP</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01617950249</codiceFiscale>
+<ragioneSociale>SERENISSIMA RISTORAZIONE SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01617950249</codiceFiscale>
+<ragioneSociale>SERENISSIMA RISTORAZIONE SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-10</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z4639639A9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. DI MANOVALANZA NON CONNESSA A TRASPORTO OCCAS. ED URGENTE DA EFFETT. PRESSO I DEP. MUN. DI POGGIOR., PARATOLA P., NERA M., RAPOLANO, VERSEGGE E BIBBONA A CAUSA DELLA CONTING. E PERMAN. SITUAZ. DI CRISI CHE OBBLIGA A CONT.MOVIM. DEI MANUF. ESPL.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11381401006</codiceFiscale>
+<ragioneSociale>GEFA GESTIONI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11381401006</codiceFiscale>
+<ragioneSociale>GEFA GESTIONI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-10</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z9F3963B19</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. DI MANOVALANZA NON CONNESSA A TRASP. OCCAS. ED URG. DA EFF. PRESSO LA SEDE DI NAPOLI E QUELLE DI CANC. E GRIC., MESE DI GENNAIO 2023 NELLE MORE DI AGGIUD. NUOVA GARA ALLE MED. COND.ECON. RDO3073014/2022</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05262001216</codiceFiscale>
+<ragioneSociale>LEMP MULTISERVICE SCRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05262001216</codiceFiscale>
+<ragioneSociale>LEMP MULTISERVICE SCRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-10</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZC63992BD3</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>AFF. SERV. PUL. LOC. ED AREE EST. PRESSO CAS. MARSELLI NAPOLI, PARCO VEIC. INEF. CANC., MAG. DIR. GRIC., DIST. PERS., DEP. MUN. CARD., POGGIOR., PRATOLA P., NERA M., RAPOLANO, VERS., BIBBONA, MESE FEB/2023 DA SV. MORE AGGIU. DITTE TIT. CONV.CONSIP</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01234110631</codiceFiscale>
+<ragioneSociale>S.A.P. SOCIETA' APPALTI PULIZIE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01234110631</codiceFiscale>
+<ragioneSociale>S.A.P. SOCIETA' APPALTI PULIZIE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>31465.56</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-26</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z2B399DFA2</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>EVENT.SERV. DI RIPARAZIONI AUTOMEZZI E MOTO SOLLEV. IN CARICO A EDCR PRIVI DI ADERENZA SITI IN TOSCANA, E VEICOLI IMPEGN. NELL'OPERAZ. STRADE SICURE "RAGGRUPPAMENTO TOSCANA" DA SVOLGERSI NELLE MORE DELL'ESPLET. DI UNA NUOVA GARA NEL PERIODO GEN-MAR23</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00206110496</codiceFiscale>
+<ragioneSociale>R.V.I. SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00206110496</codiceFiscale>
+<ragioneSociale>R.V.I. SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>25000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-23</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z4B398A5AF</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>EVENT. SERV. DI RIPARAZIONE AUTOMEZZI IMP. NELL'OPERAZ. STRADE SICURE O IN CARICO AD EDCR PRIVI DI ADERENZA ZONA CALABRIA PERIODO COMPR.TRA GEN-MAR 2023</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02946030794</codiceFiscale>
+<ragioneSociale>GTS SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02946030794</codiceFiscale>
+<ragioneSociale>GTS SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>20000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-23</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z2C398DF05</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>EVENT. SERV. RIPARAZIONE AUTOMEZZI E MOTOSOLL. IN CARICO AL 10° CERIMANT O ECDR PRIVI DI ADERENZA SITI IN ABRUZZO PERIODO GEN/MAR 2023 ALLE COND. ECON. RDO 2022</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01914710684</codiceFiscale>
+<ragioneSociale>BTS SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01914710684</codiceFiscale>
+<ragioneSociale>BTS SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>10000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-23</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZD1398F3F6</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>AFFID. SERV. FORNIT. RICAMBI NECES. RIPARAZ. AUTOMEZZI RIC. PRESSO DIP. NLI IMPEGNATI OPER. STRADE SICURE RAGGR. CAMPANIA PERIODO GEN/MAR 2023 DA SVOL. MORE DELL'ESPL. NUOVA GARA E ALLE COND.ECONOM. PREV. DALLA RDO 2022</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03632721217</codiceFiscale>
+<ragioneSociale>C.R.C. CENTRO REVISIONE CRISPANO SAS DI BUONO GIUSEPPE E C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03632721217</codiceFiscale>
+<ragioneSociale>C.R.C. CENTRO REVISIONE CRISPANO SAS DI BUONO GIUSEPPE E C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>20000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-23</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z0039911E9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>EVENT. SERV. RIPARAZ. AUTOMEZZI COMM.LI IN CARICO AL DEP. MUN. DI RAPOLANO DA SVOLG. NELLE MORE DELL'ESPLET. DI UNA NUOVA GARA NEL PERIODO COMPR. GEN/MAR 2023</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01327650519</codiceFiscale>
+<ragioneSociale>AUTO-VAL 90 SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01327650519</codiceFiscale>
+<ragioneSociale>AUTO-VAL 90 SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>13995.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-24</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z8F3991EF6</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>EVENT. SERV. RIPARAZIONE AUTOMEZZI E MOTOSOLL. IN CARICO AL 10° CERIMANT O ECDR PRIVI DI ADERENZA SITI IN PUGLIA E BASILICATA PERIODO GEN/MAR 2023 ALLE COND. ECON. PREV. RDO 2022</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>SLLDNC63B10A225O</codiceFiscale>
+<ragioneSociale>SALLICATI DOMENICO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>SLLDNC63B10A225O</codiceFiscale>
+<ragioneSociale>SALLICATI DOMENICO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>20000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-24</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZD83994544</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. SOMMINISTR. PASTI CON SISTEMA CATERING VEICOLATO DA EFF. PRESSO DEP. MUNIZ. POGGIORSINI DA SVOLG. MORE ESPLET. DI NUOVA GARA MESE FEB/2023 ALLE COND. ECON. PREV. RDO 2022 E CONF. RDO 3379830/2023</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04139830725</codiceFiscale>
+<ragioneSociale>LA GROTTA DI VARVARA SERGIO E C. SNC</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04139830725</codiceFiscale>
+<ragioneSociale>LA GROTTA DI VARVARA SERGIO E C. SNC</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-26</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZD9399281F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>EVENT. SERV. RIPARAZIONE E SOST. PNEUMATICI FAV. 10° CERIMANT DA SVOLG.  NELLE MORE ESPL. DI UNA NUOVA GARA PERIODO COMPR. TRA GEN E MAR 2023 ALLE COND. ECON. RDO 2747372-2021 CONF. RDO 1997740 ATTO N.12/2022</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04695710634</codiceFiscale>
+<ragioneSociale>OFFICINE SPF SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04695710634</codiceFiscale>
+<ragioneSociale>OFFICINE SPF SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>15000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-24</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z4339957EF</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. SOMM. PASTI CON SISTEMA CATERING VEICOLATO DA EFF. PRESSO DEP. MUN. NERA MONTORO DA SVOLG. NELLE MORE ESPL. DI NUOVA GARA FEB/2023 ALLE COND. ECON. PREV. RDO 2022 E CONF. RDO 3381028 ATTO N.4/2023</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>13996971001</codiceFiscale>
+<ragioneSociale>ALL FOOD SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>13996971001</codiceFiscale>
+<ragioneSociale>ALL FOOD SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-26</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z3C3995511</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. SOMM.  PASTI CON SISTEMA CATERING VEICOLATO DA EFF. PRESSO DEP. MUN. PRATOLA P. DA SVOLG. NELLE MORE DELL'ESPL. DI UNA NUOVA GARA FEB/2023 ALLE COND. ECON. PREV. RDO 2022 E CONF. RDO 3380761 ATTO N. 2023</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01910150695</codiceFiscale>
+<ragioneSociale>EUROMENSE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01910150695</codiceFiscale>
+<ragioneSociale>EUROMENSE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-26</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z143995FDB</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. SOMM. PASTI CON SISTEMA CATERING VEICOLATO DA EFF. PRESSO DEP. MUN. BIBBONA DA SVOLG. NELLE MORE DELL'ESPL. NUOVA GARA FEBB/2023 ALLE COND. ECON. RDO 2022 E CONF. RDO 3381231 ATTO N. 6 2023</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01617950249</codiceFiscale>
+<ragioneSociale>SERENISSIMA RISTORAZIONE SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01617950249</codiceFiscale>
+<ragioneSociale>SERENISSIMA RISTORAZIONE SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-26</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZC63995AE3</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. SOMM. PASTI CON SISTEMA CATERING VEICOLATO DA EFF. PRESSO DEP. MUN. RAPOLANO DA SVOLG. NELLE MORE ESPL. NUOVA GARA FEB/2023 ALLE COND. ECON. PREV. RDO 2022 E CONF. RDO 3381110 ATTO N. 5 2023</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02258820519</codiceFiscale>
+<ragioneSociale>LUJEDA SAS DI MAGINI DANIELA E C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02258820519</codiceFiscale>
+<ragioneSociale>LUJEDA SAS DI MAGINI DANIELA E C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-26</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z1A3996660</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>AFF. SERV. FORNIT. GENERI DI CONFORTO DA DISTRIBUIRE AL PERS. MILITARE IMPIEGATO NELL'OPER. STRADE SICURE E PER QUELLO IMP. NEL SERV. DI GUARDIA DELLA CAS MARSELLI MESE FEB/2023 DA SVOLG. MORE ESPL. DI NUOVA GARA ALLE COND. ECO. PR. RDO3001428-2022</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>TRBGPP83M09F839I</codiceFiscale>
+<ragioneSociale>TRIBUNO GIUSEPPE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>TRBGPP83M09F839I</codiceFiscale>
+<ragioneSociale>TRIBUNO GIUSEPPE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-26</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z0839F1476</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZ., RIPARAZ. ED ADEGUAM. A NORMA DEI DEPOCEL AREA GIURISD. PER. GEN/MAR 2022 DA SVOLG. NELLE MORE DELL'ESPLET. DI NUOVA GARA ALLE COND. ECO. PREV. RDO 2991693/2022</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01043900685</codiceFiscale>
+<ragioneSociale>RIVES SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01043900685</codiceFiscale>
+<ragioneSociale>RIVES SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-17</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZB9359CC6D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>CONV. 2023 PER NR. MAX PREV. DI NR.2 INTERV., PER SERV. SVUOTAM. FOSSA BIOLOG., STASAM. DELLA TURCA, PULIZIA DI COND. E SUCC. SERV. RACCOLTA, TRASPORTO E SMALTIM. DEI LIQUAMI PRESSO DISCARICA AUTORIZZATA PRESSO DEP. MUN. DI RAPOLANO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01337470528</codiceFiscale>
+<ragioneSociale>COLLE SPURGHI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01337470528</codiceFiscale>
+<ragioneSociale>COLLE SPURGHI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1783.60</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-23</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z9F3A017CE</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>LAVORI PER SVUOTAM. FOSSE BIOLOG. PRESENTI NELL'AREA DEL DEPOSITO MUNIZIONI DI POGGIORSINI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06069250725</codiceFiscale>
+<ragioneSociale>TRAETTA FILIPPO ECOLOGIA SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06069250725</codiceFiscale>
+<ragioneSociale>TRAETTA FILIPPO ECOLOGIA SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4290.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-21</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z3B3A12DC7</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>AFFID. DEL SERV. PER LA FORNITURA DI GENERI DI CONFORTO DA DISTRIBUIRE AL PERS. MILI. IMP. OPER. STRADE SICURE E PER QUELLO IMP. SERV. DI GUARDIA DELLA CAS. MARSELLI MESE DI MARZO 2023 DA SVOLG.NELLE MORE ESPL. NUOVA GARA E ALLE C.E. RDO3001428/2022</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>TRBGPP83M09F839I</codiceFiscale>
+<ragioneSociale>INGROSSO E DETTAGLIO ALIMENTARI DI GIUSEPPE TRIBUNO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>TRBGPP83M09F839I</codiceFiscale>
+<ragioneSociale>INGROSSO E DETTAGLIO ALIMENTARI DI GIUSEPPE TRIBUNO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-27</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z2C3A1F4B1</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>LAVORI DI RACCOLTA E PRELIEVO DA NR.2 VASCHE E 10 POZZETTI DI CONVOGLIAMENTO E SUCC. SMALTIMENTO LIQUAMI PRESSO DISCARICA AUTORIZZATA DA EFFETTUARSI PRESSO IL DEPOSITO DI VERSEGGE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>LBNMHL68D28L220F</codiceFiscale>
+<ragioneSociale>LABIANCA MICHELE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>LBNMHL68D28L220F</codiceFiscale>
+<ragioneSociale>LABIANCA MICHELE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1049.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-03</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZAA3A25E3A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>AFFID. SERVIZ. PULIZIA LOC. ED AREE ESTERNE PRESSO CAS. MARSELLI NAPOLI P.CO VEICOLI INEFF. DI CANCELLO - MAGAZ. DIR.DI GRICIGN.- DISTACC. DI PERSANO-DEP.MUN. DI CARDIT.-POGGIOR.- PRATOLA P.- NERA MONT.- RAPOL.-VERSEGGE E BIBB., MAR.2023 MORE NUOVA G</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01234110631</codiceFiscale>
+<ragioneSociale>S.A.P. SOCIETA' APPALTI PULIZIE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01234110631</codiceFiscale>
+<ragioneSociale>S.A.P. SOCIETA' APPALTI PULIZIE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>31465.56</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-03</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZD63A5A790</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>LAVORI DI VERIFICA PERIODICA DEGLI IMPIANTI AI SENSI DEL DPR 462/01 (CABINA ENEL) PRESSO IL DIPENDENTE DEP. MUN. DI VERSEGGE (GR).</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>08427870012</codiceFiscale>
+<ragioneSociale>ELLISSE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>08427870012</codiceFiscale>
+<ragioneSociale>ELLISSE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>279.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-17</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9787564951</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>RIPARAZIONE VEICOLI ASTRA ATTO NEGOZIALE N.61 IN DATA 18/05/2023 ALLE MEDESIME CONDIZIONE EX AQ N.311-2020 IVECO PREV. IN DATA 17/04/2023 fasc. nr. 178/2023.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>74691.64</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-20</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9714282F17</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>RIPARAZIONI VEICOLI ASTRA ALLE MEDESIME CONDIZIONI DELL'A.Q. N.311-2020 IVECO PREV. IN DATA 10/03/2023 fasc. nr. 80-81-138-140/2023,</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>60029.69</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-13</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9787491D12</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>RIPARAZIONI VEICOLI ASTRA ATTO NEGOZIALE N.62 IN DATA 22/05/2023 ALLE MEDESIME CONDIZIONI DELL'A.Q. N.311-2020 IVECO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLE SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLE SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>325086.87</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-23</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z5F3A70DB7</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI RACCOLTA, TRASPORTO E SUCCESSIVO SMALTIMENTO DI MATERIALE VARIO INGOMBRANTE COD.CER 160602, C. CER080318, C. CER160213, C. CER180103, C. CER160305 E C. CER200121 ACCATASTATO ALL'INTERNO DELLA CASERMA MARSELLI,</oggetto>
+<sceltaContraente>33-PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01404431213</codiceFiscale>
+<ragioneSociale>PERNA ECOLOGIA SPA</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01434031215</codiceFiscale>
+<ragioneSociale>BARCHETTI MARIO SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>05364431212</codiceFiscale>
+<ragioneSociale>C.G.F. SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>07969131007</codiceFiscale>
+<ragioneSociale>GESTIONI AMBIENTALI SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>04320270616</codiceFiscale>
+<ragioneSociale>PEZZOLLA AMBIENTE SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02754691216</codiceFiscale>
+<ragioneSociale>VER.FER. SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>08368331214</codiceFiscale>
+<ragioneSociale>EUROSERVICE SERVIZI AMBIENTALI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01404431213</codiceFiscale>
+<ragioneSociale>PERNA ECOLOGIA SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5210.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-06</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z9E3A87FAA</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>CONVENZIONE PER LA MANUTENZIONE ANNUALE DELLA CESOIA A COCCODRILLO HAS 25.600 UTILIZZATA PER LA ROTTAMAZIONE ARMI PROVENIENTI DA CORPO DI REATO NR.3 INTERVENTI A CARATTERE QUADRIMESTRALE.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07608780156</codiceFiscale>
+<ragioneSociale>PARFER SITI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07608780156</codiceFiscale>
+<ragioneSociale>PARFER SITI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>13400.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-04</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZD03A72840</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>CONVENZIONE PER IL SERVIZIO DI MANUTENZIONE CON INTERVENTI A CARATTERE MENSILE DELL'IMPIANTO DI LAVAGGIO AUTOMATICO IN USO PRESSO LA CASERMA MARSELLI A PARTIRE DAL MESE DI MAGGIO AL 31/12/2023</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>SNSCMN58R08A509W</codiceFiscale>
+<ragioneSociale>SANSEVERINO IMPIANTI DI SANSEVERINO CARMINE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>SNSCMN58R08A509W</codiceFiscale>
+<ragioneSociale>SANSEVERINO IMPIANTI DI SANSEVERINO CARMINE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3036.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-11</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z173996787</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. MANOV. NON CONNESSA A TRASPORTO OCCAS. ED URG. DA EFF. PRESSO LA SEDE DI NAPOLI E QUELLE DI CANC. E GRICIG., PER MESE GEN/2023 NELLE MORE DI AGGIUD. UNA NUOVA GARA E ALLE STESSE COND. ECON. DELLA RDO 3073014-2022 E CONF. RDO 3382859 A. N.9-2022</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05262001216</codiceFiscale>
+<ragioneSociale>LEMP MULTISERVICE SCRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05262001216</codiceFiscale>
+<ragioneSociale>LEMP MULTISERVICE SCRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-26</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z663996740</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. MANOV. NON CONNESSA A TRASP. OCC. ED URG. DA EFF. PRESSO I DEP. MUN. DI POGGIOR., PRATOLA P., NERA M., RAPOL., VERSEGGE, BIBB., A CAUSA DELLA CONT. E PERM. SITUAZ. DI CRISI CHE OBBL. MOV. MAN. ESPL. FEB/2023 NELLE MORE DI AGG. NUOVA GARA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11381401006</codiceFiscale>
+<ragioneSociale>GEFA GESTIONI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11381401006</codiceFiscale>
+<ragioneSociale>GEFA GESTIONI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-26</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z113994C6B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. RIPAR. CARR. ELEV. E PIATT. ELEVAB. IN CARICO AL DEP. MUN. DI CARDITELLO, PARCO VEIC. INEFF. DI SAN FELICE A CAN. E DEL 10° CERIMANT FINO A ESPL. DI NUOVA GARA GEN/MAR 2023 ALLE COND. ECON. RDO 3117940-2022.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>08175601213</codiceFiscale>
+<ragioneSociale>BGR SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>08175601213</codiceFiscale>
+<ragioneSociale>BGR SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>35000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-25</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZE739A1058</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>RIPAR. AUTOM. COMM./TATTICI IN CARICO AGLI EDRC PRIVI DI ORG. DI MANT. CHE INSIST. NEL PR. BACINO DI UT. E DEGLI AUTOM. IMP. NELLE ATT. DI STRADE SICURE PER. GEN/MAR 2023 ALLE COND. ECON. PR. RDO 3176504-2022,</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05930600654</codiceFiscale>
+<ragioneSociale>DP SERVICE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05930600654</codiceFiscale>
+<ragioneSociale>DP SERVICE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-27</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z1939B3DB6</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. MANUT. PREV. E CORR. AUTOM. COMM., TATTICI E TATT./LOG. SUP. A 3,5 T. ALL. PROPRIA AREA DI RESP., DI QUELLI IN CAR. AGLI EDRC SPROVV. DEGLI ORG. LOG. E DI QUELLI IMP. NELL'OPER. STRADE SIC. RAGGR. CAMPANIA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06815091217</codiceFiscale>
+<ragioneSociale>FUTURE SERVICE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06815091217</codiceFiscale>
+<ragioneSociale>FUTURE SERVICE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>35500.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-31</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z4F39A5C0D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>EVENT. SERV. RIPAR. MOTOSOLL. IN CAR. AL 10° CERIMANT E AUTOM. COM. TAT. IMP. STRADE SIC. RAGG. CAMPANIA-NA-NORD DA SVOLG. MORE ESPLET. NUOVA GARA PER. GEN/MAR 2023 ALLE COND. EC. PREV. RDO 2749944-2021 CONF. RDO 1997845-2022 A.N. N.13</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07807071217</codiceFiscale>
+<ragioneSociale>CAMPANIA IMMOBILIARE E TRUCKS SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07807071217</codiceFiscale>
+<ragioneSociale>CAMPANIA IMMOBILIARE E TRUCKS SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-27</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z5339D33A8</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>EVENT. SERV. DI RIPARAZ.AUTOMEZZI TATTICI E COMM. ANCHE SUP. A 3,5T. IMP. NELL'OPER. STRADE SIC. RAGGR. LAZIO SUDROMA DA SVOLG. PER. GEN/2023 ALLE COND. ECON. PREV. DALLA RDO 2749982/2021 CONFERM. CON RDO 2009799 A.N. 37</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>15009431006</codiceFiscale>
+<ragioneSociale>ABBAFATI GROUP SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>15009431006</codiceFiscale>
+<ragioneSociale>ABBAFATI GROUP SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>20000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-19</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z8A39D427B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>EVENTUALE SERV. RIPARAZ. AUTOMEZZI TIPO VM90 IMP. NELL'OPER. STRADE SIC. RAGGR. LAZIO PER. GEN/2023 ALLE COND. ECON. PREV. RDO 2762696-2021 CONF. RDO 2006340 A.N. N.32</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05588641000</codiceFiscale>
+<ragioneSociale>RICAMBI E RETTIFICHE LAZIALI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05588641000</codiceFiscale>
+<ragioneSociale>RICAMBI E RETTIFICHE LAZIALI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-18</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZA839ACA52</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE PREVENT. E CORR. AUTOMEZZI COMM., TATTICI E TATT./LOG. INFERIORI A 3,5 T. ALLOCATI NELLA PROPRIA AREA DI RESPONS., DI QUELLI IN CARICO AGLI EDRC SPROVVISTI DEGLI ORGANI LOGISTICI E DI QUELLI IMP. NELL'OPERAZ. STRADE SICURE RAGGR.CAMPANIA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03278741214</codiceFiscale>
+<ragioneSociale>CREDENDINO VINCENZO SERVICE SNC</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03278741214</codiceFiscale>
+<ragioneSociale>CREDENDINO VINCENZO SERVICE SNC</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>25000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-30</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZDA3989457</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>EVENT. SERV. RIPARAZ. AUTOMEZZI IMP. OPERAZ. STRADE SICURE O IN CARICO AD ECDR PRIVI DI ADERENZA ZONA UMBRIA PERIO. COMPR. GEN/MAR 2023 ALLE CONDIZ. ECONOM. PREVISTE DALLA RDO 2005425/2022</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02401020546</codiceFiscale>
+<ragioneSociale>O.M. SNC DI PRATO A. MARANI P. &amp; C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02401020546</codiceFiscale>
+<ragioneSociale>O.M. SNC DI PRATO A. MARANI P. &amp; C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>10000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-18</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9594671CF9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>AFFIDAMENTO DEL SERV. DI RISTORAZIONE NELLA FORMA DI CATERING VEICOLATO PER N.5 LOTTI PRESSO DEPOSITO PRATOLA PELIGNA</oggetto>
+<sceltaContraente>03-PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01910150695</codiceFiscale>
+<ragioneSociale>EUROMENSE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01910150695</codiceFiscale>
+<ragioneSociale>EUROMENSE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>121875.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-01</dataInizio>
+<dataUltimazione>2024-03-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>95946213B9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>AFFIDAMENTO DEL SERV. DI RISTORAZIONE NELLA FORMA DI CATERING VEICOLATO PER N.5 LOTTI PRESSO DEPOSITO NERA MONTORO</oggetto>
+<sceltaContraente>03-PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>13996971001</codiceFiscale>
+<ragioneSociale>ALL FOOD SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>13996971001</codiceFiscale>
+<ragioneSociale>ALL FOOD SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>90000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-01</dataInizio>
+<dataUltimazione>2024-03-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>95945866D6</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>AFFIDAMENTO DEL SERV. DI RISTORAZIONE NELLA FORMA DI CATERING VEICOLATO PER N.5 LOTTI PRESSO DEPOSITO BIBBONA</oggetto>
+<sceltaContraente>03-PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01617950249</codiceFiscale>
+<ragioneSociale>SERENISSIMA RISTORAZIONE SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01617950249</codiceFiscale>
+<ragioneSociale>SERENISSIMA RISTORAZIONE SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>102000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-01</dataInizio>
+<dataUltimazione>2024-03-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>959468260F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>AFFIDAMENTO DEL SERV. DI RISTORAZIONE NELLA FORMA DI CATERING VEICOLATO PER N.5 LOTTI PRESSO DEPOSITO RAPOLANO</oggetto>
+<sceltaContraente>03-PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02258820519</codiceFiscale>
+<ragioneSociale>LUJEDA S.A.S. DI MAGINI DANIELA &amp; C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02258820519</codiceFiscale>
+<ragioneSociale>LUJEDA S.A.S. DI MAGINI DANIELA &amp; C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>107250.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-01</dataInizio>
+<dataUltimazione>2024-03-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9594649AD2</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>AFFIDAMENTO DEL SERV. DI RISTORAZIONE NELLA FORMA DI CATERING VEICOLATO PER N.5 LOTTI PRESSO DEPOSITO POGGIORSINI</oggetto>
+<sceltaContraente>03-PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04139830725</codiceFiscale>
+<ragioneSociale>LA GROTTA DI VARVARA SERGIO &amp; C. SNC</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04139830725</codiceFiscale>
+<ragioneSociale>LA GROTTA DI VARVARA SERGIO &amp; C. SNC</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>116565.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-01</dataInizio>
+<dataUltimazione>2024-03-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9787532EE7</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>RIPARAZIONI VEICOLI ASTRA ATTO NEGOZIALE N.63 AQ 311/2020 IVECO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES  SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES  SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>330738.11</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-25</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z8A3A8049E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>Affidamento del servizio di pulizia LOCALI ED AREE ESTERNE presso i depositi munizioni di Poggiorsini (BA), Prat. Pel. (AQ), Nera Montoro (TR), Rapolano (si), Versegge (GR) e Bibbona (LI) per il mese di Aprile 2023 da svolg. nelle more dell'aggiud.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01234110631</codiceFiscale>
+<ragioneSociale>S.A.P. SOCIETA' APPALTI PULIZIE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01234110631</codiceFiscale>
+<ragioneSociale>S.A.P. SOCIETA' APPALTI PULIZIE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>12880.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-28</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZF33A9D43F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI BUFFET IN OCCASIONE DEL PRECETTO PASQUALE PER IL PERSONALE MILITARE E CIVILE DEL 10° CERIMANT DI NAPOLI ALL'INTERNO DELLA CASERMA MARSELLI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04161790631</codiceFiscale>
+<ragioneSociale>SANTA BRIGIDA SCPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04161790631</codiceFiscale>
+<ragioneSociale>SANTA BRIGIDA SCPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1900.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-31</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZF63A304CD</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI AMMINISTRAZIONE PASTI CON IL SISTEMA DEL CATERING VEICOLATO DA EFFETTUARSI PRESSO IL DEP. MUNIZIONI DI POGGIORSINI DA SVOLGERSI NELLE MORE DELL'ESPLETAMENTO DI UNA NUOVA GARA NEL MESE MARZO 2023 ALLE COND. ECONOMICHE PREV. RDO AGGIU.2022</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04139830725</codiceFiscale>
+<ragioneSociale>LA GROTTA DI VARVARA SERGIO &amp; C. SNC</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04139830725</codiceFiscale>
+<ragioneSociale>LA GROTTA DI VARVARA SERGIO &amp; C. SNC</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-07</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z5F3A313FD</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI SOMMINISTRAZIONE PASTI CON IL SISTEMA DEL CATERING VEICOLATO DA EFF. PRESSO IL DEP. MUNIZIONI DI NERA MONTORO DA SVOLG. NELLE MORE DELL'ESPL. DI UNA NUOVA GARA MESE FEBBRAIO 2023 ALLE COND. ECONOMICHE PREV. RDO AGGIUD. IN ASP 2022</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>13996971001</codiceFiscale>
+<ragioneSociale>ALL FOOD SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>13996971001</codiceFiscale>
+<ragioneSociale>ALL FOOD SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-07</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZCB3A308E6</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI SOMMINISTRAZIONE PASTI CON IL SISTEMA DEL CATERING VEICOLATO DA EFF. PRESSO IL DEP. MUNIZIONI DI PRATOL A PEL. DA SVOLG. NELLE MORE DELL'ESPL. DI UNA NUOVA GARA MESE MARZO 2023 ALLE COND. ECONOMICHE PREV. RDO AGGIU. IN ASP 2022</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01910150695</codiceFiscale>
+<ragioneSociale>EUROMENSE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01910150695</codiceFiscale>
+<ragioneSociale>EUROMENSE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-07</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z4E3A33C82</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO SOMMINISTRAZIONE PASTI CON IL SISTEMA DEL CATERING VEICOLATO DA EFF. PRESSO DEP. MUNIZ. DI BIBBONA DA SVOLGERSI NELLE MORE DELL'ESPLETAMENTO DI UNA NUOVA GARA MESE MARZO 2023 ALLE COND. ECONOMICHE PREV. RDO AGGIUD. IN ASP 2022</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01617950249</codiceFiscale>
+<ragioneSociale>SERENISSIMA RISTORAZIONE SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01617950249</codiceFiscale>
+<ragioneSociale>SERENISSIMA RISTORAZIONE SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-07</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZDE3A341FC</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. SOMMINISTRAZIONE PASTI CON IL SISTEMA DEL CATERING VEICOLATO DA EFF. PRESSO IL DEP. MUNIZ. DI RAPALANO DA SVOLG. NELLE MORE DELL'ESPL. UNA NUOVA GARA MARZO 2023 ALLE COND. ECONOMICHE PREV. RDO AGGIUD. IN ASP ANNO 2022</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02258820519</codiceFiscale>
+<ragioneSociale>LUJEDA S.A.S. DI MAGINI DANIELA &amp; C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02258820519</codiceFiscale>
+<ragioneSociale>LUJEDA S.A.S. DI MAGINI DANIELA &amp; C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-07</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZFA3A18684</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. SPOSTAMENTO PONTI, SPOST. ARROTOLATORE SPIR. FUMI PONTE E REVISIONI, BOCCHETTA ASPIR. AUTO, SOSTI. PISTONC. PNEUM. SOLL. 4 COL., VERIF. SOLL. 2 COLNNE, SPOST. POSTAZIONE PC PONTE REVISIONI PRESSO LA DIP. OFFICINA DEL 10° CERIMANT</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05215380659</codiceFiscale>
+<ragioneSociale>INNOTECH ITALIA SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05215380659</codiceFiscale>
+<ragioneSociale>INNOTECH ITALIA SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2066.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-17</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z963A53E12</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. DI MANOVALANZA NON CONNESSA A TRASPORTO OCCAS. ED URGENTE DA EFF. PRESSO I DEP. MUNIZ. DI POGGIORSINI (BA), PRATOLA P. (AQ), NERA M. (TR), RAPOLANO (SI), VERSEGGE (GR) E BIBBONA (LI) A CAUSA DELLA CONT. E PERM. SITUAZ. DI CRISI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11381401006</codiceFiscale>
+<ragioneSociale>GEFA GESTIONI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11381401006</codiceFiscale>
+<ragioneSociale>GEFA GESTIONI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-15</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z003A539EB</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. DI MANOVALANZA NON CONNESSA A TRASPORTO OCCASIONALE ED URGENTE DA EFF. PRESSO LA SEDE DI NAPOLI E QUELLE DI CANCELLO E GRICIGNANO, PER MESE DI FEBBRAIO 2023 NELLE MORE DI AGGIUDICARE UNA NUOVA GARA ED ALLE STESSSE CONDIZ. ECONOM.DELLA RDO 2022</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05262001216</codiceFiscale>
+<ragioneSociale>LEMP MULTISERVICE SCRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05262001216</codiceFiscale>
+<ragioneSociale>LEMP MULTISERVICE SCRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-15</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z843AA07B5</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>AFFIDAMENTO SERV. FORNITURA GENERI ALIMENTARI DI CONFORTO DA DISTRIBUIRE AL PERS. MILITARE IMP. OPERAZ. STRADE SICURE E QUELLO IMP. SERV. GUARDIA CASERMA MARSELLI PER. GEN-MAR 2023 DA SVOLG. NELLE MORE ESP. NUOVA GARA ALLE C.E. RDO3001428/2022</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>TRBGPP83M09F839I</codiceFiscale>
+<ragioneSociale>INGROSSO E DETTAGLIO ALIMENTARI DI GIUSEPPE TRIBUNO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>TRBGPP83M09F839I</codiceFiscale>
+<ragioneSociale>INGROSSO E DETTAGLIO ALIMENTARI DI GIUSEPPE TRIBUNO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-27</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z2E3ABC62C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. SOMMISTR. PASTI CON IL SISTEMA DEL CATERING VEICOLATO DA EFF. PRESSO IL DEPOSITO MUN. DI NERA MONTORO DA SVOL. NELLE MORE ESPL. NUOVA GARA MESE APRILE 2023 ALLE C.E. RDO AGGIUD. IN ASP ANNO 2022</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>13996971001</codiceFiscale>
+<ragioneSociale>ALL FOOD SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>13996971001</codiceFiscale>
+<ragioneSociale>ALL FOOD SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>15000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-14</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZE73ABBE30</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. SOMMISTR. PASTI CON IL SISTEMA DEL CATERING VEICOLATO DA EFF. PRESSO IL DEPOSITO MUN. DI POGGIORSINI DA SVOL. NELLE MORE ESPL. NUOVA GARA APRILE 2023 ALLE C.E. PREV.  RDO AGGIUD. ASP ANNO 2022 E CONF. RDO E ATTI NEGOZIALI SUCC.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04139830725</codiceFiscale>
+<ragioneSociale>LA GROTTA DI VARVARA SERGIO &amp; C. SNC</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04139830725</codiceFiscale>
+<ragioneSociale>LA GROTTA DI VARVARA SERGIO &amp; C. SNC</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>15000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-14</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z093B02C90</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. SOMMINISTRAZIONE PASTI CON IL SISTEMA DEL CATERING VEICOLATO DA EFF. PRESSO IL DEP. MUNIZ. DI POGGIORSINI DA SVOLG. NELLE MORE NUOVA GARA MESE MAG-2023 ALLE C.E. PREV. RDO AGGIUD. IN ASP ANNO 2022 E CONF. RDO E ATTI NEG. SUCC.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04139830725</codiceFiscale>
+<ragioneSociale>LA GROTTA DI VARVARA SERGIO E C. SNC</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04139830725</codiceFiscale>
+<ragioneSociale>LA GROTTA DI VARVARA SERGIO E C. SNC</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>15000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-10</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z233ABC13F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI SOMMINISTRAZIONE PASTI CON IL SISTEMA DEL CATERING VEICOLATO DA EFFETTUARSI PRESSO IL DEP. MUNIZ. DI PRATOLA P. DA SVOLG. NELLE MORE DELL'ESPL. DI UNA NUOVA GARA APRILE 2023 ALLE COND. ECON. PREV. RDO AGGIUD. IN ASP 2022 E CONF. RDO SUCC.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01910150695</codiceFiscale>
+<ragioneSociale>EUROMENSE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01910150695</codiceFiscale>
+<ragioneSociale>EUROMENSE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>15000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-14</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z103B04114</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI SOMMINISTRAZIONE PASTI CON IL SISTEMA DEL CATERING VEICOLATO DA EFFETTUARSI PRESSO IL DEP. MUNIZ. DI PRATOLA P. DA SVOLG. NELLE MORE DELL'ESPL. DI UNA NUOVA GARA MAGGIO 2023 ALLE COND. ECON. PREV. RDO AGGIUD. IN ASP 2022 E CONF. RDO SUCC.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01910150695</codiceFiscale>
+<ragioneSociale>EUROMENSE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01910150695</codiceFiscale>
+<ragioneSociale>EUROMENSE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>15000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-16</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZC63995AE3</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. SOMMINISTRAZ. PASTI CON IL SISTEMA DEL CATERING VEICOLATO DA EFF. PRESSO IL DEP. MUN. DI RAPOLANO DA SVOLG. NELLE MORE DELL'ESPL.NUOVA GARA MESE APR-2023 ALLE C. E. PREV. DALLA RDO 2022 E CONF. RDO E ATTI NEG. SUCC.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02258820519</codiceFiscale>
+<ragioneSociale>LUJEDA SAS DI MAGINI DANIELA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02258820519</codiceFiscale>
+<ragioneSociale>LUJEDA SAS DI MAGINI DANIELA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>15000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-14</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZBB3ABCAD7</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. SOMMINISTRAZ. PASTI CON IL SISTEMA DEL CATERING VEICOLATO DA EFF. PRESSO DEP. MUN. DI BIBBONA DA SVOL. NELLE MORE DELL'ESPL. UNA NUOVA GARA MESE DI APR-2023 ALLE C. E.PREV. DALLA RDO 2022 E CONF. RDO E ATTI N. SUCC</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01617950249</codiceFiscale>
+<ragioneSociale>SERENISSIMA RISTORAZIONE SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01617950249</codiceFiscale>
+<ragioneSociale>SERENISSIMA RISTORAZIONE SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>15000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-14</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z733B05CBE</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. SOMMINISTRAZ. PASTI CON IL SISTEMA DEL CATERING VEICOLATO DA EFF. PRESSO DEP. MUN. DI BIBBONA DA SVOL. NELLE MORE DELL'ESPL. UNA NUOVA GARA MESE DI MAG-2023 ALLE C. E.PREV. DALLA RDO 2022 E CONF. RDO E ATTI N. SUCC</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01617950249</codiceFiscale>
+<ragioneSociale>SERENISSIMA RISTORAZIONE SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01617950249</codiceFiscale>
+<ragioneSociale>SERENISSIMA RISTORAZIONE SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>15000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-14</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZA13B2F331</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI RIPARAZIONE E SOSTITUZIONE PNEUMATICI AUTOMEZZI COMMERCIALI.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04695710634</codiceFiscale>
+<ragioneSociale>OFFICINE SPF SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04695710634</codiceFiscale>
+<ragioneSociale>OFFICINE SPF SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>36075.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-24</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZB43B3D7DC</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>ATTIVITA' DI MASSIMA URGENZA PER LAVORI DI PULIZIA SCOLI ACQUE METEORICHE PRESSO DEP. MUN. DI RAPOLANO,</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01153560527</codiceFiscale>
+<ragioneSociale>DI SORBO ANTONIO SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>05665420484</codiceFiscale>
+<ragioneSociale>FIRENZE SPURGHI SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01465350625</codiceFiscale>
+<ragioneSociale>MONDO ECOLOGIA SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>00120940499</codiceFiscale>
+<ragioneSociale>SEMIT SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01153560527</codiceFiscale>
+<ragioneSociale>DI SORBO ANTONIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>23770.50</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-24</dataInizio>
+<dataUltimazione>2023-05-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z443B0D375</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>AFFID. SERV. PULIZIA LOCALI ED AREE ESTERNE PRESSO CAS. MARSELLI (NA) P.CO VEICOLI INEFFIC. DI CANCELLO - MAGAZ. DIR.DI GRICIG.-DISTACC.PERSANO-DEP. MUNIZ. DI CARDIT., POGGIO., PRATOLA PELIGNA, NERA MONTORO, RAPOLANO, VERSEGGE, BIBBONA MAGGIO 2023.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01234110631</codiceFiscale>
+<ragioneSociale>S.A.P. SOCIETA' APPALTI PULIZIE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01234110631</codiceFiscale>
+<ragioneSociale>S.A.P. SOCIETA' APPALTI PULIZIE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>12880.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-12</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9737132784</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>CONV. 2022-2023 PER IL SERV. PULIZIA LOCALI ED AREE ESTERNE PRESSO I DEP. MUN. DI POGGIORSINI (BA), PRAT. PEL. (AQ), NERA M. (TR), RAPOLANO (SI), VERSEGGE (GR) E BIBBONA (LI) PER. GIU-2023/SET-2024</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01945580502</codiceFiscale>
+<ragioneSociale>ANTARES SOCIETA' COOPERATIVA</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>04191210402</codiceFiscale>
+<ragioneSociale>AUREA SERVIZI SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>03739740615</codiceFiscale>
+<ragioneSociale>BRILL SERVICE SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01769040856</codiceFiscale>
+<ragioneSociale>BSF</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>13062821007</codiceFiscale>
+<ragioneSociale>CONSORZIO STABILE LGA SERVICE</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>07521940721</codiceFiscale>
+<ragioneSociale>ECO TRANSFER SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>06749000631</codiceFiscale>
+<ragioneSociale>ECOCLEANER SAS DI RITA FIORE</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>04087740371</codiceFiscale>
+<ragioneSociale>ERGAP SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>08005231215</codiceFiscale>
+<ragioneSociale>FARC SERVICE SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01853960506</codiceFiscale>
+<ragioneSociale>GIVA</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>07973180727</codiceFiscale>
+<ragioneSociale>GLOBO SERVICE SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>07437680726</codiceFiscale>
+<ragioneSociale>HOLDING SERVICE SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>00486270630</codiceFiscale>
+<ragioneSociale>LA MONDIAL SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>11615761001</codiceFiscale>
+<ragioneSociale>LGA SERVICE SOCIETA' COOPERATIVA</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>03523460651</codiceFiscale>
+<ragioneSociale>PULIM 2000 SOCIETA' COOPERATIVA</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>07352241215</codiceFiscale>
+<ragioneSociale>PULI PA.MA SERVICE SOC. COOP. SOOC.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>12830361007</codiceFiscale>
+<ragioneSociale>ROMA INTEGRAL SYSTEMS</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01234110631</codiceFiscale>
+<ragioneSociale>S.A.P. SOCIETA' APPALTI PULIZIE SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>05204621006</codiceFiscale>
+<ragioneSociale>S.I.P.A.V. SOCIETA' ITALIANA PULIZIE APPALTI VARI</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>04161790631</codiceFiscale>
+<ragioneSociale>SANTA BRIGIDA SCPA</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>07921450636</codiceFiscale>
+<ragioneSociale>SGM S.R.L. SERVIZI GENERALI E MANUTENZIONE</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>07315450630</codiceFiscale>
+<ragioneSociale>SOCIETA' COOPERATIVA CONTE LANDONE ARL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07921450636</codiceFiscale>
+<ragioneSociale>SGM S.R.L. SERVIZI GENERALI E MANUTENZIONE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>208580.71</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-11</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZE43BD899E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO N.5 TOVAGLIE BIANCHE 250*2 PER LE ESIGENZE DELLA SALA CONVEGNO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>09613141218</codiceFiscale>
+<ragioneSociale>HORECAPP STORE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>09613141218</codiceFiscale>
+<ragioneSociale>HORECAPP STORE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>250.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-13</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZC73BDD910</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO DI RICAMBIO MATRICE ST IMA DP PER LE ESIGENZE DEI DEPOSITI MUNIZIONI DIPENDENTI DEL 10° CERIMANT</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07069121213</codiceFiscale>
+<ragioneSociale>FLOOR COATING SRL UNIPERSONALE</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>05777451211</codiceFiscale>
+<ragioneSociale>GIAN.MAI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07069121213</codiceFiscale>
+<ragioneSociale>FLOOR COATING SRL UNIPERSONALE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>193.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-14</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>98585848E0</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>LAVORI SFALCIO ERBA PULIZIA, DISOSTR. A MEZZO DI ATTREZZI E MACCH. IDONEE ALLA RASAT. DI ERBA, ARBUSTI E VARIA VEGETAZIONE DELL'AREA ATTIVA E DELLE AREE ANTISTANTI AD OGNI SINGOLA RISERVETTA DELLE DIP. DEPOSITO MUNIZ. RAPOLANO, VERSEGGE E BIBBONA</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05145331210</codiceFiscale>
+<ragioneSociale>VIVAI BARRETTA GARDEN SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02492270646</codiceFiscale>
+<ragioneSociale>D'ARCHI F.U.L. SAS DI D'ARCHI UGO &amp; C.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02101210561</codiceFiscale>
+<ragioneSociale>DIS.ECO. SERVIZI SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02513420543</codiceFiscale>
+<ragioneSociale>AGRICOLA F.LLI ANNIBALI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05145331210</codiceFiscale>
+<ragioneSociale>VIVAI BARRETTA GARDEN SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>83500.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-09</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>986986456E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>LAVORI SFALCIO PULIZIA, PUL. CANALI E SEI FOSSI DI SCOLO DELLE ACQUE METEORICHE, DISOSTR. A MEZZO DI ATTREZZI E MACCHINE IDONEE ALLA RATURA ERBA, ARBUSTI E VARIA VEGET. AREA ATTIVA E AREE ANTISTANTI AD OGNI  RISERVETTA DELLA DIP. DEP.MUN. POGGIORSINI</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07341510720</codiceFiscale>
+<ragioneSociale>GREEN TIME SOCIETA' COOPERATIVA</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>SRRGPP76P14H501N</codiceFiscale>
+<ragioneSociale>ECOGREEN DI SERRANI GIUSEPPE</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>04790910725</codiceFiscale>
+<ragioneSociale>EREDI DI CAMMARROTA G. DI CAMMARROTA ANTONIO &amp; C. SNC</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02492270646</codiceFiscale>
+<ragioneSociale>D'ARCHI F.U.L. SAS DI D'ARCHI UGO E C.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02101210561</codiceFiscale>
+<ragioneSociale>DIS.ECO. SERVIZI SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01854160700</codiceFiscale>
+<ragioneSociale>G.M.G. MULTISERVICE SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01529410761</codiceFiscale>
+<ragioneSociale>GIARDINI E AMBIENTE SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>05145331210</codiceFiscale>
+<ragioneSociale>VIVAI BARRETTA GARDEN SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07341510720</codiceFiscale>
+<ragioneSociale>GREEN TIME SOCIETA' COOPERATIVA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>26968.47</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-15</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZC13B783B6</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO DI N.4 CARRELLI DA UFFICIO PER LE ESIGENZE DELL'UFFICIO COMANDO DEL 10° CERIMANT DI NAPOLI.</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07650701217</codiceFiscale>
+<ragioneSociale>OFFICE NETWORK S.A.S. DI UGO CACCIAGLIA E C.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>09613141218</codiceFiscale>
+<ragioneSociale>HORECAPP STORE</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>04770060632</codiceFiscale>
+<ragioneSociale>PARTENUFFICIO DI ANTONIO FENIZIA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07650701217</codiceFiscale>
+<ragioneSociale>OFFICE NETWORK S.A.S. DI UGO CACCIAGLIA E C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1677.14</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-14</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z433B9B8D1</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI RACCOLTA, TRASPORTO E SUCC. SMALTIMENTO DI MATERIALE VARIO INGOMBRANTE CODICE CER 130208-150110-150203-160107-160112-160601 ACCAT. INTERNO OFFICINA E SMAL. RIFIUTO LIQU. SPEC. NON PERICOLOSO PROV. AUTOLAV. CASERMA MARSELLI.</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>08178101211</codiceFiscale>
+<ragioneSociale>COECO. SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>08368331214</codiceFiscale>
+<ragioneSociale>EUROSERVICE SERVIZI AMBIENTALI SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01130780628</codiceFiscale>
+<ragioneSociale>EDIL AMBIENTE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>08178101211</codiceFiscale>
+<ragioneSociale>COECO. SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5400.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-23</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z263A587D8</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>LAVORI DI VERIFICA PERIODICA DEGLI IMPIANTI AI SENSI DEL DPR 22/10/2001 N.462/2001 N.37- CODICE NODO: DX30-2-490571 PRESSO LA CAB. CONN. IN MEDIA TENS. DEL DEP. MUN. BIBBONA (LI).</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02571710694</codiceFiscale>
+<ragioneSociale>SOELIT SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02571710694</codiceFiscale>
+<ragioneSociale>SOELIT SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>279.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-09</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z543B87BCE</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO DI PARTI DI RICAMBIO VARIO ADATTABILE ALLE FORCHE DEI CARRELLI ELEVATORI IN USO PRESSO IL DEPOSITO MUN. DI BIBBONA E VERSEGGE PER OFFRIRE UN SOST. LOG. ALLA TASK FORCE DI STRADE SICURE.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00793780537</codiceFiscale>
+<ragioneSociale>KELLY SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00793780537</codiceFiscale>
+<ragioneSociale>KELLY SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3780.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-29</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZC13BA2646</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO DI N.1 ESPLOSIMETRO ALTAIR  CON CUSTODIA ANTRACITE E CARICABATTERIE EUROPEO PER LE ESIGENZE DELLA SQUADRA GAS FREE.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01831710569</codiceFiscale>
+<ragioneSociale>NBC SYSTEM S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01831710569</codiceFiscale>
+<ragioneSociale>NBC SYSTEM S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>990.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-27</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>97967169C9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. MOVIMENTAZIONE, DI MANUF. ESPLOSIVI CONNESSA SPECIF. MANOVALANZA ED EVENT. PER QUELLA OCCAS. ED URGENTE LEGATA AD ATTIVITA' ISTIT.LI DI MANOVAL. NON CONNESSA DA EFFETTUARSI PRESSO DEP. MUN. POGGIOR., PRATOLA P., NERA M., RAP., VERSEGGE E BIBBON</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00496600636</codiceFiscale>
+<ragioneSociale>COOP. ALMA PARTENOPE SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>07921450636</codiceFiscale>
+<ragioneSociale>SGM SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>13226021007</codiceFiscale>
+<ragioneSociale>MARA SOC. COOP. A RESPONSABILITA' LIMITATA</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>15445501008</codiceFiscale>
+<ragioneSociale>ALBA SI SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>13062821007</codiceFiscale>
+<ragioneSociale>CONSORZIO STABILE LGA SERVICE</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>04161790631</codiceFiscale>
+<ragioneSociale>SANTA BRIGIDA SCPA</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>07973180727</codiceFiscale>
+<ragioneSociale>GLOBO SERVICE SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01769040856</codiceFiscale>
+<ragioneSociale>BSF</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>06579400828</codiceFiscale>
+<ragioneSociale>CLEANING &amp; SERVICE SOC. COOP. A R.L.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>07504910634</codiceFiscale>
+<ragioneSociale>CO.GE.SER. ITALIA SOC. COOP.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>09657561214</codiceFiscale>
+<ragioneSociale>ECO.GREEN &amp; FOOD AND DRINK</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>11381401006</codiceFiscale>
+<ragioneSociale>GEFA GESTIONI SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>11615761001</codiceFiscale>
+<ragioneSociale>LGA SERVICE SOC. COOP.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>07346121218</codiceFiscale>
+<ragioneSociale>MARIGLIANO SERVICE SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01234110631</codiceFiscale>
+<ragioneSociale>S.A.P. SOC. APPALTI PULIZIE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00496600636</codiceFiscale>
+<ragioneSociale>COOP. ALMA PARTENOPE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>213000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-12</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZD03B6E113</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. MANUT. PREV. E CORRE. AUTOMEZZI COMM.LI, CARRELLI EL., MEZZI DEL GENIO, ATTREZ. DI OFF./MINUTO MANT. E VEICOLI TATT. E TATT./LOG. IN CARI. DEP. MUN. NERA M., SCUOLA L. E. PERUGIA E AL CENTRO DI SEL. E RECL. NSZ. EI ED EDRC DIP DAL C.DO F. O.SUD</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00751900556</codiceFiscale>
+<ragioneSociale>TRUCK SERVICE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00751900556</codiceFiscale>
+<ragioneSociale>TRUCK SERVICE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-09</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZEF3B6E582</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>RIPAR. AUTOMEZZI COMM.LI BLINDATI E NON IN CARICO ALLA SCUOLA TRAMAT ED AI REGG. CHE SVOLG. FUNZ. ISTIT. PER CONTO DEL C.DO LOG. EI PRIVI DI ORG. MANT.</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01051050571</codiceFiscale>
+<ragioneSociale>C.R.A. SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01051050571</codiceFiscale>
+<ragioneSociale>C.R.A. SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-09</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z693BA03C5</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>RIPAR. AUTOMEZZI COMM.LI CARRELLI ELEV., MEZZI DEL GENIO, ATTREZZ. DI OFFIC./MINUTO MANTEN. E VEICOLI TATT. E TATT./LOG. IN CARICO AL DEP. MUN. DI BIBBONA (LI) ED EDRC DIP. DAL C.DO F. O. SUD PRIVI</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00206110496</codiceFiscale>
+<ragioneSociale>R.V.I. SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00206110496</codiceFiscale>
+<ragioneSociale>R.V.I. SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>19999.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-26</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z843B6EA01</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>RIPAR. AUTOMEZZI COMM.LI CARRELLI ELEV., MEZZI DEL GENIO, ATTREZZ. DI OFFIC./MINUTO MANTEN. E VEICOLI TATT. E TATT./LOG. IN CARICO AL DEP. MUN. DI RAPOLANO (SI)  ED EDRC DIP. DAL C.DO F. O. SUD</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01327650519</codiceFiscale>
+<ragioneSociale>AUTO-VAL 90 SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01327650519</codiceFiscale>
+<ragioneSociale>AUTO-VAL 90 SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>20000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-09</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z033B6EB83</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>RIPAR. AUTOMEZZI COMM.LI CARRELLI ELEV., MEZZI DEL GENIO, ATTREZZ. DI OFFIC./MINUTO MANTEN. E VEICOLI TATT. E TATT./LOG. IN CARICO AL DEP. MUN. DI PRATOLA PELIGNA (AQ)  ED EDRC DIP. DAL C.DO F. O. SUD PRIVI DI ORG. DI MANTENIMENTO.</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01914710684</codiceFiscale>
+<ragioneSociale>B.T.S. SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01914710684</codiceFiscale>
+<ragioneSociale>B.T.S. SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>20000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-09</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9842766B72</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>GARA ANAC N.9114764 SERVIZIO MANUTENZIONE PREVENTIVA E CORRETTIVA DEGLI AUTOMEZZI COMMERCIALI, TATTICI E TATTICO/LOGISTICI IN CARICO AL CME DI CATANZARO ED EDRC DIP. COMFOPSUD PRIVI DI ORGANI DI MANTENIMENTO</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02946030794</codiceFiscale>
+<ragioneSociale>G.T.S. SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>03565970799</codiceFiscale>
+<ragioneSociale>CSG SRLS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02946030794</codiceFiscale>
+<ragioneSociale>G.T.S. SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>20000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-31</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>984322021C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>GARA ANAC N.9114764 SERVIZIO MANUTENZIONE PREVENTIVA E CORRETTIVA DEGLI AUTOMEZZI COMMERCIALI, TATTICI E TATTICO/LOGISTICI IN CARICO AL CME DI BARI E C.DO INFR. BARI ED EDRC DIP. COMFOPSUD PRIVI DI ORGANI DI MANTENIMENTO</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>SLLDNC63B10A225O</codiceFiscale>
+<ragioneSociale>SALLICATI DOMENICO</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02525340747</codiceFiscale>
+<ragioneSociale>R.C.S. SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>05107250721</codiceFiscale>
+<ragioneSociale>ZUCCARO FRANCESCO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>SLLDNC63B10A225O</codiceFiscale>
+<ragioneSociale>SALLICATI DOMENICO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>40000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-31</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9843286891</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>GARA ANAC N.9114764 SERVIZIO MANUTENZIONE PREVENTIVA E CORRETTIVA DEGLI AUTOMEZZI COMMERCIALI, TATTICI E TATTICO/LOGISTICI IN CARICO AGLI EDRC DIP. DAL COMFOPSUD ED AGLI EDRC CHE IMPIEGANO VEICOLI DI ALTA RAPPRESENTANZA ISTITUZIONALE</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06815091217</codiceFiscale>
+<ragioneSociale>FUTURE SERVICE SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>05930600654</codiceFiscale>
+<ragioneSociale>DP SERVICE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06815091217</codiceFiscale>
+<ragioneSociale>FUTURE SERVICE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>40000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-31</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9877371866</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>REALIZZAZIONE ADEGUAMENTO E AMPLIAMENTO DELLA RETE FONIA E DATI IN CABLAGGIO STRUTTURATO PRESSO LA CASERMA MARSELLI DI NAPOLI. LOTTO 1</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06503661214</codiceFiscale>
+<ragioneSociale>BRT SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02487260354</codiceFiscale>
+<ragioneSociale>BAGNOLI NET SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>04323210874</codiceFiscale>
+<ragioneSociale>EHT S.C.P.A.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02434360604</codiceFiscale>
+<ragioneSociale>HELLOTEL TELECOMUNICAZIONI SRL UNIPERSONALE</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>00622290807</codiceFiscale>
+<ragioneSociale>L'ELETTRONICA DI MACINO VINCENZO</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>06163410019</codiceFiscale>
+<ragioneSociale>M2 INFORMATICA</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>15999111006</codiceFiscale>
+<ragioneSociale>MICROTIER  SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01762150207</codiceFiscale>
+<ragioneSociale>MYNET SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02512210648</codiceFiscale>
+<ragioneSociale>NETPHAROS</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>00605850361</codiceFiscale>
+<ragioneSociale>NEW MEDIA SYSTEM DI DE NISCO LUIGI</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>07469040633</codiceFiscale>
+<ragioneSociale>OPTIMA ITALIA SPA</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>06526460727</codiceFiscale>
+<ragioneSociale>S.I.A. SRL SOLUZIONI INFORMATIZZATE PER AZIENDE</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>05562440726</codiceFiscale>
+<ragioneSociale>SHT COMPUTERS SNC DI MORGESE LEONARDO &amp; C.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01016160515</codiceFiscale>
+<ragioneSociale>SI.S.TEL. DI VLADIMIRO DE ANDREIS E C.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02031760412</codiceFiscale>
+<ragioneSociale>SISTEMI INFORMATICI SNC DI MIRAGOLI CARLO GIUSEPPE GUIDO E C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06503661214</codiceFiscale>
+<ragioneSociale>BRT SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>79030.62</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-12</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9820641952</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>Convenzione anno 2023 manutenzione, riparazione ed adeguamento a norma dei DEPOCEL area giurisdizionale.</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01043900685</codiceFiscale>
+<ragioneSociale>RIVES SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01043900685</codiceFiscale>
+<ragioneSociale>RIVES SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>140000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-26</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>98147793DA</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>Riparaz. e manut.  carrelli elevatori elettrici, a motore, transpallet elettrici e non, attrezz. d'officina/minuto manten., in carico ai Depositi Mun. dip. del 10^ Cerimant, in carico agli EDRC dip. Dal C.do d.le Forze Oper. Sud privi di org. Di Mant</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>08175601213</codiceFiscale>
+<ragioneSociale>B.G.R. SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>08175601213</codiceFiscale>
+<ragioneSociale>B.G.R. SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>140000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-17</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZA13A5AFD4</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>LAVORI DI VERIFICA PERIODICA DEGLI IMPIANTI AI SENSI DEL DPR 22/10/2001 N.462/2001 N.37- CODICE NODO:DX30-2-490571 PRESSO LA CABINA DI CONNESSIONE IN MEDIA TENSIONE DEL DEPOSITO MUNIZIONI DI BIBBONA (LI)</oggetto>
+<sceltaContraente>33-PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>08427870012</codiceFiscale>
+<ragioneSociale>ELLISSE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>08427870012</codiceFiscale>
+<ragioneSociale>ELLISSE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>279.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-17</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z993B6ACFE</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>AFFIDAMENTO DEL SERV. PULIZIA LOCALI ED AREE ESTERNE C/O DEP. MUN. POGGIORSINI, PRATOLA P., NERA M., RAPOLANO, VERSEGGE E BIBBONA 06/2023 DA SVOLG. NELLE MORE DI NUOVA GARA</oggetto>
+<sceltaContraente>33-PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01234110631</codiceFiscale>
+<ragioneSociale>S.A.P. SOCIETA' APPALTI PULIZIE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01234110631</codiceFiscale>
+<ragioneSociale>S.A.P. SOCIETA' APPALTI PULIZIE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>12880.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-08</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z693C37B7D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO N.10 CASSE IN LEGNO PER FUNZIONAMENTO DEL DEPOSITO ARMI DI CONFISCA PRESSO LA CASERMA MARSELLI</oggetto>
+<sceltaContraente>33-PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07069121213</codiceFiscale>
+<ragioneSociale>FLOOR COATING SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07069121213</codiceFiscale>
+<ragioneSociale>FLOOR COATING SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1850.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-28</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z983C879F1</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>Servizio di buffet in occasione della cerimonia di inaugurazione dell'aula Petrucci del 10° CERIMANT DI NAPOLI che si terrà all'interno della caserma "N. Marselli"</oggetto>
+<sceltaContraente>36-AFFIDAMENTO DIRETTO PER LAVORI, SERVIZI O FORNITURE SUPPLEMENTARI</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04161790631</codiceFiscale>
+<ragioneSociale>SANTA BRIGIDA SOC. COOPERATIVA PER AZIONI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04161790631</codiceFiscale>
+<ragioneSociale>SANTA BRIGIDA SOC. COOPERATIVA PER AZIONI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1730.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-22</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZDB3C87E46</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>Fornitura di vestiario tattico per le esigenze del Personale Militare impiegato nei teatri operativi fuori area.</oggetto>
+<sceltaContraente>36-AFFIDAMENTO DIRETTO PER LAVORI, SERVIZI O FORNITURE SUPPLEMENTARI</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07871851213</codiceFiscale>
+<ragioneSociale>C.D.S. S.A.S. DI CAMILLA CELENTANO &amp; C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07871851213</codiceFiscale>
+<ragioneSociale>C.D.S. S.A.S. DI CAMILLA CELENTANO &amp; C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>246.89</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-29</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z953CA965A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>“Acquisto n.3 sacchi di sabbia purificata RS per cromatografia flash 1kg</oggetto>
+<sceltaContraente>36-AFFIDAMENTO DIRETTO PER LAVORI, SERVIZI O FORNITURE SUPPLEMENTARI</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06208051216</codiceFiscale>
+<ragioneSociale>VETROCHIMICA S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06208051216</codiceFiscale>
+<ragioneSociale>VETROCHIMICA S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>294.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-06</dataInizio>
+<dataUltimazione>2023-10-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZD23CC5342</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>LAVORI URGENTI PER LA MANUTENZIONE DEGLI ARGANI DI MANOVRA DI PORTONI BLINDATI SCORREVOLI E DEGLI ARGANI DI MANOVRA. DELLE FINESTRE DI AREAZIONE E DELLE GUISE SUP. E INF. DI N.3 BUNKER SIST. C/O DEP. MUN. VERSEGGE</oggetto>
+<sceltaContraente>33-PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>PZZPLA64R31E202K</codiceFiscale>
+<ragioneSociale>LAVORAZIONI PAZZAGLI DI PAZZAGLI GEOM. PAOLO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>PZZPLA64R31E202K</codiceFiscale>
+<ragioneSociale>LAVORAZIONI PAZZAGLI DI PAZZAGLI GEOM. PAOLO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3250.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-18</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z433CABFF0</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO DI FORNO A 3 TEGLIE 60X40 VENTILATO E DI 2 CARRELLI RIPIANI DI DIMENSIONI 830X315 IN ACCIAIO INOX</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00979390572</codiceFiscale>
+<ragioneSociale>A.R.P. SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00979390572</codiceFiscale>
+<ragioneSociale>A.R.P. SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1160.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-06</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZE43C6DD0F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>LAV. DI SMONT. E RIPAR. BINARI DI SCORR. TENDA NEI LOC. MENSA E SALA CONV. D. CAS. N. MARSELLI E SIST. STAFFE REG. CHE SOST. I BIN. CON SMON. FASCE VER. SU T. LA LUNGH. DI OGNI BIN. NEI LOC. D. PAL. DIR. E D. PAL. MONFALCONE IN USO AL P. STRADE SICUR</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>08992471212</codiceFiscale>
+<ragioneSociale>SLERITT SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>08992471212</codiceFiscale>
+<ragioneSociale>SLERITT SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5600.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-19</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZDC3BE9EE5</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO ADDITIVO PER CARBURANTE (AD BLUE) PER FUNZIONAMENTO DEP. CEL. DELLA CASERMA MARSELLI</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03632721217</codiceFiscale>
+<ragioneSociale>C.R.C. DI BUONO SAS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03632721217</codiceFiscale>
+<ragioneSociale>C.R.C. DI BUONO SAS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1600.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-18</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z083CD673B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO ADDITIVO PER CARBURANTE (AD BLUE) PER FUNZIONAMENTO DEP. CEL. DELLA CASERMA MARSELLI</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03632721217</codiceFiscale>
+<ragioneSociale>C.R.C. SAS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03632721217</codiceFiscale>
+<ragioneSociale>C.R.C. SAS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1440.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-18</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z503B04F63</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. DI SOMMINISTRAZIONE PASTI CON IL SISTEMA DEL CATERING VEICOLATO DA EFF. C/O DEP. MUN. DI NERA MONTORO DA SVOLG. NELLE DELL'ESPL. DI UNA NUOVA GARA MAGGIO 2023 ALLE COND. EC. RDO PREC.</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>13996971001</codiceFiscale>
+<ragioneSociale>ALL FOOD SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>13996971001</codiceFiscale>
+<ragioneSociale>ALL FOOD SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>15000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-10</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZEF3A40F90</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO  N.25  CASSE IN LEGNO MISURA 1MX1MX1M PER CONTENERE ROTTAMI  IN LEGNO PROVENIENTI DALLA ROTTAMAZIONE</oggetto>
+<sceltaContraente>36-AFFIDAMENTO DIRETTO PER LAVORI, SERVIZI O FORNITURE SUPPLEMENTARI</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07069121213</codiceFiscale>
+<ragioneSociale>FLOOR COATING SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07069121213</codiceFiscale>
+<ragioneSociale>FLOOR COATING SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4532.50</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-14</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZAF3CE3605</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>Servizio di consul. con relativa redaz. D. documentazione tec. Neces. ad otten. l’omolog. INAIL per n.22 centr. Term. e certif. di prev. incendi di n.9 centr. Term. Che sup. i KW prev. ubic. nella sede Dir. Di Napoli e le SUE Dipendenti.</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>DLMVCN67T12H243K</codiceFiscale>
+<ragioneSociale>DEL MASTRO VINCENZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>DLMVCN67T12H243K</codiceFiscale>
+<ragioneSociale>DEL MASTRO VINCENZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>20750.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-19</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZA93C5E2D3</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>Servizio di raccolta, trasporto e successivo smaltimento di materiale in legno CER 150103 accatastato all'interno della Caserma Marselli di Napoli</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>08368331214</codiceFiscale>
+<ragioneSociale>EUROSERVICE SERVIZI AMBIENTALI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>08368331214</codiceFiscale>
+<ragioneSociale>EUROSERVICE SERVIZI AMBIENTALI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>12348.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-26</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z4B3CA65F9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>Fornitura di attrezzature varie per la funzionalità delle riservette munizioni dislocate nelle Dipendenze del 10° CERIMANT</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05777451211</codiceFiscale>
+<ragioneSociale>GIAN.MAI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05777451211</codiceFiscale>
+<ragioneSociale>GIAN.MAI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>9319.16</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-08</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZB63CF9EC2</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>Acquisto coppia prolunga per forche carrello JCB lunghezza 2200 per forche 110x55</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00793780537</codiceFiscale>
+<ragioneSociale>KELLY SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00793780537</codiceFiscale>
+<ragioneSociale>KELLY SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1050.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-08</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z173CD46FF</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>Affidamento del servizio dei lavori di riparazione veicolo BUS ITALO alle stesse condizioni tecnico amministrative della RDO 3584286 stipulata nel corso dell'anno 2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02946030794</codiceFiscale>
+<ragioneSociale>GENERAL TRUCK SERVICES SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02946030794</codiceFiscale>
+<ragioneSociale>GENERAL TRUCK SERVICES SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4013.09</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-03</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z893CD66B4</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERV. DI PULIZIA STRAORDINARIA NEI MESI DI OTTOBRE E NOVEMBRE 2023 PRESSO I LOCALI DI DEP. MUN. POGGIORSINI (BA) - PRATOLA P. (AQ) - NERA MONTORO (TR) - RAPOLANO (SI) - VERSEGGE (GR) E BIBBONA(LI).</oggetto>
+<sceltaContraente>36-AFFIDAMENTO DIRETTO PER LAVORI, SERVIZI O FORNITURE SUPPLEMENTARI</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07921450636</codiceFiscale>
+<ragioneSociale>SGM SRL SERVIZI GENERALI E MANUTENZIONE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07921450636</codiceFiscale>
+<ragioneSociale>SGM SRL SERVIZI GENERALI E MANUTENZIONE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>23000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-23</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZCF3D58589</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>LAVORI DI SOSTITUZIONE DI N.2 FRIGO BIBITE A VETRINA DA 42,3 PRESSO IL MAGAZZINO DI STRADE SICURE DISLOCATO NELLA CASERMA "N. MARSELLI" DI NAPOLI</oggetto>
+<sceltaContraente>33-PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05481561214</codiceFiscale>
+<ragioneSociale>CARIMED SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05481561214</codiceFiscale>
+<ragioneSociale>CARIMED SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2360.16</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-24</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>98481484D2</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE  E  RIPARAZIONE DEGLI AUTOCARRI TATTICI DELLA GAMMA SM E SMH DI FABBRICAZIONE ASTRA APPROV. PREV. N.73-161-327 DEL 15/05/2023,</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>64278.72</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-23</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z303AFA8E8</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE  E  RIPARAZIONE DEGLI AUTOCARRI TATTICI DELLA GAMMA SM E SMH DI FABBRICAZIONE ASTRA APPROV. PREV. N.340 DEL 27/04/2023</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>31943.39</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-10</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>988128130A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE  E  RIPARAZIONE DEGLI AUTOCARRI TATTICI DELLA GAMMA SM E SMH DI FABBRICAZIONE ASTRA APPROV. PREV. N.180-336-422-442 IN DATA 08/06/2023</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>143597.23</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-05</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>986637670A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE  E  RIPARAZIONE DEGLI AUTOCARRI TATTICI DELLA GAMMA SM E SMH DI FABBRICAZIONE ASTRA APPROV. PREV. N.79 DEL 04/05/2023</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>88574.02</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-05</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9966591314</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE  E  RIPARAZIONE DEGLI AUTOCARRI TATTICI DELLA GAMMA SM E SMH DI FABBRICAZIONE ASTRA APPROV. PREV. N.517-424-425-331-333-495-511 DEL 23/06/2023.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>137908.81</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-05</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>99571861D4</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE  E  RIPARAZIONE DEGLI AUTOCARRI TATTICI DELLA GAMMA SM E SMH DI FABBRICAZIONE ASTRA APPROV. PREV. N. 167/338/407  DEL 12/06/2023</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>142129.06</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-11</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9959142FF4</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE  E  RIPARAZIONE DEGLI AUTOCARRI TATTICI DELLA GAMMA SM E SMH DI FABBRICAZIONE ASTRA APPROV. PREV. N.98-99-445-334-451-DEL 22/06/2023</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>147349.90</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-11</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9957417075</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE  E  RIPARAZIONE DEGLI AUTOCARRI TATTICI DELLA GAMMA SM E SMH DI FABBRICAZIONE ASTRA APPROV. PREV. N.493-519-260 DEL 29/06/2023</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>140694.72</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-11</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>995723496E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE  E  RIPARAZIONE DEGLI AUTOCARRI TATTICI DELLA GAMMA SM E SMH DI FABBRICAZIONE ASTRA APPROV. PREV. N.537-518-385 DEL 22/06/2023</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>148107.33</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-11</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9957310826</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE  E  RIPARAZIONE DEGLI AUTOCARRI TATTICI DELLA GAMMA SM E SMH DI FABBRICAZIONE ASTRA APPROV. PREV. N. 452-337-330-332 DEL 26/06/2023</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>148492.31</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-11</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>99590861C2</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE  E  RIPARAZIONE DEGLI AUTOCARRI TATTICI DELLA GAMMA SM E SMH DI FABBRICAZIONE ASTRA APPROV. PREV. N.406-405-408-459-226 DEL 29/06/2023</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>105532.53</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-11</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z103D83456</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO CATERING PER AUGURI NATALIZI 2023 PER IL PERSONALE MILITARE E CIVILE DEL 10^ CERIMANT</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04161790631</codiceFiscale>
+<ragioneSociale>SANTA BRIGIDA SCPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04161790631</codiceFiscale>
+<ragioneSociale>SANTA BRIGIDA SCPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1799.50</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-11</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9957368803</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE  E  RIPARAZIONE DEGLI AUTOCARRI TATTICI DELLA GAMMA SM E SMH DI FABBRICAZIONE ASTRA CIG 9957368803</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D. V. SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D. V. SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>129007.59</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-11</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>99591083E9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE  E  RIPARAZIONE DEGLI AUTOCARRI TATTICI DELLA GAMMA SM E SMH DI FABBRICAZIONE ASTRA CIG 99591083E9</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D. V. SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D. V. SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>144704.57</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-11</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>99578505C6</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE  E  RIPARAZIONE DEGLI AUTOCARRI TATTICI DELLA GAMMA SM E SMH DI FABBRICAZIONE ASTRA CIG 99578505C6</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D.V. SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D.V. SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>85644.16</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-11</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>A002EAA2F9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE  E  RIPARAZIONE DEGLI AUTOCARRI TATTICI DELLA GAMMA SM E SMH DI FABBRICAZIONE ASTRA CIG A002EAA2F9</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D.V. SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D.V. SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>111244.53</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-03</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>A0041C24AD</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE  E  RIPARAZIONE DEGLI AUTOCARRI TATTICI DELLA GAMMA SM E SMH DI FABBRICAZIONE ASTRA CIG A0041C24AD</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D.V. SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D.V. SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>121590.79</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-03</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>A0041E2F12</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE  E  RIPARAZIONE DEGLI AUTOCARRI TATTICI DELLA GAMMA SM E SMH DI FABBRICAZIONE ASTRA CIG A0041E2F12</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D.V. SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D.V. SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>142879.12</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-03</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>A00422CC24</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE  E  RIPARAZIONE DEGLI AUTOCARRI TATTICI DELLA GAMMA SM E SMH DI FABBRICAZIONE ASTRA CIG A00422CC24</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D.V. SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D.V. SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>141547.84</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-11</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>A0042844C5</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE  E  RIPARAZIONE DEGLI AUTOCARRI TATTICI DELLA GAMMA SM E SMH DI FABBRICAZIONE ASTRA CIG A0042844C5</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D.V. SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D.V. SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>134379.85</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-03</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>A00CB89739</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE  E  RIPARAZIONE DEGLI AUTOCARRI TATTICI DELLA GAMMA SM E SMH DI FABBRICAZIONE ASTRA CIG A00CB89739</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D.V. SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D.V. SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>260405.72</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-07</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>A00CB6BE75</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE  E  RIPARAZIONE DEGLI AUTOCARRI TATTICI DELLA GAMMA SM E SMH DI FABBRICAZIONE ASTRA CIG A00CB6BE75</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D.V. SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D.V. SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>258702.36</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-07</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z413D8F6F1</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA DI ATTREZZATURE VARIE PER LE ESIGENZE DELLE LAV. DELL'OFFICINA E DELL'ARMERIA ATTRITION DEL 10° CENTRO DI RIFORNIMENTI E MANTENIMENTO DI NAPOLI</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05215380659</codiceFiscale>
+<ragioneSociale>INNOTECH ITALIA SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05215380659</codiceFiscale>
+<ragioneSociale>INNOTECH ITALIA SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>23279.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-07</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z7D3D9DBE0</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI ANALISI E CARATTERIZZAZIONE DI OLI E GRASSI ACCATASTATI ALL'INTERNO DELLA CASERMA "N. MARSELLI" DI NAPOLI.</oggetto>
+<sceltaContraente>36-AFFIDAMENTO DIRETTO PER LAVORI, SERVIZI O FORNITURE SUPPLEMENTARI</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>08178101211</codiceFiscale>
+<ragioneSociale>COECO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>08178101211</codiceFiscale>
+<ragioneSociale>COECO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5184.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-07</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z1F3D9DEF9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA DI CIRCA N.157 BUONI A VALORE NECESSARI PER L'ELEVAZIONE CULTURALE DEL PERSONALE CIVILE DEL 10° CERIMANT SPENDIBILI PER L'ACQUISTO DI LIBRI, DVD, ETC PRESSO LIBRERIE PRESENTI NEL TERRITORIO CAMPANO, PUGLIESE, ABRUZZESE, UMBRO E TOSCANO,</oggetto>
+<sceltaContraente>36-AFFIDAMENTO DIRETTO PER LAVORI, SERVIZI O FORNITURE SUPPLEMENTARI</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01014660417</codiceFiscale>
+<ragioneSociale>EDENRED ITALIA SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01014660417</codiceFiscale>
+<ragioneSociale>EDENRED ITALIA SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>7852.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-12</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z0F3DA739D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE  E  RIPARAZIONE DEGLI AUTOCARRI TATTICI DELLA GAMMA SM E SMH DI FABBRICAZIONE ASTRA F.DI A COMPL. 2024 CIG Z0F3DA739D</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D.V. SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D.V. SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>24245.37</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-29</dataInizio>
+<dataUltimazione>2024-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>A03C676D4D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE  E  RIPARAZIONE DEGLI AUTOCARRI TATTICI DELLA GAMMA SM E SMH DI FABBRICAZIONE ASTRA F.DI A COMPL. 2024 CIG A03C676D4D</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D.V. SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D.V. SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>236382.49</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-29</dataInizio>
+<dataUltimazione>2024-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>A0126D80E4</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE  E  RIPARAZIONE DEGLI AUTOCARRI TATTICI DELLA GAMMA SM E SMH DI FABBRICAZIONE ASTRA   CIG A0126D80E4</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D.V. SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D.V. SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>199554.55</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-07</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>A00C3692C2</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE  E  RIPARAZIONE DEGLI AUTOCARRI TATTICI DELLA GAMMA SM E SMH DI FABBRICAZIONE ASTRA  CIG A00C3692C2</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D.V. SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO D.V. SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>45479.06</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-18</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZA13C39B40</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>RICHIESTA REVISIONE E MESSA IN SICUREZZA POSTAZIONE CARICAMENTO E SCARICAMENTO ARMI</oggetto>
+<sceltaContraente>33-PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00822250189</codiceFiscale>
+<ragioneSociale>E.T.E.M. SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00822250189</codiceFiscale>
+<ragioneSociale>E.T.E.M. SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1150.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-30</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z5A3BD6080</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO DI MATERIALE PER LE ESIGENZE DEL NUCLEO DISINFETTORI PER LA DISINFEZIONE/DERATTIZZAZIONE DEI LUOGHI E DELLE AREE ESTERNE DELLA CASERMA MARSELLI IN NAPOLI E DEI LOCALI IN USO AL PERSONALE DI STRADE SICURE</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01084800315</codiceFiscale>
+<ragioneSociale>SATCOM SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+</aggiudicatari>
+<importoAggiudicazione>5051.68</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-18</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9877439086</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80019080631</codiceFiscaleProp>
+<denominazione>10° Centro Rifornimenti e Mantenimento</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI REALIZZAZIONE DI NUOVA TRATTA TRA IL DEPOSITO MUNIZIONI DI POGGIORSINI (BA) E LA STAZIONE RADIO INTERFORCE DI MONTE VULTURE (PZ)</oggetto>
+<sceltaContraente>07-SISTEMA DINAMICO DI ACQUISIZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06503361214</codiceFiscale>
+<ragioneSociale>BRT SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06503361214</codiceFiscale>
+<ragioneSociale>BRT SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>46999.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-15</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+</data>
+</legge190:pubblicazione>

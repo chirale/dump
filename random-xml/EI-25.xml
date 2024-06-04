@@ -1,0 +1,999 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+<titolo> Pubblicazione 1 legge 190</titolo>
+<abstract> Pubblicazione 1 legge 190 anno 1 rif. 2010 aggiornamento del 2024-01-22 13:55:20</abstract>
+<dataPubblicazioneDataset>2024-01-31</dataPubblicazioneDataset>
+<entePubblicatore>3° Reparto Infrastrutture</entePubblicatore>
+<dataUltimoAggiornamentoDataset>2024-01-22</dataUltimoAggiornamentoDataset>
+<annoRiferimento>2023</annoRiferimento>
+<urlFile>http://www.esercito.difesa.it/comunicazioni/bandi-di-gara/trasparenza/Documents/3-reparto-Infrastrutture/2023/avcp_dataset_2023.xml</urlFile>
+<licenza>IODL 2.0</licenza>
+</metadata>
+<data>
+<lotto>
+<cig>Z1A39C1A96</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Affidamento diretto, del servizio di redazione dell’Attestato di Prestazione Energetica di n. 9 appartamenti siti in Brescia (codici: EBS0015, EBS0016, EBS0052, EBS0057, EBS0058, EBS0059, EBS0060, EBS0061, EBS0062).</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01425830351</codiceFiscale>
+<ragioneSociale>Alfa Solutions S.p.a.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01425830351</codiceFiscale>
+<ragioneSociale>Alfa Solutions S.p.a.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3354.00</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>3354.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>9822058AAA</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Affidamento del servizio di urgente manutenzione del verde all’interno dei compendi infrastrutturali insistenti nel comune di Milano finalizzati al mantenimento delle condizioni di sicurezza e tutela della salute pubblica.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>12414990155</codiceFiscale>
+<ragioneSociale>Idealverde S.r.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>12414990155</codiceFiscale>
+<ragioneSociale>Idealverde S.r.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>81645.82</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>16329.16</importoSommeLiquidate></lotto>
+<lotto>
+<cig>96428782A9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Affidamento dei servizi di architettura e ingegneria relativi al coordinatore della sicurezza per l’esecuzione dei lavori di realizzazione di una palazzina da 96 posti letto nella Caserma Curtatone e Montanara in Mantova.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02107490696</codiceFiscale>
+<ragioneSociale>SOCIETA' ITALIANA SERVIZI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02107490696</codiceFiscale>
+<ragioneSociale>SOCIETA' ITALIANA SERVIZI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>99949.62</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>96643856CB</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Concessione del servizio di distribuzione automatica di bevande calde e fredde snack presso il 3° Reparto Infrastrutture di Milano, via Mario Pagano 22.</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02568980540</codiceFiscale>
+<ragioneSociale>ACQUA DRINK SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>15864331002</codiceFiscale>
+<ragioneSociale>ARD VENDING SRLS</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02239350412</codiceFiscale>
+<ragioneSociale>BONCI SRL UNIPERSONALE</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02598160816</codiceFiscale>
+<ragioneSociale>BREAK SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02057410249</codiceFiscale>
+<ragioneSociale>BRENTA DISTRIBUTORI SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>12095361007</codiceFiscale>
+<ragioneSociale>CAPITAL VENDING SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02163110741</codiceFiscale>
+<ragioneSociale>CARONE SCAVI DI CARONE MIMMO</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>00435470307</codiceFiscale>
+<ragioneSociale>CDA DI CATTELAN SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>04520640402</codiceFiscale>
+<ragioneSociale>CELLI ASSETT MANAGEMENT SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>09148180962</codiceFiscale>
+<ragioneSociale>COFFEE STORE DI DEMITRI GIUSEPPE</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01443620511</codiceFiscale>
+<ragioneSociale>COIBA SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>04166560724</codiceFiscale>
+<ragioneSociale>DL.A. SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>00596840223</codiceFiscale>
+<ragioneSociale>DOLOMATIC SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>00223360595</codiceFiscale>
+<ragioneSociale>DOMA</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>03492980788</codiceFiscale>
+<ragioneSociale>EGEA GLOBAL SERVICES SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01528181215</codiceFiscale>
+<ragioneSociale>ESPRESSO UNO PIU'</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>05647751006</codiceFiscale>
+<ragioneSociale>EURODISPENSER SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01569780669</codiceFiscale>
+<ragioneSociale>EUROMATIC SERVICE SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01509920227</codiceFiscale>
+<ragioneSociale>EUROVENDING SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01790060352</codiceFiscale>
+<ragioneSociale>EXPRESS SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>09600201009</codiceFiscale>
+<ragioneSociale>FANTASY CATERING SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>04962121002</codiceFiscale>
+<ragioneSociale>GE. SE. R. GESTIONE SERVIZIO RISTORAZIONE</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01038120307</codiceFiscale>
+<ragioneSociale>GRUPPO ILLIRIA SPA</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01133140937</codiceFiscale>
+<ragioneSociale>IL PICCOLO PRINCIPE SOCIETA' COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01341760666</codiceFiscale>
+<ragioneSociale>ITALSERVICE SAS DI SPITONI SONIA</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>00300250933</codiceFiscale>
+<ragioneSociale>LA DISTRIBUTRICE DI GAIOTTI GIOVANNI</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01048930505</codiceFiscale>
+<ragioneSociale>M.C.F. DI MIRELLA &amp; FABRIZIO CALVARUSO SNC</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>00831090337</codiceFiscale>
+<ragioneSociale>MAINI VENDING SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>04677561005</codiceFiscale>
+<ragioneSociale>MODO SPA</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01718370479</codiceFiscale>
+<ragioneSociale>NR SERVICE SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>03653630271</codiceFiscale>
+<ragioneSociale>SCATTOLIN DISTRIBUZIONE AUTOMATICA SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01237680242</codiceFiscale>
+<ragioneSociale>SCHIO DISTRIBUTORI AUTOMATICI SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>03240720049</codiceFiscale>
+<ragioneSociale>SIGMA SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>10713241007</codiceFiscale>
+<ragioneSociale>SOC. COOP. SOC. INT. ENERGIA SPECIALI ONLUS</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>06021030827</codiceFiscale>
+<ragioneSociale>STIGA</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>04297720288</codiceFiscale>
+<ragioneSociale>TE.SO.RI. SOCIETA' COOPERATIVA SOCIALE ONLUS</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01145290837</codiceFiscale>
+<ragioneSociale>TERMINTER SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>04736190820</codiceFiscale>
+<ragioneSociale>TRINACRIA VENDING SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>04318620160</codiceFiscale>
+<ragioneSociale>WEFOR SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>10437391005</codiceFiscale>
+<ragioneSociale>WORLD MATIC SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+</aggiudicatari>
+<importoAggiudicazione>0.00</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>9701104446</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Adesione alla Convenzione Consip “Gas Naturale 14 – Lotto 2”, per la fornitura di gas naturale presso gli uffici e gli alloggi ASC della caserma Carroccio sita in via Mario Pagano, 22, Milano, prezzo variabile, durata 12 mesi.</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02221101203</codiceFiscale>
+<ragioneSociale>HERA COMM S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02221101203</codiceFiscale>
+<ragioneSociale>HERA COMM S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>40876.80</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>3555.28</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZE53AC9E2D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Fornitura del servizio di formazione inerente l’erogazione a favore di un ufficiale del ruolo tecnico in servizio presso il 3° Reparto Infrastrutture di Milano del corso abilitante di “Esperto in interventi di risanamento Radon”.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02397430394</codiceFiscale>
+<ragioneSociale>UNIPRO S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02397430394</codiceFiscale>
+<ragioneSociale>UNIPRO S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>389.00</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>389.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZE53AC9E2D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Affidamento dei lavori, per la sostituzione della porta d’ingresso, tipo basculante, del garage di pertinenza dell’alloggio demaniale EMI0036, sito in via Cardinal Tosi nr. 5 in Milano.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>10253380967</codiceFiscale>
+<ragioneSociale>TECNO INFISSI S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>10253380967</codiceFiscale>
+<ragioneSociale>TECNO INFISSI S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3332.21</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>3288.89</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z173AC92C6</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Affidamento diretto ai sensi dell’art. 163 del D.lgs. n. 50/2016 dei lavori di messa in sicurezza di parti di finitura del prospetto sud della caserma “Curtatone e Montanara” in Mantova.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00375520202</codiceFiscale>
+<ragioneSociale>CECCHIN S.A.S.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00375520202</codiceFiscale>
+<ragioneSociale>CECCHIN S.A.S.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>6000.00</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>6000.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>9829392EDE</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Affidamento del servizio biennale di igienizzazione e manutenzione degli impianti di condizionamento della Caserma “Carroccio” via Mario Pagano n.22, Milano.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04639980962</codiceFiscale>
+<ragioneSociale>Dotti Energia s.r.l</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04639980962</codiceFiscale>
+<ragioneSociale>Dotti Energia s.r.l</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>12359.50</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>981778112F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Affidamento dei lavori di manutenzione, rimozione, bonifica e sostituzione delle coperture contenenti materiale in cemento amianto da eseguire presso i fabbricati B, G, L, S, W, X e Y all’interno della caserma “Mercanti" in Milano.</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00521600635</codiceFiscale>
+<ragioneSociale>SOLFATARA SOCIETA' COOPERATIVA</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>03117750012</codiceFiscale>
+<ragioneSociale>EDIL EUROPA SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>03191980733</codiceFiscale>
+<ragioneSociale>COSTRUIRE SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02768120731</codiceFiscale>
+<ragioneSociale>GEO. GA. COSTRUZIONI SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02589370846</codiceFiscale>
+<ragioneSociale>SOLAR SYSTEM</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>06638431210</codiceFiscale>
+<ragioneSociale>DUEMME SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>04961910264</codiceFiscale>
+<ragioneSociale>GRUPPO ITQ SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02161210188</codiceFiscale>
+<ragioneSociale>MR COPERTURE S.r.l.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>00860330257</codiceFiscale>
+<ragioneSociale>TRICHES ENRICO E DIEGO S.R.L.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01598351003</codiceFiscale>
+<ragioneSociale>MARCHETTI &amp; C. SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>08720580151</codiceFiscale>
+<ragioneSociale>IMPRESA RAVELLI SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02529770964</codiceFiscale>
+<ragioneSociale>ISOVIT S.r.l.</ragioneSociale>
+</partecipante>
+<partecipante>
+<identificativoFiscaleEstero>03082310966</identificativoFiscaleEstero>
+<ragioneSociale>DELEO SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<identificativoFiscaleEstero>02063030189</identificativoFiscaleEstero>
+<ragioneSociale>IMMOBILIARE EDILPROGETTI</ragioneSociale>
+</partecipante>
+<partecipante>
+<identificativoFiscaleEstero>11451400151</identificativoFiscaleEstero>
+<ragioneSociale>TEICOS UE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04961910264</codiceFiscale>
+<ragioneSociale>GRUPPO ITQ SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>791970.02</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z743B2774A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Servizio di formazione in materia di antinfortunistica a favore del personale civile del 3°Reparto Infrastrutture.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05583810964</codiceFiscale>
+<ragioneSociale>RECONSULTING S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05583810964</codiceFiscale>
+<ragioneSociale>RECONSULTING S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>326.70</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>326.70</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z3A3B47B12</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Adesione alla Convenzione Consip “Apparecchiature multifunzione in noleggio 2” per la fornitura in noleggio, per un periodo di trentasei mesi, di due apparecchiature multifunzione A3 monocromatiche.</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02298700010</codiceFiscale>
+<ragioneSociale>OLIVETTI S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02298700010</codiceFiscale>
+<ragioneSociale>OLIVETTI S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5587.20</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>98910218BC</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Affidamento dei lavori di manutenzione e bonifica da svolgersi presso la caserma “Curtatone e Montanara” in Mantova.</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01990880203</codiceFiscale>
+<ragioneSociale>Brentegani F.lli di Brentegani Simone &amp; C. s.n.c.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02211510207</codiceFiscale>
+<ragioneSociale>Brunoni Costruzioni s.r.l.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>00185040185</codiceFiscale>
+<ragioneSociale>C.E.F.E.R. SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>06282730966</codiceFiscale>
+<ragioneSociale>Coprima s.r.l.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>07430470968</codiceFiscale>
+<ragioneSociale>COSTRUZIONI EDILI MONIERI ARMANDO SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01450650203</codiceFiscale>
+<ragioneSociale>Folicaldi Costruzioni s.r.l.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01297860205</codiceFiscale>
+<ragioneSociale>Franzoni € Bertoletti s.r.l.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>00479400202</codiceFiscale>
+<ragioneSociale>F.T. Giuseppe Travaglini s.r.l.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01426090336</codiceFiscale>
+<ragioneSociale>Impredima s.r.l.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01585480203</codiceFiscale>
+<ragioneSociale>MANTOVAGRICOLTURA S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+</aggiudicatari>
+<importoAggiudicazione>0.00</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z6C3B8A883</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Affidamento del servizio di verifica straordinaria su n. 1 impianto di sollevamento e verifica biennale su n. 21 impianti di sollevamento presenti nelle palazzine demaniali site nel territorio della Regione Lombardia.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>12975730156</codiceFiscale>
+<ragioneSociale>SICIT SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>12975730156</codiceFiscale>
+<ragioneSociale>SICIT SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2145.00</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>2060.92</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZEF3BF9245</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Acquisizione di n.1 corso “Direttore dei Lavori: realizzazione di opere pubbliche e rapporti con il CSE e il CSP” della durata di 32 ore in favore di due sottufficiali con qualifica tecnica, in servizio presso il 3°Reparto Infrastrutture.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06243700967</codiceFiscale>
+<ragioneSociale>AFOR SAS DI Rabacchin Massimiliano &amp; C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06243700967</codiceFiscale>
+<ragioneSociale>AFOR SAS DI Rabacchin Massimiliano &amp; C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>800.00</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>800.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZE33BD8D45</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Servizio di riparazione degli automezzi civili Fiat Doblò, targa EI CU784 e EI CU865 e di manutenzione e revisione programmata su sette automezzi civili in dotazione al 3°Reparto Infrastrutture.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>10916930158</codiceFiscale>
+<ragioneSociale>Carrozzeria Torino S.n.c.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>10916930158</codiceFiscale>
+<ragioneSociale>Carrozzeria Torino S.n.c.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4822.99</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>4822.99</importoSommeLiquidate></lotto>
+<lotto>
+<cig>9946940A8D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Affidamento diretto del servizio di rimozione del guano, sanificazione e igienizzazione all'interno dei locali sottotetto delle palazzine demaniali di via Milano 51-53 a Legnano (MI). ID 3065.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02458660301</codiceFiscale>
+<ragioneSociale>EURO &amp; PROMOS SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02458660301</codiceFiscale>
+<ragioneSociale>EURO &amp; PROMOS SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>13764.53</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z1B3C04A53</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Adesione alla Convenzione Consip “Energia Elettrica 20 – Lotto 2”, per la fornitura di energia elettrica presso i locali della caserma Carroccio sita in via Mario Pagano, 22, Milano (Prezzo variabile, durata 12 mesi).</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>12883420155</codiceFiscale>
+<ragioneSociale>A2A Energia S.p.a.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>12883420155</codiceFiscale>
+<ragioneSociale>A2A Energia S.p.a.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>36723.91</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z703C11895</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Affidamento diretto dei lavori di messa in sicurezza della copertura della caserma “Carroccio”, sede del 3°Reparto Infrastrutture, a seguito degli eventi atmosferici avversi occorsi in data 25 luglio 2023.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>12084110159</codiceFiscale>
+<ragioneSociale>Garavaglia s.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>12084110159</codiceFiscale>
+<ragioneSociale>Garavaglia s.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4950.00</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>4950.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZFA3CC1677</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Affidamento diretto dei lavori di ripristino del funzionamento dei generatori di calore presso vari alloggi demaniali.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>09081130966</codiceFiscale>
+<ragioneSociale>ELCOTEM</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>09081130966</codiceFiscale>
+<ragioneSociale>ELCOTEM</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>26661.49</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z693C56F87</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Adesione alla Convenzione Consip “Energia Elettrica 20 – Lotto 2”, per la fornitura di energia elettrica per le luci perimetrali e/o le parti comuni delle palazzine demaniali site nella provincia di Milano.</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>12883420155</codiceFiscale>
+<ragioneSociale>A2A Energia S.p.a.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>12883420155</codiceFiscale>
+<ragioneSociale>A2A Energia S.p.a.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4112.04</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z213C56FBB</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Adesione alla Convenzione Consip “Energia Elettrica 20 – Lotto 3”, per la fornitura di energia elettrica per le luci perimetrali e/o le parti comuni delle palazzine demaniali site nella Regione Lombardia escluse le province di Milano e Lodi.</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>15844561009</codiceFiscale>
+<ragioneSociale>ENEL ENERGIA S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>15844561009</codiceFiscale>
+<ragioneSociale>ENEL ENERGIA S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3554.46</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZC33CA3DC3</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Fornitura e posa in opera nuovo apparato di videoregistrazione 32 canali completo di hard disk 2 TB per sistema di video sorveglianza presso l’ingresso della Caserma “Carroccio”, sito in via Mario Pagano 22, 20145 Milano.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>08239820155</codiceFiscale>
+<ragioneSociale>Delta Sicurezza Elettronica s.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>08239820155</codiceFiscale>
+<ragioneSociale>Delta Sicurezza Elettronica s.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1400.00</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>1400.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z213CA6861</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Affidamento del servizio di campionamento e analisi dell’acqua potabile, presso la Caserma Carroccio in Milano, volto al controllo dell’acqua destinata al consumo umano ed alla ricerca e tipizzazione della eventuale presenza di legionella.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03365190135</codiceFiscale>
+<ragioneSociale>Microlife Lab. s.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03365190135</codiceFiscale>
+<ragioneSociale>Microlife Lab. s.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>591.18</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>591.18</importoSommeLiquidate></lotto>
+<lotto>
+<cig>A01FD572E1</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Affidamento diretto dei lavori urgenti di messa in sicurezza e ripristino delle condizioni di salubrità dei locali presso la caserma “Curtatone e Montanara” in Mantova.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02020170201</codiceFiscale>
+<ragioneSociale>Gemma Impresa edile s.n.c.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02020170201</codiceFiscale>
+<ragioneSociale>Gemma Impresa edile s.n.c.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>84346.02</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>69136.08</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZCE3D09E44</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Acquisizione di servizi di formazione professionale in favore del personale militare dipendente, effettivo alla Squadra Lavori, abilitante all'utilizzo della motosega, decespugliatore, tagliasiepi e soffiatore.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>15508721006</codiceFiscale>
+<ragioneSociale>Evo Training s.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>15508721006</codiceFiscale>
+<ragioneSociale>Evo Training s.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>500.00</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>500.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z993D3E20C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Fornitura di cancelleria, risme di carta, materiale igienico/sanitario e prodotti per il reintegro delle cassette di primo soccorso per le esigenze del 3° Reparto Infrastrutture di Milano.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06262520155</codiceFiscale>
+<ragioneSociale>DUBINI S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06262520155</codiceFiscale>
+<ragioneSociale>DUBINI S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2393.38</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>2393.38</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z583D6E1E2</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Fornitura di n.26 carte regalo digitali da distribuire al personale civile del 3°Reparto Infrastrutture in occasione delle festività natalizie e di fine anno.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00212560239</codiceFiscale>
+<ragioneSociale>MONDADORI RETAIL SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00212560239</codiceFiscale>
+<ragioneSociale>MONDADORI RETAIL SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1404.00</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZDE3D5363D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Fornitura di n. 50 sacchi da 25kg. di salgemma naturale in pastiglie ad elevato tenore di NaCl specifico per l’addolcitore delle acque dell’impianto termico a gas della Caserma Carroccio.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>PSSVCN60T03F839A</codiceFiscale>
+<ragioneSociale>Professione Ufficio di Passaro Vincenzo</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>PSSVCN60T03F839A</codiceFiscale>
+<ragioneSociale>Professione Ufficio di Passaro Vincenzo</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>475.00</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>472.62</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z4E3D5F8C7</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Affidamento del servizio di rilegatura dei contratti (soggetti a registrazione) e/o delle scritture private stipulate dal 3°Reparto Infrastrutture nel periodo 2020 – 2022 nonché dei registri della sezione gestione finanziaria.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07948000158</codiceFiscale>
+<ragioneSociale>Il Borgo Società Cooperativa</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07948000158</codiceFiscale>
+<ragioneSociale>Il Borgo Società Cooperativa</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>666.45</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>666.45</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZB83DAD90D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80072510151</codiceFiscaleProp>
+<denominazione>3° Reparto Infrastrutture</denominazione>
+</strutturaProponente>
+<oggetto>Acquisizione di un corso di formazione sul Testo Unico del Pubblico Impiego a favore di due dipendenti civili e di un corso di formazione sul Codice dei Contratti a favore di due dipendenti militari del 3° Reparto Infrastrutture di Milano.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01338010380</codiceFiscale>
+<ragioneSociale>Istituto Cappellari s.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01338010380</codiceFiscale>
+<ragioneSociale>Istituto Cappellari s.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>520.00</importoAggiudicazione>
+<tempiCompletamento>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate></lotto>
+</data>
+</legge190:pubblicazione>

@@ -1,0 +1,2123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+<titolo> Pubblicazione 1 legge 190</titolo>
+<abstract> Pubblicazione 1 legge 190 anno 1 rif. 2010 aggiornamento del 2024-01-19 12:19:39</abstract>
+<dataPubblicazioneDataset>2024-01-31</dataPubblicazioneDataset>
+<entePubblicatore>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</entePubblicatore>
+<dataUltimoAggiornamentoDataset>2024-01-19</dataUltimoAggiornamentoDataset>
+<annoRiferimento>2023</annoRiferimento>
+<urlFile>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/comando-per-la-formazione-e-scuola-di-applicazione/2023/avcp_dataset_2023.xml</urlFile>
+<licenza>IODL 2.0</licenza>
+</metadata>
+<data>
+<lotto>
+<cig>Z2E3918DE2</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>C.I.M. AGNANO - SMALTIMENTO LETAME</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07702661211</codiceFiscale>
+<ragioneSociale>c.a.l.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07702661211</codiceFiscale>
+<ragioneSociale>c.a.l.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>66426.88</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-04</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>66426.88</importoSommeLiquidate></lotto>
+<lotto>
+<cig>9585306CBB</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>CONTRATTO VIVERI PER QUADRUPEDI ANNO 2023</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06294110017</codiceFiscale>
+<ragioneSociale>AGRI-FARM SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06294110017</codiceFiscale>
+<ragioneSociale>AGRI-FARM SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>108.45</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-01</dataInizio>
+<dataUltimazione>2023-12-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>99000.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>96696038D2</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO MATERIALE IDRAULICO</oggetto>
+<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04150861211</codiceFiscale>
+<ragioneSociale>idrocclima service srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04150861211</codiceFiscale>
+<ragioneSociale>idrocclima service srl</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>42488.27</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-02</dataInizio>
+<dataUltimazione>2023-03-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>42488.27</importoSommeLiquidate></lotto>
+<lotto>
+<cig>0415086121</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>COMPLESSO INFRASTRUTTURALE CITTA' TORINO: POTENZIAMNETO PROVIDER FORZA ARMATA 149° CORSO SM - AMMODERNAMENTO ALEE DIDATTICHE SERIE 100 E 300 (MATERIALI DIA RREDO, AUSLI DIDATTICI E DIVISORI ACUSTICI)</oggetto>
+<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02350200180</codiceFiscale>
+<ragioneSociale>mogni srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02350200180</codiceFiscale>
+<ragioneSociale>mogni srl</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>119718.60</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-19</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>119718.60</importoSommeLiquidate></lotto>
+<lotto>
+<cig>9795290106</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA ED INSTALLAZIONE DI 2 NUOVI LABORATORI LINGUISTICI PRESSO LA PALAZZINA DARDAI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02350200180</codiceFiscale>
+<ragioneSociale>mogni srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02350200180</codiceFiscale>
+<ragioneSociale>mogni srl</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>77933.60</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-30</dataInizio>
+<dataUltimazione>2023-03-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>77933.60</importoSommeLiquidate></lotto>
+<lotto>
+<cig>97459948AB</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>ATTREZZATURE DIDATTICHE AULA MEUCCI PROVIDER rdo 3507086 lotto 3</oggetto>
+<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>08280800965</codiceFiscale>
+<ragioneSociale>dp vision</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>08280800965</codiceFiscale>
+<ragioneSociale>dp vision</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>10897.04</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-19</dataInizio>
+<dataUltimazione>2023-04-19</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>10897.04</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z403BFBF44</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE TETTI PALAZZINE COMFORSA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>09479100019</codiceFiscale>
+<ragioneSociale>P.C.S. S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>09479100019</codiceFiscale>
+<ragioneSociale>P.C.S. S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>44366.92</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-27</dataInizio>
+<dataUltimazione>2023-07-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>44366.92</importoSommeLiquidate></lotto>
+<lotto>
+<cig>9899377853</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>corsi di lingua</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03550371003</codiceFiscale>
+<ragioneSociale>EASY LIFE GROUP SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03550371003</codiceFiscale>
+<ragioneSociale>EASY LIFE GROUP SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>116194.50</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-16</dataInizio>
+<dataUltimazione>2023-06-16</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>116194.50</importoSommeLiquidate></lotto>
+<lotto>
+<cig>AA00B0BEAF</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>LAVORI MINUTO MANTENIMENTO PER IRPRISTINO BAGNI TORRE 2° PIANO CON RELATIVA SOSTITUZIONE DELL'IMPIANTISTICA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>09543621214</codiceFiscale>
+<ragioneSociale>PA EDIL SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>09543621214</codiceFiscale>
+<ragioneSociale>PA EDIL SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>81173.25</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-01</dataInizio>
+<dataUltimazione>2023-09-01</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>81173.25</importoSommeLiquidate></lotto>
+<lotto>
+<cig>9745960C9B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>AULE L1 e L2  PROVIDER</oggetto>
+<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03400160960</codiceFiscale>
+<ragioneSociale>dgm</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03400160960</codiceFiscale>
+<ragioneSociale>dgm</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>68844.60</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-19</dataInizio>
+<dataUltimazione>2023-04-19</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>68844.60</importoSommeLiquidate></lotto>
+<lotto>
+<cig>9745960C9B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>AULE L1 e L2  PROVIDER</oggetto>
+<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03400160960</codiceFiscale>
+<ragioneSociale>dgm</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03400160960</codiceFiscale>
+<ragioneSociale>dgm</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>42273.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-19</dataInizio>
+<dataUltimazione>2023-04-19</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>42273.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>A01205C702</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>PALAZZO ARSENALE: AMMODERNAMENTO AULA "206" ACQUISIZIONE DI ATTREZZATURE DI SUPPORTO ALLA DIDATTICA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00604670398</codiceFiscale>
+<ragioneSociale>TOUCHWINDOW S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00604670398</codiceFiscale>
+<ragioneSociale>TOUCHWINDOW S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>96990.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-20</dataInizio>
+<dataUltimazione>2023-09-20</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>96990.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>A0196FBAA5</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA E MONTAGGIO SCAFFALATURA METALLICA PRESSO MAGAZINO VESTIARIO ED EQUIPAGGAIMENTO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>09387950158</codiceFiscale>
+<ragioneSociale>METALSISTEM LOMBARDIA S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>09387950158</codiceFiscale>
+<ragioneSociale>METALSISTEM LOMBARDIA S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>52200.08</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-03</dataInizio>
+<dataUltimazione>2023-10-03</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>52200.08</importoSommeLiquidate></lotto>
+<lotto>
+<cig>A01D58DD1D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO APPLICATIVO INFORMATICO DI RETE , N. 5 WEEAM</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05804200821</codiceFiscale>
+<ragioneSociale>ELASTRO SOCIETA’ COOPERATIVA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05804200821</codiceFiscale>
+<ragioneSociale>ELASTRO SOCIETA’ COOPERATIVA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>11890.97</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-09</dataInizio>
+<dataUltimazione>2023-10-09</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>11890.97</importoSommeLiquidate></lotto>
+<lotto>
+<cig>974601492C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA DI MATERIALE AUDIOVISIVO PER 7 AULE DIDATTICHE</oggetto>
+<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01821350368</codiceFiscale>
+<ragioneSociale>bebo services</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01821350368</codiceFiscale>
+<ragioneSociale>bebo services</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>89035.60</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-29</dataInizio>
+<dataUltimazione>2023-07-29</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>89035.60</importoSommeLiquidate></lotto>
+<lotto>
+<cig>A01FB4A1A3</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>CENTRALE TERMICA CT1 MANUTENZIONE URGENTE STRAORDINARIA MEDIANTE SOSTITUZIONE DEL GRUPPO TERMICO N. 1</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06285370968</codiceFiscale>
+<ragioneSociale>PORTOSOLE S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06285370968</codiceFiscale>
+<ragioneSociale>PORTOSOLE S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>56421.77</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-17</dataInizio>
+<dataUltimazione>2023-10-17</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>56421.77</importoSommeLiquidate></lotto>
+<lotto>
+<cig>9744914D6B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA ED INSTALLAZIONE E PIANI DI STUDIOO PER L'ALLESTIMENTO DI 7 AULE DIDATICHE 2 AULE PER LABORATORI LINGUISTICI ED UN UFFICIO PER I TECNICI INFORMATICI</oggetto>
+<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02655090344</codiceFiscale>
+<ragioneSociale>LAMM</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02655090344</codiceFiscale>
+<ragioneSociale>LAMM</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>126879.39</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-05</dataInizio>
+<dataUltimazione>2023-06-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>126879.39</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z2C3D56754</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO MATERIALE VE INDISPONIBILE IN MAGAZZINO PER LA VESTIZIONE DEL PERSONALE DEL QUADRO PERMANENTE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01804490934</codiceFiscale>
+<ragioneSociale>OPENLAND TACTICAL SOCIETA' A RESPONSABILITA' LIMITATA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01804490934</codiceFiscale>
+<ragioneSociale>OPENLAND TACTICAL SOCIETA' A RESPONSABILITA' LIMITATA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>43253.44</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-17</dataInizio>
+<dataUltimazione>2023-11-17</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>43253.44</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZBF3B825EE</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>LAVORI AREA ANTISTANTE SPOGLIATOI CAMPI CALCETTO PORCELLI
+INSTALLAZIONE TORRETTE PER COLLEGAMENTI ELETTRICI PORCELLI
+LAVORI FACCIATA SPOGLIATOI CAMPI TENNIS PORCELLI</oggetto>
+<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>10050280014</codiceFiscale>
+<ragioneSociale>SIAL S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>10050280014</codiceFiscale>
+<ragioneSociale>SIAL S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>31451.39</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-06</dataInizio>
+<dataUltimazione>2023-07-29</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>31451.39</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z793B881DB</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>CORSI NUOTO 2023 - 2024</oggetto>
+<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02396830206</codiceFiscale>
+<ragioneSociale>acqua 13</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02396830206</codiceFiscale>
+<ragioneSociale>acqua 13</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>35630.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-09</dataInizio>
+<dataUltimazione>2023-12-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>35630.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>A00A76A85B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>ATTREZZATURE ED ARREDI PER LA REALIZZAZIONE DI UNA SALA MULTIMEDIALE AL CIRCOLO UNIFICATO</oggetto>
+<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02350200180</codiceFiscale>
+<ragioneSociale>mogni srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02350200180</codiceFiscale>
+<ragioneSociale>mogni srl</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>48092.40</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-15</dataInizio>
+<dataUltimazione>2023-12-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>48092.40</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z2E3918DE2</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>C.I.M. AGNANO - SMALTIMENTO LETAME</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07702661211</codiceFiscale>
+<ragioneSociale>c.a.l.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07702661211</codiceFiscale>
+<ragioneSociale>c.a.l.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>29986.26</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-14</dataInizio>
+<dataUltimazione>2023-11-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>29986.26</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z2E3918DE2</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>C.I.M. AGNANO - SMALTIMENTO LETAME</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07702661211</codiceFiscale>
+<ragioneSociale>c.a.l.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07702661211</codiceFiscale>
+<ragioneSociale>c.a.l.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1507.92</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-14</dataInizio>
+<dataUltimazione>2023-11-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1507.92</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z6D3918E32</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO FORAGGI, MANGIME GENERI SUCCEDANEI PER L'ANNO 2023</oggetto>
+<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07663780729</codiceFiscale>
+<ragioneSociale>GLOBALAGRI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07663780729</codiceFiscale>
+<ragioneSociale>GLOBALAGRI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>71563.38</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-11-14</dataInizio>
+<dataUltimazione>2023-12-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>71563.38</importoSommeLiquidate></lotto>
+<lotto>
+<cig>9583267A19</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>LISCIVIATURA DAL 1/1/2023 COMFORSA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11998560012</codiceFiscale>
+<ragioneSociale>L.I.A. SRL (LAVANDERIA INDUSTRIALE ALBERTI)</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11998560012</codiceFiscale>
+<ragioneSociale>L.I.A. SRL (LAVANDERIA INDUSTRIALE ALBERTI)</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>14943.83</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-12</dataInizio>
+<dataUltimazione>2023-12-20</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>14943.83</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z963A094D7</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>PREVENZIONE LEGIONELLOSI 11084,87 EF 2023</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05360290018</codiceFiscale>
+<ragioneSociale>ADAS SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05360290018</codiceFiscale>
+<ragioneSociale>ADAS SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>24389.16</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-20</dataInizio>
+<dataUltimazione>2023-02-20</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>24389.16</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z6339DA3D2</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>MATERIALI DI VESTIARIO ED EQUIPAGGIAMENTO NON DISPONIBILI NEL CICLO LOGISTICO DI F.A.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02081190379</codiceFiscale>
+<ragioneSociale>SBB BRANCALEONI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02081190379</codiceFiscale>
+<ragioneSociale>SBB BRANCALEONI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>9647.15</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-08</dataInizio>
+<dataUltimazione>2023-02-08</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>9647.15</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z5139F07C8</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>MATERIALI DI VESTIARIO ED EQUIPAGGIAMENTO NON DISPONIBILI NEL CICLO LOGISTICO DI F.A.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>SQLFLC51A24F269C</codiceFiscale>
+<ragioneSociale>SQUILLANTE FELICE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>SQLFLC51A24F269C</codiceFiscale>
+<ragioneSociale>SQUILLANTE FELICE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3358.78</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-08</dataInizio>
+<dataUltimazione>2023-02-08</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3358.78</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z0339E89D9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTEZIONE STRAORDINARIA AUTOMEZZO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01056240011</codiceFiscale>
+<ragioneSociale>BONELLO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01056240011</codiceFiscale>
+<ragioneSociale>BONELLO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>6103.23</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-08</dataInizio>
+<dataUltimazione>2023-02-08</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>6103.23</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZB23A46903</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>CAPITOLATO TECNICO POTEZNIAMENTO P.M.F.A. CON FONDI PROVIDER DI F.A.2023 ESCLUSIVITA 2 SOFTWARE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>10325340965</codiceFiscale>
+<ragioneSociale>SEIDOR ITALY S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>10325340965</codiceFiscale>
+<ragioneSociale>SEIDOR ITALY S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>29803.67</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-17</dataInizio>
+<dataUltimazione>2023-05-17</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>29803.67</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z6339F0F93</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>COMPLESSO INFRASTRUTTURALE CITTA' TORINO: POTENZIAMNETO PROVIDER FORZA ARMATA 149° CORSO SM ELIMINAZIONI INFILTRAZIONI DA ROTTURA PLUVIALE CON FIBRE DI AMIANTO PRESSO PALAZZINA FANTERIA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>12271910015</codiceFiscale>
+<ragioneSociale>SINERGY 3D S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>12271910015</codiceFiscale>
+<ragioneSociale>SINERGY 3D S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>10400.52</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-13</dataInizio>
+<dataUltimazione>2023-02-13</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>10400.52</importoSommeLiquidate></lotto>
+<lotto>
+<cig>96671641C1</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>GARA PER MANUTENZIONE STRAORDIANRIA CAMERA SINGOLA PER REALIZZAZIONE DI UN BILOCALE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>12274000012</codiceFiscale>
+<ragioneSociale>AG COSTRUZIONI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>12274000012</codiceFiscale>
+<ragioneSociale>AG COSTRUZIONI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>60495.83</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-17</dataInizio>
+<dataUltimazione>2023-02-17</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>60495.83</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z383A4EDD4</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>COMPLESSO INFRASTRUTTURALE CITTA TORINO: MANUTENZIONE ORDINARIA DI NAUTURA EDILIZIA AULEE SERIE 100 E 300 RISPETTIVAMENTE PRIMO E TERZO PIANO PALAZZINA SIMONI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>09479100019</codiceFiscale>
+<ragioneSociale>P.C.S. S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>09479100019</codiceFiscale>
+<ragioneSociale>P.C.S. S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>33433.89</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-31</dataInizio>
+<dataUltimazione>2023-03-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>33433.89</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZB93A3876E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE UTA AULE A4-A6</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03765140987</codiceFiscale>
+<ragioneSociale>AIR EVOLUTION</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03765140987</codiceFiscale>
+<ragioneSociale>AIR EVOLUTION</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>13327.55</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-02</dataInizio>
+<dataUltimazione>2023-03-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>13327.55</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z5838A01EA</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>RINFRESCO GIURAMENTO 235 CORSO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>NCLLGU75R25F839J</codiceFiscale>
+<ragioneSociale>NICOLINI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>NCLLGU75R25F839J</codiceFiscale>
+<ragioneSociale>NICOLINI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5478.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-12-18</dataInizio>
+<dataUltimazione>2023-03-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5478.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZE43A33EB3</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>CONTRATTO ANNUALE RESPONSABILE RISCHIO AMIANTO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02635320043</codiceFiscale>
+<ragioneSociale>ECOLAV SERVICE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02635320043</codiceFiscale>
+<ragioneSociale>ECOLAV SERVICE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>7686.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-02</dataInizio>
+<dataUltimazione>2023-03-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>7686.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z813A90BE6</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>RIPRISTINO GUAINA IMPERMEALIZZAZIONE ALLA CANADESE FABBRIVATO - D -  AULA "MEUCCI"</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>10864580013</codiceFiscale>
+<ragioneSociale>EDIL ART</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>10864580013</codiceFiscale>
+<ragioneSociale>EDIL ART</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>11686.37</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-02</dataInizio>
+<dataUltimazione>2023-03-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>11686.37</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z7E3A370AA</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO MATERIALE PER QUADRUPEDI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02129200545</codiceFiscale>
+<ragioneSociale>AMAHORSE TRADING SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02129200545</codiceFiscale>
+<ragioneSociale>AMAHORSE TRADING SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>13333.75</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-02</dataInizio>
+<dataUltimazione>2023-03-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>13333.75</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZDB3A515D7</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>NOLEGGIO TRIBUNA GIURAMENTO FADINI III</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03275590283</codiceFiscale>
+<ragioneSociale>HENOTO S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03275590283</codiceFiscale>
+<ragioneSociale>HENOTO S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>9759.64</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-09</dataInizio>
+<dataUltimazione>2023-03-09</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>9759.64</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZF03A64590</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>TERZO RESPONSABILE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06285370968</codiceFiscale>
+<ragioneSociale>PORTOSOLE S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06285370968</codiceFiscale>
+<ragioneSociale>PORTOSOLE S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>8062.43</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-09</dataInizio>
+<dataUltimazione>2023-03-09</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>8062.43</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z093A652CC</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>CONTROLLO IMPIANTI MESSA A TERRA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02028010045</codiceFiscale>
+<ragioneSociale>AGENZIA BELTRAMO SNC</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02028010045</codiceFiscale>
+<ragioneSociale>AGENZIA BELTRAMO SNC</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>9769.43</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-13</dataInizio>
+<dataUltimazione>2023-03-13</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>9769.43</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZA73AB2893</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO CARICA E SCARICA MUNIZIONAMENTO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05644660960</codiceFiscale>
+<ragioneSociale>R.R.  SAS AREADIFESA DI ALBERTO COATES</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05644660960</codiceFiscale>
+<ragioneSociale>R.R.  SAS AREADIFESA DI ALBERTO COATES</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>9270.99</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-13</dataInizio>
+<dataUltimazione>2023-03-13</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>9270.99</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZE03A686DD</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO CORPI ILLUMINANTI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00689730133</codiceFiscale>
+<ragioneSociale>SACCHI GIUSEPPE S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00689730133</codiceFiscale>
+<ragioneSociale>SACCHI GIUSEPPE S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>7428.29</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-13</dataInizio>
+<dataUltimazione>2023-03-13</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>7428.29</importoSommeLiquidate></lotto>
+<lotto>
+<cig>zf338a56d5</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>NOLEGGIO GAZEBO ANTIPIOGGIA IN OCCASIONE DEL GIURAMENTO DEL 235 CORSO ALLIEVI NUNZIATELLA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07299190632</codiceFiscale>
+<ragioneSociale>ALFONZO SCUOTTO GROUP SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07299190632</codiceFiscale>
+<ragioneSociale>ALFONZO SCUOTTO GROUP SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4880.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-11-17</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4880.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z2C3900819</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO MATERIALI ED ATTREZZATURE PER LA MANUTENZIONE, DIAGNIOSTICA E LE PICCOLE RIPARAZIONI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11912210967</codiceFiscale>
+<ragioneSociale>GMG SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11912210967</codiceFiscale>
+<ragioneSociale>GMG SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>847.90</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-12-14</dataInizio>
+<dataUltimazione>2023-12-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>847.90</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZDB3D6F777</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>TRASPORTO E SMALTIMENTO RIFIUTI SPECIALI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02458660301</codiceFiscale>
+<ragioneSociale>euro&amp;promos fm spa</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02458660301</codiceFiscale>
+<ragioneSociale>euro&amp;promos fm spa</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4610.65</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-05</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4610.65</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z703DD5499</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>INTERVENTO DI URGENTE RIPARAZIONE PERSITA TUBAZIONE CASERMA MORELLI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03066160163</codiceFiscale>
+<ragioneSociale>TECHNE S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03066160163</codiceFiscale>
+<ragioneSociale>TECHNE S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>9119.06</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-18</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>9119.06</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z8C3DBB29F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>SOSTITUZIONE CENTRALINA RILEVAZIONE FUMI PRESSO PALAZZINA SERVIZI EX SPIANATA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>14432471002</codiceFiscale>
+<ragioneSociale>AGDV SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>14432471002</codiceFiscale>
+<ragioneSociale>AGDV SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5978.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-11</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5978.00</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZF13D97D1</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>GABBIA CROSSFIT: ACQUISTO AMETRIALE PER COMPLETAMENTIO E ACQUISTO MATERIALI PER IL POTENZIAMENTO MUSCOLARE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04770060632</codiceFiscale>
+<ragioneSociale>PARTENUFFICIO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04770060632</codiceFiscale>
+<ragioneSociale>PARTENUFFICIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>14961.18</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-04</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>14961.18</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZF53D64A11</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>RILEVATA ANOMALIA QUADRO ELETTRICO PRESSO PALAZZINA COMANDO E SOSTITUZIONE CON POSA IN OPERA NUOVO QUARO DA 54 MODULI, SELEZIONATORE 4 POLI, RILEVATORE LUMINOSO PRESENZA RETE, DIFFEERENZIALI AUTOMATICI, MAGNETO TERMICI E MORSETTERIA PER CABLAGGIO QUA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03343110965</codiceFiscale>
+<ragioneSociale>ALFA SERVICE 2000  S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03343110965</codiceFiscale>
+<ragioneSociale>ALFA SERVICE 2000  S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>14.30</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-21</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>14.30</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z563A5DB58</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>MOGNI ACQUISTO MATERIALE INFORMATICO PER STRANIERI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02350200180</codiceFiscale>
+<ragioneSociale>mogni srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02350200180</codiceFiscale>
+<ragioneSociale>mogni srl</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>35244.49</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-14</dataInizio>
+<dataUltimazione>2023-03-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>35244.49</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z753A65C4C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO MATERIALI PER SALA CONVEGNO E CIRCOLI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>09530600155</codiceFiscale>
+<ragioneSociale>ALPI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>09530600155</codiceFiscale>
+<ragioneSociale>ALPI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>7925.40</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-15</dataInizio>
+<dataUltimazione>2023-03-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>7925.40</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z483B0D875</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>AMMODERNAMENTO AULE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02350200180</codiceFiscale>
+<ragioneSociale>mogni srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02350200180</codiceFiscale>
+<ragioneSociale>mogni srl</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>31682.71</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-16</dataInizio>
+<dataUltimazione>2023-03-16</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>31682.71</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z573A8A179</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE ORDINARIA SALA EVENTI DEL CIRCOLO DI PRESIDIO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>09479100019</codiceFiscale>
+<ragioneSociale>P.C.S. S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>09479100019</codiceFiscale>
+<ragioneSociale>P.C.S. S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>38739.59</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-17</dataInizio>
+<dataUltimazione>2023-03-17</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>38739.59</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z4B3A784D8</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>OPERE DI RIFACIMENTO IMPIANTO ELETTRICO CIRCOLO UFFICIALI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>09321820012</codiceFiscale>
+<ragioneSociale>SICUR IMPIANTI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>09321820012</codiceFiscale>
+<ragioneSociale>SICUR IMPIANTI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>17480.26</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-17</dataInizio>
+<dataUltimazione>2023-03-17</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>17480.26</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZBF3A872FD</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>MATERIALE MASCALCIA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07548380018</codiceFiscale>
+<ragioneSociale>F.I.F.P.E. SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07548380018</codiceFiscale>
+<ragioneSociale>F.I.F.P.E. SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3871.66</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-24</dataInizio>
+<dataUltimazione>2023-03-24</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3871.66</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z5F3A8AE6A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>ANALISI, RICERCA E CONTEGGIO LEGIONELLA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04944270018</codiceFiscale>
+<ragioneSociale>LAV SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04944270018</codiceFiscale>
+<ragioneSociale>LAV SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>10709.16</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-24</dataInizio>
+<dataUltimazione>2023-03-24</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>10709.16</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZC63A92657</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>MATERIALE PER CONTROLLI LEGIONELLA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00539530048</codiceFiscale>
+<ragioneSociale>IDROCENTRO SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00539530048</codiceFiscale>
+<ragioneSociale>IDROCENTRO SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>9570.52</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-27</dataInizio>
+<dataUltimazione>2023-03-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>9570.52</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZDC3ADBCFD</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>RIPARAZIONE AUTOMEZZO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>12005370015</codiceFiscale>
+<ragioneSociale>OFFICINE BONELLO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>12005370015</codiceFiscale>
+<ragioneSociale>OFFICINE BONELLO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>13032.83</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-06</dataInizio>
+<dataUltimazione>2023-04-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>13032.83</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZCDB3B90D9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>COPERTURA CAVALLERIZZA E RIPRISTINO LINEA DI DISPLUVIO MORELLI DI POPOLO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>10352850019</codiceFiscale>
+<ragioneSociale>ALPHA COSTRUZIONI S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>10352850019</codiceFiscale>
+<ragioneSociale>ALPHA COSTRUZIONI S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>15088.67</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-06</dataInizio>
+<dataUltimazione>2023-04-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>15088.67</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z863C595BD</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>RICAMBI E MNUTENZIONE MATERIALE E ATTREZZATURE DA GIARDINAGGIO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>GCHFNC64H03L219M</codiceFiscale>
+<ragioneSociale>GIACHINO GARDEN</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>GCHFNC64H03L219M</codiceFiscale>
+<ragioneSociale>GIACHINO GARDEN</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>6342.23</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-06</dataInizio>
+<dataUltimazione>2023-09-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>6342.23</importoSommeLiquidate></lotto>
+<lotto>
+<cig>97659626C9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>RINNOVO ARREDI AULE SCOLASTICHE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01993190741</codiceFiscale>
+<ragioneSociale>ARCOS ITALIA DI LATORRE GIORGIA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01993190741</codiceFiscale>
+<ragioneSociale>ARCOS ITALIA DI LATORRE GIORGIA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>26022.60</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-06</dataInizio>
+<dataUltimazione>2023-04-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>26022.60</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZAC3B2B768</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE ORDINARIA IMPIANTI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>14432471002</codiceFiscale>
+<ragioneSociale>AGDV SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>14432471002</codiceFiscale>
+<ragioneSociale>AGDV SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>15059.66</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-16</dataInizio>
+<dataUltimazione>2023-05-16</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>15059.66</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z3E3B2B536</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE ORDINARIA IMPIANTI ANTINCENDIO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06024070960</codiceFiscale>
+<ragioneSociale>PROTEZIONE ANTINCENDIO S.R.L</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06024070960</codiceFiscale>
+<ragioneSociale>PROTEZIONE ANTINCENDIO S.R.L</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3600.96</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-16</dataInizio>
+<dataUltimazione>2023-05-16</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3600.96</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z6C3B1367B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO MATERIALE DI MINUTO MANTENIMENTO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04150861211</codiceFiscale>
+<ragioneSociale>idrocclima service srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04150861211</codiceFiscale>
+<ragioneSociale>idrocclima service srl</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>12091.81</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-06</dataInizio>
+<dataUltimazione>2023-04-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>12091.81</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z683AEBDFB</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO CANCELLERIA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05466391009</codiceFiscale>
+<ragioneSociale>ICR S.p.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05466391009</codiceFiscale>
+<ragioneSociale>ICR S.p.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30406.13</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-17</dataInizio>
+<dataUltimazione>2023-04-17</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>30406.13</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z6E3AB5214</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>CONFEZIONAMENTO UNIFORMI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>ZZRRCR65B04F839Q</codiceFiscale>
+<ragioneSociale>AZZURRO FRANCESCO DI AZZURRO RICCARDO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>ZZRRCR65B04F839Q</codiceFiscale>
+<ragioneSociale>AZZURRO FRANCESCO DI AZZURRO RICCARDO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>13017.95</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-17</dataInizio>
+<dataUltimazione>2023-04-17</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>13017.95</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z063AF3899</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO MATERIALI DI CONSUMO IGIENE E PULIZIA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02073350015</codiceFiscale>
+<ragioneSociale>BARBERO PIETRO SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02073350015</codiceFiscale>
+<ragioneSociale>BARBERO PIETRO SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5049.54</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-24</dataInizio>
+<dataUltimazione>2023-04-24</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5049.54</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z833AEE4A2</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>NOLEGGIO PEDANA PER MAK P 100</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07299190632</codiceFiscale>
+<ragioneSociale>ALFONZO SCUOTTO GROUP SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07299190632</codiceFiscale>
+<ragioneSociale>ALFONZO SCUOTTO GROUP SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>11956.99</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-27</dataInizio>
+<dataUltimazione>2023-04-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>11956.99</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z973B19B4B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>BLINDOSBARRE PADIGLIONI RIBERI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>09321820012</codiceFiscale>
+<ragioneSociale>SICUR IMPIANTI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>09321820012</codiceFiscale>
+<ragioneSociale>SICUR IMPIANTI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>28794.14</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-10</dataInizio>
+<dataUltimazione>2023-05-10</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>28794.14</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZDF3B21D7E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>BOLLITORE MENSA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>10327690011</codiceFiscale>
+<ragioneSociale>SANTOLI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>10327690011</codiceFiscale>
+<ragioneSociale>SANTOLI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>11012.91</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-10</dataInizio>
+<dataUltimazione>2023-05-10</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>11012.91</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z443B5A2ED</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>LAVORI LINEA TRIFASE CAPPA LABORATORIO ARMI</oggetto>
+<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11713770011</codiceFiscale>
+<ragioneSociale>AG IMPIANTI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11713770011</codiceFiscale>
+<ragioneSociale>AG IMPIANTI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>9634.05</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-29</dataInizio>
+<dataUltimazione>2023-05-29</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>9634.05</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z9E3B64E41</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>LAVORI RISERVETTA MUNIZIONI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>08638790017</codiceFiscale>
+<ragioneSociale>SAVINO IMPIANTI S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>08638790017</codiceFiscale>
+<ragioneSociale>SAVINO IMPIANTI S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>10866.91</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-29</dataInizio>
+<dataUltimazione>2023-05-29</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>10866.91</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z6D3B60D15</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>ATTREZZATURE E MATERIALI PER MAGAZZINO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04770060632</codiceFiscale>
+<ragioneSociale>PARTENUFFICIO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04770060632</codiceFiscale>
+<ragioneSociale>PARTENUFFICIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>9926.73</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-30</dataInizio>
+<dataUltimazione>2023-05-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>9926.73</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZF63C4A551</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE IMPIANTO VIDEOSORVEGLIANZA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>CMSVNI77R24E020Z</codiceFiscale>
+<ragioneSociale>F4F DI CAMUSSO IVAN</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>CMSVNI77R24E020Z</codiceFiscale>
+<ragioneSociale>F4F DI CAMUSSO IVAN</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>37748.11</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-29</dataInizio>
+<dataUltimazione>2023-06-29</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>37748.11</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZDD3ABF45C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>CONFEZIONAMENTO UNIFORMI SMT TD 3523598</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03030780369</codiceFiscale>
+<ragioneSociale>MANCA PIETRO SNC</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03030780369</codiceFiscale>
+<ragioneSociale>MANCA PIETRO SNC</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>12787.78</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-30</dataInizio>
+<dataUltimazione>2023-05-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>12787.78</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z5A3B92515</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>SOSTITUZIONE VENTILCONVETTORI CASERMA "RIBERI"</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>10327690011</codiceFiscale>
+<ragioneSociale>SANTOLI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>10327690011</codiceFiscale>
+<ragioneSociale>SANTOLI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>13655.74</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-05</dataInizio>
+<dataUltimazione>2023-06-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>13655.74</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZBA3B71403</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE AUTOMEZZI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>12005370015</codiceFiscale>
+<ragioneSociale>OFFICINE BONELLO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>12005370015</codiceFiscale>
+<ragioneSociale>OFFICINE BONELLO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>8184.16</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-05</dataInizio>
+<dataUltimazione>2023-06-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>8184.16</importoSommeLiquidate></lotto>
+<lotto>
+<cig>Z3D3B7F334</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>GUIDA CANYON AIGC ETC</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01753400082</codiceFiscale>
+<ragioneSociale>GUIDA CANYON AIGC E DEJEPS CANYON FRANCE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01753400082</codiceFiscale>
+<ragioneSociale>GUIDA CANYON AIGC E DEJEPS CANYON FRANCE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5607.60</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-14</dataInizio>
+<dataUltimazione>2023-06-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5607.60</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZA43B8A209</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>CLIMATIZZATORI</oggetto>
+<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01975990639</codiceFiscale>
+<ragioneSociale>TERMOPULITALIA SOC COOP</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01975990639</codiceFiscale>
+<ragioneSociale>TERMOPULITALIA SOC COOP</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>36092.68</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-11</dataInizio>
+<dataUltimazione>2023-07-11</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>36092.68</importoSommeLiquidate></lotto>
+<lotto>
+<cig>ZBD3B8BA6C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80093240010</codiceFiscaleProp>
+<denominazione>COMANDO PER LA FORMAZIONE E SCUOLA DI APPLICAZIONE DELL`ESERCITO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO FOTOCOPIATRICE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>12557310013</codiceFiscale>
+<ragioneSociale>PRODES UFFICIO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>12557310013</codiceFiscale>
+<ragioneSociale>PRODES UFFICIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>15684.05</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-12</dataInizio>
+<dataUltimazione>2023-06-12</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>15684.05</importoSommeLiquidate></lotto>
+</data>
+</legge190:pubblicazione>

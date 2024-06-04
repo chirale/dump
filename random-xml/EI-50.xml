@@ -1,0 +1,755 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<indici xsi:noNamespaceSchemaLocation='http://dati.anticorruzione.it/schema/datasetIndiceAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' > 
+<metadata>
+<titolo>pubblicazione  L 190/2012</titolo>
+<abstract>pubblicazione  L 190/2012 anno 2023</abstract>
+<dataPubblicazioneIndice>2024-01-29</dataPubblicazioneIndice>
+<entePubblicatore>MINISTERO DELLA DIFESA - 5 REPARTO INFRASTRUTTURE PADOVA</entePubblicatore>
+<dataUltimoAggiornamentoIndice>2023-01-28</dataUltimoAggiornamentoIndice>
+<annoRiferimento>2023</annoRiferimento>
+<urlFile>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/indiceDataset.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<indice>
+<dataset id='ID_1'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset1.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_2'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset2.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_3'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset3.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_4'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset4.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_5'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset5.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_6'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset6.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_7'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset7.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_8'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset8.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_9'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset9.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_10'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset10.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_11'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset11.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_12'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset12.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_13'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset13.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_14'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset14.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_15'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset15.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_16'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset16.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_17'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset17.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_18'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset18.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_19'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset19.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_20'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset20.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_21'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset21.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_22'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset22.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_23'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset23.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_24'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset24.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_25'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset25.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_26'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset26.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_27'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset27.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_28'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset28.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_29'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset29.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_30'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset30.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_31'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset31.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_32'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset32.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_33'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset33.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_34'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset34.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_35'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset35.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_36'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset36.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_37'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset37.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_38'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset38.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_39'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset39.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_40'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset40.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_41'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset41.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_42'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset42.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_43'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset43.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_44'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset44.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_45'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset45.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_46'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset46.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_47'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset47.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_48'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset48.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_49'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset49.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_50'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_51'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset51.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_52'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset52.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_53'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset53.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_54'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset54.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_55'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset55.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_56'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset56.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_57'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset57.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_58'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset58.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_59'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset59.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_60'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset60.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_61'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset61.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_62'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset62.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_63'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset63.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_64'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset64.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_65'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset65.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_66'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset66.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_67'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset67.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_68'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset68.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_69'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset69.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_70'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset70.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_71'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset71.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_72'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset72.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_73'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset73.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_74'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset74.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_75'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset75.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_76'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset76.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_77'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset77.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_78'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset78.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_79'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset79.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_80'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset80.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_81'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset81.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_82'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset82.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_83'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset83.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_84'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset84.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_85'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_86'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset86.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_87'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset87.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_88'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset88.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_89'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset89.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_90'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset90.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_91'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset91.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_92'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset92.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_93'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset93.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_94'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset94.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_95'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset95.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_96'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset96.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_97'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset97.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_98'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset98.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_99'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset99.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_100'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset100.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_101'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset101.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_102'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset102.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_103'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset103.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_104'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset104.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_105'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset105.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_106'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset106.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_107'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset107.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_108'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset108.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_109'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset109.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_110'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset110.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_111'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset111.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_112'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset112.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_113'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset113.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_114'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset114.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_115'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset115.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_116'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset116.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_117'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset117.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_118'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset118.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_119'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset119.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_120'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset120.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_121'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset121.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_122'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset122.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_123'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset123.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_124'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset124.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_126'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset126.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_127'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset127.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_128'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset128.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_129'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset129.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_131'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset131.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_132'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset132.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_133'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset133.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_134'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset134.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_135'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset135.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_136'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset136.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_137'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset137.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_138'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset138.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_139'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset139.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_140'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset140.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_141'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset141.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_142'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset142.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_143'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset143.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_145'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset145.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_146'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset146.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_147'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset147.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_148'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset148.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_149'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset149.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_150'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset150.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_151'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset151.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_152'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset152.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_153'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset153.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_154'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset154.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_155'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset155.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_156'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset156.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_157'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset157.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_158'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset158.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_159'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset159.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_160'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset160.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_161'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset161.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_162'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset162.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_163'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset163.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_164'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset164.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_165'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset165.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_166'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset166.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_167'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset167.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_168'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset168.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_169'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset169.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_170'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset170.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-23</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_171'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset171.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_172'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset172.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_173'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset173.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_174'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset174.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_175'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset175.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_176'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset176.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_177'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset177.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_178'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset178.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_179'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset179.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_180'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset180.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_181'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset181.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_182'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset182.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_183'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset183.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_184'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset184.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_185'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset185.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_186'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset186.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_187'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset187.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+<dataset id='ID_188'>
+<linkDataset>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/5-reparto-infrastrutture/2023/dataset188.xml</linkDataset>
+<dataUltimoAggiornamento>2023-01-28</dataUltimoAggiornamento>
+</dataset>
+</indice>
+</indici>

@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<legge190:pubblicazione xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0">
+<metadata>
+<titolo>Pubblicazione 1 legge 190</titolo>
+<abstract>Pubblicazione 1 legge 190 anno 1 rif. 2010</abstract>
+<dataPubbicazioneDataset>2024-01-11</dataPubbicazioneDataset>
+<entePubblicatore></entePubblicatore>
+<dataUltimoAggiornamentoDataset>2024-01-11</dataUltimoAggiornamentoDataset>
+<annoRiferimento>2023</annoRiferimento>
+<urlFile>http://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/craei/2023/dataset_2023.xml/dataset_2023.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<data>
+<lotto>
+<cig>883683963B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>07716310581 </codiceFiscaleProp>
+<denominazione>TECNODIFE S.R.L.</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA PARTI DI RICAMBIO PARCO RADIO L3HARRIS</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+<partecipanti>
+
+<partecipante>
+<codiceFiscale>07716310581</codiceFiscale>
+<ragioneSociale>TECNODIFE S.R.L.</ragioneSociale>
+</partecipante>
+
+</partecipanti>
+<aggiudicatari>
+
+<aggiudicatario>
+<codiceFiscale>07716310581</codiceFiscale>
+<ragioneSociale>TECNODIFE S.R.L.</ragioneSociale>
+</aggiudicatario>
+
+</aggiudicatari>
+<importoAggiudicazione>3000000,00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-15</dataInizio>
+<dataUltimazione>2026-02-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>8836940993</cig>
+<strutturaProponente>
+<codiceFiscaleProp>07716310581 </codiceFiscaleProp>
+<denominazione>TECNODIFE S.R.L.</denominazione>
+</strutturaProponente>
+<oggetto>RIPARAZIONE DEGLI APPARATI PARCO RADIO L3HARRIS</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+<partecipanti>
+
+<partecipante>
+<codiceFiscale>07716310581</codiceFiscale>
+<ragioneSociale>TECNODIFE S.R.L.</ragioneSociale>
+</partecipante>
+
+</partecipanti>
+<aggiudicatari>
+
+<aggiudicatario>
+<codiceFiscale>07716310581</codiceFiscale>
+<ragioneSociale>TECNODIFE S.R.L.</ragioneSociale>
+</aggiudicatario>
+
+</aggiudicatari>
+<importoAggiudicazione>3000000,00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-15</dataInizio>
+<dataUltimazione>2026-02-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>8905056CAC</cig>
+<strutturaProponente>
+<codiceFiscaleProp>05690400873</codiceFiscaleProp>
+<denominazione>DATAPATH ITALIA S.R.L.</denominazione>
+</strutturaProponente>
+<oggetto>APPROVVIGIONAMENTO DEI SERVIZI DI RIPARAZIONE PER MANTENIMENTO SATELLITARI DATAPATH</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+<partecipanti>
+
+<partecipante>
+<codiceFiscale>05690400873</codiceFiscale>
+<ragioneSociale>DATAPATH ITALIA S.R.L.</ragioneSociale>
+</partecipante>
+
+</partecipanti>
+<aggiudicatari>
+
+<aggiudicatario>
+<codiceFiscale>05690400873</codiceFiscale>
+<ragioneSociale>DATAPATH ITALIA S.R.L.</ragioneSociale>
+</aggiudicatario>
+
+</aggiudicatari>
+<importoAggiudicazione>2000000,00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-26</dataInizio>
+<dataUltimazione>2026-05-25</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9986381E4A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>08619670584</codiceFiscaleProp>
+<denominazione>ITALWARE S.R.L.</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA DI N. 28 SERVER PER AMMODERNAMENTO E POTENZIAMENTO INFRASTRUTTURA DI RETE </oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+
+<partecipante>
+<codiceFiscale>08619670584</codiceFiscale>
+<ragioneSociale>ITALWARE S.R.L.</ragioneSociale>
+</partecipante>
+
+</partecipanti>
+<aggiudicatari>
+
+<aggiudicatario>
+<codiceFiscale>08619670584</codiceFiscale>
+<ragioneSociale>ITALWARE S.R.L.</ragioneSociale>
+</aggiudicatario>
+
+</aggiudicatari>
+<importoAggiudicazione>416668,75</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-28</dataInizio>
+<dataUltimazione>2023-07-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9425159F3</cig>
+<strutturaProponente>
+<codiceFiscaleProp>15882821000</codiceFiscaleProp>
+<denominazione>ITALTEL S.P.A.</denominazione>
+</strutturaProponente>
+<oggetto>APPROVVIGIONAMENTO MATERIALI DEL SETTORE C4 PER MANTENIMENTO DELL'INFOSTRUTTURA DI F.A.</oggetto>
+<sceltaContraente>01-PROCEDURA APERTA</sceltaContraente>
+<partecipanti>
+
+<partecipante>
+<codiceFiscale>03775600798</codiceFiscale>
+<ragioneSociale>COOPERATIVA SOCIALE FAMILY CENTER</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>15882821000</codiceFiscale>
+<ragioneSociale>ITALTEL S.P.A.</ragioneSociale>
+</partecipante>
+
+</partecipanti>
+<aggiudicatari>
+
+<aggiudicatario>
+<codiceFiscale>15882821000</codiceFiscale>
+<ragioneSociale>ITALTEL S.P.A.</ragioneSociale>
+</aggiudicatario>
+
+</aggiudicatari>
+<importoAggiudicazione>4504489,36</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-02</dataInizio>
+<dataUltimazione>2026-08-01</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>94356787CE</cig>
+<strutturaProponente>
+<codiceFiscaleProp>00401990585</codiceFiscaleProp>
+<denominazione>LEONARDO S.P.A.</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE CON FORNITURA PARTI DI RICAMBIO PER SIMULATORE DI VOLO DELL'ESERCITO IN DOTAZIONE ALL'AVES</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+<partecipanti>
+
+<partecipante>
+<codiceFiscale>00401990585</codiceFiscale>
+<ragioneSociale>LEONARDO S.P.A.</ragioneSociale>
+</partecipante>
+
+</partecipanti>
+<aggiudicatari>
+
+<aggiudicatario>
+<codiceFiscale>00401990585</codiceFiscale>
+<ragioneSociale>LEONARDO S.P.A.</ragioneSociale>
+</aggiudicatario>
+
+</aggiudicatari>
+<importoAggiudicazione>12000000</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-10</dataInizio>
+<dataUltimazione>2026-10-09</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>94367837AE</cig>
+<strutturaProponente>
+<codiceFiscaleProp>00401990585</codiceFiscaleProp>
+<denominazione>LEONARDO S.P.A.</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA E MANUTENZIONE DELLE C.D. LINEE LEGACY - LOTTO 1</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+<partecipanti>
+
+<partecipante>
+<codiceFiscale>00401990585</codiceFiscale>
+<ragioneSociale>LEONARDO S.P.A.</ragioneSociale>
+</partecipante>
+
+</partecipanti>
+<aggiudicatari>
+
+<aggiudicatario>
+<codiceFiscale>00401990585</codiceFiscale>
+<ragioneSociale>LEONARDO S.P.A.</ragioneSociale>
+</aggiudicatario>
+
+</aggiudicatari>
+<importoAggiudicazione>2600000</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-26</dataInizio>
+<dataUltimazione>2026-10-25</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>94368059D5</cig>
+<strutturaProponente>
+<codiceFiscaleProp>00401990585</codiceFiscaleProp>
+<denominazione>LEONARDO S.P.A.</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA E MANUTENZIONE APPARATI MFCD, DHG E APPARATI PER ELICOTTERI DELLA LINEA A129 - LOTTO 2</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+<partecipanti>
+
+<partecipante>
+<codiceFiscale>00401990585</codiceFiscale>
+<ragioneSociale>LEONARDO S.P.A.</ragioneSociale>
+</partecipante>
+
+</partecipanti>
+<aggiudicatari>
+
+<aggiudicatario>
+<codiceFiscale>00401990585</codiceFiscale>
+<ragioneSociale>LEONARDO S.P.A.</ragioneSociale>
+</aggiudicatario>
+
+</aggiudicatari>
+<importoAggiudicazione>4500000</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-26</dataInizio>
+<dataUltimazione>2026-10-25</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9436845AD7</cig>
+<strutturaProponente>
+<codiceFiscaleProp>00401990585</codiceFiscaleProp>
+<denominazione>LEONARDO S.P.A.</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA E MANUTENZIONE DELLE LINEE VOLO IN DOTAZIONE ALL'AVES - LOTTO 3</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+<partecipanti>
+
+<partecipante>
+<codiceFiscale>00401990585</codiceFiscale>
+<ragioneSociale>LEONARDO S.P.A.</ragioneSociale>
+</partecipante>
+
+</partecipanti>
+<aggiudicatari>
+
+<aggiudicatario>
+<codiceFiscale>00401990585</codiceFiscale>
+<ragioneSociale>LEONARDO S.P.A.</ragioneSociale>
+</aggiudicatario>
+
+</aggiudicatari>
+<importoAggiudicazione>2900000</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-26</dataInizio>
+<dataUltimazione>2026-10-25</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>956009799C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>00401990585</codiceFiscaleProp>
+<denominazione>LEONARDO S.P.A.</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZI DI MANUTENZIONE E RIPARAZIONE E RELATIVA FORNITURA PARTI DI RICAMBIO PER ELICOTTERI IN DOTAIZONE ALL'AVES</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+<partecipanti>
+
+<partecipante>
+<codiceFiscale>00401990585</codiceFiscale>
+<ragioneSociale>LEONARDO S.P.A.</ragioneSociale>
+</partecipante>
+
+</partecipanti>
+<aggiudicatari>
+
+<aggiudicatario>
+<codiceFiscale>00401990585</codiceFiscale>
+<ragioneSociale>LEONARDO S.P.A.</ragioneSociale>
+</aggiudicatario>
+
+</aggiudicatari>
+<importoAggiudicazione>5000000</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-09</dataInizio>
+<dataUltimazione>2026-11-08</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9529660C33</cig>
+<strutturaProponente>
+<codiceFiscaleProp>117/116/30815</codiceFiscaleProp>
+<denominazione>GENERAL ATOMICS AEROTEC SYSTEMS GMBH</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZI DI RIPARAZIONE E MANUTENZIONE DEGLI AEREI DELLA LINEA DORNIER IN DOTAZIONE ALL'AVES</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO</sceltaContraente>
+<partecipanti>
+
+<partecipante>
+<codiceFiscale>117/116/30815</codiceFiscale>
+<ragioneSociale>GENERAL ATOMICS AEROTEC SYSTEMS GMBH</ragioneSociale>
+</partecipante>
+
+</partecipanti>
+<aggiudicatari>
+
+<aggiudicatario>
+<codiceFiscale>117/116/30815</codiceFiscale>
+<ragioneSociale>GENERAL ATOMICS AEROTEC SYSTEMS GMBH</ragioneSociale>
+</aggiudicatario>
+
+</aggiudicatari>
+<importoAggiudicazione>15000000</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-19</dataInizio>
+<dataUltimazione>2026-12-18</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+</lotto>
+</data>
+</legge190:pubblicazione>

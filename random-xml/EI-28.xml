@@ -1,0 +1,4588 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<legge190:pubblicazione xsi:schemaLocation='legge190_1_0 datasetAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:legge190='legge190_1_0'>
+<metadata>
+<titolo>Pubblicazione 2 legge 190/2012</titolo>
+<abstract>Pubblicazione 2 legge 190/2012 anno 10 rif. 2023</abstract>
+<dataPubblicazioneDataset>2024-01-31</dataPubblicazioneDataset>
+<entePubblicatore>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</entePubblicatore>
+<dataUltimoAggiornamentoDataset>2024-01-20</dataUltimoAggiornamentoDataset>
+<annoRiferimento>2023</annoRiferimento>
+<urlFile>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/serimant-palermo/2023/dataset10.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<data>
+<lotto>
+<cig>Z143CBE14C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO 212 CEDOLE CARBURANTE</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11403240960</codiceFiscale>
+<ragioneSociale>ENI SUSTAINABLE MOBILITY</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11403240960</codiceFiscale>
+<ragioneSociale>ENI SUSTAINABLE MOBILITY</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>8602.36</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-06</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>8602.36</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9803918113</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GASOLIO 5° RGT MESSINA - 41000 LT</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>41858.74</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-04</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>41858.74</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z463B99E2C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO TRINCIASARMENTI</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00104350822</codiceFiscale>
+<ragioneSociale>ING.AGRO' E C. S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00104350822</codiceFiscale>
+<ragioneSociale>ING.AGRO' E C. S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5919.80</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-16</dataInizio>
+<dataUltimazione>2023-09-20</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5919.80</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>A00B8974E1</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GASOLIO 5° RGT MESSINA - 50000 LT</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>61618.58</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-06</dataInizio>
+<dataUltimazione>2023-11-01</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>61618.58</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z963C41BAB</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GASOLIO 6° RGT LANCIERI - PALERMO 21000 LT</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>26663.05</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-25</dataInizio>
+<dataUltimazione>2023-10-26</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>26663.05</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>974128068E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO 4800 BUONI CARBURANTE</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+</partecipanti>
+<aggiudicatari>
+</aggiudicatari>
+<importoAggiudicazione>190816.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-28</dataInizio>
+<dataUltimazione>2023-06-16</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>190816.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZDF3B9A70E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GASOLIO 62°RGT CATANIA 21000 LT</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>21684.05</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-16</dataInizio>
+<dataUltimazione>2023-08-13</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>21684.05</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z6A3CE4AA4</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GASOLIO 6° RGT LANCIERI - PALERMO 11000 LT</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>13006.76</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-18</dataInizio>
+<dataUltimazione>2023-11-07</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>13006.76</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z073CE4A6E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GASOLIO 4° RGT PALERMO 13000 LT</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>15823.08</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-18</dataInizio>
+<dataUltimazione>2023-11-08</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>15823.08</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZB73C97F42</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ANALISI ACQUA POTABILE CASERMA DI MARIA E DIPENDENZE</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04905140820</codiceFiscale>
+<ragioneSociale>AMBIENTE SNC DEI D.RI VINCENZO ARRIGO E VITO BELLAVIA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04905140820</codiceFiscale>
+<ragioneSociale>AMBIENTE SNC DEI D.RI VINCENZO ARRIGO E VITO BELLAVIA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1389.96</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-03</dataInizio>
+<dataUltimazione>2023-12-11</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1389.96</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZCF3CB74DD</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GPL SCALILLI 2000 LT</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1497.77</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-05</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1497.77</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z463CE4ABE</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GASOLIO 6° RGT TRAPANI</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>15372.28</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-18</dataInizio>
+<dataUltimazione>2023-12-08</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>15372.28</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZDE3CE4A88</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GASOLIO 5° RGT MESSINA - 31000 LT</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>36559.14</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-18</dataInizio>
+<dataUltimazione>2023-12-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>36559.14</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>A015B1E410</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GASOLIO 4° RGT PALERMO 70000 LT</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>84497.68</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-27</dataInizio>
+<dataUltimazione>2023-11-23</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>84497.68</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z323CE4A41</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GASOLIO 62° RGT CATANIA - 31000 LT</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>37598.13</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-16</dataInizio>
+<dataUltimazione>2023-11-26</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>37598.13</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZA23D26CF4</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO 320 CEDOLE CARBURANTE</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11403240960</codiceFiscale>
+<ragioneSociale>ENI SUSTAINABLE MOBILITY</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11403240960</codiceFiscale>
+<ragioneSociale>ENI SUSTAINABLE MOBILITY</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>12825.28</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-07</dataInizio>
+<dataUltimazione>2023-12-20</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>12825.28</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z083B26206</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO 840 BUONI PASTO PERSONALE MILITARE</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05577471005</codiceFiscale>
+<ragioneSociale>E.P. SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05577471005</codiceFiscale>
+<ragioneSociale>E.P. SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4762.80</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-15</dataInizio>
+<dataUltimazione>2023-09-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4762.80</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZB43AEEEE6</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SMALTIMENTO RIFIUTI</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03551280823</codiceFiscale>
+<ragioneSociale>L'AMMIRAGLIA RECUPERI AMBIENTALI DI FERRARO EMILIO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03551280823</codiceFiscale>
+<ragioneSociale>L'AMMIRAGLIA RECUPERI AMBIENTALI DI FERRARO EMILIO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>7233.89</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-28</dataInizio>
+<dataUltimazione>2023-09-25</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>7233.89</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z563B99E90</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO MATERIE PRIME</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06512860823</codiceFiscale>
+<ragioneSociale>NEW GENERALMAC S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06512860823</codiceFiscale>
+<ragioneSociale>NEW GENERALMAC S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2028.51</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-26</dataInizio>
+<dataUltimazione>2023-09-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2028.51</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z413BE918D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GASOLIO 6° RGT TRAPANI 26000 LT</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>27895.69</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-17</dataInizio>
+<dataUltimazione>2023-09-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>27895.69</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZA73AB298E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GPL PVI 500 LT</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>372.88</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-05</dataInizio>
+<dataUltimazione>2023-06-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>372.88</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z1B3B505C9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GPL SCALILLI 1400 LT</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1010.23</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-19</dataInizio>
+<dataUltimazione>2023-08-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1010.23</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZAC3A1AAFA</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GPL SCALILLI 1400 LT</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1018.42</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-24</dataInizio>
+<dataUltimazione>2023-05-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1018.42</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z2539D68F3</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GPL 1400 LT</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1018.41</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-06</dataInizio>
+<dataUltimazione>2023-04-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1018.41</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z833A55A49</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GPL PVI 1000 LT</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>745.77</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-13</dataInizio>
+<dataUltimazione>2023-05-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>745.77</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z6A3A5662D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GPL SCALILLI 1400 LT</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1044.08</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-13</dataInizio>
+<dataUltimazione>2023-05-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1044.08</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z833AB1416</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GPL SCALILLI 1400 LT</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1044.08</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-03</dataInizio>
+<dataUltimazione>2023-06-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1044.08</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>98706069BE</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GASOLIO 4° RGT PALERMO 50000 LT</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>52457.16</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-07</dataInizio>
+<dataUltimazione>2023-07-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>52457.16</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z8A3AF39DC</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO VESTIARIO</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06595870822</codiceFiscale>
+<ragioneSociale>FOR.AP.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06595870822</codiceFiscale>
+<ragioneSociale>FOR.AP.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1217.33</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-04</dataInizio>
+<dataUltimazione>2023-07-24</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1217.33</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z7D3AA2C0F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO TUTE DA LAVORO</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06595870822</codiceFiscale>
+<ragioneSociale>LAVORANDO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06595870822</codiceFiscale>
+<ragioneSociale>LAVORANDO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2024.55</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-12</dataInizio>
+<dataUltimazione>2023-07-04</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2024.55</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z6B39DDBE7</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO LEGNAME</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05768980822</codiceFiscale>
+<ragioneSociale>PINO CIRASA SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05768980822</codiceFiscale>
+<ragioneSociale>PINO CIRASA SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2304.03</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-08</dataInizio>
+<dataUltimazione>2023-04-24</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2304.03</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z563ADB162</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GASOLIO 6° RGT PALERMO 21000 LT</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>20765.04</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-20</dataInizio>
+<dataUltimazione>2023-06-11</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>20765.04</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZB73ABEF05</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GASOLIO 6° RGT TRAPANI 21000 LT</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>23427.99</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-12</dataInizio>
+<dataUltimazione>2023-05-20</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>23427.99</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z2139C9708</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GPL PVI 900 LT</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>654.70</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-30</dataInizio>
+<dataUltimazione>2023-03-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>654.70</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z1D39A1D8D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GPL SCALILLI 1400 LT</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1018.42</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-24</dataInizio>
+<dataUltimazione>2023-04-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1018.42</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z823970324</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GPL SCALILLI 1400 LT</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1018.41</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-10</dataInizio>
+<dataUltimazione>2023-03-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1018.41</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z223962DFF</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GPL SCALILLI 1400 LT</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1023.88</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-03</dataInizio>
+<dataUltimazione>2023-03-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1023.88</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z2E3A1AAB7</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GASOLIO 24° RGT MESSINA 21000 LT</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>23427.39</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-24</dataInizio>
+<dataUltimazione>2023-05-13</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>23427.39</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z7A398CFC4</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO ADBLUE</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01496160746</codiceFiscale>
+<ragioneSociale>ALOISIO RICAMBI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01496160746</codiceFiscale>
+<ragioneSociale>ALOISIO RICAMBI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>555.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-27</dataInizio>
+<dataUltimazione>2023-04-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>555.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>96777235A9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GASOLIO 4° RGT PALERMO 38000 LT</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>43697.71</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-24</dataInizio>
+<dataUltimazione>2023-04-17</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>43967.91</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z3F399B8E7</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GASOLIO 6° RGT TRAPANI 31000 LT</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00295420632</codiceFiscale>
+<ragioneSociale>Q8 QUASER SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>36014.61</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-24</dataInizio>
+<dataUltimazione>2023-03-19</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>36014.61</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z043D9292C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GPL PVI 850 LT</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>636.57</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-04</dataInizio>
+<dataUltimazione>2023-02-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>636.57</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z473D952C3</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO GPL DEPOMUNI 1500 LT</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00443130588</codiceFiscale>
+<ragioneSociale>BUTANGAS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1123.35</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-04</dataInizio>
+<dataUltimazione>2023-12-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1123.35</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>A01C0C9A37</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E REVISIONE E RICARICA ESTINTORI IMPIANTO ANTICENDIO/ANTIESPLOSIONE DEI SISTEMI D'ARMA IN DOTAZIONE AI VEICOLI DA COMBATTIMENTO IN USO ALL'E.I.</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02819310968</codiceFiscale>
+<ragioneSociale>MARTEC SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02819310968</codiceFiscale>
+<ragioneSociale>MARTEC SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>163934.43</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-20</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>A01A26CBBB</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>FORNITURA MATERIALI REVISIONI AMMORTIZZATORI E SERVIZIO ASSISTENZA IN SITO VBL PUMA</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01671411005</codiceFiscale>
+<ragioneSociale>IVECO OTO MELARA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01671411005</codiceFiscale>
+<ragioneSociale>IVECO OTO MELARA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>500000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-22</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9927670C71</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ATTO DI ADESIONE AD A.Q. 310/2020 PER LA MANUTENZIONE E RIPARAZIONE DEI VEICOLI VTLM</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01671411005</codiceFiscale>
+<ragioneSociale>IVECO OTO MELARA</ragioneSociale>
+</aggiudicatario>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>163201.37</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-23</dataInizio>
+<dataUltimazione>2024-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9882802A33</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE ORDINARIA RIPARAZIONE MEZZI TERRESTRI PR LA DIFESA</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>77848.32</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-28</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z913D74A78</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE/RIPARAZIONE AUTOMEZZI MILITARI. FIAT PUNTO CM413 ALFA 159 CI716</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>267.12</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-27</dataInizio>
+<dataUltimazione>2023-12-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z103D7ECC6</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI: AUTOPOMPA MAGIRUS E.I. AU163</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>533.61</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-29</dataInizio>
+<dataUltimazione>2023-12-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>533.61</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z793040781</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE/RIPARAZIONE DI AUTOMEZZI MILITARI: EUROCARGO CF602; DUCATO AMBULANZA BG405; HONDA SH 300 72389; FIAT DOBLO' EA527</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5135.68</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-14</dataInizio>
+<dataUltimazione>2023-12-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5135.69</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z053D41361</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>RICARICA E NOLEGGIO BOMBOLE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06043400826</codiceFiscale>
+<ragioneSociale>CAPUTO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06043400826</codiceFiscale>
+<ragioneSociale>CAPUTO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1098.90</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-17</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZBF3D05030</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI. COPERTURE BLINDO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02217170816</codiceFiscale>
+<ragioneSociale>RANDAZZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02217170816</codiceFiscale>
+<ragioneSociale>RANDAZZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4187.70</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-27</dataInizio>
+<dataUltimazione>2023-11-16</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4187.70</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZBA3D40D42</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI FIAT PUNTO CM386 - FIAT BRAVO CM653</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04367860824</codiceFiscale>
+<ragioneSociale>PISCIOTTA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04367860824</codiceFiscale>
+<ragioneSociale>PISCIOTTA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>718.62</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-14</dataInizio>
+<dataUltimazione>2023-12-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>718.62</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z453D40EB7</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RICARICA AUTOMEZZI FIAT DUCATO AC117</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04367860824</codiceFiscale>
+<ragioneSociale>PISCIOTTA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04367860824</codiceFiscale>
+<ragioneSociale>PISCIOTTA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>223.80</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-14</dataInizio>
+<dataUltimazione>2023-12-04</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>223.80</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZF03D6DEBB</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI FIAT DUCATO 562DE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01548530821</codiceFiscale>
+<ragioneSociale>BUARNE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01548530821</codiceFiscale>
+<ragioneSociale>BUARNE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1052.44</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-24</dataInizio>
+<dataUltimazione>2023-12-12</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1052.44</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z083D6D166</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI FIAT BRAVO CU733</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04367860824</codiceFiscale>
+<ragioneSociale>PISCIOTTA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04367860824</codiceFiscale>
+<ragioneSociale>PISCIOTTA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>270.60</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-12</dataInizio>
+<dataUltimazione>2023-12-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>270.60</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z5B3CE6FC7</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI FIAT DOBLO' CL959 - FIAT DUCATO CZ542</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02138020835</codiceFiscale>
+<ragioneSociale>EURO TRUCK</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02138020835</codiceFiscale>
+<ragioneSociale>EURO TRUCK</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5011.33</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-24</dataInizio>
+<dataUltimazione>2023-11-08</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5011.33</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z493C49FDE</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI FIAT DUCATO 549DL</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01709590853</codiceFiscale>
+<ragioneSociale>VANCHERI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01709590853</codiceFiscale>
+<ragioneSociale>VANCHERI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>647.93</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-01</dataInizio>
+<dataUltimazione>2023-09-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>647.93</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z743D04D24</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>VERIFICA, CONTROLLO E REVISIONE ESTINTORI PORTATILI A POLVERE VARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04980670824</codiceFiscale>
+<ragioneSociale>ITAL FIRE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04980670824</codiceFiscale>
+<ragioneSociale>ITAL FIRE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>180.18</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-27</dataInizio>
+<dataUltimazione>2023-11-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>180.18</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z7B3DB26BC</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01548530821</codiceFiscale>
+<ragioneSociale>BUARNE'</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01548530821</codiceFiscale>
+<ragioneSociale>BUARNE'</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>343.30</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-12</dataInizio>
+<dataUltimazione>2023-12-18</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>343.30</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZDA3C6F1E5</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>12905.17</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-27</dataInizio>
+<dataUltimazione>2023-12-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>12905.17</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZA23C2EC04</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01548530821</codiceFiscale>
+<ragioneSociale>BUARNE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01548530821</codiceFiscale>
+<ragioneSociale>BUARNE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>380.88</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-01</dataInizio>
+<dataUltimazione>2023-10-11</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>380.88</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZDE3B9C142</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01548530821</codiceFiscale>
+<ragioneSociale>BUARNE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01548530821</codiceFiscale>
+<ragioneSociale>BUARNE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>427.31</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-11</dataInizio>
+<dataUltimazione>2023-08-21</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>427.31</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z7E3B9C0E0</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+</partecipanti>
+<aggiudicatari>
+</aggiudicatari>
+<importoAggiudicazione>132.96</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-11</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>132.96</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z883B5B832</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04367860824</codiceFiscale>
+<ragioneSociale>PISCIOTTA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04367860824</codiceFiscale>
+<ragioneSociale>PISCIOTTA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5997.03</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-18</dataInizio>
+<dataUltimazione>2023-11-13</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5997.03</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z433B5BA30</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ESTINTORI A SCHIUMA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04980670824</codiceFiscale>
+<ragioneSociale>ITAL FIRE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04980670824</codiceFiscale>
+<ragioneSociale>ITAL FIRE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>653.40</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-11</dataInizio>
+<dataUltimazione>2023-07-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>653.40</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z823BC667A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>VERIFICA CONTROLLO E REVISIONE ESTINTORI PORTATILI A POLVERE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04980670824</codiceFiscale>
+<ragioneSociale>ITALFIRE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04980670824</codiceFiscale>
+<ragioneSociale>ITALFIRE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>167.31</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-11</dataInizio>
+<dataUltimazione>2023-07-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>167.31</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z963BDAA85</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE STRAORDINARIA FOTOCOPIATORI 2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05425920823</codiceFiscale>
+<ragioneSociale>MAR.CLA SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05425920823</codiceFiscale>
+<ragioneSociale>MAR.CLA SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1118.85</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-13</dataInizio>
+<dataUltimazione>2023-09-07</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1118.85</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z24398D01E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>LAVORI DI MINUTO MANTENIMENTO</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05516960829</codiceFiscale>
+<ragioneSociale>CRS COSTRUZIONI</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>04968320822</codiceFiscale>
+<ragioneSociale>COEPE SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>03701180824</codiceFiscale>
+<ragioneSociale>IDROTERMICA SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>06191420824</codiceFiscale>
+<ragioneSociale>MIL WORLD SRLUCR</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04968320822</codiceFiscale>
+<ragioneSociale>COEPE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>33641.56</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-21</dataInizio>
+<dataUltimazione>2023-05-18</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>33641.56</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z093AC02CB</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE STRAORDINARIA IMPIANTI TERMICI 2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05234440823</codiceFiscale>
+<ragioneSociale>D.L.S. DI SALVATORE DI LORENZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05234440823</codiceFiscale>
+<ragioneSociale>D.L.S. DI SALVATORE DI LORENZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>13521.72</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-26</dataInizio>
+<dataUltimazione>2023-10-11</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>13521.72</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z173C860FA</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SFALCIO ERBA</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07078140824</codiceFiscale>
+<ragioneSociale>ECOL SIAM SRLS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07078140824</codiceFiscale>
+<ragioneSociale>ECOL SIAM SRLS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1900.80</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-25</dataInizio>
+<dataUltimazione>2023-10-23</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1900.80</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z553CF77DE</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE STRAORDINARIA E RIPRISTINO CANCELLO PRINCIPALE 2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06204620824</codiceFiscale>
+<ragioneSociale>IRICEP SERVICE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06204620824</codiceFiscale>
+<ragioneSociale>IRICEP SERVICE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>237.60</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-02</dataInizio>
+<dataUltimazione>2023-11-21</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>237.60</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z823CAF733</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE STRAORDINARIA IMPIANTO DI VIDEOSORVEGLIANZA</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06486120824</codiceFiscale>
+<ragioneSociale>MS - IMPIANTI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06486120824</codiceFiscale>
+<ragioneSociale>MS - IMPIANTI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1861.60</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-13</dataInizio>
+<dataUltimazione>2023-12-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1861.60</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z4D3A0E81D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE ORDINARIA IMPIANTO DI VIDEOSORVEGLIANZA</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06486120824</codiceFiscale>
+<ragioneSociale>MS IMPIANTI</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>03701180824</codiceFiscale>
+<ragioneSociale>IDROTERMICA SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>06204620824</codiceFiscale>
+<ragioneSociale>IRICEP SERVICE SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>03854330820</codiceFiscale>
+<ragioneSociale>IMPIANTI TECNOLOGICI INDUSTRIALI SAS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06486120824</codiceFiscale>
+<ragioneSociale>MS IMPIANTI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3938.22</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-20</dataInizio>
+<dataUltimazione>2023-12-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3938.22</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9756467B42</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO ATTREZZATURA DA OFFICINA</oggetto>
+<sceltaContraente>33-PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>04078230879</codiceFiscale>
+<ragioneSociale>SAEM FER</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>05253170962</codiceFiscale>
+<ragioneSociale>3S SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02217170816</codiceFiscale>
+<ragioneSociale>RANDAZZO</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02138020835</codiceFiscale>
+<ragioneSociale>EUROTRUCK SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05253170962</codiceFiscale>
+<ragioneSociale>3S SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>138105.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-19</dataInizio>
+<dataUltimazione>2023-12-04</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>138105.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z9F398856B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE ORDINARIA IMPIANTI TERMICI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05234440823</codiceFiscale>
+<ragioneSociale>D.L.S. DI SALVATORE DI LORENZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05234440823</codiceFiscale>
+<ragioneSociale>D.L.S. DI SALVATORE DI LORENZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>7126.76</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-26</dataInizio>
+<dataUltimazione>2023-12-12</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>7126.76</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZA33D26B43</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SPURGO POZZETTI CASERMA DI MARIA</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06511190826</codiceFiscale>
+<ragioneSociale>LA BAGHERIA SPURGHI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06511190826</codiceFiscale>
+<ragioneSociale>LA BAGHERIA SPURGHI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>396.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-13</dataInizio>
+<dataUltimazione>2023-11-24</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>396.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z1B3C448F4</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>LAVORI DI MINUTO MANTENIMENTO</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05516960829</codiceFiscale>
+<ragioneSociale>CRS COSTRUZIONE</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>04968320822</codiceFiscale>
+<ragioneSociale>CO.E.PE. SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05516960829</codiceFiscale>
+<ragioneSociale>CRS COSTRUZIONE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2830.17</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-30</dataInizio>
+<dataUltimazione>2023-11-21</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2830.17</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZC83CB3630</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>LAVORI DI MINUTO MANTENIMENTO PRESSO LA CASERMA DI MARIA ED IL P.V.I. DI SAN CATALDO</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05516960829</codiceFiscale>
+<ragioneSociale>CRS COSTRUZIONI</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>04968320822</codiceFiscale>
+<ragioneSociale>COEPE SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>03701180824</codiceFiscale>
+<ragioneSociale>IDROTERMICA</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>02847440845</codiceFiscale>
+<ragioneSociale>SAN PAOLO RESTAURI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05516960829</codiceFiscale>
+<ragioneSociale>CRS COSTRUZIONI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>9327.77</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-12</dataInizio>
+<dataUltimazione>2023-11-21</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>9327.77</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZD13CE7326</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE STRAORDINARIA IMPIANTI TERMICI</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05234440823</codiceFiscale>
+<ragioneSociale>D.L.S. DI SALVATORE DI LORENZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05234440823</codiceFiscale>
+<ragioneSociale>D.L.S. DI SALVATORE DI LORENZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1142.46</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-25</dataInizio>
+<dataUltimazione>2023-11-21</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1142.46</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z373CE641D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO N.70 GIFT CARD</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00183090877</codiceFiscale>
+<ragioneSociale>BRUNO SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00183090877</codiceFiscale>
+<ragioneSociale>BRUNO SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3067.40</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-18</dataInizio>
+<dataUltimazione>2023-11-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3067.40</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z723CF3EF9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO N.39 GIFT CARD (BUONI LIBRO)</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04628790968</codiceFiscale>
+<ragioneSociale>FELTRINELLI SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04628790968</codiceFiscale>
+<ragioneSociale>FELTRINELLI SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1708.98</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-23</dataInizio>
+<dataUltimazione>2023-11-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1708.98</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z2C3A68E3C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO ATTREZZATURA DI OFFICINA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01633631203</codiceFiscale>
+<ragioneSociale>VEHICLE SERVICE GROUP ITALY</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01633631203</codiceFiscale>
+<ragioneSociale>VEHICLE SERVICE GROUP ITALY</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>25344.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-28</dataInizio>
+<dataUltimazione>2023-09-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>25344.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z8F3C4D412</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE STRAORDINARIA CANCELLO PRINCIPALE 2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06486120824</codiceFiscale>
+<ragioneSociale>MS IMPIANTI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06486120824</codiceFiscale>
+<ragioneSociale>MS IMPIANTI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1980.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-11</dataInizio>
+<dataUltimazione>2023-10-11</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1980.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z263A742FC</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO MATERIALE DI CONSUMO PER FOTOCOPIATORI</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05425920823</codiceFiscale>
+<ragioneSociale>MAR.CLA SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05425920823</codiceFiscale>
+<ragioneSociale>MAR.CLA SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4024.88</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-29</dataInizio>
+<dataUltimazione>2023-05-25</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4024.88</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z453BB796E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO MATERIALE ELETTRICO SPECIALISTICO DI COMMISSARIATO</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01296040866</codiceFiscale>
+<ragioneSociale>CAPUTO FORNITURE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01296040866</codiceFiscale>
+<ragioneSociale>CAPUTO FORNITURE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4024.88</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-13</dataInizio>
+<dataUltimazione>2023-10-10</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4024.88</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z453BA00EE</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO MATERIALE TECNICO SPECIALISTICO DI COMMISSARIATO</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04980670824</codiceFiscale>
+<ragioneSociale>ITALFIRE SISTEMI ANTINCENDIO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04980670824</codiceFiscale>
+<ragioneSociale>ITALFIRE SISTEMI ANTINCENDIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5346.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-10</dataInizio>
+<dataUltimazione>2023-11-21</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5346.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZDC3BDCF09</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE STRAORDINARIA CONDIZIONATORI 2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05234440823</codiceFiscale>
+<ragioneSociale>D.L.S. DI SALVATORE DI LORENZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05234440823</codiceFiscale>
+<ragioneSociale>D.L.S. DI SALVATORE DI LORENZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4108.50</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-17</dataInizio>
+<dataUltimazione>2023-10-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4108.50</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z2F3B28607</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SFALCIO ERBA 2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07078140824</codiceFiscale>
+<ragioneSociale>ECOL SIAM</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07078140824</codiceFiscale>
+<ragioneSociale>ECOL SIAM</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>8154.50</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-19</dataInizio>
+<dataUltimazione>2023-07-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>8154.50</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9992778d43</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE STRAORDINARIA DI N.3 VEICOLI TATTICO LOGISTICI ASTRA</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>61949.97</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-18</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>61949.97</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9746423AB0</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO A QUANTITA' INDETERMINATA DEI MEZZI DELL'E.I. DISLOCATI NELLA SICILIA OCCIDENTALI</oggetto>
+<sceltaContraente>33-PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02217170816</codiceFiscale>
+<ragioneSociale>RANDAZZO DOMENICO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02217170816</codiceFiscale>
+<ragioneSociale>RANDAZZO DOMENICO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>49200.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-20</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>48990.52</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z093B6D1AD</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE MEZZI DEL GENIO MILITARE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00130130875</codiceFiscale>
+<ragioneSociale>COGEMAC SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00130130875</codiceFiscale>
+<ragioneSociale>COGEMAC SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>38000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-18</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>A01C0F5E85</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE VEICOLI STRA IN DOTAZIONE AI REPARTI DELL'E.I. CHE VERRANNO IMPIEGATI IN T.O. FUORI AREA</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>40921.02</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-19</dataInizio>
+<dataUltimazione>2024-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>97743321EF</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>INSTALLAZIONE E MANUTENZIONE DI EROGATORE DI CARBURANTI PRESSO I DEPOSITI DI REPARTI DELL'ESERCITO ITALIANO UBICATI SUL TERRITORIO NAZIONALE</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07240330634</codiceFiscale>
+<ragioneSociale>DAC INFORMATICA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07240330634</codiceFiscale>
+<ragioneSociale>DAC INFORMATICA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>155682.47</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-07</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>155682.47</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>97464744C8</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO A  QUANTITA' INDETERMINATA DEI MEZZI DELL' ESERCITO ITALIANO DISLOCATI NELLA PIAZZA DI PALERMO</oggetto>
+<sceltaContraente>33-PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01548430821</codiceFiscale>
+<ragioneSociale>BUARNE'</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01548430821</codiceFiscale>
+<ragioneSociale>BUARNE'</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>42040.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-31</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>35441.80</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z633A1B60F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE/REVISIONE ESTINTORI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01709590853</codiceFiscale>
+<ragioneSociale>F.LLI VANCHERI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01709590853</codiceFiscale>
+<ragioneSociale>F.LLI VANCHERI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>729.95</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-01</dataInizio>
+<dataUltimazione>2023-03-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>729.95</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z633A1B60F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE/REVISIONE ESTINTORI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04980670824</codiceFiscale>
+<ragioneSociale>ITALFIRE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04980670824</codiceFiscale>
+<ragioneSociale>ITALFIRE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>180.18</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-23</dataInizio>
+<dataUltimazione>2023-04-03</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>180.18</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZBB3AFF0B0</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI FIAT SCUDO CM850</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04078230879</codiceFiscale>
+<ragioneSociale>SAEM FER SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04078230879</codiceFiscale>
+<ragioneSociale>SAEM FER SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>296.24</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-11</dataInizio>
+<dataUltimazione>2023-06-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>296.24</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZB03B5B63B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06164670827</codiceFiscale>
+<ragioneSociale>FALCOS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06164670827</codiceFiscale>
+<ragioneSociale>FALCOS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>383.13</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-07</dataInizio>
+<dataUltimazione>2023-07-18</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>383.13</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZF83B41168</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO MANUTENZIONE STRAORDINARIA DELL'IMPIANTO DI VERNICIATURA "CABINA FORNO" MODELLO INDUSTRIALE MATR. 1004/CF11</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02827930815</codiceFiscale>
+<ragioneSociale>AUTORICAMBI FAF SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02827930815</codiceFiscale>
+<ragioneSociale>AUTORICAMBI FAF SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>27866.58</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-06</dataInizio>
+<dataUltimazione>2023-09-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZE53C91CDD</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI. BUS MODENA EI AG304 - FIAT DOBLO' EI CU244 - FIAT BRAVO EI CU734</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04367860824</codiceFiscale>
+<ragioneSociale>PISCIOTTA GIROLAMO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04367860824</codiceFiscale>
+<ragioneSociale>PISCIOTTA GIROLAMO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5337.64</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-18</dataInizio>
+<dataUltimazione>2023-11-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5337.64</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z9B3C8F54F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE PERIODICA DI N.3 COMPRESSORI AD ARIA E MANUTENZIONE STRAORDINARIA IMPIANTO DI ARIA COMPRESSA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04907840823</codiceFiscale>
+<ragioneSociale>BERTOROTTA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04907840823</codiceFiscale>
+<ragioneSociale>BERTOROTTA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1791.90</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-04</dataInizio>
+<dataUltimazione>2023-11-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1791.90</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z473D04EBD</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO MANUTENZIONE/RIPARAZIONE AUTOMEZZI MILITARI FIAT PUNTO EI CM391</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02138020835</codiceFiscale>
+<ragioneSociale>EURO TRUCK SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02138020835</codiceFiscale>
+<ragioneSociale>EURO TRUCK SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>575.59</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-27</dataInizio>
+<dataUltimazione>2023-11-16</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>575.59</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z053D41361</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>RICARICA E NOLEGGIO BOMBOLE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+</partecipanti>
+<aggiudicatari>
+</aggiudicatari>
+<importoAggiudicazione>1098.80</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-17</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z103C6DCC9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>EUROCARGO VAN CAVALLI AA806</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06599220826</codiceFiscale>
+<ragioneSociale>SGP FRIGOTECNICA SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06599220826</codiceFiscale>
+<ragioneSociale>SGP FRIGOTECNICA SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>6930.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-18</dataInizio>
+<dataUltimazione>2023-11-08</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>6930.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z253C2ECA4</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SFALCIO ERBA</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07918800637</codiceFiscale>
+<ragioneSociale>SOFINN ITALIA SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07918800637</codiceFiscale>
+<ragioneSociale>SOFINN ITALIA SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>297.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-29</dataInizio>
+<dataUltimazione>2023-10-19</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>297.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZAD3D74D1D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI FIAT SCUDO CM887</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01709590853</codiceFiscale>
+<ragioneSociale>VANCHERI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01709590853</codiceFiscale>
+<ragioneSociale>VANCHERI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>588.34</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-27</dataInizio>
+<dataUltimazione>2023-12-13</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>588.34</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z5C3C92CE2</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>16777.60</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-27</dataInizio>
+<dataUltimazione>2023-11-23</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>16777.60</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z0F3A5887A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02217170816</codiceFiscale>
+<ragioneSociale>RANDAZZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02217170816</codiceFiscale>
+<ragioneSociale>RANDAZZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>996.95</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-17</dataInizio>
+<dataUltimazione>2023-04-07</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>996.95</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z103A0C11F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>RIPARAZIONE E MANUTENZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4214.43</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-01</dataInizio>
+<dataUltimazione>2023-03-10</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4214.43</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z2C39CD0E7</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01548530821</codiceFiscale>
+<ragioneSociale>BUARNE VINCENZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01548530821</codiceFiscale>
+<ragioneSociale>BUARNE VINCENZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2963.44</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-01</dataInizio>
+<dataUltimazione>2023-04-12</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2963.44</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z9F3A3AF7C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01548530821</codiceFiscale>
+<ragioneSociale>BUARNE VINCENZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01548530821</codiceFiscale>
+<ragioneSociale>BUARNE VINCENZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1536.84</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-09</dataInizio>
+<dataUltimazione>2023-05-03</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1536.84</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZA53A3AA3D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1852.74</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-08</dataInizio>
+<dataUltimazione>2023-03-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1852.74</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZBE3A6BF64</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>548.74</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-20</dataInizio>
+<dataUltimazione>2023-05-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>548.74</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z373A705BC</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02217170816</codiceFiscale>
+<ragioneSociale>RANDAZZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02217170816</codiceFiscale>
+<ragioneSociale>RANDAZZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>7881.93</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-23</dataInizio>
+<dataUltimazione>2023-04-07</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>7881.93</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z3F380004A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2604.35</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-10</dataInizio>
+<dataUltimazione>2023-06-12</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2604.35</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZDD3A10715</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02217170816</codiceFiscale>
+<ragioneSociale>RANDAZZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02217170816</codiceFiscale>
+<ragioneSociale>RANDAZZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1209.53</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-03</dataInizio>
+<dataUltimazione>2023-03-20</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1209.53</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z463B5B51D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4030.78</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-20</dataInizio>
+<dataUltimazione>2023-07-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4030.78</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9927765AD7</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ATTO DI ADESIONE AD A.Q. 310/2020 PER LA MANUTENZIONE E RIPARAZIONE DEI VEICOLI VTLM E VM90</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>67859.99</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-20</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>67859.99</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9866610824</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANTENIMENTO CONDIZIONI OPERATIVE LINCE - S</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>190348.49</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-16</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>121270.98</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>992147000E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO A QUANTITA' INDETERMINATA DI MANUTENZIONE STRAORDINARIA E RICARICA ESTINTORI DEI VEICOLI DA COMBATTIMENTO DELLA FORZA ARMATA</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02819310968</codiceFiscale>
+<ragioneSociale>MARTEC SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02819310968</codiceFiscale>
+<ragioneSociale>MARTEC SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>435600.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-01</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>435600.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9655106D83</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE VEICOLI MILITARI VTLM IN ADESIONE AD A.Q.</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>414974.09</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-04</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>375552.02</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>A001B7DFEC</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE STRAORDINARIA DI N.5 VEICOLI TATTICO LOGISTICI ASTRA PER ESIGENZE DELLA NATO</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>199878.07</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-20</dataInizio>
+<dataUltimazione>2023-12-20</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>199878.07</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9654820183</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANTENIMENTO CONDIZIONI OPERATIVE (MCO) LINCE TERRESTRI - SUPPORTO LOGISTICO VTLM IN ADESIONE AD A.Q. 310/2020 LOTTO 2</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>631999.46</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-04</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>220857.91</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>965518705F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE VEICOLI ASTRA IN ADESIONE ALL'A.Q. N.311 DI REP. DEL 09/12/2020 LOTTO 2</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>654548.61</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-04</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>626173.22</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>A016EB6F62</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>RIPARAZIONE VEICOLI VTLM IN ADESIONE AD A.Q. 310/2020 LOTTO 2</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02854220213</codiceFiscale>
+<ragioneSociale>IVECO DEFENCE VEHICLES SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>409557.21</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-28</dataInizio>
+<dataUltimazione>2024-06-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z1339C5D55</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE ORDINARIA CONDIZIONATORI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05234440823</codiceFiscale>
+<ragioneSociale>D.L.S. DI SALVATORE DI LORENZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05234440823</codiceFiscale>
+<ragioneSociale>D.L.S. DI SALVATORE DI LORENZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>992.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-07</dataInizio>
+<dataUltimazione>2023-11-21</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>992.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZA53D0E498</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE STRAORDINARIA DI N.3 FOTOCOPIATORI</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05425920823</codiceFiscale>
+<ragioneSociale>MAR.CLA SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05425920823</codiceFiscale>
+<ragioneSociale>MAR.CLA SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1716.02</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-02</dataInizio>
+<dataUltimazione>2023-11-20</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1716.02</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZD23B4A119</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E COLLAUDO CARROPONTE CON RELATIVA CERTIFICAZIONE</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06197881003</codiceFiscale>
+<ragioneSociale>AERTEKNO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06197881003</codiceFiscale>
+<ragioneSociale>AERTEKNO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>705.38</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-06</dataInizio>
+<dataUltimazione>2023-08-07</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>705.38</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z343B8FA7C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SPURGO POZZETTI 2° CICLO 2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06511190826</codiceFiscale>
+<ragioneSociale>LA BAGHERIA SPURGHI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06511190826</codiceFiscale>
+<ragioneSociale>LA BAGHERIA SPURGHI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>6511190826.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-27</dataInizio>
+<dataUltimazione>2023-07-11</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2376.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZD33AF922B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE STRAORDINARIA E POTENZIAMENTO LINEA ELETTRICA DI OFFICINA</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06197881003</codiceFiscale>
+<ragioneSociale>AERTEKNO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06197881003</codiceFiscale>
+<ragioneSociale>AERTEKNO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>8197.20</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-08</dataInizio>
+<dataUltimazione>2023-06-20</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>8197.20</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZC03A68EE8</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO SCALE VANO DELLA BLINDO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06197881003</codiceFiscale>
+<ragioneSociale>AERTEKNO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06197881003</codiceFiscale>
+<ragioneSociale>AERTEKNO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2542.32</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-05</dataInizio>
+<dataUltimazione>2023-05-26</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2542.32</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z123A669D0</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO MOBILI ARREDI ATTREZZATURE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01296040866</codiceFiscale>
+<ragioneSociale>CAPUTO FORNITURE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01296040866</codiceFiscale>
+<ragioneSociale>CAPUTO FORNITURE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>6075.22</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-27</dataInizio>
+<dataUltimazione>2023-05-10</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>6075.22</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z933B506C1</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MAUTENZIONE STRAORDINARIA IMPIANTI DI CONDIZIONAMENTO E SOSTITUZIONE DI N.1 CONDIZIONATORE</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05234440823</codiceFiscale>
+<ragioneSociale>D.L.S. DI SALVATORE DI LORENZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05234440823</codiceFiscale>
+<ragioneSociale>D.L.S. DI SALVATORE DI LORENZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5423.62</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-06</dataInizio>
+<dataUltimazione>2023-07-04</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5423.62</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z6E3A95050</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE STRAORDINARIA CONDIZIONATORI</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05234440823</codiceFiscale>
+<ragioneSociale>D.L.S. DI SALVATORE DI LORENZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05234440823</codiceFiscale>
+<ragioneSociale>D.L.S. DI SALVATORE DI LORENZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3370.95</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-05</dataInizio>
+<dataUltimazione>2023-05-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3370.95</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z7F3A0E9D3</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SPURGO POZZETTI</oggetto>
+<sceltaContraente>22-PROCEDURA NEGOZIATA CON PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06511190826</codiceFiscale>
+<ragioneSociale>LA BAGHERIA SPURGHI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06511190826</codiceFiscale>
+<ragioneSociale>LA BAGHERIA SPURGHI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3514.50</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-15</dataInizio>
+<dataUltimazione>2023-04-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3514.50</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z0D39E136F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE IMPIANTI DELLA MENSA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03701180824</codiceFiscale>
+<ragioneSociale>IDROTERMICA SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03701180824</codiceFiscale>
+<ragioneSociale>IDROTERMICA SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3964.26</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-02</dataInizio>
+<dataUltimazione>2023-04-17</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3964.26</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZCF3A7436F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ACQUISTO MATERIALE DI CANCELLERIA</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06284520829</codiceFiscale>
+<ragioneSociale>RONIMARC ITALIA SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06284520829</codiceFiscale>
+<ragioneSociale>RONIMARC ITALIA SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3995.54</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-31</dataInizio>
+<dataUltimazione>2023-05-25</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3995.54</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZBC3D182C4</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO ANNUALE DI RITIRO, TRASPORTO E SMALTIMENTO DI RIFIUTI SPECIALI PERICOLOSI E NON, INERENTE LE ATTIVITA' DI INTERESSE ALLA PREPARAZIONE DELLE UNITA' DI CARICO (UDC) E MANUTENZIONE DI MEZZI E MATERIALI IN FAVORE DI ENTI, COMANDI ED UNITA'</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03551280823</codiceFiscale>
+<ragioneSociale>L'AMMIRAGLIA RECUPERI AMBIENTALI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03551280823</codiceFiscale>
+<ragioneSociale>L'AMMIRAGLIA RECUPERI AMBIENTALI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>9950.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-06</dataInizio>
+<dataUltimazione>2023-12-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>8068.50</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZB03D18279</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO ANNUALE DI RITIRO, TRASPORTO E SMALTIMENTO DI RIFIUTI PERICOLOSI E NON, PRESSO LA SERIMANT DI PALERMO</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03551280823</codiceFiscale>
+<ragioneSociale>L'AMMIRAGLIA RECUPERI AMBIENTALI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03551280823</codiceFiscale>
+<ragioneSociale>L'AMMIRAGLIA RECUPERI AMBIENTALI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5295.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-06</dataInizio>
+<dataUltimazione>2023-12-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5197.50</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z693A8A849</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANOVALANZA</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04145360378</codiceFiscale>
+<ragioneSociale>CICLAT SOCIETA' CONSORTILE COOPERATIVA STABILE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04145360378</codiceFiscale>
+<ragioneSociale>CICLAT SOCIETA' CONSORTILE COOPERATIVA STABILE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>8196.72</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-29</dataInizio>
+<dataUltimazione>2023-12-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>8196.72</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z733A8A905</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANOVALANZA</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04145360378</codiceFiscale>
+<ragioneSociale>CICLAT SOCIETA' CONSORTILE COOPERATIVA STABILE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04145360378</codiceFiscale>
+<ragioneSociale>CICLAT SOCIETA' CONSORTILE COOPERATIVA STABILE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>20491.80</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-29</dataInizio>
+<dataUltimazione>2023-12-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>20491.80</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z6E3A8AC93</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MATERIALE DI CONSUMO PER SERVIZIO DI PULIZIE</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04145360378</codiceFiscale>
+<ragioneSociale>CICLAT SOCIETA' CONSORTILE COOPERATIVA STABILE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04145360378</codiceFiscale>
+<ragioneSociale>CICLAT SOCIETA' CONSORTILE COOPERATIVA STABILE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1639.34</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-12</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1639.34</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9738206DCD</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>ATTO AGGIUNTIVO SERVIZIO DI PULIZIA</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04145360378</codiceFiscale>
+<ragioneSociale>CICLAT SOCIETA' CONSORTILE COOPERATIVA STABILE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04145360378</codiceFiscale>
+<ragioneSociale>CICLAT SOCIETA' CONSORTILE COOPERATIVA STABILE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>40950.43</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-29</dataInizio>
+<dataUltimazione>2023-12-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>40950.43</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z033A142F6</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI CATERING VEICOLATO PRESSO DEPOMUNI DI SCALILLI CORLEONE</oggetto>
+<sceltaContraente>06-PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03534170828</codiceFiscale>
+<ragioneSociale>NUOVA CUCINA SICILIANA SOC.COOP.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03534170828</codiceFiscale>
+<ragioneSociale>NUOVA CUCINA SICILIANA SOC.COOP.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>9613.50</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-02</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>9613.50</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>975559185D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI CATERING VEICOLATO</oggetto>
+<sceltaContraente>33-PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03534170828</codiceFiscale>
+<ragioneSociale>NUOVA CUCINA SICILIANA SOC.COOP.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>06412670827</codiceFiscale>
+<ragioneSociale>SAPORITO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03534170828</codiceFiscale>
+<ragioneSociale>NUOVA CUCINA SICILIANA SOC.COOP.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>51493.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-19</dataInizio>
+<dataUltimazione>2023-12-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>25459.20</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z613CE5DC9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04078230879</codiceFiscale>
+<ragioneSociale>SAEM FER</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04078230879</codiceFiscale>
+<ragioneSociale>SAEM FER</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>863.96</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-24</dataInizio>
+<dataUltimazione>2023-11-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>863.96</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZE53D059F3</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04078230879</codiceFiscale>
+<ragioneSociale>SAEM FER</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04078230879</codiceFiscale>
+<ragioneSociale>SAEM FER</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2341.34</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-31</dataInizio>
+<dataUltimazione>2023-11-16</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2341.34</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z853C4B00A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>6246.23</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-01</dataInizio>
+<dataUltimazione>2023-09-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>6246.23</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z623B5B6C7</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04078230879</codiceFiscale>
+<ragioneSociale>SAEM FER</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04078230879</codiceFiscale>
+<ragioneSociale>SAEM FER</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>853.42</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-10</dataInizio>
+<dataUltimazione>2023-07-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>853.42</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z2E3C4C3BB</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4055.30</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-01</dataInizio>
+<dataUltimazione>2023-09-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4055.30</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z9A3CC7D08</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SERVIZIO DI MANUTENZIONE E RIPARAZIONE DI AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>207.09</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-12</dataInizio>
+<dataUltimazione>2023-11-20</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>207.09</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZA73D04C2E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANTENIMENTO E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2004.68</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-27</dataInizio>
+<dataUltimazione>2023-11-23</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2004.68</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z963C91E9F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AAUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>729.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-27</dataInizio>
+<dataUltimazione>2023-11-23</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>729.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z803CC53B5</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2068.27</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-12</dataInizio>
+<dataUltimazione>2023-11-24</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2068.27</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z173C2ECFC</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>SOSTITUZIONE COPERTURE SU VBL PUMA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02217170816</codiceFiscale>
+<ragioneSociale>RANDAZZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02217170816</codiceFiscale>
+<ragioneSociale>RANDAZZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2079.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-01</dataInizio>
+<dataUltimazione>2023-09-19</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2079.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZF73B42003</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02217170816</codiceFiscale>
+<ragioneSociale>RANDAZZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02217170816</codiceFiscale>
+<ragioneSociale>RANDAZZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30652.28</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-19</dataInizio>
+<dataUltimazione>2023-11-21</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>30652.28</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZF73B420D3</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02217170816</codiceFiscale>
+<ragioneSociale>RANDAZZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02217170816</codiceFiscale>
+<ragioneSociale>RANDAZZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30652.28</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-19</dataInizio>
+<dataUltimazione>2023-11-01</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>30652.28</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z693B9C119</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02217170816</codiceFiscale>
+<ragioneSociale>RANDAZZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02217170816</codiceFiscale>
+<ragioneSociale>RANDAZZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1039.50</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-09</dataInizio>
+<dataUltimazione>2023-08-21</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1039.50</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z0F3D41227</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02217170816</codiceFiscale>
+<ragioneSociale>RANDAZZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02217170816</codiceFiscale>
+<ragioneSociale>RANDAZZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>9938.45</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-14</dataInizio>
+<dataUltimazione>2023-11-23</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>9938.45</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z073C9279F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02217170816</codiceFiscale>
+<ragioneSociale>RANDAZZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02217170816</codiceFiscale>
+<ragioneSociale>RANDAZZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>15829.45</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-27</dataInizio>
+<dataUltimazione>2023-11-08</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>15829.45</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZF63B5B678</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01709590853</codiceFiscale>
+<ragioneSociale>VANCHERI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01709590853</codiceFiscale>
+<ragioneSociale>VANCHERI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1396.86</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-05</dataInizio>
+<dataUltimazione>2023-07-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZB93AEC22A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01548530821</codiceFiscale>
+<ragioneSociale>BUARNE VINCENZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01548530821</codiceFiscale>
+<ragioneSociale>BUARNE VINCENZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3143.97</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-07</dataInizio>
+<dataUltimazione>2023-06-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3143.97</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z863A5EC34</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04078230879</codiceFiscale>
+<ragioneSociale>SAEM FER</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04078230879</codiceFiscale>
+<ragioneSociale>SAEM FER</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>638.56</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-27</dataInizio>
+<dataUltimazione>2023-05-11</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>638.56</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZD53B5B957</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2894.60</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-03</dataInizio>
+<dataUltimazione>2023-07-24</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2894.60</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z1E3AEC387</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01548530821</codiceFiscale>
+<ragioneSociale>BUARNE VINCENZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01548530821</codiceFiscale>
+<ragioneSociale>BUARNE VINCENZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2634.42</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-07</dataInizio>
+<dataUltimazione>2023-06-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2634.42</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZEA3A6DAF0</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>RIPARAZIONE E MANUTENZIONE AUTOMEZZI MILITARI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>12079.28</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-20</dataInizio>
+<dataUltimazione>2023-06-01</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>12079.28</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZAC3AEC48B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80023020821</codiceFiscaleProp>
+<denominazione>SEZIONE RIFORNIMENTI E MANTENIMENTO - PALERMO</denominazione>
+</strutturaProponente>
+<oggetto>MANUTENZIONE E RIPARAZIONE AUTOMEZZI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06006720822</codiceFiscale>
+<ragioneSociale>SPARACIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5512.65</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-08</dataInizio>
+<dataUltimazione>2023-06-01</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5512.65</importoSommeLiquidate>
+</lotto>
+</data>
+</legge190:pubblicazione>

@@ -1,0 +1,2904 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<legge190:pubblicazione xsi:schemaLocation='legge190_1_0 datasetAppaltiL190.xsd' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:legge190='legge190_1_0'>
+<metadata>
+<titolo>TRASPARENZA</titolo>
+<abstract>1</abstract>
+<dataPubblicazioneDataset>2024-01-26</dataPubblicazioneDataset>
+<entePubblicatore>6° REPARTO INFRASTRUTTURE</entePubblicatore>
+<dataUltimoAggiornamentoDataset>2024-01-26</dataUltimoAggiornamentoDataset>
+<annoRiferimento>2023</annoRiferimento>
+<urlFile>https://www.esercito.difesa.it/comunicazione/bandi-di-gara/trasparente/Documents/6-repainfra/2023/6-repainfra.xml</urlFile>
+<licenza>IODL</licenza>
+</metadata>
+<data>
+<lotto>
+<cig>Z3D3CC8939</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – Caserma “San Salvatore” – acquisto nr.9 buoni libro FELTRINELLI per il personale militare non in SPE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+</partecipanti>
+<aggiudicatari>
+</aggiudicatari>
+<importoAggiudicazione>294.03</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-26</dataInizio>
+<dataUltimazione>2023-11-22</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>294.03</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z3839F6DE0</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>Opere edilizie per ripristino controsoffitti capannone nr11 - BOLOGNA – Caserma “CORRADO VIALI” sede del 121° RGT. A. C/A “RAVENNA”.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01569021205</codiceFiscale>
+<ragioneSociale>ADACO s.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01569021205</codiceFiscale>
+<ragioneSociale>ADACO s.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>39415.35</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-22</dataInizio>
+<dataUltimazione>2023-04-21</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>39415.35</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZB63BF987A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>Casal Borsetti (RA) – Poligono di Foce Reno (ID 4515) – Ripristino parziale della linea di adduzione idrica Principale.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+</partecipanti>
+<aggiudicatari>
+</aggiudicatari>
+<importoAggiudicazione>14816.65</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-16</dataInizio>
+<dataUltimazione>2023-10-03</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>14796.14</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z213AA4835</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – Aeroporto PESCI – Servizio di manutenzione per il ripristino della funzionalità dell’impianto fotovoltaico e sostituzioni di componenti elettro-meccanici vari</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01973200361</codiceFiscale>
+<ragioneSociale>TORRICELLI IMPIANTI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01973200361</codiceFiscale>
+<ragioneSociale>TORRICELLI IMPIANTI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>38194.72</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-02</dataInizio>
+<dataUltimazione>2023-10-11</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>38194.72</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZF43D0ED24</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – CASERMA SAN SALVATORE – Acquisto buoni libro per il personale civile del Reparto</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04628790968</codiceFiscale>
+<ragioneSociale>FELTRINELLI S.p.A</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04628790968</codiceFiscale>
+<ragioneSociale>FELTRINELLI S.p.A</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1960.20</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-28</dataInizio>
+<dataUltimazione>2023-12-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1960.20</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z3A3D514D2</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – CASERMA SAN SALVATORE – Acquisto materiale di Segreteria.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05641680011</codiceFiscale>
+<ragioneSociale>GIEMME di D’Agostino F. SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05641680011</codiceFiscale>
+<ragioneSociale>GIEMME di D’Agostino F. SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>381.74</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-21</dataInizio>
+<dataUltimazione>2023-11-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>381.74</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z073A80C73</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>FORLI’ – Alloggio demaniale EFO 0017 – fornitura e posa in opera di nuovi serramenti</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07692451219</codiceFiscale>
+<ragioneSociale>E.G. SERRAMENTI S.R.L.S.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07692451219</codiceFiscale>
+<ragioneSociale>E.G. SERRAMENTI S.R.L.S.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>19800.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-17</dataInizio>
+<dataUltimazione>2023-12-13</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>19800.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z7C3C6A2A2</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – Caserma “San Salvatore” – Acquisto toner, materiale informatico e carta per fotocopiatrici, necessari per il funzionamento dell'ufficio Demanio</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03972911204</codiceFiscale>
+<ragioneSociale>3M FORNITURE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03972911204</codiceFiscale>
+<ragioneSociale>3M FORNITURE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3112.82</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-14</dataInizio>
+<dataUltimazione>2023-10-12</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3112.80</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZEC3D0ECF2</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – CASERMA SAN SALVATORE – Conversione chiavi software da versione stand-alone a versione Client/Server al fine di ottimizzare l’utilizzo del software tecnico del Reparto</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01883740647</codiceFiscale>
+<ragioneSociale>ACCA SOFTWARE S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01883740647</codiceFiscale>
+<ragioneSociale>ACCA SOFTWARE S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>255.42</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-06</dataInizio>
+<dataUltimazione>2023-12-12</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>255.42</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z233D0ECB2</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – CASERMA SAN SALVATORE – Acquisto materiale informatico necessario per il funzionamento degli uffici del Reparto</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01795220233</codiceFiscale>
+<ragioneSociale>EISEKO COMPUTERS SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01795220233</codiceFiscale>
+<ragioneSociale>EISEKO COMPUTERS SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1980.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-31</dataInizio>
+<dataUltimazione>2023-12-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1980.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z163CE8466</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – Caserma “San Salvatore” – acquisto strumento per verifiche CEI.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00855260394</codiceFiscale>
+<ragioneSociale>HT ITALIA s.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00855260394</codiceFiscale>
+<ragioneSociale>HT ITALIA s.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>890.01</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-26</dataInizio>
+<dataUltimazione>2023-10-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>890.01</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z633D0EC4C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – CASERMA SAN SALVATORE – Acquisto di pubblicazioni tecniche necessario per il funzionamento degli uffici del Reparto</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02229941204</codiceFiscale>
+<ragioneSociale>LE NOVITA’ DEL DIRITTO – LIBRERIA GIURIDICA DI MAURO BORTOLINI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02229941204</codiceFiscale>
+<ragioneSociale>LE NOVITA’ DEL DIRITTO – LIBRERIA GIURIDICA DI MAURO BORTOLINI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>823.68</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-09</dataInizio>
+<dataUltimazione>2023-11-22</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>823.68</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z8A3CE69D1</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – CASERMA SAN SALVATORE - Acquisto di N.2 droni per attività di rilievo, al fine di garantire il corretto funzionamento degli uffici tecnici.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02028590699</codiceFiscale>
+<ragioneSociale>MENNA STUDIO DECUMANO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02028590699</codiceFiscale>
+<ragioneSociale>MENNA STUDIO DECUMANO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>821.22</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-23</dataInizio>
+<dataUltimazione>2023-11-08</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>821.22</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z913C4FEC5</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – Caserma “San Salvatore” – Rilievo digitale per realizzazione
+di spaccato assonometrico</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01760590404</codiceFiscale>
+<ragioneSociale>ARCH. ROBERTO RICCI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01760590404</codiceFiscale>
+<ragioneSociale>ARCH. ROBERTO RICCI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>7310.16</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-28</dataInizio>
+<dataUltimazione>2023-12-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>7512.60</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9655834649</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – ALLOGGIO ASI EBO 0197 – VIA SABOTINO,3 – COMPLETAMENTO LAVORI DI MANUTENZIONE ORDINARIA PORZIONE DI COPERTURA</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02071630590</codiceFiscale>
+<ragioneSociale>Edil R.P.E. S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02071630590</codiceFiscale>
+<ragioneSociale>Edil R.P.E. S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3693.13</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-04</dataInizio>
+<dataUltimazione>2023-07-11</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3693.13</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9655834649</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>LAVORI COMPLESSO ALLOGGI</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02071630590</codiceFiscale>
+<ragioneSociale>EDIL R.P.E.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02071630590</codiceFiscale>
+<ragioneSociale>EDIL R.P.E.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5149.61</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-06</dataInizio>
+<dataUltimazione>2023-09-07</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5149.61</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9655834649</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>FERRARA – sostituzione caldaie presso gli alloggi demaniali EFE 0037 e EFE 0042 di via Rosa Angelini, 60 e sostituzione contatore acqua presso gli alloggi demaniali EFE 0016 e EFE 0025 via Frescobaldi, 21-19</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02071630590</codiceFiscale>
+<ragioneSociale>EDIL R.P.E.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02071630590</codiceFiscale>
+<ragioneSociale>EDIL R.P.E.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>11523.73</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-27</dataInizio>
+<dataUltimazione>2023-09-07</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>11523.73</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9655834649</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>FERRARA: ripristino porzione di copertura e muretto presso la palazzina di via Rosa Angelini, 60</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02071630590</codiceFiscale>
+<ragioneSociale>EDIL R.P.E.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02071630590</codiceFiscale>
+<ragioneSociale>EDIL R.P.E.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>10721.11</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-11</dataInizio>
+<dataUltimazione>2023-11-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>10721.13</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>965922871A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>GOSSOLENGO: COMPLESSO ALLOGGI CASTELLO DI GOSSOLENGO - SFALCIO DI ERBA</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01833840331</codiceFiscale>
+<ragioneSociale>EDILSERVIZI PIACENZA S.R.L</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01833840331</codiceFiscale>
+<ragioneSociale>EDILSERVIZI PIACENZA S.R.L</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2673.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-05</dataInizio>
+<dataUltimazione>2023-11-21</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2673.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z3F3CC89C3</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – Ex Batteria d’Artiglieria DAT Alemanni – prelievo, campionamento e analisi per la verifica della presenza di amianto nella copertura dei baraccamenti</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03197600376</codiceFiscale>
+<ragioneSociale>FINIASFALTI Snc di Fiorentini Massimo e Giancarlo</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03197600376</codiceFiscale>
+<ragioneSociale>FINIASFALTI Snc di Fiorentini Massimo e Giancarlo</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>183.15</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-13</dataInizio>
+<dataUltimazione>2023-10-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>183.15</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z143C5110B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>PIACENZA – EX 3° CENTRO AUTOMOBILIST ICO E MOLINO DEGLI ORTI (ID 4725)attività di rilievo topografico e volte al corretto aggiornamento ed allineamento dei dati catastali di beni di Demanio Pubblico</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01398580330</codiceFiscale>
+<ragioneSociale>GEOMETRA STEFANO GIORGI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01398580330</codiceFiscale>
+<ragioneSociale>GEOMETRA STEFANO GIORGI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>7811.86</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-11</dataInizio>
+<dataUltimazione>2023-11-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>7811.86</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZB53C74EDF</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>Bologna – Caserma San Salvatore – Fornitura, sostituzione ed installazione di N.2 climatizzatori presso i locali dell’Ufficio Personale e Sostegno Logistico ( loc. 2.16 – 2.17 – 2.19) e presso il locale dell’Ufficio Demanio (loc. 4.27)</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03975541206</codiceFiscale>
+<ragioneSociale>IDROTEAM S.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03975541206</codiceFiscale>
+<ragioneSociale>IDROTEAM S.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>7708.14</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-03</dataInizio>
+<dataUltimazione>2023-11-24</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>7708.14</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9659952C8F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>RIMINI: via Calzecchi 16/O e 16/Q - alloggio ERN0078 sostituzione caldaia, adeguamento scarico condensa e alloggio ERN 0062 sostituzione elettrovalvole di intercettazione gas; via Macanno,</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03975541206</codiceFiscale>
+<ragioneSociale>IDROTEAM S.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03975541206</codiceFiscale>
+<ragioneSociale>IDROTEAM S.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5815.52</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-06</dataInizio>
+<dataUltimazione>2023-10-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5815.52</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z503C5CAD6</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>LOCALITA’ BOLOGNA – Via Castelmerlo 2, 2/2-4, via Prati di Caprara, 10 – 14; via Lenin, 38 – via del Parco, 14 – via Castelmerlo dal 30 al 44 – messa in sicurezza attraverso la manutenzione del verde pubblico</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02982881209</codiceFiscale>
+<ragioneSociale>AZIENDA AGRICOLA OBIETTIVO VERDE DI LUCCHINI DAVIDE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02982881209</codiceFiscale>
+<ragioneSociale>AZIENDA AGRICOLA OBIETTIVO VERDE DI LUCCHINI DAVIDE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>6527.94</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-13</dataInizio>
+<dataUltimazione>2023-11-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>6527.94</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZA13C95412</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>LOCALITA’ PIACENZA – Ex 3° Centro Automobilistico e Molino degli Orti - messa in sicurezza attraverso la manutenzione del verde pubblico al fine di consentire attività di rilievo topografico</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01776530337</codiceFiscale>
+<ragioneSociale>ORGANIKA SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01776530337</codiceFiscale>
+<ragioneSociale>ORGANIKA SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2673.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-28</dataInizio>
+<dataUltimazione>2023-10-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2673.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z5B3BFA921</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – Caserma “San Salvatore” – sostituzione valvole tenuta gas e ricarica gruppo frigo Clint</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00154950364</codiceFiscale>
+<ragioneSociale>CPL CONCORDIA Soc. Coop</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00154950364</codiceFiscale>
+<ragioneSociale>CPL CONCORDIA Soc. Coop</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1515.43</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-16</dataInizio>
+<dataUltimazione>2023-08-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1515.43</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZC73A8E2F5</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – Caserma “San Salvatore” – Manutenzione e sanificazione impianti di climatizzazione, termoconvettori e modello unico</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03982231205</codiceFiscale>
+<ragioneSociale>ELETTRICA ROSSOBLU SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03982231205</codiceFiscale>
+<ragioneSociale>ELETTRICA ROSSOBLU SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>6605.87</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-12</dataInizio>
+<dataUltimazione>2023-05-10</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>6605.87</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZE23D357DE</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – CASERMA SAN SALVATORE – Fornitura, materiale accessorio e installazione di un climatizzatore/pompa di calore presso i locali ufficio 2.24 e 2.37</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03975541206</codiceFiscale>
+<ragioneSociale>IDROTEAM S.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03975541206</codiceFiscale>
+<ragioneSociale>IDROTEAM S.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>6036.66</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-17</dataInizio>
+<dataUltimazione>2023-11-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>6036.66</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZC03C6CC7E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>Bologna – Caserma San Salvatore – Fornitura, sostituzione ed installazione di N.1 climatizzatore modello Unico presso l’ufficio del Ten. Col. Ricci Luigi (locale 2.06).</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03975541206</codiceFiscale>
+<ragioneSociale>IDROTEAM S.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03975541206</codiceFiscale>
+<ragioneSociale>IDROTEAM S.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1980.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>0202-09-18</dataInizio>
+<dataUltimazione>2023-10-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1980.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9384230F90</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>Servizio di pulizia Caserma San Salvatore - Bologna</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04269490266</codiceFiscale>
+<ragioneSociale>L'OPEROSA SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04269490266</codiceFiscale>
+<ragioneSociale>L'OPEROSA SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>24220.46</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-08-31</dataInizio>
+<dataUltimazione>2023-12-12</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>24220.46</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z333A85323</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA - Ex Caserma Sta.Mo.to viale Felsinea, 20 ed Ex Batteria d’artiglieria DAT Alemanni in via Terrapieno fronte, 24 – Rimozione RSU</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02965761204</codiceFiscale>
+<ragioneSociale>ECO BUSTERS SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02965761204</codiceFiscale>
+<ragioneSociale>ECO BUSTERS SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1618.65</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-24</dataInizio>
+<dataUltimazione>2023-03-29</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1618.65</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z8F3C3B7BC</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – corso di formazione addetto antincendio di 2° livello presso l’Istituto per l’Istruzione Professionale dei Lavoratori Edili in via del Gomito, 7 a favore del personale della squadra lavori</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>80007510375</codiceFiscale>
+<ragioneSociale>IIPLE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>80007510375</codiceFiscale>
+<ragioneSociale>IIPLE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1346.40</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-25</dataInizio>
+<dataUltimazione>2023-11-24</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1346.40</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z033C39EBF</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – corso di aggiornamento RLS a favore del Serg. Magg. A. Patrizio Bongiovanni</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03929800278</codiceFiscale>
+<ragioneSociale>VEGA FORMAZIONE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03929800278</codiceFiscale>
+<ragioneSociale>VEGA FORMAZIONE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>100.01</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-09</dataInizio>
+<dataUltimazione>2023-12-18</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>98.01</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z423BBC614</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA - Caserma “San Salvatore” – Corso primo soccorso rischio alto di 16 ore e corso BLSD e PBLSD di 5 ore</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03337831204</codiceFiscale>
+<ragioneSociale>Croce Rossa Italiana</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03337831204</codiceFiscale>
+<ragioneSociale>Croce Rossa Italiana</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>594.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-21</dataInizio>
+<dataUltimazione>2023-10-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>594.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZB03BBC650</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA - Caserma “San Salvatore” – Formazione addetti antincendio 2 livello presso l’Istituto per l’Istruzione Professionale dei Lavoratori Edili in via del Gomito, 7 a favore del seguente personale civile: Giovanni LUNGHI e Alessandro GALEANO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>80007510375</codiceFiscale>
+<ragioneSociale>IIPLE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>80007510375</codiceFiscale>
+<ragioneSociale>IIPLE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>336.60</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-25</dataInizio>
+<dataUltimazione>2023-10-19</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>336.60</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z663BB66DF</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA - Caserma “San Salvatore” – corso di aggiornamento RLS – Paolo SAMMARCHI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03929800278</codiceFiscale>
+<ragioneSociale>VEGA FORMAZIONE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03929800278</codiceFiscale>
+<ragioneSociale>VEGA FORMAZIONE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>100.01</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-09</dataInizio>
+<dataUltimazione>2023-12-18</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>99.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z363B49572</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA Caserma “San Salvatore” – Manutenzione server e gestione dei materiali d’uso al fine del corretto funzionamento del sistema informatico del Reparto</oggetto>
+<sceltaContraente>33-PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02071801209</codiceFiscale>
+<ragioneSociale>CIBIX SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02071801209</codiceFiscale>
+<ragioneSociale>CIBIX SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1963.30</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-21</dataInizio>
+<dataUltimazione>2023-07-03</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1963.30</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZB53B00B81</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>Bologna – Caserma “San Salvatore” – Ricambi e montaggio ricambistica per automezzi dell’Amministrazione Difesa – Fiat Doblò EI CM 789, Fiat Doblò EI CV 064 e Fiat Grande Punto EI CV 885.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01877041200</codiceFiscale>
+<ragioneSociale>TRIUMVIRATO CAR SERVICE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01877041200</codiceFiscale>
+<ragioneSociale>TRIUMVIRATO CAR SERVICE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2532.42</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-08</dataInizio>
+<dataUltimazione>2023-08-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2532.42</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z143AB158B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – CASERMA SAN SALVATORE – Sostituzione delle valvole di sicurezza VIC e un filtro gas presso locale caldaia</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00154950364</codiceFiscale>
+<ragioneSociale>CPL CONCORDIA Soc. Coop</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00154950364</codiceFiscale>
+<ragioneSociale>CPL CONCORDIA Soc. Coop</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1790.27</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-02</dataInizio>
+<dataUltimazione>2023-09-19</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1790.27</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z003B00BBE</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – Caserma “San Salvatore” – Sostituzione e adeguamento impianto antintrusione</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03460300373</codiceFiscale>
+<ragioneSociale>SAET BOLOGNA S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03460300373</codiceFiscale>
+<ragioneSociale>SAET BOLOGNA S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4809.61</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-10</dataInizio>
+<dataUltimazione>2023-06-08</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4809.61</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z663CE0102</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – CASERMA SAN SALVATORE – Servizio di sostituzione videocamere e adeguamento impianto di video sorveglianza delle corti interne e del cancello carraio</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03460300373</codiceFiscale>
+<ragioneSociale>SAET BOLOGNA S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03460300373</codiceFiscale>
+<ragioneSociale>SAET BOLOGNA S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1422.63</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-31</dataInizio>
+<dataUltimazione>2023-11-17</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1422.63</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z893BAEDE7</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – Caserma “San Salvatore” – Adeguamento e implementazione dell’impianto antincendio</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03477450377</codiceFiscale>
+<ragioneSociale>S.M.A. ANTINCENDIO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03477450377</codiceFiscale>
+<ragioneSociale>S.M.A. ANTINCENDIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>620.73</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-29</dataInizio>
+<dataUltimazione>2023-10-18</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>620.73</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z1A39B9152</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>Intervento di pulizia scarichi fognari presso il 6° Reparto Infrastrutture sito in Via Santa Margherita,21</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03642090371</codiceFiscale>
+<ragioneSociale>VENTURI AUTOSPURGHI S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03642090371</codiceFiscale>
+<ragioneSociale>VENTURI AUTOSPURGHI S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>990.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-02</dataInizio>
+<dataUltimazione>2023-03-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>371.84</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZBA3BF1145</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>PIACENZA Attività di rilievo topografico e volte al corretto aggiornamento ed allineamento dei dati catastali di beni di Demanio Pubblico dello Stato, in uso al Ministero della Difesa</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>10027951218</codiceFiscale>
+<ragioneSociale>ARCHITETTURA CASALVIERI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>10027951218</codiceFiscale>
+<ragioneSociale>ARCHITETTURA CASALVIERI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>39383.36</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-27</dataInizio>
+<dataUltimazione>2023-12-20</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>39383.36</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z1B389FC42</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>Acquisto di arredi per spogliatoio al fine di garantire il corretto e completo utilizzo dei locali spogliatoio della Caserma San Salvatore - Bologna.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01277860266</codiceFiscale>
+<ragioneSociale>ARTISPORT</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01277860266</codiceFiscale>
+<ragioneSociale>ARTISPORT</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1866.15</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-11-21</dataInizio>
+<dataUltimazione>2023-02-20</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1866.15</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZA33B991FB</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>
+6° REPARTO INFRASTRUTTURE
+6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>SAN MARTINO SPINO (MO) – Ex centro logistico materiali da ponte in via Valli di San Martino (ID 4794) – messa in sicurezza del compendio, attraverso l’eliminazione della vegetazione spontanea</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02848480362</codiceFiscale>
+<ragioneSociale>Cesare BALLERINI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02848480362</codiceFiscale>
+<ragioneSociale>Cesare BALLERINI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1485.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-27</dataInizio>
+<dataUltimazione>2023-10-19</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1485.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z5039D6CB2</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE
+6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>intervento urgente di sostituzione della caldaia autonoma a gas metano per la produzione di acqua calda sanitaria e per riscaldamento alloggio AST EPC 0074 - Complesso alloggi “Nicolai” via San Sisto, 9 - PIACENZA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00188710339</codiceFiscale>
+<ragioneSociale>BORGONOVI F.LLI SNC</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00188710339</codiceFiscale>
+<ragioneSociale>BORGONOVI F.LLI SNC</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2871.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-16</dataInizio>
+<dataUltimazione>2023-03-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2871.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9655834649</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>Manutenzione ordinaria porzione di copertura.
+presso il comprensorio alloggi demaniale ASI EBO 0197 Via Sabotino N° 3 (BO).</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02071630590</codiceFiscale>
+<ragioneSociale>EDIL R.P.E.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02071630590</codiceFiscale>
+<ragioneSociale>EDIL R.P.E.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4134.04</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-17</dataInizio>
+<dataUltimazione>2023-06-21</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4134.04</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9655834649</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>Manutenzione straordinaria cancello carraio del comprensorio alloggiativo via dell'ospedale e ripristino impianto elettrico alloggio demaniale ASI EBO 0336 di via dell'Ospedale 3/5.</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02071630590</codiceFiscale>
+<ragioneSociale>EDIL R.P.E.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02071630590</codiceFiscale>
+<ragioneSociale>EDIL R.P.E.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4309.94</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-30</dataInizio>
+<dataUltimazione>2023-06-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4309.94</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>965922871A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE
+6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>PIACENZA - VIA PAVERI FONTANA, 1/3 - LAVORI DI SOSTITUZIONE CALDAIA PRESSO GLI ALLOGGI DEMANIALI AST EPC 0165 - 0176 - 0177 - 0180 E 0182 E SOSTITUZIONE DI N.1 CRONOTERMOSTATO DIGITALE PRESSO L'ALLOGGIO DEMANIALE EPC 0182</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01833840331</codiceFiscale>
+<ragioneSociale>EDILSERVIZI PIACENZA S.R.L</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01833840331</codiceFiscale>
+<ragioneSociale>EDILSERVIZI PIACENZA S.R.L</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>11352.65</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-30</dataInizio>
+<dataUltimazione>2023-10-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>11352.65</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9659952C8F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>RIMINI - SOSTITUZIONE CALDAIA PRESSO L'ALLOGGIO DEMANIALE ERN 0062 - ADEGUAMENTO CANNE FUMARIE PRESSO GLI ALLOGGI ERN 0062 - 0065 - 0068 IN VIA CALZECCHI 16/Q</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03975541206</codiceFiscale>
+<ragioneSociale>IDROTEAM S.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03975541206</codiceFiscale>
+<ragioneSociale>IDROTEAM S.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>7279.81</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-23</dataInizio>
+<dataUltimazione>2023-06-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>7279.81</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9659952C8F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>RAVENNA – alloggi demaniale ERA 0012 in via Suzzi, 12 – eliminazione perdita idrica sotto traccia e messa in sicurezza parete pericolante</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03975541206</codiceFiscale>
+<ragioneSociale>IDROTEAM S.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03975541206</codiceFiscale>
+<ragioneSociale>IDROTEAM S.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>10282.04</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-12</dataInizio>
+<dataUltimazione>2023-10-09</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>10282.04</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z543CEBA5E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BUDRIO- CASERMA AGOSTINO CIARPAGLINI - Servizio di fornitura ed installazione di un sistema VRV di climatizzazione presso i locali adibiti a refettorio/mensa della Caserma</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02437371202</codiceFiscale>
+<ragioneSociale>LACKY IMPIANTI ELETTRICI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02437371202</codiceFiscale>
+<ragioneSociale>LACKY IMPIANTI ELETTRICI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>16488.45</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-24</dataInizio>
+<dataUltimazione>2023-12-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>16488.45</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z0138FAA26</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6 REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>Lavori di ripristino parziale del manto di impermeabilizzazione della copertura piana presso la palazzina degli alloggi demaniali di via G. Vittorio, 5 – Calderara di Reno (BO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03988461202</codiceFiscale>
+<ragioneSociale>QUANTICA COSTRUZIONI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03988461202</codiceFiscale>
+<ragioneSociale>QUANTICA COSTRUZIONI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3385.80</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-12-19</dataInizio>
+<dataUltimazione>2023-03-07</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3385.80</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZC83A13854</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6 REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>intervento urgente di sostituzione nr.2 caldaie autonome a gas metano per la produzione di acqua calda sanitaria e per il riscaldamento degli alloggi EPC 0167 e EPC 0179 - Complesso alloggi “BESURICA” via Paveri Fontana, 3 - PIACENZA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01567030331</codiceFiscale>
+<ragioneSociale>TERMOIDEA DI TONOLI MASSIMO E FERRARI ELISA SNC</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01567030331</codiceFiscale>
+<ragioneSociale>TERMOIDEA DI TONOLI MASSIMO E FERRARI ELISA SNC</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3676.86</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-28</dataInizio>
+<dataUltimazione>2023-04-18</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3676.86</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z483A243D0</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6 REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>MODENA – PALAZZO NAZIONALE SEDE DELL’ACCADEMIA MILITARE IN PIAZZA ROMA, 15 – Eliminazione perdita idrica vasca da bagno alloggio ASI EMO0045</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03235560368</codiceFiscale>
+<ragioneSociale>TO.DI SRL IMPIANTI TECNOLOGICI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03235560368</codiceFiscale>
+<ragioneSociale>TO.DI SRL IMPIANTI TECNOLOGICI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1485.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-20</dataInizio>
+<dataUltimazione>2023-07-18</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1485.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZF83B5F4C7</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6 REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – Caserma “San Salvatore” – acquisto defibrillatore TECNOHEART PLUS con borsa di trasporto, elettrodi adulto/pediatrici della durata di 2 anni e batteria</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03779690365</codiceFiscale>
+<ragioneSociale>LOW COST SERVICE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03779690365</codiceFiscale>
+<ragioneSociale>LOW COST SERVICE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>860.11</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-12</dataInizio>
+<dataUltimazione>2023-09-26</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>860.11</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZDD3C84BD4</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – CASERMA SAN SALVATORE - Acquisto materiale di cancelleria per garantire il corretto funzionamento del nucleo infermeria</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00960900371</codiceFiscale>
+<ragioneSociale>Fratelli Biagini S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00960900371</codiceFiscale>
+<ragioneSociale>Fratelli Biagini S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>156.91</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-26</dataInizio>
+<dataUltimazione>2023-10-26</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>156.91</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZD639AC8FE</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>acquisto timbri per cambio cariche dipendenti del 6° Reparto Infrastrutture</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+</partecipanti>
+<aggiudicatari>
+</aggiudicatari>
+<importoAggiudicazione>264.33</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-03</dataInizio>
+<dataUltimazione>2023-02-21</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>264.33</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z343B00B0D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA Caserma “San Salvatore” – Acquisto cancelleria per esigenze degli uffici del Reparto</oggetto>
+<sceltaContraente>33-PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11803631008</codiceFiscale>
+<ragioneSociale>DE.DA UFFICIO SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01989291206</codiceFiscale>
+<ragioneSociale>P.C. SERVICE S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11803631008</codiceFiscale>
+<ragioneSociale>DE.DA UFFICIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1960.14</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-26</dataInizio>
+<dataUltimazione>2023-07-10</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1960.14</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZDD39EF5A1</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>acquisto materiale per esigenze dell’Ufficio Personale e Sostegno Logistico del 6° Reparto Infrastrutture - Bologna</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05641680011</codiceFiscale>
+<ragioneSociale>GIEMME di D’Agostino F. SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05641680011</codiceFiscale>
+<ragioneSociale>GIEMME di D’Agostino F. SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>923.57</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-14</dataInizio>
+<dataUltimazione>2023-03-01</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>923.57</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z2D399492E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>acquisto software Ilyos C.I.G. Ver. 1.3’ per elaborazione file segnalazioni della Sezione Atti Negoziali del 6° Reparto Infrastrutture</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01971010648</codiceFiscale>
+<ragioneSociale>Neatek Software</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01971010648</codiceFiscale>
+<ragioneSociale>Neatek Software</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>248.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-03</dataInizio>
+<dataUltimazione>2023-02-08</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>248.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z973B00B43</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA Caserma “San Salvatore” – Acquisto carta per fotocopie in formato A4 per esigenze degli uffici del Reparto</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05665280656</codiceFiscale>
+<ragioneSociale>TECNOCOPY SRLS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05665280656</codiceFiscale>
+<ragioneSociale>TECNOCOPY SRLS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>936.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-04</dataInizio>
+<dataUltimazione>2023-05-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>936.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z073D2E9DB</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA - CASERMA SAN SALVATORE - Acquisto risme carta formato A4 per fotocopiatrice al fine di garantire il corretto funzionamento degli uffici del Reparto</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02188531202</codiceFiscale>
+<ragioneSociale>NUOVO PROGRAMMA UFFICIO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02188531202</codiceFiscale>
+<ragioneSociale>NUOVO PROGRAMMA UFFICIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1174.41</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-10</dataInizio>
+<dataUltimazione>2023-11-24</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1174.41</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z7E3D0384E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA - CASERMA SAN SALVATORE - Servizio di pulitura e lavaggio materiale di casermaggio Ufficio del Comandante e rifacimento tappezzeria di n.2 poltrone dislocate nell' area d' attesa della sezione Demanio</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03723641209</codiceFiscale>
+<ragioneSociale>TAPPEZZERIA SANGIORGI SRLS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03723641209</codiceFiscale>
+<ragioneSociale>TAPPEZZERIA SANGIORGI SRLS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1505.79</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-08</dataInizio>
+<dataUltimazione>2023-11-21</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1505.79</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z353C6B7B2</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – Palazzina demaniale di via dell’Ospedale 1/2, – Sostituzione parziale dell’impianto antenna TV centralizzato</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04110820372</codiceFiscale>
+<ragioneSociale>ABC EUROSATELLITE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04110820372</codiceFiscale>
+<ragioneSociale>ABC EUROSATELLITE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1386.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-21</dataInizio>
+<dataUltimazione>2023-11-21</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1386.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z423A02BD7</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>intervento urgente di sostituzione impianto citofonico scala B e illuminazione esterna area condominiale - Complesso Alloggi “Besurica” via Paveri Fontana, 1/3 - PIACENZA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01511010330</codiceFiscale>
+<ragioneSociale>AL TEC SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01511010330</codiceFiscale>
+<ragioneSociale>AL TEC SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3712.50</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-27</dataInizio>
+<dataUltimazione>2023-06-12</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3712.50</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZA6398EE41</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>Acquisto fornitura materiali per restauro della scultura in marmo sita nel Chiostro centrale presso il 6° Reparto Infrastrutture - Bologna</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02176951206</codiceFiscale>
+<ragioneSociale>AN.T.A.RES srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02176951206</codiceFiscale>
+<ragioneSociale>AN.T.A.RES srl</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1169.51</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-19</dataInizio>
+<dataUltimazione>2023-02-01</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1169.51</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z603B5F4FD</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – Caserma “San Salvatore” – indagini organiche ed inorganiche statua del San Salvatore</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03867580247</codiceFiscale>
+<ragioneSociale>R&amp;C Art SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03867580247</codiceFiscale>
+<ragioneSociale>R&amp;C Art SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>683.10</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-08</dataInizio>
+<dataUltimazione>2023-08-18</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>683.10</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z8F3D4435C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – Caserma “San Salvatore” – messa in sicurezza delle falde di copertura prospicenti il cortile della mensa</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03459851204</codiceFiscale>
+<ragioneSociale>BADALUCCO COSTRUZIONI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03459851204</codiceFiscale>
+<ragioneSociale>BADALUCCO COSTRUZIONI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1710.72</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-14</dataInizio>
+<dataUltimazione>2023-11-21</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1710.72</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z4A3AC115F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>RIMINI – Palazzina demaniale via Macanno, 6 – Opere di abbattimento di nr. 2 piante (pini marittimi) previo acquisizione parere tecnico da parte di agronomo mediante relazione tecnica</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04077650408</codiceFiscale>
+<ragioneSociale>BAMA GLOBAL SERVICE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04077650408</codiceFiscale>
+<ragioneSociale>BAMA GLOBAL SERVICE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2475.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-14</dataInizio>
+<dataUltimazione>2023-09-19</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2475.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZE13CC8853</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>PIACENZA – Complesso Alloggi “EX ARTALE” via Emilia Pavese, 29/A - intervento per la riparazione e ripristino per danni ingresso carraio e pedonale</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00169640331</codiceFiscale>
+<ragioneSociale>BARBIERI ANTONIO DI BARBIERI GEOM. MASSIMILIANO &amp; C. SNC</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00169640331</codiceFiscale>
+<ragioneSociale>BARBIERI ANTONIO DI BARBIERI GEOM. MASSIMILIANO &amp; C. SNC</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1142.40</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-17</dataInizio>
+<dataUltimazione>2023-12-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1633.50</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZCE3A27C85</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>PIACENZA – Complesso Alloggi “Besurica” via Paveri Fontana, 1/3 – Intervento urgente di ripristino di gradini, zoccolatura esterna e risanamento di nr.4 pilastrini in c.a. dei cancelli pedonali</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00169640331</codiceFiscale>
+<ragioneSociale>BARBIERI ANTONIO DI BARBIERI GEOM. MASSIMILIANO &amp; C SNC</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00169640331</codiceFiscale>
+<ragioneSociale>BARBIERI ANTONIO DI BARBIERI GEOM. MASSIMILIANO &amp; C SNC</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1633.50</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-14</dataInizio>
+<dataUltimazione>2023-05-09</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1633.50</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z8C3AA4B8E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – Caserma “Cialdini” – Sostituzione generatore di calore
+inefficiente e sdoppiamento linea di adduzione gas</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03583531201</codiceFiscale>
+<ragioneSociale>CENTRAL SERVICE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03583531201</codiceFiscale>
+<ragioneSociale>CENTRAL SERVICE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>17671.50</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-02</dataInizio>
+<dataUltimazione>2023-10-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>14671.50</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z813ABEE31</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>MILANO MARITTIMA (RA) – Base Logistica Addestrativa (ID 2038) –
+Rifacimento vialetti interni</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03858080652</codiceFiscale>
+<ragioneSociale>CIRILLO LUIGI &amp; FIGLI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+</aggiudicatari>
+<importoAggiudicazione>34739.60</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-14</dataInizio>
+<dataUltimazione>2023-05-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>34739.60</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZF13D18549</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – EX CASERMA STA.MO.TO VAILE FELSINA, 20 (ID 4730) ED EX ALLOGGI VIA DI CASTELMERLO 2, 2/2-4 (ID 5470) - messa in sicurezza dei compendi, attraverso il controllo della proliferazione dei ratti</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02965761204</codiceFiscale>
+<ragioneSociale>ECO BUSTERS SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02965761204</codiceFiscale>
+<ragioneSociale>ECO BUSTERS SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>554.40</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-06</dataInizio>
+<dataUltimazione>2023-12-01</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>554.40</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9655834649</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>Intervento di Ricerca ed eliminazione perdita idrica.
+presso il comprensorio alloggi demaniali siti in Calderara di Reno (BO).</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02071630590</codiceFiscale>
+<ragioneSociale>EDIL R.P.E.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02071630590</codiceFiscale>
+<ragioneSociale>EDIL R.P.E.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5340.47</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-17</dataInizio>
+<dataUltimazione>2023-04-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5340.47</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9655834649</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA –MODENA – CALDERARA DI RENO: Lavori di eliminazione
+perdita idrica sulla condotta condominiale presso il comprensorio degli
+alloggi demaniali di Via C.A. dalla Chiesa 19/21</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02071630590</codiceFiscale>
+<ragioneSociale>EDIL R.P.E.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02071630590</codiceFiscale>
+<ragioneSociale>EDIL R.P.E.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5292.15</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-27</dataInizio>
+<dataUltimazione>2023-12-13</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5292.15</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z633BFA953</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – Caserma “San Salvatore” – sostituzione, installazione e
+fornitura gruppo di continuità delle automazioni cancelli carraia</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03982231205</codiceFiscale>
+<ragioneSociale>ELETTRICA ROSSOBLU SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03982231205</codiceFiscale>
+<ragioneSociale>ELETTRICA ROSSOBLU SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1617.16</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-26</dataInizio>
+<dataUltimazione>2023-08-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1617.16</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z0739D708D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>sostituzione apparecchiatura di protezione impianti
+elettrici nel quadro condominiale e nel quadro a servizio degli alloggi
+demaniali di via dell’Ospedale 3/5 - BOLOGNA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02238331207</codiceFiscale>
+<ragioneSociale>EMMETI SNC di Maestri Tiziano e C.
+Impianti elettrici civi li e industriali</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02238331207</codiceFiscale>
+<ragioneSociale>EMMETI SNC di Maestri Tiziano e C.
+Impianti elettrici civi li e industriali</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3657.06</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-13</dataInizio>
+<dataUltimazione>2023-03-13</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3657.06</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZED3B3C1F7</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – Circolo Unificato Bologna “Palazzo Grassi” – Servizio di
+manutenzione e sistemazione parquet nelle camere della foresteria</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03219831207</codiceFiscale>
+<ragioneSociale>GRANDI ELIO S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03219831207</codiceFiscale>
+<ragioneSociale>GRANDI ELIO S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3157.09</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-08</dataInizio>
+<dataUltimazione>2023-09-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3157.09</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z553A1532E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – Circolo Unificato Bologna “Palazzo Grassi” – Lavori di
+restaurazione presso la sala guardaroba e la sala bar</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03219831207</codiceFiscale>
+<ragioneSociale>GRANDI ELIO S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03219831207</codiceFiscale>
+<ragioneSociale>GRANDI ELIO S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>11012.86</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-13</dataInizio>
+<dataUltimazione>2023-04-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>11012.86</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9659952C8F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>rifacimento del locale bagno a servizio dell’alloggio demaniale ERN 0012 – sostituzione di due caldaie e lavori di ripristino per la funzionalità degli alloggi demaniali ERN 0061, ERN 0070, ERN 0072, ERN 0074, ERN 0080, ERN 0082, ERN 0084</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03975541206</codiceFiscale>
+<ragioneSociale>IDROTEAM S.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03975541206</codiceFiscale>
+<ragioneSociale>IDROTEAM S.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>25263.59</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-06</dataInizio>
+<dataUltimazione>2023-12-13</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>25200.34</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZOF398E9D5</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>Sostituzioni caldaie presso gli alloggi demaniali siti in
+RIMINI: ERN 0039, ERN 0048, ERN 0079 E ERN 0082, in RAVENNA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03975541206</codiceFiscale>
+<ragioneSociale>IDROTEAM S.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03975541206</codiceFiscale>
+<ragioneSociale>IDROTEAM S.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>16640.99</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-01</dataInizio>
+<dataUltimazione>2023-03-08</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>18141.08</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z7C3CD6DFC</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>MODENA CASERMA PISACANE - elaborazione di documento tecnico
+redatto da professionista abilitato inerenti la prevenzione incendi dei
+fabbricati DRAMMIS e XXIV MAGGIO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+</partecipanti>
+<aggiudicatari>
+</aggiudicatari>
+<importoAggiudicazione>1750.32</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-18</dataInizio>
+<dataUltimazione>2023-11-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1750.32</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z4939AF74F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>Intervento urgente di messa in sicurezza area verde del
+complesso alloggi "ex 3° centro automobilistico" sito in Piacenza (PC), via
+Colombo, 142 e palazzina alloggi Besurica via Paveri Fontana, 1/3.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01776530337</codiceFiscale>
+<ragioneSociale>ORGANIKA SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01776530337</codiceFiscale>
+<ragioneSociale>ORGANIKA SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>9163.94</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-08</dataInizio>
+<dataUltimazione>2023-03-16</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>9163.94</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z4E39E4CAF</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>Sostituzione scheda operatore porte ascensore -
+Bologna – Alloggi demaniali via dell’Ospedale 3/2</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01729590032</codiceFiscale>
+<ragioneSociale>OTIS SERVIZ I SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01729590032</codiceFiscale>
+<ragioneSociale>OTIS SERVIZ I SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1108.09</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-21</dataInizio>
+<dataUltimazione>2023-03-10</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1080.09</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z863C51160</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – Palazzine demaniali di via dell’Ospedale 1, 1/2, 3, 3/2, 3/5, e 5
+e palazzina demaniale di via Otto Colonne, 7 – lavori di messa in sicurezza
+mediante l’abbattimento di alberi</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02832911206</codiceFiscale>
+<ragioneSociale>RIZZI SILVIO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+</aggiudicatari>
+<importoAggiudicazione>4826.99</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-25</dataInizio>
+<dataUltimazione>2023-12-13</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4826.99</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z3B39D885F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>abbattimento alberi ed estirpazione ceppi presso il
+comprensorio degli alloggi demaniali di Via Frescobaldi</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02832911206</codiceFiscale>
+<ragioneSociale>RIZZI SILVIO S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02832911206</codiceFiscale>
+<ragioneSociale>RIZZI SILVIO S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>12549.83</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-21</dataInizio>
+<dataUltimazione>2023-06-29</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>12549.83</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z3839EBE5F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>Lavori di eliminazione perdita impianto termico -
+Bologna – Alloggio demaniale EBO 0301, via dell’Ospedale</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02643861202</codiceFiscale>
+<ragioneSociale>S.C. IMPIANTI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02643861202</codiceFiscale>
+<ragioneSociale>S.C. IMPIANTI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1683.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-28</dataInizio>
+<dataUltimazione>2023-04-03</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1683.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZA03A0F79F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – Caserma “San Salvatore” – Sostituzione
+videocamere e adeguamento impianto di video sorveglianza</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03460300373</codiceFiscale>
+<ragioneSociale>SAET BOLOGNA S.R.L</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03460300373</codiceFiscale>
+<ragioneSociale>SAET BOLOGNA S.R.L</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>6550.83</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-01</dataInizio>
+<dataUltimazione>2023-03-03</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>6550.83</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z413A13838</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – Caserma “San Salvatore” – Sostituzione collettore per il
+riscaldamento linea radiatori presso locali adiacenti area parcheggio</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04139010377</codiceFiscale>
+<ragioneSociale>S.I.T. SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04139010377</codiceFiscale>
+<ragioneSociale>S.I.T. SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>339.46</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-21</dataInizio>
+<dataUltimazione>2023-03-21</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>339.46</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z6F3A02B39</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – Caserma “San Salvatore” – Manutenzione
+e revisione estintori e presidi antincendio, sostituzione maniglioni antipanico
+e maniglie a tre chiavi.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03477450377</codiceFiscale>
+<ragioneSociale>S.M.A. ANTINCENDIO SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03477450377</codiceFiscale>
+<ragioneSociale>S.M.A. ANTINCENDIO SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>7493.80</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-09</dataInizio>
+<dataUltimazione>2023-11-13</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>7493.80</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZEF3CD6CA0</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA - PALAZZO GRASSI - Modifica dell'impianto di distribuzione GAS per allaccio di nuovo contatore a servizio della centrale termica e predisposizione per futuro allaccio gas cucina</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04576411211</codiceFiscale>
+<ragioneSociale>SORGENTE S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04576411211</codiceFiscale>
+<ragioneSociale>SORGENTE S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3856.64</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-17</dataInizio>
+<dataUltimazione>2023-10-23</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3856.64</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZC739B93D4</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>sostituzione nr.1 vetro camera 8/9 stopsol bronzo
+presso locale adibito a stoccaggio materiale fuori uso zona parcheggio auto
+– Caserma “San Salvatore” - BOLOGNA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03251901207</codiceFiscale>
+<ragioneSociale>VETRERIA MEDICINESE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03251901207</codiceFiscale>
+<ragioneSociale>VETRERIA MEDICINESE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>693.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-08</dataInizio>
+<dataUltimazione>2023-03-07</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>693.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZAA3CCF50A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – CASERMA SAN SALVATORE – Servizio di facchinaggio per spostamento, riposizionamento e sistemazione del mobilio e archivi</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03986210379</codiceFiscale>
+<ragioneSociale>CO. GEN. SER. SOC. COOP</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03986210379</codiceFiscale>
+<ragioneSociale>CO. GEN. SER. SOC. COOP</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1568.16</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-18</dataInizio>
+<dataUltimazione>2023-11-03</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1568.16</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z673A8E293</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>Bologna – Caserma San Salvatore – Acquisto attrezzature per esigenze del
+minuto mantenimento</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02090300373</codiceFiscale>
+<ragioneSociale>FERRAMENTA OZZANESE SNC</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02090300373</codiceFiscale>
+<ragioneSociale>FERRAMENTA OZZANESE SNC</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1604.87</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-03</dataInizio>
+<dataUltimazione>2023-03-21</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1604.87</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZC33B88136</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>Servizio di trasloco uffici Sezione Affari Generali propedeutico ad interventi edilizi - Bologna - Caserma Cialdini</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01964521205</codiceFiscale>
+<ragioneSociale>MASSERVICE SNC</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01964521205</codiceFiscale>
+<ragioneSociale>MASSERVICE SNC</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5314.39</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-19</dataInizio>
+<dataUltimazione>2023-09-21</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5314.39</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZBE3B3C5F7</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>MODENA – Palazzo Nazionale (ID4743) – Servizio di architettura ed
+ingegneria per l’acquisizione della progettazione esecutiva relativa ai lavori
+di restauro dell’androne nord del Cortile d’Onore di Palazzo Nazionale</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03342490277</codiceFiscale>
+<ragioneSociale>Architetto Piero Vespignani</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03342490277</codiceFiscale>
+<ragioneSociale>Architetto Piero Vespignani</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>11970.16</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-21</dataInizio>
+<dataUltimazione>2023-11-20</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>11970.16</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9352705054</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>MILANO MARITTIMA (RA) – BASE LOGISTICA ADDESTRATIVA (ID 2038) – Lavori di fornitura e posa in opera di controsoffittatura certificata anti sfondellamento degli alloggi OPS</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04275800656</codiceFiscale>
+<ragioneSociale>EREDI CIRILLO SAS DI PELLEGRINO ROSA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04275800656</codiceFiscale>
+<ragioneSociale>EREDI CIRILLO SAS DI PELLEGRINO ROSA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>85871.36</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-24</dataInizio>
+<dataUltimazione>2023-07-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>85871.36</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z8134CB8B8</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6 REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>L’INCARICO DI
+COORDINATORE ALLA SICUREZZA IN FASE DI
+ESECUZIONE E DIRETTORE OPERATIVO CON
+COMPITO DI ASSISTENZA AL D.L. PER LA
+SUPERVISIONE DELLE OPERE IMPIANTISTICHE E
+REDAZIONE DI SCIA FINALE PRESSO L'AEROPORTO G.VASSURA DI
+RIMINI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03897371203</codiceFiscale>
+<ragioneSociale>PES S.R.L.S.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03897371203</codiceFiscale>
+<ragioneSociale>PES S.R.L.S.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>15702.83</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-02-01</dataInizio>
+<dataUltimazione>2023-12-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>15702.83</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z5038802E5</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>PALAZZO GRASSI (ID 4767) – Servizi Inerenti L'incarico Di Direttore Dei Lavori In Fase Di Esecuzione Degli Interventi Di Metanizzazione Della Centrale Termica</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02560161206</codiceFiscale>
+<ragioneSociale>ING.MASSIMILIANO MARCHESINI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02560161206</codiceFiscale>
+<ragioneSociale>ING.MASSIMILIANO MARCHESINI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>12270.62</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-11-22</dataInizio>
+<dataUltimazione>2023-10-18</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>12270.62</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z7F36C93B8</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>Esecuzione e Direttore Operativo con compito di assistenza al D.L. per la supervisione dei lavori – Base Logistica Addestrativa – Milano Marittima</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03897371203</codiceFiscale>
+<ragioneSociale>PES SRLS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03897371203</codiceFiscale>
+<ragioneSociale>PES SRLS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>10175.46</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-06-22</dataInizio>
+<dataUltimazione>2023-11-24</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>10175.46</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>923978609F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>MODENA –C aserma “ PISAC AN E”
+(Id. 4736) – Ristrutturazione delle ali adiacenti al corpo centrale della palazzina DRAMMIS</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03661100242</codiceFiscale>
+<ragioneSociale>CONSORZIO STABILE BUILD S.C. A R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03661100242</codiceFiscale>
+<ragioneSociale>CONSORZIO STABILE BUILD S.C. A R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>677441.87</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-07-27</dataInizio>
+<dataUltimazione>2023-11-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>677441.87</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>927876571A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>MODENA –Caserma “ PISAC AN E” (Id. 4736) – Ristrutturazione delle ali adiacenti al corpo centrale della palazzina XXVI MAGGIO</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03661100242</codiceFiscale>
+<ragioneSociale>CONSORZIO STABILE BUILD S.C. A R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03661100242</codiceFiscale>
+<ragioneSociale>CONSORZIO STABILE BUILD S.C. A R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>691021.11</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-09-23</dataInizio>
+<dataUltimazione>2023-11-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>691021.11</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>911523410F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>BOLOGNA – PALAZZO GRASSI (ID 4767) – Intervento di metanizzazione centrale termica</oggetto>
+<sceltaContraente>33-PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04576411211</codiceFiscale>
+<ragioneSociale>SORGENTE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04576411211</codiceFiscale>
+<ragioneSociale>SORGENTE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>281295.21</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-07-27</dataInizio>
+<dataUltimazione>2023-08-21</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>281295.21</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9486054B64</cig>
+<strutturaProponente>
+<codiceFiscaleProp>80077470377</codiceFiscaleProp>
+<denominazione>6° REPARTO INFRASTRUTTURE</denominazione>
+</strutturaProponente>
+<oggetto>MODENA – PALAZZO NAZIONALE (ID 4743) – Servizi inerenti alla progettazione di fattibilità tecnico, economica ed esecutiva per lavori di ristrutturazione e adeguamento dell'aula di fisica</oggetto>
+<sceltaContraente>25-AFFIDAMENTO DIRETTO A SOCIETA' RAGGRUPPATE/CONSORZIATE O CONTROLLATE NELLE CONCESSIONI E NEI PARTENARIATI</sceltaContraente>
+<partecipanti>
+</partecipanti>
+<aggiudicatari>
+</aggiudicatari>
+<importoAggiudicazione>79178.44</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-12-15</dataInizio>
+<dataUltimazione>2023-08-29</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>79178.44</importoSommeLiquidate>
+</lotto>
+</data>
+</legge190:pubblicazione>
