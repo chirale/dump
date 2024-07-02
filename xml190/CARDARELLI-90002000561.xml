@@ -1,0 +1,6151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xmlns:legge190="legge190_1_0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd">
+<metadata>
+<titolo>AVCP 2024 ANNO 2023</titolo>
+<abstract>GARE2023</abstract>
+<dataPubblicazioneDataset>2024-01-15</dataPubblicazioneDataset>
+<entePubblicatore>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</entePubblicatore>
+<dataUltimoAggiornamentoDataset>2024-01-15</dataUltimoAggiornamentoDataset>
+<annoRiferimento>2023</annoRiferimento>
+<urlFile>https://www.iscardarelli.edu.it/amministrazione-trasparente?tipo=amm
+inistrazione-trasparente&amp;categoria=1101&amp;storico=&amp;cerca=/gare2023.
+xml</urlFile>
+<licenza>IODL 2.0</licenza>
+</metadata>
+<data>
+<lotto>
+<cig>0000000000</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.2026/FVIDF del 12/05/2023 Fornitura del
+12/05/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00150470342</codiceFiscale>
+<ragioneSociale>Gruppo Spaggiari Parma S.p.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00150470342</codiceFiscale>
+<ragioneSociale>Gruppo Spaggiari Parma S.p.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>59.02</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-05</dataInizio>
+<dataUltimazione>2023-07-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>59.02</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9787314B02</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.56/PA del 20/04/2023 Fornitura del
+20/04/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01211890569</codiceFiscale>
+<ragioneSociale>Cooperativa Sociale Serena</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01211890569</codiceFiscale>
+<ragioneSociale>Cooperativa Sociale Serena</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>32612.86</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-02</dataInizio>
+<dataUltimazione>2023-12-07</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>32612.86</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9932100434</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.38 del 27/11/2023 Fornitura del
+27/11/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02993410592</codiceFiscale>
+<ragioneSociale>GBG ALLARM S.R.L.S.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02993410592</codiceFiscale>
+<ragioneSociale>GBG ALLARM S.R.L.S.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>7222.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-06</dataInizio>
+<dataUltimazione>2023-12-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>7222.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9943803DD0</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.1044 del 11/11/2023 Fornitura del
+11/11/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01517580567</codiceFiscale>
+<ragioneSociale>MONDO INFORMATICA SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01517580567</codiceFiscale>
+<ragioneSociale>MONDO INFORMATICA SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>80090.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-05</dataInizio>
+<dataUltimazione>2023-12-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>80090.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9943874869</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>9943874869Pagamento Fattura n.1403294462 del 31/10/2023
+Fornitura del 31/10/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>12289830155</codiceFiscale>
+<ragioneSociale>DELL S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>12289830155</codiceFiscale>
+<ragioneSociale>DELL S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>72833.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-07</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>71249.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>A00EE6183D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.143/PA del 30/11/2023 Fornitura del
+30/11/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01211890569</codiceFiscale>
+<ragioneSociale>Cooperativa Sociale Serena</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01211890569</codiceFiscale>
+<ragioneSociale>Cooperativa Sociale Serena</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>14692.30</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-28</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>5411.84</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>A017311785</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.23100705 del 08/11/2023 Fornitura del
+08/11/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01589390564</codiceFiscale>
+<ragioneSociale>FIACCADORI SOLUZIONI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01589390564</codiceFiscale>
+<ragioneSociale>FIACCADORI SOLUZIONI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>138000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-01</dataInizio>
+<dataUltimazione>2023-12-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>138000.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>z003d57dc9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.200-FE del 27/11/2023 Fornitura del
+27/11/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02096910563</codiceFiscale>
+<ragioneSociale>BENDUE SRL S</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02096910563</codiceFiscale>
+<ragioneSociale>BENDUE SRL S</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>815.11</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-07</dataInizio>
+<dataUltimazione>2023-12-07</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>815.11</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z013C224BA</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.22 del 05/10/2023 Fornitura del
+05/10/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00772840567</codiceFiscale>
+<ragioneSociale>PIERO GUFI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00772840567</codiceFiscale>
+<ragioneSociale>PIERO GUFI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1890.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-22</dataInizio>
+<dataUltimazione>2023-11-22</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1890.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z033AD3701</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.283/2023 del 05/05/2023 Fornitura del
+05/05/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02112290560</codiceFiscale>
+<ragioneSociale>Black Eagle Computer S.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02112290560</codiceFiscale>
+<ragioneSociale>Black Eagle Computer S.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1868.39</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-05</dataInizio>
+<dataUltimazione>2023-07-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1868.39</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z043A6D7C6</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.5 del 20/03/2023 Fornitura del
+20/03/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02427010562</codiceFiscale>
+<ragioneSociale>ETRURIA GUIDE SOCIETA' COOPERATIVA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02427010562</codiceFiscale>
+<ragioneSociale>ETRURIA GUIDE SOCIETA' COOPERATIVA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>373.88</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-23</dataInizio>
+<dataUltimazione>2023-05-23</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>373.88</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z053AD4640</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.6 del 03/05/2023 Fornitura del
+03/05/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00261870562</codiceFiscale>
+<ragioneSociale>TIBIDABO DI MARZIA MARZOLI E C.
+SAS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00261870562</codiceFiscale>
+<ragioneSociale>TIBIDABO DI MARZIA MARZOLI E C.
+SAS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>604.55</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-06</dataInizio>
+<dataUltimazione>2023-06-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>604.55</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z063A23AD9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.2/SP del 20/04/2023 Fornitura del
+20/04/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03026460596</codiceFiscale>
+<ragioneSociale>Ledar Srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03026460596</codiceFiscale>
+<ragioneSociale>Ledar Srl</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>818.18</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-02</dataInizio>
+<dataUltimazione>2023-05-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>818.18</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z0939BDC28</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.2123012406 del 22/03/2023 Fornitura del
+22/03/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01802940484</codiceFiscale>
+<ragioneSociale>CARLO ERBA REAGENTS SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01802940484</codiceFiscale>
+<ragioneSociale>CARLO ERBA REAGENTS SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>445.23</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-02</dataInizio>
+<dataUltimazione>2023-07-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>445.23</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z093CDC4A5</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FPA 1090/23 del 18/10/2023 Fornitura del
+18/10/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05143491008</codiceFiscale>
+<ragioneSociale>Raines Srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05143491008</codiceFiscale>
+<ragioneSociale>Raines Srl</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>669.30</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-28</dataInizio>
+<dataUltimazione>2023-11-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>669.30</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z0E3CB17AA</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FATTPA 17_23 del 23/10/2023 Fornitura del
+23/10/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01813250568</codiceFiscale>
+<ragioneSociale>Latitudine 42 Snc</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01813250568</codiceFiscale>
+<ragioneSociale>Latitudine 42 Snc</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3700.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-28</dataInizio>
+<dataUltimazione>2023-11-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3700.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z113DEE098</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FPA_ES-2_24 del 02/01/2024 Fornitura del
+02/01/2024</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11247391003</codiceFiscale>
+<ragioneSociale>Desk Italia s.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11247391003</codiceFiscale>
+<ragioneSociale>Desk Italia s.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>270.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-30</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>z123b51502</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.66/ELE del 06/07/2023 Fornitura del
+06/07/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02117320560</codiceFiscale>
+<ragioneSociale>ITALYMPIANTI DESIGN S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02117320560</codiceFiscale>
+<ragioneSociale>ITALYMPIANTI DESIGN S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>36000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-15</dataInizio>
+<dataUltimazione>2023-09-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>36000.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z133CA24E0</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FATTPA 16_23 del 27/09/2023 Fornitura del
+27/09/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01813250568</codiceFiscale>
+<ragioneSociale>Latitudine 42 Snc</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01813250568</codiceFiscale>
+<ragioneSociale>Latitudine 42 Snc</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>356.40</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-28</dataInizio>
+<dataUltimazione>2023-11-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>356.40</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z1439DE8BB</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>ACCONTO _VIAGGIO GRECIA_ 12-19 MARZOPagamento Fattura
+n.86/2023/SC del 08/02/2023 Fornitura del 08/02/2023_</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11946021000</codiceFiscale>
+<ragioneSociale>PYRGOS TRAVEL SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11946021000</codiceFiscale>
+<ragioneSociale>PYRGOS TRAVEL SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>24795.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-15</dataInizio>
+<dataUltimazione>2023-03-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>24795.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z173CF6C0F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FPA 2/23 del 15/11/2023 Fornitura del
+15/11/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02344990565</codiceFiscale>
+<ragioneSociale>ECOVAPORCLEAN di Pistorio Denise
+Teresa</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02344990565</codiceFiscale>
+<ragioneSociale>ECOVAPORCLEAN di Pistorio Denise
+Teresa</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5200.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-22</dataInizio>
+<dataUltimazione>2023-11-22</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5200.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z1839C3485</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.5/2023 del 23/02/2023 Fornitura del
+23/02/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01895340568</codiceFiscale>
+<ragioneSociale>ELENA BIAGIOLA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01895340568</codiceFiscale>
+<ragioneSociale>ELENA BIAGIOLA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>600.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-02</dataInizio>
+<dataUltimazione>2023-03-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>600.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z183C5D441</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.570 FP del 28/10/2023 Fornitura del
+28/10/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>08552720016</codiceFiscale>
+<ragioneSociale>VOLLEY &amp; SPORT s.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>08552720016</codiceFiscale>
+<ragioneSociale>VOLLEY &amp; SPORT s.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>6096.60</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-28</dataInizio>
+<dataUltimazione>2023-11-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>6096.60</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z1D3C2D3EF</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.23110165 del 18/08/2023 Fornitura del
+18/08/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01589390564</codiceFiscale>
+<ragioneSociale>FIACCADORI SOLUZIONI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01589390564</codiceFiscale>
+<ragioneSociale>FIACCADORI SOLUZIONI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1352.44</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-13</dataInizio>
+<dataUltimazione>2023-10-13</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1352.44</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z1F3CA504F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.100 del 21/11/2023 Fornitura del
+21/11/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01116991009</codiceFiscale>
+<ragioneSociale>AERO CLUB DI ROMA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01116991009</codiceFiscale>
+<ragioneSociale>AERO CLUB DI ROMA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>580.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-01</dataInizio>
+<dataUltimazione>2023-12-01</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>580.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z2239897B1</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FPA 7/23 del 21/01/2023 Fornitura del
+21/01/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02710780608</codiceFiscale>
+<ragioneSociale>STELUTED DI NOTARNICOLA GIULIANA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02710780608</codiceFiscale>
+<ragioneSociale>STELUTED DI NOTARNICOLA GIULIANA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>204.92</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-15</dataInizio>
+<dataUltimazione>2023-02-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>204.92</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z223AECB78</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.3EL del 03/07/2023 Fornitura del
+03/07/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11142631008</codiceFiscale>
+<ragioneSociale>AMBARADAM S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11142631008</codiceFiscale>
+<ragioneSociale>AMBARADAM S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>600.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-03</dataInizio>
+<dataUltimazione>2023-08-03</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>600.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z223D29FC1</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.13999/FVISE del 15/11/2023 Fornitura del
+15/11/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00150470342</codiceFiscale>
+<ragioneSociale>Gruppo Spaggiari Parma S.p.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00150470342</codiceFiscale>
+<ragioneSociale>Gruppo Spaggiari Parma S.p.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1180.33</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-28</dataInizio>
+<dataUltimazione>2023-11-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1180.33</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z28388D4B8</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.1EL del 08/02/2023 Fornitura del
+08/02/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11142631008</codiceFiscale>
+<ragioneSociale>AMBARADAM S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11142631008</codiceFiscale>
+<ragioneSociale>AMBARADAM S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>364.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-15</dataInizio>
+<dataUltimazione>2023-02-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>364.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z283918662</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FATTPA 1_23 del 10/01/2023 Fornitura del
+10/01/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01454990563</codiceFiscale>
+<ragioneSociale>Cartolandia S.N.C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01454990563</codiceFiscale>
+<ragioneSociale>Cartolandia S.N.C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>176.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-15</dataInizio>
+<dataUltimazione>2023-02-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>176.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z2A3B1F392</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.2023-V-0000323 del 25/07/2023 Fornitura
+del 25/07/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00189450703</codiceFiscale>
+<ragioneSociale>FRIGOJOLLINOX S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00189450703</codiceFiscale>
+<ragioneSociale>FRIGOJOLLINOX S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>902.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-15</dataInizio>
+<dataUltimazione>2023-09-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>902.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z2A3C7C161</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.25 del 17/11/2023 Fornitura del
+17/11/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02232710562</codiceFiscale>
+<ragioneSociale>S.A.C TERMOIDRAULICA SRLS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02232710562</codiceFiscale>
+<ragioneSociale>S.A.C TERMOIDRAULICA SRLS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3700.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-06</dataInizio>
+<dataUltimazione>2023-12-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3700.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z2B3986431</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.1533 /23 del 27/01/2023 Fornitura del
+27/01/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00958280521</codiceFiscale>
+<ragioneSociale>CLEAN ACCENT SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00958280521</codiceFiscale>
+<ragioneSociale>CLEAN ACCENT SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1143.35</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-15</dataInizio>
+<dataUltimazione>2023-02-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1143.35</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z3037BA624</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.17/ 2023 del 10/02/2023 Fornitura del
+10/02/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03918461009</codiceFiscale>
+<ragioneSociale>INLINGUA SCHOOL CIVITAVECCHIA SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03918461009</codiceFiscale>
+<ragioneSociale>INLINGUA SCHOOL CIVITAVECCHIA SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>9750.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-22</dataInizio>
+<dataUltimazione>2023-06-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>9750.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z3139BDE1D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.7 A/7 A del 03/02/2023 Fornitura del
+03/02/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02230770568</codiceFiscale>
+<ragioneSociale>LAMBERTI SAS DI LAMBERTI PINO E LUCIO &amp;
+C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02230770568</codiceFiscale>
+<ragioneSociale>LAMBERTI SAS DI LAMBERTI PINO E LUCIO &amp;
+C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>175.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-15</dataInizio>
+<dataUltimazione>2023-02-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>175.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z323CA4E91</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.216/PA del 17/11/2023 Fornitura del
+17/11/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05256310482</codiceFiscale>
+<ragioneSociale>MICROGEO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05256310482</codiceFiscale>
+<ragioneSociale>MICROGEO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5125.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-01</dataInizio>
+<dataUltimazione>2023-12-01</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5125.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z363D08FC5</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FATTPA 44_23 del 31/10/2023 Fornitura del
+31/10/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01454990563</codiceFiscale>
+<ragioneSociale>Cartolandia S.N.C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01454990563</codiceFiscale>
+<ragioneSociale>Cartolandia S.N.C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>48.40</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-28</dataInizio>
+<dataUltimazione>2023-11-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>48.40</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z383C5E0CD</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.143 del 18/09/2023 Fornitura del
+18/09/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03210780593</codiceFiscale>
+<ragioneSociale>AB TRAVEL SRLS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03210780593</codiceFiscale>
+<ragioneSociale>AB TRAVEL SRLS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1363.64</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-13</dataInizio>
+<dataUltimazione>2023-10-13</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1363.64</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z383D29FCD</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.5246 del 16/11/2023 Fornitura del
+16/11/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04818721005</codiceFiscale>
+<ragioneSociale>MEDIALIBRI DIFFUSIONE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04818721005</codiceFiscale>
+<ragioneSociale>MEDIALIBRI DIFFUSIONE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>324.73</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-28</dataInizio>
+<dataUltimazione>2023-11-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>324.73</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z3B3D94F87</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.215 del 06/12/2023 Fornitura del
+06/12/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02427010562</codiceFiscale>
+<ragioneSociale>ETRURIA GUIDE SOCIETA' COOPERATIVA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02427010562</codiceFiscale>
+<ragioneSociale>ETRURIA GUIDE SOCIETA' COOPERATIVA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>302.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-07</dataInizio>
+<dataUltimazione>2023-12-07</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>302.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z413B33A62</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>SALDO SOGGIORNO RINO CAPUTO_Pagamento Fattura n.40 del
+18/05/2023 Fornitura del 18/05/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02350150567</codiceFiscale>
+<ragioneSociale>WELCOME DI LORENZO CASELLA &amp; C. SOCIETA' IN
+ACCOMANDITA SEMPLICE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02350150567</codiceFiscale>
+<ragioneSociale>WELCOME DI LORENZO CASELLA &amp; C. SOCIETA' IN
+ACCOMANDITA SEMPLICE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>40.91</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-06</dataInizio>
+<dataUltimazione>2023-06-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>40.91</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z413B46472</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.02PA del 23/06/2023 Fornitura del
+23/06/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03601460755</codiceFiscale>
+<ragioneSociale>CONGEDO ROBERTO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03601460755</codiceFiscale>
+<ragioneSociale>CONGEDO ROBERTO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>200.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-06</dataInizio>
+<dataUltimazione>2023-07-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>200.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z423AE22A1</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.97/74T del 26/04/2023 Fornitura del
+26/04/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02498430608</codiceFiscale>
+<ragioneSociale>Luna Park s.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02498430608</codiceFiscale>
+<ragioneSociale>Luna Park s.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3348.50</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-02</dataInizio>
+<dataUltimazione>2023-05-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3348.50</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z433B8A453</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.289 del 14/06/2023 Fornitura del
+14/06/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02322160561</codiceFiscale>
+<ragioneSociale>NICOLAI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02322160561</codiceFiscale>
+<ragioneSociale>NICOLAI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>200.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-05</dataInizio>
+<dataUltimazione>2023-07-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>200.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z453AD75E5</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.31 del 21/04/2023 Fornitura del
+21/04/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02350150567</codiceFiscale>
+<ragioneSociale>WELCOME DI LORENZO CASELLA &amp; C. SOCIETA' IN
+ACCOMANDITA SEMPLICE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02350150567</codiceFiscale>
+<ragioneSociale>WELCOME DI LORENZO CASELLA &amp; C. SOCIETA' IN
+ACCOMANDITA SEMPLICE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>625.45</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-02</dataInizio>
+<dataUltimazione>2023-05-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>625.45</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z4639DE780</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.185 del 22/02/2023 Fornitura del
+22/02/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01517580567</codiceFiscale>
+<ragioneSociale>MONDO INFORMATICA SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01517580567</codiceFiscale>
+<ragioneSociale>MONDO INFORMATICA SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>451.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-02</dataInizio>
+<dataUltimazione>2023-03-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>451.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z473D665AF</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.141-2/2023 del 24/11/2023 Fornitura del
+24/11/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05997510820</codiceFiscale>
+<ragioneSociale>Saracen Srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05997510820</codiceFiscale>
+<ragioneSociale>Saracen Srl</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1927.27</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-18</dataInizio>
+<dataUltimazione>2023-12-18</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1927.27</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z4837FB02</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.1010811848 del 25/01/2023 Fornitura del
+25/01/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02973040963</codiceFiscale>
+<ragioneSociale>KYOCERA Document Solutions Italia
+S.p.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02973040963</codiceFiscale>
+<ragioneSociale>KYOCERA Document Solutions Italia
+S.p.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>309.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-15</dataInizio>
+<dataUltimazione>2023-02-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>309.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z4A38A866D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FPA 2/23 del 09/01/2023 Fornitura del
+09/01/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06168611009</codiceFiscale>
+<ragioneSociale>Tirreno Verde di Paride Centolani</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06168611009</codiceFiscale>
+<ragioneSociale>Tirreno Verde di Paride Centolani</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1475.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-13</dataInizio>
+<dataUltimazione>2023-02-13</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1475.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z4B39D6672</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>ARUBA_RINNOVO ABBONAMENTO ANNUALE HOSTING_Pagamento Fattura
+n.23PAS0001937 del 28/02/2023 Fornitura del 28/02/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01573850516</codiceFiscale>
+<ragioneSociale>Aruba S.p.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01573850516</codiceFiscale>
+<ragioneSociale>Aruba S.p.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>55.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-14</dataInizio>
+<dataUltimazione>2023-03-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>55.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z4D3A6857B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.8/PA del 28/03/2023 Fornitura del
+28/03/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00073720567</codiceFiscale>
+<ragioneSociale>Autotrasporti Gasbarri Francesco &amp; figli
+Snc</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00073720567</codiceFiscale>
+<ragioneSociale>Autotrasporti Gasbarri Francesco &amp; figli
+Snc</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>409.09</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-31</dataInizio>
+<dataUltimazione>2023-03-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>409.09</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z4E3CCEDE4</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.56/PA/2023 del 20/10/2023 Fornitura del
+20/10/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01751060565</codiceFiscale>
+<ragioneSociale>VIASS SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01751060565</codiceFiscale>
+<ragioneSociale>VIASS SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>497.27</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-28</dataInizio>
+<dataUltimazione>2023-11-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>497.27</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z5039C8358</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.28 del 07/02/2023 Fornitura del
+07/02/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02288390566</codiceFiscale>
+<ragioneSociale>EREDI DI SCIPIONI NATALIA SNC</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02288390566</codiceFiscale>
+<ragioneSociale>EREDI DI SCIPIONI NATALIA SNC</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>90.91</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-14</dataInizio>
+<dataUltimazione>2023-04-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>90.91</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z503A32875</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.8 A del 07/03/2023 Fornitura del
+07/03/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02230770568</codiceFiscale>
+<ragioneSociale>LAMBERTI SAS DI LAMBERTI PINO E LUCIO &amp;
+C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02230770568</codiceFiscale>
+<ragioneSociale>LAMBERTI SAS DI LAMBERTI PINO E LUCIO &amp;
+C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>275.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-14</dataInizio>
+<dataUltimazione>2023-03-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>275.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z533A3A9B5</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>CANCELLERIA_Pagamento Fattura n.1765/FVIAC del 09/03/2023
+Fornitura del 09/03/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00150470342</codiceFiscale>
+<ragioneSociale>Gruppo Spaggiari Parma S.p.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00150470342</codiceFiscale>
+<ragioneSociale>Gruppo Spaggiari Parma S.p.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>904.53</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-24</dataInizio>
+<dataUltimazione>2023-03-24</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>904.53</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z533CDDB88</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FPA_ES-246_23 del 22/12/2023 Fornitura del
+22/12/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11247391003</codiceFiscale>
+<ragioneSociale>Desk Italia s.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11247391003</codiceFiscale>
+<ragioneSociale>Desk Italia s.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>270.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-28</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z543BBD3C1</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.21/FE del 16/05/2023 Fornitura del
+16/05/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>09075160581</codiceFiscale>
+<ragioneSociale>Michele Palazzetti</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>09075160581</codiceFiscale>
+<ragioneSociale>Michele Palazzetti</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2515.34</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-06</dataInizio>
+<dataUltimazione>2023-07-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2515.34</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z573A72BEA</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FATTPA 14_23 del 29/03/2023 Fornitura del
+29/03/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01454990563</codiceFiscale>
+<ragioneSociale>Cartolandia S.N.C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01454990563</codiceFiscale>
+<ragioneSociale>Cartolandia S.N.C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>131.20</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-31</dataInizio>
+<dataUltimazione>2023-03-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>131.20</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z573A79DA6</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.13/A del 24/03/2023 Fornitura del
+24/03/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01398530566</codiceFiscale>
+<ragioneSociale>Mediel S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01398530566</codiceFiscale>
+<ragioneSociale>Mediel S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>135.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-14</dataInizio>
+<dataUltimazione>2023-04-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>135.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z58385AC11</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.237 del 30/05/2023 Fornitura del
+30/05/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01941780569</codiceFiscale>
+<ragioneSociale>ARCOBALENO DI TORRESI NADIA &amp; C.
+SNC</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01941780569</codiceFiscale>
+<ragioneSociale>ARCOBALENO DI TORRESI NADIA &amp; C.
+SNC</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>250.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-05</dataInizio>
+<dataUltimazione>2023-07-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>250.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z583D27A58</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.825IA del 29/11/2023 Fornitura del
+29/11/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>08879271008</codiceFiscale>
+<ragioneSociale>Euservice srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>08879271008</codiceFiscale>
+<ragioneSociale>Euservice srl</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>350.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-07</dataInizio>
+<dataUltimazione>2023-12-07</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>350.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z5E3992949</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FPA 34/23 del 21/02/2023 Fornitura del
+21/02/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>10151641007</codiceFiscale>
+<ragioneSociale>TELEXTITALIA DI CURZI VINCENZO
+SAS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>10151641007</codiceFiscale>
+<ragioneSociale>TELEXTITALIA DI CURZI VINCENZO
+SAS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>90.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-22</dataInizio>
+<dataUltimazione>2023-02-22</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>90.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z5F3B7B6C1</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.14202 /23 del 30/06/2023 Fornitura del
+30/06/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00958280521</codiceFiscale>
+<ragioneSociale>CLEAN ACCENT SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00958280521</codiceFiscale>
+<ragioneSociale>CLEAN ACCENT SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>728.60</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-03</dataInizio>
+<dataUltimazione>2023-08-03</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>728.60</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z603C865F2</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.1096IE del 13/12/2023 Fornitura del
+13/12/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>08879271008</codiceFiscale>
+<ragioneSociale>Euservice srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>08879271008</codiceFiscale>
+<ragioneSociale>Euservice srl</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1848.36</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-18</dataInizio>
+<dataUltimazione>2023-12-18</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1848.36</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z613B3994A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.7 del 19/05/2023 Fornitura del
+19/05/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00261870562</codiceFiscale>
+<ragioneSociale>TIBIDABO DI MARZIA MARZOLI E C.
+SAS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00261870562</codiceFiscale>
+<ragioneSociale>TIBIDABO DI MARZIA MARZOLI E C.
+SAS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>218.18</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-06</dataInizio>
+<dataUltimazione>2023-06-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>218.18</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z623AE4AA1</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>VISITA GUIDATA 14 APRILE_MORONI CLAUDIA_Pagamento Fattura
+n.FPA 3/23 del 02/05/2023 Fornitura del 02/05/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01323520567</codiceFiscale>
+<ragioneSociale>Claudia Moroni</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01323520567</codiceFiscale>
+<ragioneSociale>Claudia Moroni</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>150.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-06</dataInizio>
+<dataUltimazione>2023-06-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>150.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z643A8C941</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.8HPA del 28/03/2023 Fornitura del
+28/03/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01651240531</codiceFiscale>
+<ragioneSociale>Alpada srl - Hotel Fattoria la
+Principina</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01651240531</codiceFiscale>
+<ragioneSociale>Alpada srl - Hotel Fattoria la
+Principina</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>223.64</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-27</dataInizio>
+<dataUltimazione>2023-04-27</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>223.64</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z643B67A6E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.39/PA del 16/06/2023 Fornitura del
+16/06/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01626080566</codiceFiscale>
+<ragioneSociale>GEDAP S.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01626080566</codiceFiscale>
+<ragioneSociale>GEDAP S.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1050.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-03</dataInizio>
+<dataUltimazione>2023-08-03</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1050.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z643D048D4</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.80/A del 17/11/2023 Fornitura del
+17/11/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01398530566</codiceFiscale>
+<ragioneSociale>Mediel S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01398530566</codiceFiscale>
+<ragioneSociale>Mediel S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>261.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-07</dataInizio>
+<dataUltimazione>2023-12-07</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>261.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z653A148C9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.149/B del 02/03/2023 Fornitura del
+02/03/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>14197361000</codiceFiscale>
+<ragioneSociale>Gruppo Galagant Srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>14197361000</codiceFiscale>
+<ragioneSociale>Gruppo Galagant Srl</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1360.58</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-14</dataInizio>
+<dataUltimazione>2023-03-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1360.58</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z673ACF7C1</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>MEDICO COMPETENTE_Pagamento Fattura n.182IA del 27/03/2023
+Fornitura del 27/03/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>08879271008</codiceFiscale>
+<ragioneSociale>Euservice srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>08879271008</codiceFiscale>
+<ragioneSociale>Euservice srl</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>266.39</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-21</dataInizio>
+<dataUltimazione>2023-04-21</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>266.39</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z683CA2441</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FATTPA 15_23 del 27/09/2023 Fornitura del
+27/09/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01813250568</codiceFiscale>
+<ragioneSociale>Latitudine 42 Snc</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01813250568</codiceFiscale>
+<ragioneSociale>Latitudine 42 Snc</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1108.25</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-28</dataInizio>
+<dataUltimazione>2023-11-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1108.25</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z6E3ACB502</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.71/PA del 29/05/2023 Fornitura del
+29/05/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00073720567</codiceFiscale>
+<ragioneSociale>Autotrasporti Gasbarri Francesco &amp; figli
+Snc</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00073720567</codiceFiscale>
+<ragioneSociale>Autotrasporti Gasbarri Francesco &amp; figli
+Snc</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>909.09</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-06</dataInizio>
+<dataUltimazione>2023-06-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>909.09</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z703CA4F97</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.23100704 del 08/11/2023 Fornitura del
+08/11/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01589390564</codiceFiscale>
+<ragioneSociale>FIACCADORI SOLUZIONI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01589390564</codiceFiscale>
+<ragioneSociale>FIACCADORI SOLUZIONI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>14400.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-01</dataInizio>
+<dataUltimazione>2023-12-01</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>14400.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z713970762</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.00005 del 11/01/2023 Fornitura del
+11/01/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01727320440</codiceFiscale>
+<ragioneSociale>Lorysoft di D'Ortenzi Lorenzo</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01727320440</codiceFiscale>
+<ragioneSociale>Lorysoft di D'Ortenzi Lorenzo</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>80.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-15</dataInizio>
+<dataUltimazione>2023-02-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>80.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z723A12417</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>RINNOVO CONTRATTO 2023_Pagamento Fattura n.4503/FVISE del
+24/02/2023 Fornitura del 24/02/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00150470342</codiceFiscale>
+<ragioneSociale>Gruppo Spaggiari Parma S.p.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00150470342</codiceFiscale>
+<ragioneSociale>Gruppo Spaggiari Parma S.p.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3629.50</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-14</dataInizio>
+<dataUltimazione>2023-03-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3629.50</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z753DAAF76</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.622/PA del 11/12/2023 Fornitura del
+11/12/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05805441218</codiceFiscale>
+<ragioneSociale>CERTIPASS SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05805441218</codiceFiscale>
+<ragioneSociale>CERTIPASS SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>900.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-13</dataInizio>
+<dataUltimazione>2023-12-13</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>900.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z793CA55F0</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.2123040141 del 04/10/2023 Fornitura del
+04/10/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01802940484</codiceFiscale>
+<ragioneSociale>CARLO ERBA REAGENTS SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01802940484</codiceFiscale>
+<ragioneSociale>CARLO ERBA REAGENTS SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>273.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-28</dataInizio>
+<dataUltimazione>2023-11-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>273.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z7B3C847F7</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.15/2 del 04/10/2023 Fornitura del
+04/10/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01602370593</codiceFiscale>
+<ragioneSociale>Spinicci s.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01602370593</codiceFiscale>
+<ragioneSociale>Spinicci s.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>427.05</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-13</dataInizio>
+<dataUltimazione>2023-10-13</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>427.05</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z7C3CB1FBE</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FPA 1/23 del 10/11/2023 Fornitura del
+10/11/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02344990565</codiceFiscale>
+<ragioneSociale>ECOVAPORCLEAN di Pistorio Denise
+Teresa</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02344990565</codiceFiscale>
+<ragioneSociale>ECOVAPORCLEAN di Pistorio Denise
+Teresa</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2100.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-22</dataInizio>
+<dataUltimazione>2023-11-22</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2100.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z7D3AF3E33</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.2040/230011279 del 05/05/2023 Fornitura
+del 05/05/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03222970406</codiceFiscale>
+<ragioneSociale>MYO SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03222970406</codiceFiscale>
+<ragioneSociale>MYO SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>398.31</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-06</dataInizio>
+<dataUltimazione>2023-06-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>398.31</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z7D3B505BA</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FPA 18/23 del 29/05/2023 Fornitura del
+29/05/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02321590560</codiceFiscale>
+<ragioneSociale>EMERGENZA CREATIVA S.R.L</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02321590560</codiceFiscale>
+<ragioneSociale>EMERGENZA CREATIVA S.R.L</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>158.60</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-05</dataInizio>
+<dataUltimazione>2023-07-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>158.60</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z7E3CA4F71</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.63 del 07/11/2023 Fornitura del
+07/11/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05193690756</codiceFiscale>
+<ragioneSociale>OLIVA SERVICE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05193690756</codiceFiscale>
+<ragioneSociale>OLIVA SERVICE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2560.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-01</dataInizio>
+<dataUltimazione>2023-12-01</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2560.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z8039ED7A9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.104/2023-ORG del 14/02/2023 Fornitura del
+14/02/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04617111002</codiceFiscale>
+<ragioneSociale>Competition Travel s.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04617111002</codiceFiscale>
+<ragioneSociale>Competition Travel s.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>14407.50</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-16</dataInizio>
+<dataUltimazione>2023-03-24</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>14407.50</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z8139BCA7F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.21 del 31/01/2023 Fornitura del
+31/01/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01293710560</codiceFiscale>
+<ragioneSociale>GIUSEPPE BONIFAZI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01293710560</codiceFiscale>
+<ragioneSociale>GIUSEPPE BONIFAZI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>370.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-15</dataInizio>
+<dataUltimazione>2023-02-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>370.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z843D0499C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.5391/FVIDF del 31/10/2023 Fornitura del
+31/10/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00150470342</codiceFiscale>
+<ragioneSociale>Gruppo Spaggiari Parma S.p.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00150470342</codiceFiscale>
+<ragioneSociale>Gruppo Spaggiari Parma S.p.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2185.65</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-28</dataInizio>
+<dataUltimazione>2023-11-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2185.65</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z843D4AD3A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.541/PA del 20/11/2023 Fornitura del
+20/11/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05805441218</codiceFiscale>
+<ragioneSociale>CERTIPASS SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05805441218</codiceFiscale>
+<ragioneSociale>CERTIPASS SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2800.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-28</dataInizio>
+<dataUltimazione>2023-11-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2800.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z8639BCADD</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>SALDO PROGETTI LA DONNA ETRUSCA E VISITE TEATRALIZZATE
+Pagamento Fattura n.FPA 1/23 del 01/03/2023 Fornitura del
+01/03/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01323520567</codiceFiscale>
+<ragioneSociale>Claudia Moroni</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01323520567</codiceFiscale>
+<ragioneSociale>Claudia Moroni</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1280.92</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-21</dataInizio>
+<dataUltimazione>2023-04-21</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1280.92</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z8639DE815</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.3/0000102 del 31/03/2023 Fornitura del
+31/03/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00628090565</codiceFiscale>
+<ragioneSociale>Ist.Vigilanza Privata S.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00628090565</codiceFiscale>
+<ragioneSociale>Ist.Vigilanza Privata S.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1200.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-14</dataInizio>
+<dataUltimazione>2023-10-13</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1200.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z8A39D92E1</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.26-FE del 08/02/2023 Fornitura del
+08/02/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02096910563</codiceFiscale>
+<ragioneSociale>BENDUE SRL S</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02096910563</codiceFiscale>
+<ragioneSociale>BENDUE SRL S</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>313.70</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-15</dataInizio>
+<dataUltimazione>2023-02-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>313.70</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z8F3C5DEC2</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.6PA del 30/10/2023 Fornitura del
+30/10/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02011710569</codiceFiscale>
+<ragioneSociale>GESTIONE SICUREZZA SAS DI VIRGILI
+LORENZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02011710569</codiceFiscale>
+<ragioneSociale>GESTIONE SICUREZZA SAS DI VIRGILI
+LORENZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1080.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-28</dataInizio>
+<dataUltimazione>2023-11-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1080.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z9239B3C02</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.00000047/99/2023 del 29/01/2023 Fornitura
+del 29/01/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>09810351008</codiceFiscale>
+<ragioneSociale>PRIMATOUR ITALIA S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>09810351008</codiceFiscale>
+<ragioneSociale>PRIMATOUR ITALIA S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>28600.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-02</dataInizio>
+<dataUltimazione>2023-02-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>28600.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z953AF45A6</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.00226/4 del 22/05/2023 Fornitura del
+22/05/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02461530822</codiceFiscale>
+<ragioneSociale>CONCA D'ORO VIAGGI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02461530822</codiceFiscale>
+<ragioneSociale>CONCA D'ORO VIAGGI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>430.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-05</dataInizio>
+<dataUltimazione>2023-07-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>430.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z963AD4522</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FPA 2/23 del 24/05/2023 Fornitura del
+24/05/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02363650561</codiceFiscale>
+<ragioneSociale>LATITUDINE 42 BAR di LUCIO
+MATTIOLI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02363650561</codiceFiscale>
+<ragioneSociale>LATITUDINE 42 BAR di LUCIO
+MATTIOLI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>122.73</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-28</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z963DD4A40</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>SALDO PARCELLA_ CONTRATTO PROT. 5469 DEL 27 APRILE
+2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>CVNFBA76T20G752U</codiceFiscale>
+<ragioneSociale>CAVINI FABIO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>CVNFBA76T20G752U</codiceFiscale>
+<ragioneSociale>CAVINI FABIO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1850.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-30</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z973A1D5B9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>CORSO SICUREZZA_4 ORE_Pagamento Fattura n.175IE del 07/03/2023
+Fornitura del 07/03/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>08879271008</codiceFiscale>
+<ragioneSociale>Euservice srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>08879271008</codiceFiscale>
+<ragioneSociale>Euservice srl</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>660.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-21</dataInizio>
+<dataUltimazione>2023-04-21</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>660.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z973AA78AE</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>SALDO VIAGGIO DI ISTRUZIONE_CAMPANIA_FIORAVANTI Pagamento
+Fattura n.74/74T del 31/03/2023 Fornitura del 31/03/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02498430608</codiceFiscale>
+<ragioneSociale>Luna Park s.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02498430608</codiceFiscale>
+<ragioneSociale>Luna Park s.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>12800.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-14</dataInizio>
+<dataUltimazione>2023-04-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>12800.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z973CA4F51</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.698E/2023 del 26/10/2023 Fornitura del
+26/10/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02116650223</codiceFiscale>
+<ragioneSociale>AGRITECH STORE S.A.S. di Pizzini Silvano &amp;
+c.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02116650223</codiceFiscale>
+<ragioneSociale>AGRITECH STORE S.A.S. di Pizzini Silvano &amp;
+c.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>391.61</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-01</dataInizio>
+<dataUltimazione>2023-12-01</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>391.61</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z983B0822B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FATSP433/2023 del 31/05/2023 Fornitura del
+31/05/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01238680563</codiceFiscale>
+<ragioneSociale>ECONET SRL Società a Socio unico</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01238680563</codiceFiscale>
+<ragioneSociale>ECONET SRL Società a Socio unico</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>165.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-05</dataInizio>
+<dataUltimazione>2023-07-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>165.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z993CAFE61</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.20 A del 13/11/2023 Fornitura del
+13/11/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02230770568</codiceFiscale>
+<ragioneSociale>LAMBERTI SAS DI LAMBERTI PINO E LUCIO &amp;
+C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02230770568</codiceFiscale>
+<ragioneSociale>LAMBERTI SAS DI LAMBERTI PINO E LUCIO &amp;
+C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>573.78</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-01</dataInizio>
+<dataUltimazione>2023-12-01</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>573.78</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z9B3D9DB23</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.244 del 10/12/2023 Fornitura del
+10/12/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01829950565</codiceFiscale>
+<ragioneSociale>EMILIANO FERRI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01829950565</codiceFiscale>
+<ragioneSociale>EMILIANO FERRI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>97.37</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-12</dataInizio>
+<dataUltimazione>2023-12-12</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>97.37</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z9B3DD2657</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FATTPA 20_23 del 14/12/2023 Fornitura del
+14/12/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01813250568</codiceFiscale>
+<ragioneSociale>Latitudine 42 Snc</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01813250568</codiceFiscale>
+<ragioneSociale>Latitudine 42 Snc</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1632.36</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-19</dataInizio>
+<dataUltimazione>2023-12-19</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1632.36</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z9C3C71EF4</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.54 del 29/12/2023 Fornitura del
+29/12/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01935060564</codiceFiscale>
+<ragioneSociale>ARCI SOLIDARIETA' VITERBO SRL IMPRESA
+SOCIALE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01935060564</codiceFiscale>
+<ragioneSociale>ARCI SOLIDARIETA' VITERBO SRL IMPRESA
+SOCIALE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>100.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-30</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z9F39F5A93</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>SCUOLA DI SQUADRA_Pagamento Fattura n.41/F del 17/02/2023
+Fornitura del 17/02/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11332020012</codiceFiscale>
+<ragioneSociale>TREDAME S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11332020012</codiceFiscale>
+<ragioneSociale>TREDAME S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1679.72</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-22</dataInizio>
+<dataUltimazione>2023-02-22</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1679.72</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZA23B122B8</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.7/FE del 30/05/2023 Fornitura del
+30/05/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06220961004</codiceFiscale>
+<ragioneSociale>ALESSANDRO RICCI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06220961004</codiceFiscale>
+<ragioneSociale>ALESSANDRO RICCI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>150.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-05</dataInizio>
+<dataUltimazione>2023-07-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>150.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZA33A08B99</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>ACCONTO VIAGGIO_OOSTENBRINK_Pagamento Fattura n.125/2023/SC
+del 20/02/2023 Fornitura del 20/02/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11946021000</codiceFiscale>
+<ragioneSociale>PYRGOS TRAVEL SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11946021000</codiceFiscale>
+<ragioneSociale>PYRGOS TRAVEL SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>19458.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-22</dataInizio>
+<dataUltimazione>2023-03-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>19458.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZA63A8E8C5</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FATTPA 17_23 del 07/04/2023 Fornitura del
+07/04/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01454990563</codiceFiscale>
+<ragioneSociale>Cartolandia S.N.C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01454990563</codiceFiscale>
+<ragioneSociale>Cartolandia S.N.C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>107.06</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-14</dataInizio>
+<dataUltimazione>2023-04-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>107.06</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZA7397E1E0</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>ECONET_SMALTIMENTO RIFIUTI SPECIALI_Pagamento Fattura
+n.FATSP162/2023 del 28/02/2023 Fornitura del 28/02/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01238680563</codiceFiscale>
+<ragioneSociale>ECONET SRL Società a Socio unico</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01238680563</codiceFiscale>
+<ragioneSociale>ECONET SRL Società a Socio unico</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-14</dataInizio>
+<dataUltimazione>2023-03-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>30.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZA83D7D16</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>RINNOVO ARGO 2024_DETERMINA A CONTRARRE 18677 DEL
+21/12/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00838520880</codiceFiscale>
+<ragioneSociale>ARGO SOFTWARE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00838520880</codiceFiscale>
+<ragioneSociale>ARGO SOFTWARE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>870.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-30</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZAC3C798EC</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FPA 1/23 del 18/09/2023 Fornitura del
+18/09/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02032860567</codiceFiscale>
+<ragioneSociale>FAVA GIULIO DANTE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02032860567</codiceFiscale>
+<ragioneSociale>FAVA GIULIO DANTE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1290.98</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-08</dataInizio>
+<dataUltimazione>2023-11-08</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1290.98</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZB23CA5698</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.364/PA del 29/11/2023 Fornitura del
+29/11/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05099780156</codiceFiscale>
+<ragioneSociale>COLAVER S.R.L</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05099780156</codiceFiscale>
+<ragioneSociale>COLAVER S.R.L</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>252.24</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-07</dataInizio>
+<dataUltimazione>2023-12-07</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>252.24</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZB33CAE11C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.2/394 del 13/10/2023 Fornitura del
+13/10/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02706260169</codiceFiscale>
+<ragioneSociale>M.A.D. APPAREC.SCIENTIFICHE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02706260169</codiceFiscale>
+<ragioneSociale>M.A.D. APPAREC.SCIENTIFICHE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>145.40</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-28</dataInizio>
+<dataUltimazione>2023-11-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>145.40</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZB63A4B49B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>ACCONTO _VIAGGIO VIENNA_MENDOLIA_Pagamento Fattura n.35 del
+09/03/2023 Fornitura del 09/03/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06806891005</codiceFiscale>
+<ragioneSociale>DESTINAZIONE MONDO SAS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06806891005</codiceFiscale>
+<ragioneSociale>DESTINAZIONE MONDO SAS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>17205.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-14</dataInizio>
+<dataUltimazione>2023-04-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>17205.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZB73BDA08</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FATTPA 8_23 del 15/02/2023 Fornitura del
+15/02/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01454990563</codiceFiscale>
+<ragioneSociale>Cartolandia S.N.C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01454990563</codiceFiscale>
+<ragioneSociale>Cartolandia S.N.C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>20.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-22</dataInizio>
+<dataUltimazione>2023-02-22</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>20.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZB93B8A4C1</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.36 del 25/06/2023 Fornitura del
+25/06/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01766470569</codiceFiscale>
+<ragioneSociale>MOS. SCAVI E TRASPORTI SNC DI MOSCONI L. E
+E.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01766470569</codiceFiscale>
+<ragioneSociale>MOS. SCAVI E TRASPORTI SNC DI MOSCONI L. E
+E.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>250.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-05</dataInizio>
+<dataUltimazione>2023-07-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>250.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZBB3A85675</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.1/PA del 12/04/2023 Fornitura del
+12/04/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>16049941004</codiceFiscale>
+<ragioneSociale>OFFICINA ORTOPEDICA BALLETTI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>16049941004</codiceFiscale>
+<ragioneSociale>OFFICINA ORTOPEDICA BALLETTI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1557.69</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-02</dataInizio>
+<dataUltimazione>2023-05-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1557.69</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZBD3C6D86E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.141/PA del 30/11/2023 Fornitura del
+30/11/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01211890569</codiceFiscale>
+<ragioneSociale>Cooperativa Sociale Serena</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01211890569</codiceFiscale>
+<ragioneSociale>Cooperativa Sociale Serena</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5566.62</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-28</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>1792.65</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZBE3CA4F0B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>ACCONTO 30%_Fattura n.30/EV del 09/10/2023 Fornitura del
+09/10/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01869540433</codiceFiscale>
+<ragioneSociale>BRUGNONI SRL UNIPERSONALE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01869540433</codiceFiscale>
+<ragioneSociale>BRUGNONI SRL UNIPERSONALE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4500.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-09</dataInizio>
+<dataUltimazione>2023-11-09</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4500.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZBF3AC9DBD</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FPA 1/23 del 18/04/2023 Fornitura del
+18/04/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02431450564</codiceFiscale>
+<ragioneSociale>DANILO GELATERIA DI PATRIZIO BUZZI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02431450564</codiceFiscale>
+<ragioneSociale>DANILO GELATERIA DI PATRIZIO BUZZI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>240.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-02</dataInizio>
+<dataUltimazione>2023-05-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>240.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZC03A08C8D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>ACCONTO_VIAGGIO_BARBAGLIA_Pagamento Fattura n.126/2023/SC del
+20/02/2023 Fornitura del 20/02/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11946021000</codiceFiscale>
+<ragioneSociale>PYRGOS TRAVEL SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11946021000</codiceFiscale>
+<ragioneSociale>PYRGOS TRAVEL SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>16715.25</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-22</dataInizio>
+<dataUltimazione>2023-03-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>16715.25</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZC13B40390</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.87-FE del 30/05/2023 Fornitura del
+30/05/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02096910563</codiceFiscale>
+<ragioneSociale>BENDUE SRL S</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02096910563</codiceFiscale>
+<ragioneSociale>BENDUE SRL S</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>544.43</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-05</dataInizio>
+<dataUltimazione>2023-07-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>544.43</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZC23D26ACB</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.593 del 13/11/2023 Fornitura del
+13/11/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01941780569</codiceFiscale>
+<ragioneSociale>ARCOBALENO DI TORRESI NADIA &amp; C.
+SNC</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01941780569</codiceFiscale>
+<ragioneSociale>ARCOBALENO DI TORRESI NADIA &amp; C.
+SNC</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1100.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-28</dataInizio>
+<dataUltimazione>2023-11-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1100.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZC33AD94EA</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.99 del 04/08/2023 Fornitura del
+04/08/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01768260331</codiceFiscale>
+<ragioneSociale>IDROLAB HYDROPONICS SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01768260331</codiceFiscale>
+<ragioneSociale>IDROLAB HYDROPONICS SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5050.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-15</dataInizio>
+<dataUltimazione>2023-09-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5050.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>zc43c71620</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.143-FE del 13/09/2023 Fornitura del
+13/09/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02096910563</codiceFiscale>
+<ragioneSociale>BENDUE SRL S</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02096910563</codiceFiscale>
+<ragioneSociale>BENDUE SRL S</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>505.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-13</dataInizio>
+<dataUltimazione>2023-10-13</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>505.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZC63B67E4B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.20 del 06/06/2023 Fornitura del
+06/06/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01212140568</codiceFiscale>
+<ragioneSociale>SABBATINI ANGELO S.A.S. DI SABBATINI
+SIMONA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01212140568</codiceFiscale>
+<ragioneSociale>SABBATINI ANGELO S.A.S. DI SABBATINI
+SIMONA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>262.32</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-03</dataInizio>
+<dataUltimazione>2023-08-03</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>262.32</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZC63CA561A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.202301319 del 03/10/2023 Fornitura del
+03/10/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11032040963</codiceFiscale>
+<ragioneSociale>LABBOX ITALIA SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11032040963</codiceFiscale>
+<ragioneSociale>LABBOX ITALIA SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>283.43</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-28</dataInizio>
+<dataUltimazione>2023-11-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>283.43</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZC63D9588F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FATTPA 49_23 del 04/12/2023 Fornitura del
+04/12/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01454990563</codiceFiscale>
+<ragioneSociale>Cartolandia S.N.C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01454990563</codiceFiscale>
+<ragioneSociale>Cartolandia S.N.C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>476.57</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-07</dataInizio>
+<dataUltimazione>2023-12-07</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>476.57</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZC73CFCE7B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.39 del 27/11/2023 Fornitura del
+27/11/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02993410592</codiceFiscale>
+<ragioneSociale>GBG ALLARM S.R.L.S.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02993410592</codiceFiscale>
+<ragioneSociale>GBG ALLARM S.R.L.S.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>578.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-06</dataInizio>
+<dataUltimazione>2023-12-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>578.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZC83D0CBB6</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.5829/20 del 19/12/2023 Fornitura del
+19/12/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01451980567</codiceFiscale>
+<ragioneSociale>CASTRA srl unipersonale</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01451980567</codiceFiscale>
+<ragioneSociale>CASTRA srl unipersonale</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>761.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-28</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZC83D9748D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.23 A del 30/12/2023 Fornitura del
+30/12/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02230770568</codiceFiscale>
+<ragioneSociale>LAMBERTI SAS DI LAMBERTI PINO E LUCIO &amp;
+C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02230770568</codiceFiscale>
+<ragioneSociale>LAMBERTI SAS DI LAMBERTI PINO E LUCIO &amp;
+C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1064.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-30</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>0.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZC93A4B4D3</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>ACCONTO_VIAGGIO VIENNA_RICCI _Pagamento Fattura n.34 del
+09/03/2023 Fornitura del 09/03/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06806891005</codiceFiscale>
+<ragioneSociale>DESTINAZIONE MONDO SAS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06806891005</codiceFiscale>
+<ragioneSociale>DESTINAZIONE MONDO SAS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>19065.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-14</dataInizio>
+<dataUltimazione>2023-04-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>19065.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZCA39C81E9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.2 del 03/02/2023 Fornitura del
+03/02/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01212140568</codiceFiscale>
+<ragioneSociale>SABBATINI ANGELO S.A.S. DI SABBATINI
+SIMONA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01212140568</codiceFiscale>
+<ragioneSociale>SABBATINI ANGELO S.A.S. DI SABBATINI
+SIMONA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>36.90</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-03</dataInizio>
+<dataUltimazione>2023-03-03</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>36.90</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZCB3A8C990</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.EFAT/2023/0588 del 04/04/2023 Fornitura
+del 04/04/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00659430631</codiceFiscale>
+<ragioneSociale>Tecnodid srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00659430631</codiceFiscale>
+<ragioneSociale>Tecnodid srl</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>110.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-14</dataInizio>
+<dataUltimazione>2023-04-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>110.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZCB3C656DC</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.88/PA del 18/09/2023 Fornitura del
+18/09/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00073720567</codiceFiscale>
+<ragioneSociale>Autotrasporti Gasbarri Francesco &amp; figli
+Snc</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00073720567</codiceFiscale>
+<ragioneSociale>Autotrasporti Gasbarri Francesco &amp; figli
+Snc</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1545.45</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-13</dataInizio>
+<dataUltimazione>2023-10-13</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1545.45</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZCC39BDCC0</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.202300318 del 03/03/2023 Fornitura del
+03/03/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11032040963</codiceFiscale>
+<ragioneSociale>LABBOX ITALIA SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11032040963</codiceFiscale>
+<ragioneSociale>LABBOX ITALIA SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>157.13</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-03</dataInizio>
+<dataUltimazione>2023-08-03</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>157.13</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZCC3C35380</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FATTPA 3_23 del 05/10/2023 Fornitura del
+05/10/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00269128880</codiceFiscale>
+<ragioneSociale>MIRKO DONATI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00269128880</codiceFiscale>
+<ragioneSociale>MIRKO DONATI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2378.20</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-22</dataInizio>
+<dataUltimazione>2023-11-22</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2378.20</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>zcd39bcc5a</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.4461/PA del 02/02/2023 Fornitura del
+02/02/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00838520880</codiceFiscale>
+<ragioneSociale>ARGO SOFTWARE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00838520880</codiceFiscale>
+<ragioneSociale>ARGO SOFTWARE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>684.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-15</dataInizio>
+<dataUltimazione>2023-02-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>684.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZCD3ACF9C1</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.447/F del 16/04/2023 Fornitura del
+16/04/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01873390569</codiceFiscale>
+<ragioneSociale>Lodi Tur S.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01873390569</codiceFiscale>
+<ragioneSociale>Lodi Tur S.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>827.27</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-06</dataInizio>
+<dataUltimazione>2023-06-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>827.27</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZCE39DF696</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.80E del 13/02/2023 Fornitura del
+13/02/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01871500565</codiceFiscale>
+<ragioneSociale>Ergonet srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01871500565</codiceFiscale>
+<ragioneSociale>Ergonet srl</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>260.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-14</dataInizio>
+<dataUltimazione>2023-03-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>260.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZCE3C974CA</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FPA 7/23 del 14/12/2023 Fornitura del
+14/12/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02390430565</codiceFiscale>
+<ragioneSociale>AGM CONSULTING S.A.S. DI MASSIMO
+MARZI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02390430565</codiceFiscale>
+<ragioneSociale>AGM CONSULTING S.A.S. DI MASSIMO
+MARZI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5110.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-18</dataInizio>
+<dataUltimazione>2023-12-18</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5110.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZCF3B4CA73</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.362/PA del 10/06/2023 Fornitura del
+10/06/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01870870548</codiceFiscale>
+<ragioneSociale>Steroglass srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01870870548</codiceFiscale>
+<ragioneSociale>Steroglass srl</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>110.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-05</dataInizio>
+<dataUltimazione>2023-07-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>110.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZD039C828C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.1 del 02/02/2023 Fornitura del
+02/02/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02098770569</codiceFiscale>
+<ragioneSociale>DANIELE ZAMPIERI</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02098770569</codiceFiscale>
+<ragioneSociale>DANIELE ZAMPIERI</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>181.82</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-15</dataInizio>
+<dataUltimazione>2023-02-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>181.82</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZD03C65253</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.872/FPA1 del 15/09/2023 Fornitura del
+15/09/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05969960631</codiceFiscale>
+<ragioneSociale>FONDAZIONE IDIS - CITTA' DELLA
+SCIENZA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05969960631</codiceFiscale>
+<ragioneSociale>FONDAZIONE IDIS - CITTA' DELLA
+SCIENZA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>559.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-28</dataInizio>
+<dataUltimazione>2023-11-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>559.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZD03C6D8A6</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.142/PA del 30/11/2023 Fornitura del
+30/11/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01211890569</codiceFiscale>
+<ragioneSociale>Cooperativa Sociale Serena</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01211890569</codiceFiscale>
+<ragioneSociale>Cooperativa Sociale Serena</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>8500.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-28</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>1685.40</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZD13AD7855</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.11 A del 21/04/2023 Fornitura del
+21/04/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02230770568</codiceFiscale>
+<ragioneSociale>LAMBERTI SAS DI LAMBERTI PINO E LUCIO &amp;
+C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02230770568</codiceFiscale>
+<ragioneSociale>LAMBERTI SAS DI LAMBERTI PINO E LUCIO &amp;
+C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>840.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-02</dataInizio>
+<dataUltimazione>2023-05-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>840.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZD33AAA353</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.13 del 07/04/2023 Fornitura del
+07/04/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02344000563</codiceFiscale>
+<ragioneSociale>IMPRESA EDILE CAVALLI ALATI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02344000563</codiceFiscale>
+<ragioneSociale>IMPRESA EDILE CAVALLI ALATI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2200.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-14</dataInizio>
+<dataUltimazione>2023-04-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2200.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZD43CCEDBB</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.23651 /23 del 20/10/2023 Fornitura del
+20/10/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00958280521</codiceFiscale>
+<ragioneSociale>CLEAN ACCENT SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00958280521</codiceFiscale>
+<ragioneSociale>CLEAN ACCENT SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1326.71</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-28</dataInizio>
+<dataUltimazione>2023-11-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1326.71</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZD83AD3596</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.7 del 21/04/2023 Fornitura del
+21/04/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01212140568</codiceFiscale>
+<ragioneSociale>SABBATINI ANGELO S.A.S. DI SABBATINI
+SIMONA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01212140568</codiceFiscale>
+<ragioneSociale>SABBATINI ANGELO S.A.S. DI SABBATINI
+SIMONA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>40.98</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-02</dataInizio>
+<dataUltimazione>2023-05-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>40.98</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZD83AEF0C2</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FPA 19/23 del 29/05/2023 Fornitura del
+29/05/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02321590560</codiceFiscale>
+<ragioneSociale>EMERGENZA CREATIVA S.R.L</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02321590560</codiceFiscale>
+<ragioneSociale>EMERGENZA CREATIVA S.R.L</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>45.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-05</dataInizio>
+<dataUltimazione>2023-07-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>45.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZDA381792C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>SALDO PCTO_BASILI Pagamento Fattura n.FPA 1/23 del 18/01/2023
+Fornitura del 18/01/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02304720564</codiceFiscale>
+<ragioneSociale>Studio Cerere di Basili Odoardo</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02304720564</codiceFiscale>
+<ragioneSociale>Studio Cerere di Basili Odoardo</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2080.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-02</dataInizio>
+<dataUltimazione>2023-03-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2080.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZDB3C2430D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.131-FE del 07/08/2023 Fornitura del
+07/08/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02096910563</codiceFiscale>
+<ragioneSociale>BENDUE SRL S</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02096910563</codiceFiscale>
+<ragioneSociale>BENDUE SRL S</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>199.86</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-15</dataInizio>
+<dataUltimazione>2023-09-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>199.86</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZDC3AD426E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.14 del 15/05/2023 Fornitura del
+15/05/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02082760568</codiceFiscale>
+<ragioneSociale>ristorante cavatappi di luccioli
+tamara</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02082760568</codiceFiscale>
+<ragioneSociale>ristorante cavatappi di luccioli
+tamara</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>100.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-05</dataInizio>
+<dataUltimazione>2023-07-05</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>100.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZDD39E1CF2</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.2EL del 03/07/2023 Fornitura del
+03/07/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11142631008</codiceFiscale>
+<ragioneSociale>AMBARADAM S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11142631008</codiceFiscale>
+<ragioneSociale>AMBARADAM S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>68.18</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-03</dataInizio>
+<dataUltimazione>2023-08-03</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>68.18</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZE03AF3D6E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>CANCELLERIA_Pagamento Fattura n.P0027119 del 02/05/2023
+Fornitura del 02/05/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07491520156</codiceFiscale>
+<ragioneSociale>Mondoffice S.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07491520156</codiceFiscale>
+<ragioneSociale>Mondoffice S.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1112.51</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-06</dataInizio>
+<dataUltimazione>2023-06-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1112.51</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZE03B05DB0</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>SALDO SOGGIORNO SPOLETO_Pagamento Fattura n.28 del 16/05/2023
+Fornitura del 16/05/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03884390547</codiceFiscale>
+<ragioneSociale>BEST HOSPITALITY S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03884390547</codiceFiscale>
+<ragioneSociale>BEST HOSPITALITY S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>92.91</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-06</dataInizio>
+<dataUltimazione>2023-06-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>92.91</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZE13AE04EE</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.Z51 del 28/06/2023 Fornitura del
+28/06/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02380340600</codiceFiscale>
+<ragioneSociale>Polsinelli Enologia Srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02380340600</codiceFiscale>
+<ragioneSociale>Polsinelli Enologia Srl</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>6131.20</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-15</dataInizio>
+<dataUltimazione>2023-09-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>6131.20</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZE2398356E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.4 A del 18/01/2023 Fornitura del
+18/01/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02230770568</codiceFiscale>
+<ragioneSociale>LAMBERTI SAS DI LAMBERTI PINO E LUCIO &amp;
+C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02230770568</codiceFiscale>
+<ragioneSociale>LAMBERTI SAS DI LAMBERTI PINO E LUCIO &amp;
+C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>200.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-15</dataInizio>
+<dataUltimazione>2023-02-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>200.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZE33CA570E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.132/PA del 16/10/2023 Fornitura del
+16/10/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11477350158</codiceFiscale>
+<ragioneSociale>Micropoli di Rovere Enrico</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11477350158</codiceFiscale>
+<ragioneSociale>Micropoli di Rovere Enrico</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>501.87</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-28</dataInizio>
+<dataUltimazione>2023-11-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>501.87</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZE63A57EC6</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.5297 /23 del 28/03/2023 Fornitura del
+28/03/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00958280521</codiceFiscale>
+<ragioneSociale>CLEAN ACCENT SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00958280521</codiceFiscale>
+<ragioneSociale>CLEAN ACCENT SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>290.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-31</dataInizio>
+<dataUltimazione>2023-03-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>290.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZE73C998F1</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.10237/FVISE del 29/08/2023 Fornitura del
+29/08/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00150470342</codiceFiscale>
+<ragioneSociale>Gruppo Spaggiari Parma S.p.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00150470342</codiceFiscale>
+<ragioneSociale>Gruppo Spaggiari Parma S.p.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>401.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-13</dataInizio>
+<dataUltimazione>2023-10-13</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>401.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZE73CF6A46</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FATTPA 18_23 del 23/10/2023 Fornitura del
+23/10/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01813250568</codiceFiscale>
+<ragioneSociale>Latitudine 42 Snc</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01813250568</codiceFiscale>
+<ragioneSociale>Latitudine 42 Snc</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2229.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-28</dataInizio>
+<dataUltimazione>2023-11-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>2229.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZEB3A98F6B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.1 del 29/03/2023 Fornitura del
+29/03/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>09918031007</codiceFiscale>
+<ragioneSociale>FALCIONI &amp; COCOS S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>09918031007</codiceFiscale>
+<ragioneSociale>FALCIONI &amp; COCOS S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>90.91</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-14</dataInizio>
+<dataUltimazione>2023-04-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>90.91</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZEC39E1248</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>ACCONTO_VIAGGIO_ VIENNA/MILANO/VERONA (PALLOTTINI)Pagamento
+Fattura n.89/2023/SC del 09/02/2023 Fornitura del 09/02/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11946021000</codiceFiscale>
+<ragioneSociale>PYRGOS TRAVEL SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11946021000</codiceFiscale>
+<ragioneSociale>PYRGOS TRAVEL SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>24255.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-15</dataInizio>
+<dataUltimazione>2023-03-14</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>24255.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZEC3C5DF50</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.7PA del 31/10/2023 Fornitura del
+31/10/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02011710569</codiceFiscale>
+<ragioneSociale>GESTIONE SICUREZZA SAS DI VIRGILI
+LORENZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02011710569</codiceFiscale>
+<ragioneSociale>GESTIONE SICUREZZA SAS DI VIRGILI
+LORENZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>950.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-11-28</dataInizio>
+<dataUltimazione>2023-11-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>950.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZED3AC21DA</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FATTPA 18_23 del 19/04/2023 Fornitura del
+19/04/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01454990563</codiceFiscale>
+<ragioneSociale>Cartolandia S.N.C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01454990563</codiceFiscale>
+<ragioneSociale>Cartolandia S.N.C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>70.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-02</dataInizio>
+<dataUltimazione>2023-05-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>70.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZF23AF3975</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.26 del 28/07/2023 Fornitura del
+28/07/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02344000563</codiceFiscale>
+<ragioneSociale>IMPRESA EDILE CAVALLI ALATI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02344000563</codiceFiscale>
+<ragioneSociale>IMPRESA EDILE CAVALLI ALATI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5327.86</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-15</dataInizio>
+<dataUltimazione>2023-09-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>5327.86</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZF439E9CB9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.15 A del 28/07/2023 Fornitura del
+28/07/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02230770568</codiceFiscale>
+<ragioneSociale>LAMBERTI SAS DI LAMBERTI PINO E LUCIO &amp;
+C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02230770568</codiceFiscale>
+<ragioneSociale>LAMBERTI SAS DI LAMBERTI PINO E LUCIO &amp;
+C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>120.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-15</dataInizio>
+<dataUltimazione>2023-09-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>120.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZF43AD344F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FPA 7/23 del 18/04/2023 Fornitura del
+18/04/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02407090568</codiceFiscale>
+<ragioneSociale>MUST DI Maila Ugo</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02407090568</codiceFiscale>
+<ragioneSociale>MUST DI Maila Ugo</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>150.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-02</dataInizio>
+<dataUltimazione>2023-05-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>150.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZF53A05E0C</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>ACCONTO_SCI_BIENNIO_Pagamento Fattura n.00000126/99/2023 del
+18/02/2023 Fornitura del 18/02/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>09810351008</codiceFiscale>
+<ragioneSociale>PRIMATOUR ITALIA S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>09810351008</codiceFiscale>
+<ragioneSociale>PRIMATOUR ITALIA S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>33420.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-02</dataInizio>
+<dataUltimazione>2023-03-24</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>33420.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZF53CA5024</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FPA 10/23 del 08/11/2023 Fornitura del
+08/11/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06168611009</codiceFiscale>
+<ragioneSociale>Tirreno Verde di Paride Centolani</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06168611009</codiceFiscale>
+<ragioneSociale>Tirreno Verde di Paride Centolani</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>10400.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-01</dataInizio>
+<dataUltimazione>2023-12-01</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>10400.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZF83AB4C22</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.01732/B del 11/05/2023 Fornitura del
+11/05/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00116210568</codiceFiscale>
+<ragioneSociale>COOP.PANTANO FRA PROD.AGR. SOC
+COOP</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00116210568</codiceFiscale>
+<ragioneSociale>COOP.PANTANO FRA PROD.AGR. SOC
+COOP</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>650.97</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-07-05</dataInizio>
+<dataUltimazione>2023-12-07</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>650.97</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZF93B1DBF2</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.2023-V-0000322 del 25/07/2023 Fornitura
+del 25/07/2023</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00189450703</codiceFiscale>
+<ragioneSociale>FRIGOJOLLINOX S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00189450703</codiceFiscale>
+<ragioneSociale>FRIGOJOLLINOX S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30657.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-15</dataInizio>
+<dataUltimazione>2023-09-15</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>30657.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9124751EB8</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.595/PA del 31/08/2022 Fornitura del
+31/08/2022</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07311000157</codiceFiscale>
+<ragioneSociale>MONTI E RUSSO DIGITAL SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07311000157</codiceFiscale>
+<ragioneSociale>MONTI E RUSSO DIGITAL SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>49230.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-12-20</dataInizio>
+<dataUltimazione>2023-02-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>49230.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>9380968BAE</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.127_/PA del 22/10/2022 Fornitura del
+22/10/2022</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01211890569</codiceFiscale>
+<ragioneSociale>Cooperativa Sociale Serena</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01211890569</codiceFiscale>
+<ragioneSociale>Cooperativa Sociale Serena</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>56662.86</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-12-20</dataInizio>
+<dataUltimazione>2023-03-24</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>56662.86</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z04378FD9A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.126_/PA del 22/10/2022 Fornitura del
+22/10/2022</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01211890569</codiceFiscale>
+<ragioneSociale>Cooperativa Sociale Serena</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01211890569</codiceFiscale>
+<ragioneSociale>Cooperativa Sociale Serena</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4551.25</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-12-20</dataInizio>
+<dataUltimazione>2023-12-11</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3674.48</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z1C3910D7E</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.123-FE del 14/12/2022 Fornitura del
+14/12/2022</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02083960563</codiceFiscale>
+<ragioneSociale>GIUSEPPE FERRARA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02083960563</codiceFiscale>
+<ragioneSociale>GIUSEPPE FERRARA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>350.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-12-20</dataInizio>
+<dataUltimazione>2023-02-22</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>350.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z263AFD255</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>COMPENSO OMNICOMPRENSIVO_INCARICO PROT.16600_ N° 25 ORE
+PRESTAZIONI PSICOLOGICHE</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03601460755</codiceFiscale>
+<ragioneSociale>CONGEDO ROBERTO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03601460755</codiceFiscale>
+<ragioneSociale>CONGEDO ROBERTO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1000.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-12-28</dataInizio>
+<dataUltimazione>2023-06-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1000.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z3937C7C59</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.80 del 01/10/2022 Fornitura del
+01/10/2022</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02096220567</codiceFiscale>
+<ragioneSociale>EUSEPI SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02096220567</codiceFiscale>
+<ragioneSociale>EUSEPI SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1300.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-12-20</dataInizio>
+<dataUltimazione>2023-02-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1300.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z4137C5D2B</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.134/PA del 14/11/2022 Fornitura del
+14/11/2022</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01211890569</codiceFiscale>
+<ragioneSociale>Cooperativa Sociale Serena</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01211890569</codiceFiscale>
+<ragioneSociale>Cooperativa Sociale Serena</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4850.25</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-12-20</dataInizio>
+<dataUltimazione>2023-12-11</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>4424.76</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z4837FB024</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.1010801392 del 22/11/2022 Fornitura del
+22/11/2022</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02973040963</codiceFiscale>
+<ragioneSociale>KYOCERA Document Solutions Italia
+S.p.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02973040963</codiceFiscale>
+<ragioneSociale>KYOCERA Document Solutions Italia
+S.p.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1236.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-12-06</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>1236.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z56383311F</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.258/2022/SC del 25/10/2022 Fornitura del
+25/10/2022</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11946021000</codiceFiscale>
+<ragioneSociale>PYRGOS TRAVEL SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11946021000</codiceFiscale>
+<ragioneSociale>PYRGOS TRAVEL SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>9870.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-11-09</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>9870.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z5A382B3B8</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.220681/PA del 16/12/2022 Fornitura del
+16/12/2022</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03523260283</codiceFiscale>
+<ragioneSociale>ZETALAB SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03523260283</codiceFiscale>
+<ragioneSociale>ZETALAB SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>804.48</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-12-20</dataInizio>
+<dataUltimazione>2023-02-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>804.48</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z68392B5EE</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.1116/2022 del 19/12/2022 Fornitura del
+19/12/2022</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01982870568</codiceFiscale>
+<ragioneSociale>Bajocchi Eventi di Bajocchi Simone</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01982870568</codiceFiscale>
+<ragioneSociale>Bajocchi Eventi di Bajocchi Simone</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>200.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-12-27</dataInizio>
+<dataUltimazione>2023-02-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>200.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z7F35E5460</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.3/0000148 del 31/03/2022 Fornitura del
+31/03/2022</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00628090565</codiceFiscale>
+<ragioneSociale>Ist.Vigilanza Privata S.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00628090565</codiceFiscale>
+<ragioneSociale>Ist.Vigilanza Privata S.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1200.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-04-22</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>1200.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z84387B9A6</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.104-FE del 19/12/2022 Fornitura del
+19/12/2022</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00618230569</codiceFiscale>
+<ragioneSociale>MOBILI RUSTICI S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00618230569</codiceFiscale>
+<ragioneSociale>MOBILI RUSTICI S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1400.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-12-20</dataInizio>
+<dataUltimazione>2023-02-16</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1400.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>Z9C354AAA0</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.1022124386 del 03/05/2022 Fornitura del
+03/05/2022</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01114601006</codiceFiscale>
+<ragioneSociale>Poste Italiane S.p.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01114601006</codiceFiscale>
+<ragioneSociale>Poste Italiane S.p.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>318.96</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-06-09</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>195.15</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZA538AB09A</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.6/2022 del 05/12/2022 Fornitura del
+05/12/2022</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01921500565</codiceFiscale>
+<ragioneSociale>PINOT S.A.S. DI PALAZZI NADIA E C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01921500565</codiceFiscale>
+<ragioneSociale>PINOT S.A.S. DI PALAZZI NADIA E C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>363.64</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-12-20</dataInizio>
+<dataUltimazione>2023-02-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>363.64</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZA93929F40</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.FATTPA 40_22 del 19/12/2022 Fornitura del
+19/12/2022</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01813250568</codiceFiscale>
+<ragioneSociale>Latitudine 42 Snc</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01813250568</codiceFiscale>
+<ragioneSociale>Latitudine 42 Snc</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1121.82</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-12-21</dataInizio>
+<dataUltimazione>2023-02-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1121.82</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZB036565CD</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.000069/C del 30/11/2022 Fornitura del
+30/11/2022</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01885230563</codiceFiscale>
+<ragioneSociale>OPEN SOLUTION SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01885230563</codiceFiscale>
+<ragioneSociale>OPEN SOLUTION SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>35170.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-12-20</dataInizio>
+<dataUltimazione>2023-02-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>35170.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZBA356FFF9</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.577/PA del 30/08/2022 Fornitura del
+30/08/2022</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07311000157</codiceFiscale>
+<ragioneSociale>MONTI E RUSSO DIGITAL SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07311000157</codiceFiscale>
+<ragioneSociale>MONTI E RUSSO DIGITAL SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3842.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-12-20</dataInizio>
+<dataUltimazione>2023-02-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3842.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZC03917B63</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.37 del 15/12/2022 Fornitura del
+15/12/2022</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01212140568</codiceFiscale>
+<ragioneSociale>SABBATINI ANGELO S.A.S. DI SABBATINI
+SIMONA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01212140568</codiceFiscale>
+<ragioneSociale>SABBATINI ANGELO S.A.S. DI SABBATINI
+SIMONA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>95.08</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-12-20</dataInizio>
+<dataUltimazione>2023-02-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>95.08</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZC537BCF48</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.000064/C del 02/11/2022 Fornitura del
+02/11/2022</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01885230563</codiceFiscale>
+<ragioneSociale>OPEN SOLUTION SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01885230563</codiceFiscale>
+<ragioneSociale>OPEN SOLUTION SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>940.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-12-07</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>770.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZD0377E835</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>INCARICO SETTEMBRE - DICEMBRE 2022 _ MANUTENZIONE SERRA E
+BRUSCHI FALGARI</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06168611009</codiceFiscale>
+<ragioneSociale>Tirreno Verde di Paride Centolani</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06168611009</codiceFiscale>
+<ragioneSociale>Tirreno Verde di Paride Centolani</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2220.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-08-09</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>2220.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZDA37B7BB8</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.113/PA del 19/09/2022 Fornitura del
+19/09/2022</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01211890569</codiceFiscale>
+<ragioneSociale>Cooperativa Sociale Serena</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01211890569</codiceFiscale>
+<ragioneSociale>Cooperativa Sociale Serena</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>20430.86</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-12-20</dataInizio>
+<dataUltimazione>2023-01-20</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>20430.86</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZF6330C761</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.U1230000024977 del 09/11/2022 Fornitura
+del 09/11/2022</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00818570012</codiceFiscale>
+<ragioneSociale>Pluriass SRL ag.UNIPOLSAI-UCA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00818570012</codiceFiscale>
+<ragioneSociale>Pluriass SRL ag.UNIPOLSAI-UCA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>6240.00</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-11-29</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>6168.00</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>ZFA38598F0</cig>
+<strutturaProponente>
+<codiceFiscaleProp>90002000561</codiceFiscaleProp>
+<denominazione>IISS "VINCENZO CARDARELLI" -
+ -
+TARQUINIA</denominazione>
+</strutturaProponente>
+<oggetto>Pagamento Fattura n.894/B del 28/10/2022 Fornitura del
+28/10/2022</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA
+PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>14197361000</codiceFiscale>
+<ragioneSociale>Gruppo Galagant Srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>14197361000</codiceFiscale>
+<ragioneSociale>Gruppo Galagant Srl</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>878.60</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-12-21</dataInizio>
+<dataUltimazione>2023-02-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>878.60</importoSommeLiquidate>
+</lotto>
+</data>
+</legge190:pubblicazione>
