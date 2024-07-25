@@ -1,0 +1,2315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legge190:pubblicazione xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0" xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd">
+<metadata>
+<titolo>Pubblicazione Appalti 2023</titolo>
+<dataUltimoAggiornamentoDataset>2024-07-14</dataUltimoAggiornamentoDataset>
+<urlFile>http://portale.comune.gela.cl.it/openweb/benefici/appalti/esportazione_appalti_2023.xml</urlFile>
+<licenza>IODL</licenza>
+<abstract>Indice pubblicazione anno 2023</abstract>
+<entePubblicatore>Comune di Gela</entePubblicatore>
+<annoRiferimento>2023</annoRiferimento>
+</metadata>
+<data>
+<lotto>
+<cig>Z183964AAD</cig>
+<oggetto>MANIFESTAZIONE DI INTERESSE  PER L&amp;#8217;AFFIDAMENTO DEL SERVIZIO DI APPROVVIGIONAMENTO IDRICO CON AUTOBOTTE PER LE UTENZE NON SERVITE DALLA RETE IDRICA COMUNALE</oggetto>
+<sceltaContraente>33-PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA</sceltaContraente>
+<partecipanti/>
+<aggiudicatari/>
+<importoAggiudicazione>24590</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-24</dataInizio>
+<dataUltimazione>2023-01-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio>Approvvigionamento idrico per zone non servite</ufficio>
+<responsabile>Dott. Avv. M. PICONE</responsabile>
+<normativa>Procedura negoziata senza previo avviso di gara (art.63 D.Lgs n.50/2016)</normativa>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z22397456E</cig>
+<oggetto>Noleggio batterie veicoli elettrici</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11455821006</codiceFiscale>
+<ragioneSociale>ES MOBILlTY S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11455821006</codiceFiscale>
+<ragioneSociale>ES MOBILlTY S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4299.84</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-01</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>3583.2</importoSommeLiquidate>
+<ufficio/>
+<responsabile>Montana Giuseppe</responsabile>
+<normativa>Affidamento diretto art.1, c.2, lett. a) del D.Lgs n.76/2020</normativa>
+<provvedimento>Determina Dirigenziale n?126</provvedimento>
+</lotto>
+<lotto>
+<cig>ZCD3984266</cig>
+<oggetto>Acquisto Carburante mediante buoni Consip- Accordo Quadro</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00484960588</codiceFiscale>
+<ragioneSociale>ENI   refining &amp; marketing S.P:A</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00484960588</codiceFiscale>
+<ragioneSociale>ENI   refining &amp; marketing S.P:A</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>40000</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-26</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>39464.07</importoSommeLiquidate>
+<ufficio/>
+<responsabile>Montana Giuseppe</responsabile>
+<normativa>Affidamento diretto art.1, c.2, lett. a) del D.Lgs n.76/2020</normativa>
+<provvedimento>Determina Dirigenziale n?135</provvedimento>
+</lotto>
+<lotto>
+<cig>Z773A64649</cig>
+<oggetto>Determinazione a contrarre ai sensi dell art. 36, co 2, lett.a) del D.Lgs. 50/2016, mediante trattativa diretta su piattaforma MEPA - Mercato Elettronico della Pubblica Amministrazione per il servizio di stampa, imbustamento e postalizzazione  avvisi tributari anno 2023</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti/>
+<aggiudicatari/>
+<importoAggiudicazione>34378.69</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-24</dataInizio>
+<dataUltimazione>2023-03-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>97740243C3</cig>
+<oggetto>SERVIZIO DI PRELIEVO, TRASPORTO E SMALTIMENTO IN IMPIANTI AUTORIZZATI DEL RIFIUTO LIQUIDO (CER 190703) PRODOTTO NELLA EX DISCARICA DI CIPOLLINA NEL COMUNE DI GELA</oggetto>
+<sceltaContraente>29-PROCEDURA RISTRETTA SEMPLIFICATA</sceltaContraente>
+<partecipanti/>
+<aggiudicatari/>
+<importoAggiudicazione>44714.44</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile>GEOM. LUIGI BUTTIGLIERI</responsabile>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z543A3D132</cig>
+<oggetto>Impegno spesa ed approvazione atti di gara per procedura negoziata senza previa pubblicazione&#13;
+del bando, ai sensi dell&amp;#226;??art.63 del D.Lgs. n.50/2016 e s.m.i., per il servizio di manutenzione ordinaria e&#13;
+straordinaria degli automezzi di propriet&amp;#224; del Comune di Gel</oggetto>
+<sceltaContraente>33-PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA</sceltaContraente>
+<partecipanti>
+<partecipante>
+<ragioneSociale>OFFICINA VELLA VINCENZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<ragioneSociale>OFFICINA VELLA VINCENZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>11475.41</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-18</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>5509.27</importoSommeLiquidate>
+<ufficio/>
+<responsabile>Montana Giuseppe</responsabile>
+<normativa>Procedura negoziata senza previo avviso di gara (art.63 D.Lgs n.50/2016)</normativa>
+<provvedimento>Det.Dir. n?860</provvedimento>
+</lotto>
+<lotto>
+<cig>Z843ACAE31</cig>
+<oggetto>Affidamento relativo al servizio di incarico di progettazione definitiva-esecutiva, coordinatore alla sicurezza nella fase della progettazione, per INTERVENTI DI CARATTERIZZAZIONE AMBIENTALE DELLE AREE ESTERNE ALLA EX DISCARICA DI C.DA CIPOLLINA nel Comune di Gela</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti/>
+<aggiudicatari/>
+<importoAggiudicazione>12799.62</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-04-17</dataInizio>
+<dataUltimazione>2023-05-02</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio>SETTORE 5 - AMBIENTE E DECORO URBANO</ufficio>
+<responsabile>GEOM. LUIGI BUTTIGLIERI</responsabile>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z4E3AFAB1C</cig>
+<oggetto>Affidamento servizio di lavaggio cura e pulizia dei veicoli del Comune di Gela</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<ragioneSociale>Autolavaggio Top Car Wash &amp;#8220;di Minardi Salvatore</ragioneSociale>
+</partecipante>
+<partecipante>
+<ragioneSociale>Autolavaggio Fiaccabrino Giacomo</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>00087990855</codiceFiscale>
+<ragioneSociale>Doctor Vapor di Ganci Rosario</ragioneSociale>
+</partecipante>
+<partecipante>
+<ragioneSociale>Top Wash di Celona Giuseppe</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<ragioneSociale>Autolavaggio Top Car Wash &amp;#8220;di Minardi Salvatore</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>819.67</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-05</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile>Montana Giuseppe</responsabile>
+<normativa/>
+<provvedimento>determina dirigenziale n?1377</provvedimento>
+</lotto>
+<lotto>
+<cig>8615059B94</cig>
+<oggetto>Impegno spesa per il pagamento dei tre canoni quadrimestrali dovuti all&amp;#39;impresa Project Automation spa per il servizio di videosorveglianza ZTL</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03483920173</codiceFiscale>
+<ragioneSociale>Project Automation</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03483920173</codiceFiscale>
+<ragioneSociale>Project Automation</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>18240.06</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento>Determina dir. 303/2023</provvedimento>
+</lotto>
+<lotto>
+<cig>ZBE3974551</cig>
+<oggetto>Abbonamento Banca ACI PRA - Anno 2023</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07196850585</codiceFiscale>
+<ragioneSociale>Ancidigitale</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07196850585</codiceFiscale>
+<ragioneSociale>Ancidigitale</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3768.64</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento>Determina dir. 534/2023</provvedimento>
+</lotto>
+<lotto>
+<cig>Z5D39745A5</cig>
+<oggetto>Abbonamento Servizi Informatici di base Ancidigitale - Anno 2023</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>07196850585</codiceFiscale>
+<ragioneSociale>Ancidigitale spa</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>07196850585</codiceFiscale>
+<ragioneSociale>Ancidigitale spa</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1199</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-01</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z473A5FA99</cig>
+<oggetto>Affidamento alla societ&amp;#224; Sapidata spa del servizio di gestione del procedimento sanzionatorio</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>91137650403</codiceFiscale>
+<identificativoFiscaleEstero>SM6539</identificativoFiscaleEstero>
+<ragioneSociale>SAPIDATA SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>91137650403</codiceFiscale>
+<identificativoFiscaleEstero>SM6539</identificativoFiscaleEstero>
+<ragioneSociale>SAPIDATA SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>27600</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>27591.62</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento>Determina dir.756/2023</provvedimento>
+</lotto>
+<lotto>
+<cig>9228533A57</cig>
+<oggetto>Proroga tecnica del servizio di mantenimento e custodia dei cani e gatti vaganti nel territorio di Gela Mese di Aprile - DOG Village e RICARA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02005420852</codiceFiscale>
+<ragioneSociale>Dog Village</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>06628860964</codiceFiscale>
+<ragioneSociale>RICARA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02005420852</codiceFiscale>
+<ragioneSociale>Dog Village</ragioneSociale>
+</aggiudicatario>
+<aggiudicatario>
+<codiceFiscale>06628860964</codiceFiscale>
+<ragioneSociale>RICARA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>79491.8</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>26983</importoSommeLiquidate>
+<ufficio/>
+<responsabile>Anzaldi Giuseppe</responsabile>
+<normativa/>
+<provvedimento>Det. dir. 773 del 31/03/2023</provvedimento>
+</lotto>
+<lotto>
+<cig>9930738040</cig>
+<oggetto>Procedura per l&amp;#39;affidamento del servizio di gestione notifica dei verbali al CDS</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti/>
+<aggiudicatari/>
+<importoAggiudicazione>69999.5</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>ZF83B7957A</cig>
+<oggetto>Impegno spesa per affidamento dei lavori di manutenzione indifferibili e urgenti alle caldaie e&#13;
+agli impianti di climatizzazione degli edifici di propriet&amp;#224; comunale.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01322690858</codiceFiscale>
+<ragioneSociale>M.I.T. s.n.c.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01322690858</codiceFiscale>
+<ragioneSociale>M.I.T. s.n.c.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>24590.16</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio>UNITA' ORGANIZZATIVA SPECIALE GOVERNANCE E ATTUAZIONE PNRR - AUTORITA' URBANA</ufficio>
+<responsabile/>
+<normativa/>
+<provvedimento>DD 2401.2023</provvedimento>
+</lotto>
+<lotto>
+<cig>Z8F3A56E30</cig>
+<oggetto>Impegno spesa ed affidamento diretto ai sensi dell&amp;#8217;art. 36 comma 2 lettera a) del D.Lgs 50/2016&#13;
+s.m.i. mediante richiesta ODA su mepa per la fornitura del servizio di telefonia fissa e mobile internet</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>13378520152</codiceFiscale>
+<ragioneSociale>WIND TRE BUSSINES</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>13378520152</codiceFiscale>
+<ragioneSociale>WIND TRE BUSSINES</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>20779.91</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio>UNITA' ORGANIZZATIVA SPECIALE GOVERNANCE E ATTUAZIONE PNRR - AUTORITA' URBANA</ufficio>
+<responsabile/>
+<normativa/>
+<provvedimento>DD 673.2023</provvedimento>
+</lotto>
+<lotto>
+<cig>Z663BB71A8</cig>
+<oggetto>determinazione a contrarre per l&amp;#8217;affidamento della sorveglianza archeologica e produzione di&#13;
+relazione scientifica per i lavori di riqualificazione urbana di via Cairoli.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<ragioneSociale>CONGIU MARINA</ragioneSociale>
+</partecipante>
+<partecipante>
+<ragioneSociale>FABRIZIO LO FARO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<ragioneSociale>CONGIU MARINA</ragioneSociale>
+</aggiudicatario>
+<aggiudicatario>
+<ragioneSociale>FABRIZIO LO FARO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1080</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio>UNITA' ORGANIZZATIVA SPECIALE GOVERNANCE E ATTUAZIONE PNRR - AUTORITA' URBANA</ufficio>
+<responsabile/>
+<normativa/>
+<provvedimento>DD 2084.2023</provvedimento>
+</lotto>
+<lotto>
+<cig>ZAD399FFBB</cig>
+<oggetto>Affidamento diretto relativo all&amp;#8217;incarico di collaudo statico e collaudo tecnico amministrativo&#13;
+per la realizzazione di n. 840 colombari nel cimitero di C.da Farello e assunzione sub-impegno.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04293340875</codiceFiscale>
+<ragioneSociale>ING. FEDERICO GAETANO MARIA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04293340875</codiceFiscale>
+<ragioneSociale>ING. FEDERICO GAETANO MARIA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>25638.06</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio>UNITA' ORGANIZZATIVA SPECIALE GOVERNANCE E ATTUAZIONE PNRR - AUTORITA' URBANA</ufficio>
+<responsabile/>
+<normativa/>
+<provvedimento>DD 592.2023</provvedimento>
+</lotto>
+<lotto>
+<cig>9637617D22</cig>
+<oggetto>Approvazione progetto esecutivo per fornitura e realizzazione di loculi nel cimitero c.da&#13;
+Farello in ampliamento e su edifici esistenti</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02931780841</codiceFiscale>
+<ragioneSociale>CARGROUP SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02931780841</codiceFiscale>
+<ragioneSociale>CARGROUP SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>149000</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>80568.88</importoSommeLiquidate>
+<ufficio>UNITA' ORGANIZZATIVA SPECIALE GOVERNANCE E ATTUAZIONE PNRR - AUTORITA' URBANA</ufficio>
+<responsabile/>
+<normativa/>
+<provvedimento>DD 1036.2023</provvedimento>
+</lotto>
+<lotto>
+<cig>98320922FE</cig>
+<oggetto>Affidamento del servizio di Installazione e configurazione telecamere e ponti radio&#13;
+Configurazione della rete LAN, piano di indirizzamento per le apparecchiature e assistenza remota per il&#13;
+servizio di videosorveglianza del Comune di Gela,</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03849300870</codiceFiscale>
+<ragioneSociale>ITESYS</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03849300870</codiceFiscale>
+<ragioneSociale>ITESYS</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>79540</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio>UNITA' ORGANIZZATIVA SPECIALE GOVERNANCE E ATTUAZIONE PNRR - AUTORITA' URBANA</ufficio>
+<responsabile/>
+<normativa/>
+<provvedimento>DD 1485.2023</provvedimento>
+</lotto>
+<lotto>
+<cig>Z133A454B5</cig>
+<oggetto>Aggiudicazione gara tramite MePA RdO numero 3474532, procedura negoziata. Affidamento&#13;
+dei servizi tecnici di Direzione lavori, misura e contabilit&amp;#224;, assistenza lavori, certificato di regolare&#13;
+esecuzione e coordinamento della sicurezza per l&amp;#226;??esecuzione dei lavori di &amp;#226;??Riqualificazione urbana della via Cairoli&amp;#226;??. CUP: D37H16001310001</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05809520827</codiceFiscale>
+<ragioneSociale>STUDIO TECNICO INGEGNERIA FRAGAPANE SALVATORE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05809520827</codiceFiscale>
+<ragioneSociale>STUDIO TECNICO INGEGNERIA FRAGAPANE SALVATORE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>22021.1</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio>UNITA' ORGANIZZATIVA SPECIALE GOVERNANCE E ATTUAZIONE PNRR - AUTORITA' URBANA</ufficio>
+<responsabile/>
+<normativa/>
+<provvedimento>DD 1508.2023</provvedimento>
+</lotto>
+<lotto>
+<cig>Z4E3AE7B2A</cig>
+<oggetto>: Impegno spesa ed affidamento diretto ai sensi dell&amp;#226;??art. 36 comma 2 lettera a) del D.Lgs 50/2016&#13;
+s.m.i. mediante procedura di acquisto con ordinativo di esecuzione immediata su mepa per assistenza&#13;
+sw e sviluppo nuove funzionalit&amp;#224; del portale web comunale per l&amp;#226;??anno 2023</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01861740858</codiceFiscale>
+<ragioneSociale>MEDIAMATICA SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01861740858</codiceFiscale>
+<ragioneSociale>MEDIAMATICA SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>16650</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio>UNITA' ORGANIZZATIVA SPECIALE GOVERNANCE E ATTUAZIONE PNRR - AUTORITA' URBANA</ufficio>
+<responsabile/>
+<normativa/>
+<provvedimento>DD 2088.2023</provvedimento>
+</lotto>
+<lotto>
+<cig>ZD53A92A62</cig>
+<oggetto>Servizio di pulizia e disotturazione condotte fognarie presso gli edifici, scuole, impianti sportivi&#13;
+etc. di propriet&amp;#224; comunale</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01679730851</codiceFiscale>
+<ragioneSociale>LICATA CLEAN SERVICE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01679730851</codiceFiscale>
+<ragioneSociale>LICATA CLEAN SERVICE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>9663.4</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio>UNITA' ORGANIZZATIVA SPECIALE GOVERNANCE E ATTUAZIONE PNRR - AUTORITA' URBANA</ufficio>
+<responsabile/>
+<normativa/>
+<provvedimento>DD 784.2023</provvedimento>
+</lotto>
+<lotto>
+<cig>Z4A3CA56FF</cig>
+<oggetto>Affidamento e impegno di spesa per fornitura relativa all&amp;#39; acquisto di dispositivi hardware presso la  Ditta G &amp; G S.r.l</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti/>
+<aggiudicatari/>
+<importoAggiudicazione>0</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio>UNITA' ORGANIZZATIVA SPECIALE GOVERNANCE E ATTUAZIONE PNRR - AUTORITA' URBANA</ufficio>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>9865289605</cig>
+<oggetto>PNRR M5C2I2.3 - PINQUA ID 490 Gela tra arte e cultura Progetto Ex area suore Maria&#13;
+Ausiliatrice Palazzo della Cultura Affidamento del PFTE (Progetto di Fattibilit&amp;#224; Tecnico Economico) -&#13;
+Approvazione offerta e trasformazione della prenotazione in impegno di spesa.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01052240882</codiceFiscale>
+<ragioneSociale>ARCH. FRANCESCO NICITA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01052240882</codiceFiscale>
+<ragioneSociale>ARCH. FRANCESCO NICITA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>131139.83</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio>GOVERNANCE E ATTUAZIONE PNRR</ufficio>
+<responsabile/>
+<normativa/>
+<provvedimento>DD 1762.2023</provvedimento>
+</lotto>
+<lotto>
+<cig>9865456FD2</cig>
+<oggetto>PNRR M5C2I2.3 - PINQUA ID 490 Gela tra arte e cultura Progetto di Riqualificazione&#13;
+Parco urbano Orto Pasqualello - Realizzazione percorsi e Nuovi elementi di Arredo - Realizzazione Area&#13;
+Play Ground 0-14 anni - Area Dog Park Affidamento del PFTE (Progetto di Fattibilit&amp;#224; Tecnico&#13;
+Economico) - Approvazione offerta e trasformazione della prenotazione in impegno di spesa</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02104720855</codiceFiscale>
+<ragioneSociale>DAMA GROUP SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02104720855</codiceFiscale>
+<ragioneSociale>DAMA GROUP SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>116409.76</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio>GOVERNANCE E ATTUAZIONE PNRR</ufficio>
+<responsabile/>
+<normativa/>
+<provvedimento>DD 1763.2023</provvedimento>
+</lotto>
+<lotto>
+<cig>Z983BA465D</cig>
+<oggetto>Affidamento del Servizio di assistenza tecnica per l&amp;#8217;attuazione della Strategia Territoriale Urbana della FUA Gela - PR FESR 2021/2027.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<ragioneSociale>CASTELLANA VINCENZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<ragioneSociale>CASTELLANA VINCENZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>38220</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>28665.02</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa>Affidamento diretto ai sensi dell'art.36 c.2 lettera a) del D.Lgs n.50/2016</normativa>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>9936086D8B</cig>
+<oggetto>PNRR M5C2I2.3 - PINQUA ID 485 &amp;#8220;Riqualificazione Area ex Scalo Ferroviario. Determina a contrarre relativa alla procedura di affidamento del PFTE (Progetto di Fattibilit&amp;#224; Tecnico Economico) relativo all&amp;#8217;intervento. CUP D39J20001410001 - Affidamento del PFTE (Progetto di Fattibilit&amp;#224; Tecnico Economico) - Approvazione offerta e trasformazione della prenotazione in impegno di spesa.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<ragioneSociale>GIULIANO LUCIA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<ragioneSociale>GIULIANO LUCIA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>131139.83</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>9865289605</cig>
+<oggetto>PNRR M5C2I2.3 - PINQUA ID 490 &amp;#8221;Gela tra arte e cultura&amp;#8221; - Progetto &amp;#8220;Ex area suore Maria Ausiliatrice &amp;#8211; Palazzo della Cultura&amp;#8221;Affidamento del PFTE (Progetto di Fattibilit&amp;#224; Tecnico Economico) - Approvazione offerta e trasformazione della prenotazione in impegno di spesa. CUP: D39J20001400001</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<ragioneSociale>NICITA FRANCESCO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<ragioneSociale>NICITA FRANCESCO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>131139.83</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>9865456FD2</cig>
+<oggetto>PNRR M5C2I2.3 - PINQUA ID 490 &amp;#8221;Gela tra arte e cultura&amp;#8221; - Progetto di &amp;#8220;Riqualificazione Parco urbano Orto Pasqualello - Realizzazione percorsi e Nuovi elementi di Arredo - Realizzazione Area Play Ground 0-14 anni - Area Dog Park&amp;#8221;Affidamento del PFTE (Progetto di Fattibilit&amp;#224; Tecnico Economico) - Approvazione offerta e trasformazione della prenotazione in impegno di spesa.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02104720855</codiceFiscale>
+<ragioneSociale>DAMA GROUP SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02104720855</codiceFiscale>
+<ragioneSociale>DAMA GROUP SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>116409.76</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z983C5BAF2</cig>
+<oggetto>Procedura di affidamento diretto  art. 50 comma 1 lettera b) del D.Lgs. n. 36/2023, Ditta ITESYS SRL del contratto il servizio di Manutenzione e sicurezza sistemi di connettivit&amp;#224;  LAN e implementazione nuovi sistemi di connessione delle reti delle sedi del Comune di Gela.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03849300870</codiceFiscale>
+<ragioneSociale>ITESYS SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03849300870</codiceFiscale>
+<ragioneSociale>ITESYS SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>38016</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-29</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>30919.68</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>ZF53C804D7</cig>
+<oggetto>Servizio di  abbonamento annuale AnyDesk Standard 2 connessione simultanee, affidamento ed impegno spesa</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03342190927</codiceFiscale>
+<ragioneSociale>S.H.S. di Piras Francesco</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03342190927</codiceFiscale>
+<ragioneSociale>S.H.S. di Piras Francesco</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>717</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>ZC93CB9D68</cig>
+<oggetto>acquisto carburante mediante buoni cnnsip</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti/>
+<aggiudicatari/>
+<importoAggiudicazione>20000</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-10</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile>Montana Giuseppe</responsabile>
+<normativa/>
+<provvedimento>Det. Dir. n?3131 del 10/10/2023</provvedimento>
+</lotto>
+<lotto>
+<cig>A0120CD443</cig>
+<oggetto>PNRR, M5C2I2.1 - Finanziato dall&amp;#8217;Unione Europea &amp;#8211; Next Generation EU &amp;#8211; Lavori per la &amp;#8220;Riqualificazione e valorizzazione ambientale e turistica del parco di Montelungo e aree annesse - Contrada Montelungo&amp;#8221;.  Aggiudicazione appalto integrato. CUP D33D21002180001 &amp;#8211;</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03645160833</codiceFiscale>
+<ragioneSociale>BCM Consorzio Stabile</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01439050855</codiceFiscale>
+<ragioneSociale>COSIAM S.R.L.</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>01581970850</codiceFiscale>
+<ragioneSociale>Emma lavori coop. s.c.a.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01581970850</codiceFiscale>
+<ragioneSociale>Emma lavori coop. s.c.a.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3363196.5</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>9228457B9F</cig>
+<oggetto>PROROGA TECNICA MANTENIMENTO E CUSTODIA CANI E GATTI VAGANTI SUL TERRITORIO COMUNALE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti/>
+<aggiudicatari/>
+<importoAggiudicazione>0</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z633CC0647</cig>
+<oggetto>Acquisto da &amp;#8220;Soluzione Professionisti di Giusy Pagano ditta Individuale&amp;#8221; del servizio &amp;#8220;Formazione e Supporto Tecnico Specialistico per Mappatura Processi Anticorruzione&amp;#8221;. CIG: Z633CC0647</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05774270879</codiceFiscale>
+<ragioneSociale>Soluzione Professionisti di Giusy Pagano</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05774270879</codiceFiscale>
+<ragioneSociale>Soluzione Professionisti di Giusy Pagano</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1639.35</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z5139BA7FD</cig>
+<oggetto>Rinnovo del  contrato servizio in Streaming audio video verbalizzazione automatica trascrizione sedute del consiglio comunale in video conferenza a formula mista</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04565170877</codiceFiscale>
+<ragioneSociale>MICROVISION SRL</ragioneSociale>
+</partecipante>
+<partecipante>
+<codiceFiscale>04565170877</codiceFiscale>
+<ragioneSociale>MICROVISION SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04565170877</codiceFiscale>
+<ragioneSociale>MICROVISION SRL</ragioneSociale>
+</aggiudicatario>
+<aggiudicatario>
+<codiceFiscale>04565170877</codiceFiscale>
+<ragioneSociale>MICROVISION SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>11475.41</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-01</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>11475.4</importoSommeLiquidate>
+<ufficio>SETTORE 2 - BILANCIO E TRIBUTI</ufficio>
+<responsabile/>
+<normativa>Affidamento diretto ai sensi dell'art.36 c.2 lettera a) del D.Lgs n.50/2016</normativa>
+<provvedimento>DETERMINA DIRIGENZIALE N. 297 DEL 07/02/2023</provvedimento>
+</lotto>
+<lotto>
+<cig>Z303BE8811</cig>
+<oggetto>RINNOVO ABBONAMENTO QUOTIDIANO CORRIERE DELLA SERA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>12086540155</codiceFiscale>
+<ragioneSociale>RCS MEDIA GROUP SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>12086540155</codiceFiscale>
+<ragioneSociale>RCS MEDIA GROUP SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>489.9</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-19</dataInizio>
+<dataUltimazione>2024-09-18</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio>SETTORE 2 - BILANCIO E TRIBUTI</ufficio>
+<responsabile/>
+<normativa>Affidamento diretto ai sensi dell'art.36 c.2 lettera a) del D.Lgs n.50/2016</normativa>
+<provvedimento>DETERMINA DIRIGENZIALE N. 2058 DEL 27/07/2023</provvedimento>
+</lotto>
+<lotto>
+<cig>Z103BE8749</cig>
+<oggetto>RINNOVO ABBONAMENTO QUOTIDIANO LA SICILIA</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti/>
+<aggiudicatari/>
+<importoAggiudicazione>317</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-22</dataInizio>
+<dataUltimazione>2024-08-21</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio>SETTORE 2 - BILANCIO E TRIBUTI</ufficio>
+<responsabile/>
+<normativa>Affidamento diretto ai sensi dell'art.36 c.2 lettera a) del D.Lgs n.50/2016</normativa>
+<provvedimento>DETERMINA DIRIGENZIALE N. 2057 DEL 27/07/2023</provvedimento>
+</lotto>
+<lotto>
+<cig>Z383C49276</cig>
+<oggetto>AFFIDAMENTO A POSTE ITALIANE SPA SERVIZIO SPEDIZIONE CORRISPONDENZA NAZIONALE E INTERNAZIONALE DEI VARI UFFICI, DENOMINATA POSTA EASY BASIC , PER ANNI UNO</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01114601006</codiceFiscale>
+<ragioneSociale>POSTE ITALIANE SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01114601006</codiceFiscale>
+<ragioneSociale>POSTE ITALIANE SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30000</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-09-01</dataInizio>
+<dataUltimazione>2024-08-30</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>10000</importoSommeLiquidate>
+<ufficio>SETTORE 2 - BILANCIO E TRIBUTI</ufficio>
+<responsabile/>
+<normativa/>
+<provvedimento>DETERMINA DIRIGENZIALE N. 2526 DEL 05/09/2023</provvedimento>
+</lotto>
+<lotto>
+<cig>Z5E3CC44A9</cig>
+<oggetto>Impegno somme per acquisto stampati  per gli uffici di Stato Civile.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06188330150</codiceFiscale>
+<ragioneSociale>MAGGIOLI S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06188330150</codiceFiscale>
+<ragioneSociale>MAGGIOLI S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1287.1</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>9930738040</cig>
+<oggetto>Servizio Gestione e Notifica verbali al CDS - Determina di aggiudicazione e trasformazione in impegno</oggetto>
+<sceltaContraente>03-PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>91137650403</codiceFiscale>
+<identificativoFiscaleEstero>SM6539</identificativoFiscaleEstero>
+<ragioneSociale>Sapidata spa</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari/>
+<importoAggiudicazione>0</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>18326.68</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento>determina dir. 2197 del 04/08/2023</provvedimento>
+</lotto>
+<lotto>
+<cig>ZD33959C8D</cig>
+<oggetto>Affidamento a Wind Tre del servizio per attivazione di 4 linee telefoniche relative a Stazione Carabinieri Piazza Roma, Centro Aggregazione giovanile &amp;#8220;Youth Center Gela&amp;#8221; ,  Scuola Media &amp;#8220;Enrico Mattei&amp;#8221; e scuola Madre Teresa di Calcutta plesso scolastico di via Velasquez  .</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>13378520152</codiceFiscale>
+<ragioneSociale>WIND TRE S.p.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>13378520152</codiceFiscale>
+<ragioneSociale>WIND TRE S.p.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3360</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-01</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>1253.22</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>ZB63B6AFE8</cig>
+<oggetto>Impegno ed affidamento per l&amp;#39;acquisto di DPI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01768000851</codiceFiscale>
+<ragioneSociale>GEGAR</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01768000851</codiceFiscale>
+<ragioneSociale>GEGAR</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>122.94</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>122.94</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento>Determina dir. 2028 del 21/07/2023</provvedimento>
+</lotto>
+<lotto>
+<cig>Z413B63D08</cig>
+<oggetto>Impegno spesa per il rinnovo annuale delle telecamere E killer 13-14-15-16</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<ragioneSociale>STEAM SERVICE DI STEFANO AMATO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<ragioneSociale>STEAM SERVICE DI STEFANO AMATO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>0</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento>DET. DIR. 2064/2023</provvedimento>
+</lotto>
+<lotto>
+<cig>Z483CA72E4</cig>
+<oggetto>Impegno spesa per il rinnovo delle telecamere E killer n. 10/11/12</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02853260814</codiceFiscale>
+<ragioneSociale>sainvent SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02853260814</codiceFiscale>
+<ragioneSociale>sainvent SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4740</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento>DET. DIR. 3413/2023</provvedimento>
+</lotto>
+<lotto>
+<cig>Z913D187D8</cig>
+<oggetto>iMPEGNO SPESA PER RINNOVO ANNUALE DELLE TELECAMERE DI VIDEOSORVEGLIANZA RIFIUTI E.KILLER . N. 07/08/09</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02853260814</codiceFiscale>
+<ragioneSociale>sainvent SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02853260814</codiceFiscale>
+<ragioneSociale>sainvent SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4740</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento>DETERMINA DIR. 3607/2023</provvedimento>
+</lotto>
+<lotto>
+<cig>ZC93CB9D68</cig>
+<oggetto>Impegno spesa per fornitura carburante per mezzi di trasporto di propriet&amp;#224; del Comune di Gela, tramite buoni acquisto. - Convenzione Consip- Accordo quadro</oggetto>
+<sceltaContraente>26-AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11403240960</codiceFiscale>
+<ragioneSociale>Eni Sustainable Mobility S.p.a</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11403240960</codiceFiscale>
+<ragioneSociale>Eni Sustainable Mobility S.p.a</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>20000</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-11</dataInizio>
+<dataUltimazione>2023-10-20</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>19756.29</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>98320922FE</cig>
+<oggetto>Affidamento alla Ditta ITESYS SRL, del servizio di Installazione e configurazione telecamere e ponti radio Configurazione della rete LAN, piano di indirizzamento per le apparecchiature e assistenza remota per il servizio di  videosorveglianza del Comune di Gela</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>03849300870</codiceFiscale>
+<ragioneSociale>ITESYS SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>03849300870</codiceFiscale>
+<ragioneSociale>ITESYS SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>79540</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-13</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>97038.8</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z22397456E</cig>
+<oggetto>Impegno spesa e contestuale liquidazione a favore della ditta ES Mobility s.r.l. &amp;#8211;via Tiburtina
+n&amp;#176;1159- 00156 Roma, P.Iva 11455821006 per la fornitura di noleggio batterie per il funzionamento delle
+autovetture elettriche di servizio, relativo al mese di Gennaio 2023&amp;#8211; con spese a carico dell&amp;#8217;Ente</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11455821006</codiceFiscale>
+<ragioneSociale>ES MOBILITY</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11455821006</codiceFiscale>
+<ragioneSociale>ES MOBILITY</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4299.94</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-25</dataInizio>
+<dataUltimazione>2024-01-07</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1074.96</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z433D6C0C5</cig>
+<oggetto>Individuazione Ente, autorizzazione ed impegno spesa per corso di formazione e maneggio armi.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>82002440871</codiceFiscale>
+<ragioneSociale>TIRO A SEGNO NAZIONALE SEZIONE DI CALTAGIRONE</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>82002440871</codiceFiscale>
+<ragioneSociale>TIRO A SEGNO NAZIONALE SEZIONE DI CALTAGIRONE</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3819</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z5D39745A5</cig>
+<oggetto>Abbonamento ANCIDIGITALE Servizi informatici di base - Anno 2023</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>15483121008</codiceFiscale>
+<ragioneSociale>ANCI DIGITALE S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>15483121008</codiceFiscale>
+<ragioneSociale>ANCI DIGITALE S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1199.9</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>1199900</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>ZBE3974551</cig>
+<oggetto>Abbonamento ACI PRA - Anno 2023</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>15483121008</codiceFiscale>
+<ragioneSociale>Ancidigitale</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>15483121008</codiceFiscale>
+<ragioneSociale>Ancidigitale</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>3768.64</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>3768.64</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z8F3A56E30</cig>
+<oggetto>Impegno spesa ed affidamento  diretto alla Societ&amp;#224; Wind Tre S.p.A. ai sensi dell&amp;#8217;art. 36 comma 2 lettera a) del D.Lgs. 50/2016  s.m.i. mediante richiesta ODA su MePa  per la fornitura del servizio di telefonia  fissa e mobile  internet</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>13378520152</codiceFiscale>
+<ragioneSociale>WIND TRE S.p.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>13378520152</codiceFiscale>
+<ragioneSociale>WIND TRE S.p.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>20779.91</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-30</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>10304.62</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z2B3A5DC80</cig>
+<oggetto>Affidamento e impegno di spesa alla Ditta G &amp; G S.r.l. per la fornitura relativa all&amp;#226;??acquisto di dispositivi hardware al fine di garantire la funzionalit&amp;#224; dell&amp;#226;??Unit&amp;#224; Governance PNRR</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<ragioneSociale>G &amp; G S.R.L</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<ragioneSociale>G &amp; G S.R.L</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1993</importoAggiudicazione>
+<tempiCompletamento>
+<dataUltimazione>2023-04-06</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1993</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z4A3CA56FF</cig>
+<oggetto>Affidamento e impegno di spesa relativa all&amp;#8217;acquisto di dispositivi hardware presso la Ditta G &amp; G S.r.l. -</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<ragioneSociale>G &amp; G S.R.L</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<ragioneSociale>G &amp; G S.R.L</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1665</importoAggiudicazione>
+<tempiCompletamento>
+<dataUltimazione>2023-10-17</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>1665</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z7434C2320</cig>
+<oggetto>Impegno spesa e contestuale liquidazione a favore della ditta ES Mobility s.r.l. &amp;#8211;via Tiburtina n&amp;#176;1159- 00156 Roma, P.Iva 11455821006 per la fornitura di noleggio batterie per il funzionamento delle autovetture elettriche di servizio,  relativo al mese di Gennaio 2022&amp;#8211; con spese a carico dell&amp;#8217;Ente</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>11455821006</codiceFiscale>
+<ragioneSociale>ES MOBILITY</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>11455821006</codiceFiscale>
+<ragioneSociale>ES MOBILITY</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4299.84</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2022-01-01</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>358.32</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z4E3AE7B2A</cig>
+<oggetto>Impegno spesa ed affidamento  diretto ai sensi dell&amp;#8217;art. 36 comma 2 lettera a) del D.Lgs. 50/2016  s.m.i.  alla Ditta Mediamatica s.r.l. mediante  procedura di acquisto con ordinativo di esecuzione immediata  su MePa   per assistenza SW e sviluppo nuove funzionalit&amp;#224; del portale web comunale per l&amp;#8217;anno 2023</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01861740858</codiceFiscale>
+<ragioneSociale>MEDIAMATICA SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01861740858</codiceFiscale>
+<ragioneSociale>MEDIAMATICA SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>16650</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-08-01</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>20313</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>ZB63B6AFE8</cig>
+<oggetto>Determina di affidamento e impegno spesa per l&amp;#39;acquisto di DPI</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01768000851</codiceFiscale>
+<ragioneSociale>GEGAR ANTINFORTUNISTICA S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01768000851</codiceFiscale>
+<ragioneSociale>GEGAR ANTINFORTUNISTICA S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>122.94</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>122.94</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z473A5FA99</cig>
+<oggetto>Affidamento alla societ&amp;#224; Sapidata spa  del servizio di gestione del procedimento sanzionatorio dei verbali al cds</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>91137650403</codiceFiscale>
+<ragioneSociale>SAPIDATA SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>91137650403</codiceFiscale>
+<ragioneSociale>SAPIDATA SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>27600</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>27591.62</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>0000000000</cig>
+<oggetto>AFFIDAMENTO SERVIZIO CATTURA, RICOVERO E CURA DEI CANI RANDAGI NEL TERRITORIO COMUNALE DI GELA</oggetto>
+<sceltaContraente>03-PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti/>
+<aggiudicatari/>
+<importoAggiudicazione>0</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile>GIUSEPPE ANZALDI</responsabile>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>7329073E5B</cig>
+<oggetto>Adesione alla convenzione &amp;#226;??Servizi di pulizia e sanificazione, disinfestazione e derattizzazione di&#13;
+immobili di Amministrazioni/Enti non sanitari del territorio della Regione Sicilia&amp;#226;??- Soggetto Aggregatore&#13;
+Citt&amp;#224; Metropolitana di Catania. Affidamento a Dussmann Service Srl - CIG Master CIG:7329073E5B -&#13;
+CIG Derivato 9382697E7EF25.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>00124140211</codiceFiscale>
+<ragioneSociale>Dussmann Service Srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>00124140211</codiceFiscale>
+<ragioneSociale>Dussmann Service Srl</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>185244.96</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-20</dataInizio>
+<dataUltimazione>2024-01-19</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio>SETTORE 5 - AMBIENTE E DECORO URBANO</ufficio>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>ZE03987B7C</cig>
+<oggetto>Servizio di &amp;#8220;PRELIEVO, TRASPORTO E SMALTIMENTO IN IMPIANTI AUTORIZZATI DEL RIFIUTO LIQUIDO (CER 190703) PRODOTTO NELLA EX DISCARICA DI CIPOLLINA NEL COMUNE DI GELA&amp;#8221; &amp;#8211; Affidamento all&amp;#8217;operatore economico NOVAMBIENTE SRL.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01685560854</codiceFiscale>
+<ragioneSociale>NOVAMBIENTE S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01685560854</codiceFiscale>
+<ragioneSociale>NOVAMBIENTE S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>21851.38</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-13</dataInizio>
+<dataUltimazione>2023-04-13</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>21840.02</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>930730570E</cig>
+<oggetto>Servizio antirandagismo. Perlustrazione del territorio, cattura randagi e consegna al canile convenzionato. Proroga servizio per n. 2 mesi &amp;#8211; Febbraio - marzo 2023. CIG: 930730570E</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>02005420852</codiceFiscale>
+<ragioneSociale>DOG VILLAGE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>02005420852</codiceFiscale>
+<ragioneSociale>DOG VILLAGE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>6265.04</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-31</dataInizio>
+<dataUltimazione>2023-03-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>9656762419</cig>
+<oggetto>&amp;#8220;Affidamento servizio  per il conferimento presso impianti autorizzati al recupero finale dei rifiuti biodegradabili di cucine e mense C.E.R. 20.01.08 provenienti dalla raccolta differenziata  Porta a  Porta. CIG: 9656762419</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04445660873</codiceFiscale>
+<ragioneSociale>RACO S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04445660873</codiceFiscale>
+<ragioneSociale>RACO S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>186300</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-01-01</dataInizio>
+<dataUltimazione>2023-05-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z183964AAD</cig>
+<oggetto>Approvvigionamento idrico con autobotte per utenze non servite dalla rete idrica comunale. CIG Z183964AAD. Approvazione proposta di aggiudicazione e impegno spesa</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01651060855</codiceFiscale>
+<ragioneSociale>F.LLI MONACHELLA SNC DI MONACHELLA IGNAZIO &amp; C.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01651060855</codiceFiscale>
+<ragioneSociale>F.LLI MONACHELLA SNC DI MONACHELLA IGNAZIO &amp; C.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>23114.6</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-02-20</dataInizio>
+<dataUltimazione>2023-11-16</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>ZBF399BD02</cig>
+<oggetto>RIMOZIONE RIFIUTI VARI ALL&amp;#39;INTERNO DI UNA CASA DIROCCATA SITA IN VIA MALLIA ANGOLO  VIA PIGNATARO - Ordinanza Sindacale n&amp;#176;713 del 17/09/2020 e Ordinanza Sindacale n&amp;#176;537 del 17/10/2022 CIG: ZBF399BD02 -  &amp;#8211; Affidamento all&amp;#8217;operatore economico S.C. SERVICES SRL.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01992510857</codiceFiscale>
+<ragioneSociale>S.C. SERVICES SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01992510857</codiceFiscale>
+<ragioneSociale>S.C. SERVICES SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4080</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-03-09</dataInizio>
+<dataUltimazione>2023-04-17</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z303A30366</cig>
+<oggetto>Affidamento del Servizio per il ritiro, smaltimento trasporto e conferimento presso  impianto autorizzato al  recupero e al trattamento di: &amp;#8220;Indumenti,  Accessori di Abbigliamento ed  altri manufatti tessili confezionati post-consumo&amp;#8221; CIG:Z303A30366</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05059170877</codiceFiscale>
+<ragioneSociale>Nuova Alba Scs</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05059170877</codiceFiscale>
+<ragioneSociale>Nuova Alba Scs</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4800</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z6A3B26CC0</cig>
+<oggetto>Fornitura di cartellonistica per divieto di balneazione, in ottemperanza alla ordinanza sindacale n. 259 del 21.04.2023. CIG Z6A3B26CC0. Affidamento diretto e impegno spesa.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01768000851</codiceFiscale>
+<ragioneSociale>GEGAR ANTINFORTUNISTICA S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01768000851</codiceFiscale>
+<ragioneSociale>GEGAR ANTINFORTUNISTICA S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>1864.5</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>97740243C3</cig>
+<oggetto>servizio di &amp;#8220;PRELIEVO, TRASPORTO E SMALTIMENTO IN IMPIANTI AUTORIZZATI DEL RIFIUTO LIQUIDO (CER 190703) PRODOTTO NELLA EX DISCARICA DI CIPOLLINA NEL COMUNE DI GELA&amp;#8221; &amp;#8211; Affidamento all&amp;#8217;operatore economico NOVAMBIENTE SRL</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01685560854</codiceFiscale>
+<ragioneSociale>NOVAMBIENTE S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01685560854</codiceFiscale>
+<ragioneSociale>NOVAMBIENTE S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>39795.87</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-06-30</dataInizio>
+<dataUltimazione>2023-10-19</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>98511301A6</cig>
+<oggetto>&amp;#8220;Affidamento servizio  per il conferimento presso impianti autorizzati al recupero finale dei rifiuti biodegradabili di cucine e mense C.E.R. 20.01.08 provenienti dalla raccolta differenziata  Porta a  Porta. CIG: 98511301A6</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04445660873</codiceFiscale>
+<ragioneSociale>RACO S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04445660873</codiceFiscale>
+<ragioneSociale>RACO S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>137700</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>9907121EDE</cig>
+<oggetto>Affidamento del servizio di smaltimento e recupero  CEER 200307_200303_200123_ 200135_200136_200132_160103_ provenienti dalla raccolta porta a porta  nel territorio di Gela - CIG: 9907121EDE</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01853480851</codiceFiscale>
+<ragioneSociale>Ecorecuperi s.r.l.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01853480851</codiceFiscale>
+<ragioneSociale>Ecorecuperi s.r.l.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>95000</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>ZC03BA4B43</cig>
+<oggetto>Servizio di recupero e smaltimento materiale ferroso CIG:  ZC03BA4B43</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01848280853</codiceFiscale>
+<ragioneSociale>Chimera srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01848280853</codiceFiscale>
+<ragioneSociale>Chimera srl</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>20000</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>ZCC3BD38A2</cig>
+<oggetto>Affidamento fornitura di segnaletica di sicurezza da installare nelle spiagge a libera fruizione. CIG: ZCC3BD38A2.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01768000851</codiceFiscale>
+<ragioneSociale>GEGAR ANTINFORTUNISTICA S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01768000851</codiceFiscale>
+<ragioneSociale>GEGAR ANTINFORTUNISTICA S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4985</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>ZBD3C0CB4A</cig>
+<oggetto>affidamento diretto, ai sensi dell&amp;#8217;art. 50, comma 1, lett. b) del Dlgs n.36/2023, del servizio di caratterizzazione dei rifiuti posti sottosequestro ritrovati all&amp;#8217;interno di un lotto di terreno privato sito nella via salita degli Angeli in c.da Manfria del Comune di Gela</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<ragioneSociale>TURCO ALDO FILIPPO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<ragioneSociale>TURCO ALDO FILIPPO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>400</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z693BF20B2</cig>
+<oggetto>Affidamento servizio di vigilanza del litorale di Gela per la sicurezza dei bagnanti stagione estiva 2023. CIG: Z693BF20B2</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01776930859</codiceFiscale>
+<ragioneSociale>POSEIDON SOC.COOP.SPORTIVA DILETTANTISTICA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01776930859</codiceFiscale>
+<ragioneSociale>POSEIDON SOC.COOP.SPORTIVA DILETTANTISTICA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>29685</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>9961737D6B</cig>
+<oggetto>Affidamento servizio di deratti8zzazione, deblattizzazione e disinfestazione di tutto il territorio comunale e di tutti gli immobili di propriet&amp;#224; comunale. CIG: 9961737D6B.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01679730851</codiceFiscale>
+<ragioneSociale>LICATA CLEAN SERVICE S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01679730851</codiceFiscale>
+<ragioneSociale>LICATA CLEAN SERVICE S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>137925</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>ZDA3D58E62</cig>
+<oggetto>Trasformazione della prenotazione in impegno della spesa - Affidamento del servizio assicurativo per la R.C.A./ARD ed infortunio del conducente dal 28/12/2023 al 28/12/204 alla NOBIS COMPAGNIA DI ASSICURAZIONI SPA con sede in VIA LANZO 29, Borgaro Torinese P.IVA n. 01757980923.</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti/>
+<aggiudicatari/>
+<importoAggiudicazione>23964.5</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-28</dataInizio>
+<dataUltimazione>2024-12-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>9961737D6B</cig>
+<oggetto>Affidamento servizio di derattizzazione, deblattizzazione e disinfestazione di tutto il territorio comunale e di tutti gli immobili di propriet&amp;#224; comunale. CIG: 9961737D6B. Ulteriore impregno spesa.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01679730851</codiceFiscale>
+<ragioneSociale>LICATA CLEAN SERVICE SRL</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01679730851</codiceFiscale>
+<ragioneSociale>LICATA CLEAN SERVICE SRL</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>17479.18</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>98511301A6</cig>
+<oggetto>&amp;#8220;Servizio di conferimento rifiuti da mense e cucine CER 200108. Proroga tecnica.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>04445660873</codiceFiscale>
+<ragioneSociale>RACO S.R.L.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>04445660873</codiceFiscale>
+<ragioneSociale>RACO S.R.L.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>67500</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-10-01</dataInizio>
+<dataUltimazione>2023-12-31</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>ZDA3D58E62</cig>
+<oggetto>Determina a contrarre- Approvazione Lettera d&amp;#39;invito, Capitolato Speciale d&amp;#39;Appalto  istanza di partecipazione e Relazione Tecnica per la gara con procedura negoziata,  medoiante piattaforma telematica ASMEPAL,  relativa alla fornitura del servizio assicurativo per la R.C.A./ARD ed Infortunio Conducente dei veicoli comunali dal 28 Dicembre 2023 al 28 Dicembre 2024.</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<ragioneSociale>NOBIS COMPAGNIA DI ASSICURAZIONI - AG. GALGANO S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<ragioneSociale>NOBIS COMPAGNIA DI ASSICURAZIONI - AG. GALGANO S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>23964.5</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-28</dataInizio>
+<dataUltimazione>2023-12-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z543A3D132</cig>
+<oggetto>Determina di approvazione del verbale di gara del 18/04/2023  per il servizio di manutenzione ordinaria e straordinaria dei veicoli comunali.</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<ragioneSociale>VELLA VINCENZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<ragioneSociale>VELLA VINCENZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>11475</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-05-01</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>1750.88</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z543A3D132</cig>
+<oggetto>Impegno spesa quinto d&amp;#8217;obbligo ai sensi dell&amp;#39;art. 120  del Dlgs 36/2023 per la manutenzione straordinaria dei mezzi di propriet&amp;#224; Comunale, presso la ditta Vella Vincenzo con sede in Gela nella via Darwin n&amp;#176;16, ditta individuata con Determinazione Dirigenziale n&amp;#176; 1233 del 24/04/2023</oggetto>
+<sceltaContraente>31-AFFIDAMENTO DIRETTO PER VARIANTE SUPERIORE AL 20% DELL IMPORTO CONTRATTUALE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<ragioneSociale>VELLA VINCENZO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<ragioneSociale>VELLA VINCENZO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>2295.1</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-15</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>2259.08</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z433D6C0C5</cig>
+<oggetto>Individuazione Ente, autorizzazione ed impegno spesa per corso di formazione e maneggio armi.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti/>
+<aggiudicatari/>
+<importoAggiudicazione>3819</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>3819</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z163DE3757</cig>
+<oggetto>Affidamento diretto incarico di assistenza tecnica finalizzata&#13;
+all&amp;#8217;aggiornamento dati dell&amp;#8217;Anagrafe Regionale Edilizia Scolastica (ARES 2.0) della Regione Siciliana</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<ragioneSociale>Fidone Donato Orazio</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<ragioneSociale>Fidone Donato Orazio</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>18651.36</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio>UNITA' ORGANIZZATIVA SPECIALE GOVERNANCE E ATTUAZIONE PNRR - AUTORITA' URBANA</ufficio>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z9039BA752</cig>
+<oggetto>Affidamento diretto alla G.P.I. s.p.a. del servizio di gestione informatizzata delle Risorse Umane in SaaS comprendente il trattamento giuridico, economico, previdenziale e assenze/presenze del personale - anno 2023-</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>01944260221</codiceFiscale>
+<ragioneSociale>G.P.I.  s.p.a.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>01944260221</codiceFiscale>
+<ragioneSociale>G.P.I.  s.p.a.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>12330.4</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>11927.54</importoSommeLiquidate>
+<ufficio>Gestione economica del personale comunale</ufficio>
+<responsabile/>
+<normativa>Affidamento diretto ai sensi dell'art.36 c.2 lettera a) del D.Lgs n.50/2016</normativa>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>ZDA3D58E62</cig>
+<oggetto>Trasformazione della prenotazione in impegno della spesa - Affidamento del servizio assicurativo per la R.C.A./ARD ed infortunio del conducente dal 28/12/2023 al 28/12/204 alla NOBIS COMPAGNIA DI ASSICURAZIONI SPA con sede in VIA LANZO 29, Borgaro Torinese P.IVA n. 01757980923.</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<ragioneSociale>NOBIS COMPAGNIA DI ASSICURAZIONI - AG. GALGANO S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<ragioneSociale>NOBIS COMPAGNIA DI ASSICURAZIONI - AG. GALGANO S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>23964.5</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-28</dataInizio>
+<dataUltimazione>2024-12-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>ZDA3D58E62</cig>
+<oggetto>Trasformazione della prenotazione in impegno della spesa - Affidamento del servizio assicurativo per la R.C.A./ARD ed infortunio del conducente dal 28/12/2023 al 28/12/204 alla NOBIS COMPAGNIA DI ASSICURAZIONI SPA con sede in VIA LANZO 29, Borgaro Torinese P.IVA n. 01757980923.</oggetto>
+<sceltaContraente>04-PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<ragioneSociale>NOBIS COMPAGNIA DI ASSICURAZIONI - AG. GALGANO S.P.A.</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<ragioneSociale>NOBIS COMPAGNIA DI ASSICURAZIONI - AG. GALGANO S.P.A.</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>23964.5</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2023-12-28</dataInizio>
+<dataUltimazione>2024-12-28</dataUltimazione>
+</tempiCompletamento>
+<importoSommeLiquidate>23929.5</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>9376221E54</cig>
+<oggetto>Fornitura del servizio sostitutivo di mensa mediante buoni pasto cartacei tramite adesione alla convenzione Consip S.p.A. &amp;quot;Buoni Pasto Edizione 10&amp;quot; Lotto 12- Sicilia. Impegno spesa.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti/>
+<aggiudicatari/>
+<importoAggiudicazione>53380</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>A0245B5B02</cig>
+<oggetto>Affidamento dell&amp;#8217;Incarico professionale progettazione delle strutture, impianti e sicurezza a supporto del Progetto esecutivo per l&amp;#8217;intervento: &amp;#8220;Realizzazione&#13;
+Palestra&amp;#8221;.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti/>
+<aggiudicatari/>
+<importoAggiudicazione>94368.95</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio>GOVERNANCE E ATTUAZIONE PNRR</ufficio>
+<responsabile/>
+<normativa>Affidamento diretto ai sensi dell'art.36 c.2 lettera a) del D.Lgs n.50/2016</normativa>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>ZD73CF8B38</cig>
+<oggetto>Affidamento dell&amp;#8217;incarico per lo Studio Geologico e Geognostico completo di Piano delle indagini, a supporto del progetto esecutivo denominato &amp;#8220;Realizzazione Palestra&amp;#8221;.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti/>
+<aggiudicatari/>
+<importoAggiudicazione>33470.77</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio>GOVERNANCE E ATTUAZIONE PNRR</ufficio>
+<responsabile/>
+<normativa>Affidamento diretto ai sensi dell'art.36 c.2 lettera a) del D.Lgs n.50/2016</normativa>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z633D776F0</cig>
+<oggetto>Affidamento dell&amp;#8217;incarico professionale per la redazione di &amp;#8220;Verifica preventiva di interesse archeologico&amp;#8221; (c.1, art. 25, D.L.gs n.50/2016 e ss.mm. ii.), per l&amp;#8217;intervento &amp;#8220;Palestra (area stadio ex&#13;
+spogliatoi)&amp;#8221;.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti/>
+<aggiudicatari/>
+<importoAggiudicazione>2000</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>2000</importoSommeLiquidate>
+<ufficio>GOVERNANCE E ATTUAZIONE PNRR</ufficio>
+<responsabile/>
+<normativa>Affidamento diretto ai sensi dell'art.36 c.2 lettera a) del D.Lgs n.50/2016</normativa>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z603B06945</cig>
+<oggetto>Affidamento dell&amp;#8217;incarico professionale per la redazione della Verifica preventiva di interesse archeologico (c. 1, art. 25, D.L.gs n.50/2016 e ss.mm. ii.), della sorveglianza archeologica e produzione di relazione scientifica Progetto &amp;#8220;Riqualificazione e valorizzazione ambientale e turistica del parco di Montelungo e aree annesse - Contrada Montelungo&amp;#8221;.</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti/>
+<aggiudicatari/>
+<importoAggiudicazione>3806.4</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>2080</importoSommeLiquidate>
+<ufficio>GOVERNANCE E ATTUAZIONE PNRR</ufficio>
+<responsabile/>
+<normativa>Affidamento diretto ai sensi dell'art.36 c.2 lettera a) del D.Lgs n.50/2016</normativa>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>A0120CD443</cig>
+<oggetto>PNRR, M5C2I2.1 - Finanziato dall&amp;#8217;Unione Europea &amp;#8211; Next Generation EU &amp;#8211; Lavori per la &amp;#8220;Riqualificazione e valorizzazione ambientale e turistica del parco di Montelungo e aree annesse -Contrada Montelungo&amp;#8221;. Aggiudicazione appalto integrato.</oggetto>
+<sceltaContraente>03-PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti/>
+<aggiudicatari/>
+<importoAggiudicazione>4087022.96</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio>GOVERNANCE E ATTUAZIONE PNRR</ufficio>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z373DCA56B</cig>
+<oggetto>Impegno di spesa per il ripristino del ponte radio</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>05971190870</codiceFiscale>
+<ragioneSociale>CRT Elettronica</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>05971190870</codiceFiscale>
+<ragioneSociale>CRT Elettronica</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>4730</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>ZE83DBCD61</cig>
+<oggetto>Impegno spesa per la fornitura di divise e accessori per il personale di PM</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<codiceFiscale>06415170825</codiceFiscale>
+<ragioneSociale>FOR.AP. srl</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<codiceFiscale>06415170825</codiceFiscale>
+<ragioneSociale>FOR.AP. srl</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>30719.78</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>9930738040</cig>
+<oggetto>Determina di aggiudicazione e di trasformazione in impegno spesa - Servizio Gestione e Notifica Verbali al CDS</oggetto>
+<sceltaContraente>03-PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE</sceltaContraente>
+<partecipanti>
+<partecipante>
+<identificativoFiscaleEstero>91137650403</identificativoFiscaleEstero>
+<ragioneSociale>SAPIDATA SPA</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<identificativoFiscaleEstero>91137650403</identificativoFiscaleEstero>
+<ragioneSociale>SAPIDATA SPA</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>70046.31</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>14509.02</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+<lotto>
+<cig>Z413B63D08</cig>
+<oggetto>Impegno spesa per il rinnovo annuale delle telecamere E.Killer  nn. 13-14-15-16 per il contrasto al fenomeno dell&amp;#39;abbandono  dei rifiuti</oggetto>
+<sceltaContraente>23-AFFIDAMENTO DIRETTO</sceltaContraente>
+<partecipanti>
+<partecipante>
+<ragioneSociale>AMATO STEFANO</ragioneSociale>
+</partecipante>
+</partecipanti>
+<aggiudicatari>
+<aggiudicatario>
+<ragioneSociale>AMATO STEFANO</ragioneSociale>
+</aggiudicatario>
+</aggiudicatari>
+<importoAggiudicazione>5720</importoAggiudicazione>
+<tempiCompletamento/>
+<importoSommeLiquidate>5720</importoSommeLiquidate>
+<ufficio/>
+<responsabile/>
+<normativa/>
+<provvedimento/>
+</lotto>
+</data>
+</legge190:pubblicazione>
